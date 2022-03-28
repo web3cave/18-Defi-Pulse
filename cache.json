@@ -1,4 +1,212 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "Twitter @DeFi Pulse 🍇",
+      "feedUrl": "https://rsshub.app/twitter/user/defipulse",
+      "siteUrl": "https://twitter.com/defipulse",
+      "articles": [
+        {
+          "id": "https://twitter.com/defipulse/status/1506997812164243461",
+          "author": "DeFi Pulse 🍇",
+          "description": "Our weekly edition of the Poly Pulse is live 🙌\nLearn more about @0xpolygon’s ecosystem. In this week's issue you will find: \n⛏️ #Polygon to expand Liquidity Mining campaign \n✅ Polygon Ecosystem DAO approved grants\n💰 Earn 13% on $USDC\nRead more 👇 https://bit.ly/3wzuwry",
+          "link": "https://twitter.com/defipulse/status/1506997812164243461",
+          "publishedOn": "2022-03-24T14:14:11.000Z",
+          "wordCount": 196,
+          "title": "Our weekly edition of the Poly Pulse is live 🙌 Learn more about @0xpolygon’s ecosystem. In this week's issue you will find: ⛏️ #Polygon to expan...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1506319181842636801",
+          "author": "DeFi Pulse 🍇",
+          "description": "The latest issue of the Pulse Farmer is now live 🎉\nHere is a brief recap: \n📈 #DeFi TVL rises 7% in a week\n🚜 Up to 14% APR on @starstreamfin \n🙌 @vitalikbuterin fights for the future of #crypto\n🖼️ @MagicEden raises $27M Series A\nRead more 👇 https://bit.ly/3NmWDjI",
+          "link": "https://twitter.com/defipulse/status/1506319181842636801",
+          "publishedOn": "2022-03-22T17:17:33.000Z",
+          "wordCount": 196,
+          "title": "The latest issue of the Pulse Farmer is now live 🎉 Here is a brief recap: 📈 #DeFi TVL rises 7% in a week 🚜 Up to 14% APR on @starstreamfin �...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1506294890191335429",
+          "author": "DeFi Pulse 🍇",
+          "description": "🎉 @perpprotocol has announced that the smart contracts for Perp V2 are open source!\nThis means that anyone can review the code, give feedback, and share ideas to the #protocol \nIf you want to learn more about it, check out the link below 👇 https://bit.ly/3woH5Ww",
+          "link": "https://twitter.com/defipulse/status/1506294890191335429",
+          "publishedOn": "2022-03-22T15:41:02.000Z",
+          "wordCount": 196,
+          "title": "🎉 @perpprotocol has announced that the smart contracts for Perp V2 are open source! This means that anyone can review the code, give feedback, and ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1506282772964511748",
+          "author": "DeFi Pulse 🍇",
+          "description": "Re @ryanmac",
+          "link": "https://twitter.com/defipulse/status/1506282772964511748",
+          "publishedOn": "2022-03-22T14:52:53.000Z",
+          "wordCount": 196,
+          "title": "Re @ryanmac",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1506040096419627019",
+          "author": "DeFi Pulse 🍇",
+          "description": "Re @B3rquo",
+          "link": "https://twitter.com/defipulse/status/1506040096419627019",
+          "publishedOn": "2022-03-21T22:48:34.000Z",
+          "wordCount": 196,
+          "title": "Re @B3rquo",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/VesperFi/status/1506012777973837827",
+          "author": "DeFi Pulse 🍇",
+          "description": "RT Vesper Finance\nDeposit $DAI and earn yield in the @defipulse Index token ($DPI) for diversified exposure to #DeFi in a single step. 🍇🔥\n\n@indexcoop https://hubs.la/Q016p__G0",
+          "link": "https://twitter.com/VesperFi/status/1506012777973837827",
+          "publishedOn": "2022-03-21T21:00:01.000Z",
+          "wordCount": 196,
+          "title": "RT Vesper Finance: Deposit $DAI and earn yield in the @defipulse Index token ($DPI) for diversified exposure to #DeFi in a single step. 🍇🔥 @inde...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1505986794474512396",
+          "author": "DeFi Pulse 🍇",
+          "description": "Re @Swap6ix1",
+          "link": "https://twitter.com/defipulse/status/1505986794474512396",
+          "publishedOn": "2022-03-21T19:16:46.000Z",
+          "wordCount": 196,
+          "title": "Re @Swap6ix1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1505986704397766659",
+          "author": "DeFi Pulse 🍇",
+          "description": "Re @l3ryssa",
+          "link": "https://twitter.com/defipulse/status/1505986704397766659",
+          "publishedOn": "2022-03-21T19:16:24.000Z",
+          "wordCount": 196,
+          "title": "Re @l3ryssa",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/indexcoop/status/1505972524785541123",
+          "author": "DeFi Pulse 🍇",
+          "description": "RT Index Coop\nWondering what to do with your $DPI Token? 🤔\nIndex Coop contributor Michael Mtenga wrote a detailed DPI Token Productivity Guide\nCheck out the ways you can make $DPI work for you! 💰 ⬇️ https://indexcoop.com/blog/dpi-token-productivity",
+          "link": "https://twitter.com/indexcoop/status/1505972524785541123",
+          "publishedOn": "2022-03-21T18:20:04.000Z",
+          "wordCount": 196,
+          "title": "RT Index Coop: Wondering what to do with your $DPI Token? 🤔 Index Coop contributor Michael Mtenga wrote a detailed DPI Token Productivity Guide Che...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1505971059224367105",
+          "author": "DeFi Pulse 🍇",
+          "description": "Don't wait for him to ask, tell a friend what DeFi is👇 😂",
+          "link": "https://twitter.com/defipulse/status/1505971059224367105",
+          "publishedOn": "2022-03-21T18:14:14.000Z",
+          "wordCount": 196,
+          "title": "Don't wait for him to ask, tell a friend what DeFi is👇 😂",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1505936579428298752",
+          "author": "DeFi Pulse 🍇",
+          "description": "OFFICIAL: Time magazine will begin to accept $APE coin for digital subscriptions soon\nRead more here: 👇 https://bit.ly/3L0Prrr",
+          "link": "https://twitter.com/defipulse/status/1505936579428298752",
+          "publishedOn": "2022-03-21T15:57:14.000Z",
+          "wordCount": 196,
+          "title": "OFFICIAL: Time magazine will begin to accept $APE coin for digital subscriptions soon Read more here: 👇",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/Scalara_xyz/status/1504592924906041352",
+          "author": "DeFi Pulse 🍇",
+          "description": "RT Scalara\nTrying to catch the next #NFT project rally, last week Meebits, now CrypToadz?\nThese two and five other blue-chip collections are part of $NFTI so you don't have to pick and choose. @0xPolygon @SlingshotCrypto @Uniswap",
+          "link": "https://twitter.com/Scalara_xyz/status/1504592924906041352",
+          "publishedOn": "2022-03-17T22:58:01.000Z",
+          "wordCount": 196,
+          "title": "RT Scalara: Trying to catch the next #NFT project rally, last week Meebits, now CrypToadz? These two and five other blue-chip collections are part of ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1504574458698293252",
+          "author": "DeFi Pulse 🍇",
+          "description": "🚨 Reminder from DeFi Pulse 🚨\n❌We are not distributing any airdrop\n❌There is NO claim DPI or token campaign \n🔗 Always bookmark http://defipulse.com/",
+          "link": "https://twitter.com/defipulse/status/1504574458698293252",
+          "publishedOn": "2022-03-17T21:44:39.000Z",
+          "wordCount": 196,
+          "title": "🚨 Reminder from DeFi Pulse 🚨 ❌We are not distributing any airdrop ❌There is NO claim DPI or token campaign 🔗 Always bookmark",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1503827918648229891",
+          "author": "DeFi Pulse 🍇",
+          "description": "Re @vector_fi @AppBreadcrumbs @JoeBiden 6/ If you want to keep up to date with the latest DeFi news, subscribe to our newsletter👇 https://bit.ly/3MTiE9C",
+          "link": "https://twitter.com/defipulse/status/1503827918648229891",
+          "publishedOn": "2022-03-15T20:18:10.000Z",
+          "wordCount": 196,
+          "title": "Re @vector_fi @AppBreadcrumbs @JoeBiden 6/ If you want to keep up to date with the latest DeFi news, subscribe to our newsletter👇",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1503827872217186308",
+          "author": "DeFi Pulse 🍇",
+          "description": "Re @vector_fi @AppBreadcrumbs @JoeBiden 5/ If you are interested in #blockchain analytics, @Appbreadcrumbs has tools for tracking and monitoring crypto transactions",
+          "link": "https://twitter.com/defipulse/status/1503827872217186308",
+          "publishedOn": "2022-03-15T20:17:59.000Z",
+          "wordCount": 196,
+          "title": "Re @vector_fi @AppBreadcrumbs @JoeBiden 5/ If you are interested in #blockchain analytics, @Appbreadcrumbs has tools for tracking and monitoring crypt...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1503827830014152711",
+          "author": "DeFi Pulse 🍇",
+          "description": "Re @vector_fi @AppBreadcrumbs @JoeBiden 4/ #ETH sees gas fees dropping to 40.82 Gwei on March 9th 📉",
+          "link": "https://twitter.com/defipulse/status/1503827830014152711",
+          "publishedOn": "2022-03-15T20:17:49.000Z",
+          "wordCount": 196,
+          "title": "Re @vector_fi @AppBreadcrumbs @JoeBiden 4/ #ETH sees gas fees dropping to 40.82 Gwei on March 9th 📉",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1503827778944315401",
+          "author": "DeFi Pulse 🍇",
+          "description": "Re @vector_fi @AppBreadcrumbs @JoeBiden 3/ .@vector_fi is a Platypus Finance yield optimizer operating on #Avax’s network\nVector enables users to stake their PTP native token and earn greater yield than those present on their website 🙌\n🧠 Learn how to enter Vector’s xPTP-PTP LP Vault in this week’s issue",
+          "link": "https://twitter.com/defipulse/status/1503827778944315401",
+          "publishedOn": "2022-03-15T20:17:36.000Z",
+          "wordCount": 196,
+          "title": "Re @vector_fi @AppBreadcrumbs @JoeBiden 3/ .@vector_fi is a Platypus Finance yield optimizer operating on #Avax’s network Vector enables users to sta...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1503827717749452806",
+          "author": "DeFi Pulse 🍇",
+          "description": "Re @vector_fi @AppBreadcrumbs 2/ President @joebiden signed an executive order on #crypto, urging the government to examine risks and benefits of cryptocurrencies \n🧑‍⚖️ Order will define 6 “key priorities” for the administration",
+          "link": "https://twitter.com/defipulse/status/1503827717749452806",
+          "publishedOn": "2022-03-15T20:17:22.000Z",
+          "wordCount": 196,
+          "title": "Re @vector_fi @AppBreadcrumbs 2/ President @joebiden signed an executive order on #crypto, urging the government to examine risks and benefits of cryp...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1503827620609277956",
+          "author": "DeFi Pulse 🍇",
+          "description": "🍇 Short summary on our latest edition of Pulse Farmer Newsletter:\nFind out all about Biden’s executive order and much more:\n👨‍🌾 Farms @vector_fi\n🏠 Governance watcher\n📊 Blockchain analytics @Appbreadcrumbs\nFind out more https://bit.ly/3CK3Ghc",
+          "link": "https://twitter.com/defipulse/status/1503827620609277956",
+          "publishedOn": "2022-03-15T20:16:59.000Z",
+          "wordCount": 196,
+          "title": "🍇 Short summary on our latest edition of Pulse Farmer Newsletter: Find out all about Biden’s executive order and much more: 👨‍🌾 Farms @vect...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1503802362711920655",
+          "author": "DeFi Pulse 🍇",
+          "description": "The latest issue of Poly Pulse is live 🙌\nPoly Pulse is our weekly review of @0xpolygon’s ecosystem. In this week’s issue you’ll find:\n💧 Launch of @Olive_DAO\n🏠 DAO News\n🙌 @FODLfi live on Polygon\n☀️ DeFi Summer ahead?\nAnd much more!\nSubscribe here👇 https://yieldfarmer.substack.com/p/polypulse-13-olive-dao-a-protocol",
+          "link": "https://twitter.com/defipulse/status/1503802362711920655",
+          "publishedOn": "2022-03-15T18:36:37.000Z",
+          "wordCount": 196,
+          "title": "The latest issue of Poly Pulse is live 🙌 Poly Pulse is our weekly review of @0xpolygon’s ecosystem. In this week’s issue you’ll find: 💧 Launc...",
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
   "cliVersion": "1.14.4"
 }
