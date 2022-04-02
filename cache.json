@@ -1,4 +1,212 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "Twitter @DeFi Pulse 🍇",
+      "feedUrl": "https://rsshub.app/twitter/user/defipulse",
+      "siteUrl": "https://twitter.com/defipulse",
+      "articles": [
+        {
+          "id": "https://twitter.com/defipulse/status/1510025915060916230",
+          "author": "DeFi Pulse 🍇",
+          "description": "Re 5/ Scalara announces March rebalancing results for the DeFi Pulse Index.\nScalara: Scalara announces the results of the March 2022 rebalance of the DeFi Pulse Index ($DPI).\nMonthly top performers were 3 constituents that have been index members since inception:\n- @KyberNetwork KNC +79%\n- @loopringorg LRC +61%\n- @synthetix_io SNX +46%\n https://www.scalara.xyz/blog/march-2022-rebalance-defi-pulse-index",
+          "link": "https://twitter.com/defipulse/status/1510025915060916230",
+          "publishedOn": "2022-04-01T22:46:47.000Z",
+          "wordCount": 196,
+          "title": "Re 5/ Scalara announces March rebalancing results for the DeFi Pulse Index.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1510025913282478080",
+          "author": "DeFi Pulse 🍇",
+          "description": "Re 4/ @AaveAave, $DPI member since inception, continues its surge after v3 upgrade. https://www.coindesk.com/markets/2022/03/30/aaves-token-rockets-97-since-upgrade-as-v3-strengthens-defi-capabilities/",
+          "link": "https://twitter.com/defipulse/status/1510025913282478080",
+          "publishedOn": "2022-04-01T22:46:47.000Z",
+          "wordCount": 196,
+          "title": "Re 4/ @AaveAave, $DPI member since inception, continues its surge after v3 upgrade.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1510025911483224069",
+          "author": "DeFi Pulse 🍇",
+          "description": "Re 3/ 🗞️Related Market News🗞️\nGemini makes DPI available on their mobile app\nDeFi Pulse 🍇: 🥳 DeFi Pulse Index ($DPI) x @Gemini\nWe are very happy to announce that $DPI is now listed on #Gemini!\nWhat does this mean? 🧵👇",
+          "link": "https://twitter.com/defipulse/status/1510025911483224069",
+          "publishedOn": "2022-04-01T22:46:46.000Z",
+          "wordCount": 196,
+          "title": "Re 3/ 🗞️Related Market News🗞️ Gemini makes DPI available on their mobile app",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1510025909432201218",
+          "author": "DeFi Pulse 🍇",
+          "description": "Re 2/ $DPI is a token based on the DeFi Pulse Index, a digital asset index designed to track the performance of some of the largest protocols in DeFi.\n$NFTI is based on The Scalara NFT Index, an index designed to track the performance of some of the most well-known #NFT collections",
+          "link": "https://twitter.com/defipulse/status/1510025909432201218",
+          "publishedOn": "2022-04-01T22:46:46.000Z",
+          "wordCount": 196,
+          "title": "Re 2/ $DPI is a token based on the DeFi Pulse Index, a digital asset index designed to track the performance of some of the largest protocols in DeFi....",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1510025904705216516",
+          "author": "DeFi Pulse 🍇",
+          "description": "1/ Welcome to the #sectorPulse, your weekly recap on the crypto market!\n📈 $DPI is now trading at $226.4, representing a 24.8% growth during last week.\n📈 $NFTI is trading at $12.98, a growth of 15.6% from March 25!\nThe 30-day average $USDC yield on @AaveAave was 1.95%.",
+          "link": "https://twitter.com/defipulse/status/1510025904705216516",
+          "publishedOn": "2022-04-01T22:46:45.000Z",
+          "wordCount": 196,
+          "title": "1/ Welcome to the #sectorPulse, your weekly recap on the crypto market! 📈 $DPI is now trading at $226.4, representing a 24.8% growth during last we...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1509596921282842634",
+          "author": "DeFi Pulse 🍇",
+          "description": "Re @oxPolygon @CurveFinance @BalancerLabs @Jarvis_Network @0xPolygonDevs 7/ Read this week’s full edition in the link below and make sure to drop a comment on what you found was the most interesting feature of this week’s newsletter \nLearn more here 👇 https://bit.ly/35qAEHk",
+          "link": "https://twitter.com/defipulse/status/1509596921282842634",
+          "publishedOn": "2022-03-31T18:22:07.000Z",
+          "wordCount": 196,
+          "title": "Re @oxPolygon @CurveFinance @BalancerLabs @Jarvis_Network @0xPolygonDevs 7/ Read this week’s full edition in the link below and make sure to drop a c...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1509596889720700935",
+          "author": "DeFi Pulse 🍇",
+          "description": "Re @oxPolygon @CurveFinance @BalancerLabs @Jarvis_Network @0xPolygonDevs 6/ Word of caution when diving deep into #DeFi lending protocols!\nMake sure to read it before deciding where to deploy your funds 😉",
+          "link": "https://twitter.com/defipulse/status/1509596889720700935",
+          "publishedOn": "2022-03-31T18:22:00.000Z",
+          "wordCount": 196,
+          "title": "Re @oxPolygon @CurveFinance @BalancerLabs @Jarvis_Network @0xPolygonDevs 6/ Word of caution when diving deep into #DeFi lending protocols! Make sure t...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1509596855511961609",
+          "author": "DeFi Pulse 🍇",
+          "description": "Re @oxPolygon @CurveFinance @BalancerLabs @Jarvis_Network 5/ .@0xPolygonDevs have also announced that they will be introducing Polygon Token Lists \nThis will ensure users have access to legitimate tokens 🤝",
+          "link": "https://twitter.com/defipulse/status/1509596855511961609",
+          "publishedOn": "2022-03-31T18:21:51.000Z",
+          "wordCount": 196,
+          "title": "Re @oxPolygon @CurveFinance @BalancerLabs @Jarvis_Network 5/ .@0xPolygonDevs have also announced that they will be introducing Polygon Token Lists Thi...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1509596819092914179",
+          "author": "DeFi Pulse 🍇",
+          "description": "Re @oxPolygon 4/ 🐋 Farm like a whale\nLearn how to get the best returns in conservative farms on #Polygon 👀\nRemember to be aware of the risks associated with code vulnerabilities and possible hacks!",
+          "link": "https://twitter.com/defipulse/status/1509596819092914179",
+          "publishedOn": "2022-03-31T18:21:43.000Z",
+          "wordCount": 196,
+          "title": "Re @oxPolygon 4/ 🐋 Farm like a whale Learn how to get the best returns in conservative farms on #Polygon 👀 Remember to be aware of the risks ass...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1509596447372713985",
+          "author": "DeFi Pulse 🍇",
+          "description": "Re @oxPolygon 3/ 🏠 #Ethereum Adoption DAO\nThis new initiative will push the adoption and implementation of new innovative projects on $ETH’s ecosystem \nMain purposes include: \n- Business Development\n- Education \n- Content Creation \nLearn more 👇 https://bit.ly/3Lzd6zB",
+          "link": "https://twitter.com/defipulse/status/1509596447372713985",
+          "publishedOn": "2022-03-31T18:20:14.000Z",
+          "wordCount": 196,
+          "title": "Re @oxPolygon 3/ 🏠 #Ethereum Adoption DAO This new initiative will push the adoption and implementation of new innovative projects on $ETH’s ecosy...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1509596402204258316",
+          "author": "DeFi Pulse 🍇",
+          "description": "Re @oxPolygon 2/ 📈 Daily Active Users (DAU) increased 4% to 400K\nWe have seen an increase in DAU for the 3rd consecutive week now 🙌\nThe 400K milestone has been broken for the 5th time now",
+          "link": "https://twitter.com/defipulse/status/1509596402204258316",
+          "publishedOn": "2022-03-31T18:20:03.000Z",
+          "wordCount": 196,
+          "title": "Re @oxPolygon 2/ 📈 Daily Active Users (DAU) increased 4% to 400K We have seen an increase in DAU for the 3rd consecutive week now 🙌 The 400K mil...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1509596367068479491",
+          "author": "DeFi Pulse 🍇",
+          "description": "Our latest edition of the Poly Pulse is now live 🤩\nHere you will learn more about @OxPolygon and its ecosystem! In this week's issue, you will find: 🧵👇",
+          "link": "https://twitter.com/defipulse/status/1509596367068479491",
+          "publishedOn": "2022-03-31T18:19:55.000Z",
+          "wordCount": 196,
+          "title": "Our latest edition of the Poly Pulse is now live 🤩 Here you will learn more about @OxPolygon and its ecosystem! In this week's issue, you will find...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1509255894667780101",
+          "author": "DeFi Pulse 🍇",
+          "description": "The latest issue of our Pulse Farmer newsletter is live! 🙌\nHere is a summary 👇\n📈#DeFi TVL continues surging, 8% from last week\n🤯 @loopringorg rose over 60%\n🚜 Farm up to 32% APY with @Bancor\n😁 @Nansei_ai released a free platform version\nRead more 👇 https://bit.ly/3JUzXoK",
+          "link": "https://twitter.com/defipulse/status/1509255894667780101",
+          "publishedOn": "2022-03-30T19:47:00.000Z",
+          "wordCount": 196,
+          "title": "The latest issue of our Pulse Farmer newsletter is live! 🙌 Here is a summary 👇 📈#DeFi TVL continues surging, 8% from last week 🤯 @loopring...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1508867354184278020",
+          "author": "DeFi Pulse 🍇",
+          "description": "Re @Gemini 😉🙌🏼",
+          "link": "https://twitter.com/defipulse/status/1508867354184278020",
+          "publishedOn": "2022-03-29T18:03:05.000Z",
+          "wordCount": 196,
+          "title": "Re @Gemini 😉🙌🏼",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1508859707997495297",
+          "author": "DeFi Pulse 🍇",
+          "description": "Re @BigSky_7 @Gemini @indexcoop",
+          "link": "https://twitter.com/defipulse/status/1508859707997495297",
+          "publishedOn": "2022-03-29T17:32:42.000Z",
+          "wordCount": 196,
+          "title": "Re @BigSky_7 @Gemini @indexcoop",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1508859555563847682",
+          "author": "DeFi Pulse 🍇",
+          "description": "Re @MikeTaormina @Gemini @indexcoop @Scalara_xyz @SetProtocol 🙌🏼🙌🏼",
+          "link": "https://twitter.com/defipulse/status/1508859555563847682",
+          "publishedOn": "2022-03-29T17:32:05.000Z",
+          "wordCount": 196,
+          "title": "Re @MikeTaormina @Gemini @indexcoop @Scalara_xyz @SetProtocol 🙌🏼🙌🏼",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1508855337788616705",
+          "author": "DeFi Pulse 🍇",
+          "description": "Re @Gemini 5/5 Read more about the new listing of the token here 👇 https://bit.ly/3JVs967",
+          "link": "https://twitter.com/defipulse/status/1508855337788616705",
+          "publishedOn": "2022-03-29T17:15:20.000Z",
+          "wordCount": 196,
+          "title": "Re @Gemini 5/5 Read more about the new listing of the token here 👇",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1508855280062377994",
+          "author": "DeFi Pulse 🍇",
+          "description": "Re @Gemini 4/5 @Gemini is a leading #cryptocurrency exchange that allows customers to buy, sell and trade #digital assets",
+          "link": "https://twitter.com/defipulse/status/1508855280062377994",
+          "publishedOn": "2022-03-29T17:15:06.000Z",
+          "wordCount": 196,
+          "title": "Re @Gemini 4/5 @Gemini is a leading #cryptocurrency exchange that allows customers to buy, sell and trade #digital assets",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1508855238958239745",
+          "author": "DeFi Pulse 🍇",
+          "description": "Re @Gemini 3/5 Here is how trading $DPI will work 👇\n1️⃣ Will open on Gemini’s API/FIX and ActiveTrader applications for USD trading pairs \n2️⃣ Available on Gemini’s mobile app and website on a rolling, token-by-token basis for USD, GBP, EUR, and CAD pairs",
+          "link": "https://twitter.com/defipulse/status/1508855238958239745",
+          "publishedOn": "2022-03-29T17:14:56.000Z",
+          "wordCount": 196,
+          "title": "Re @Gemini 3/5 Here is how trading $DPI will work 👇 1️⃣ Will open on Gemini’s API/FIX and ActiveTrader applications for USD trading pairs 2️⃣ ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1508855188332896266",
+          "author": "DeFi Pulse 🍇",
+          "description": "Re @Gemini 2/5 .$DPI token has been listed on Gemini exchange today and will be available for trading on the platform soon 🙌\nTo deposit, click “transfer” then “deposit into Gemini” and pick DPI from the drop-down menu\nReminder: It is only possible to deposit DPI on Ethereum’s mainnet 😉",
+          "link": "https://twitter.com/defipulse/status/1508855188332896266",
+          "publishedOn": "2022-03-29T17:14:44.000Z",
+          "wordCount": 196,
+          "title": "Re @Gemini 2/5 .$DPI token has been listed on Gemini exchange today and will be available for trading on the platform soon 🙌 To deposit, click “tr...",
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
   "cliVersion": "1.14.4"
 }
