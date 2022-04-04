@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-04T09:20:30.550Z</id>
+    <id>urn:2022-04-04T10:23:30.681Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-04T09:20:30.550Z</updated>
+    <updated>2022-04-04T10:23:30.681Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @ChristophGaX]]></title>
+        <id>https://twitter.com/defipulse/status/1510908203038658560</id>
+        <link href="https://twitter.com/defipulse/status/1510908203038658560"/>
+        <updated>2022-04-04T09:12:41.000Z</updated>
+        <summary type="html"><![CDATA[Re @ChristophGaX]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @Vitruviews @indexcoop]]></title>
         <id>https://twitter.com/defipulse/status/1510337169549926401</id>
@@ -225,18 +235,6 @@ Read more 👇 https://bit.ly/3JUzXoK]]></summary>
         <link href="https://twitter.com/defipulse/status/1508855280062377994"/>
         <updated>2022-03-29T17:15:06.000Z</updated>
         <summary type="html"><![CDATA[Re @Gemini 4/5 @Gemini is a leading #cryptocurrency exchange that allows customers to buy, sell and trade #digital assets]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Gemini 3/5 Here is how trading $DPI will work 👇 1️⃣ Will open on Gemini’s API/FIX and ActiveTrader applications for USD trading pairs 2️⃣ ...]]></title>
-        <id>https://twitter.com/defipulse/status/1508855238958239745</id>
-        <link href="https://twitter.com/defipulse/status/1508855238958239745"/>
-        <updated>2022-03-29T17:14:56.000Z</updated>
-        <summary type="html"><![CDATA[Re @Gemini 3/5 Here is how trading $DPI will work 👇
-1️⃣ Will open on Gemini’s API/FIX and ActiveTrader applications for USD trading pairs 
-2️⃣ Available on Gemini’s mobile app and website on a rolling, token-by-token basis for USD, GBP, EUR, and CAD pairs]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>

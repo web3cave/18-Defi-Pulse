@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1510908203038658560",
+          "author": "DeFi Pulse 🍇",
+          "description": "Re @ChristophGaX",
+          "link": "https://twitter.com/defipulse/status/1510908203038658560",
+          "publishedOn": "2022-04-04T09:12:41.000Z",
+          "wordCount": 196,
+          "title": "Re @ChristophGaX",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1510337169549926401",
           "author": "DeFi Pulse 🍇",
           "description": "Re @Vitruviews @indexcoop",
@@ -193,16 +203,6 @@
           "publishedOn": "2022-03-29T17:15:06.000Z",
           "wordCount": 196,
           "title": "Re @Gemini 4/5 @Gemini is a leading #cryptocurrency exchange that allows customers to buy, sell and trade #digital assets",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1508855238958239745",
-          "author": "DeFi Pulse 🍇",
-          "description": "Re @Gemini 3/5 Here is how trading $DPI will work 👇\n1️⃣ Will open on Gemini’s API/FIX and ActiveTrader applications for USD trading pairs \n2️⃣ Available on Gemini’s mobile app and website on a rolling, token-by-token basis for USD, GBP, EUR, and CAD pairs",
-          "link": "https://twitter.com/defipulse/status/1508855238958239745",
-          "publishedOn": "2022-03-29T17:14:56.000Z",
-          "wordCount": 196,
-          "title": "Re @Gemini 3/5 Here is how trading $DPI will work 👇 1️⃣ Will open on Gemini’s API/FIX and ActiveTrader applications for USD trading pairs 2️⃣ ...",
           "imageUrl": null
         }
       ]
