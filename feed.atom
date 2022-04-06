@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-06T11:17:48.509Z</id>
+    <id>urn:2022-04-06T12:37:29.184Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-06T11:17:48.509Z</updated>
+    <updated>2022-04-06T12:37:29.184Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @Metaro_verse]]></title>
+        <id>https://twitter.com/defipulse/status/1511679629995745283</id>
+        <link href="https://twitter.com/defipulse/status/1511679629995745283"/>
+        <updated>2022-04-06T12:18:04.000Z</updated>
+        <summary type="html"><![CDATA[Re @Metaro_verse]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT @Scalara_xyz: The Scalara NFT Index $NFTI provides diversified exposure to some of the most highly-valued #NFT collections in a single t…]]></title>
         <id>https://twitter.com/defipulse/status/1511273855624560641</id>
@@ -197,16 +207,6 @@ Source👇 https://bit.ly/3NMAPxT]]></summary>
         <link href="https://twitter.com/defipulse/status/1510025915060916230"/>
         <updated>2022-04-01T22:46:47.000Z</updated>
         <summary type="html"><![CDATA[Re 5/ Scalara announces March rebalancing results for the DeFi Pulse Index. https://twitter.com/Scalara_xyz/status/1508889523094183937]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 4/ @AaveAave, $DPI member since inception, continues its surge after v3 upgrade.]]></title>
-        <id>https://twitter.com/defipulse/status/1510025913282478080</id>
-        <link href="https://twitter.com/defipulse/status/1510025913282478080"/>
-        <updated>2022-04-01T22:46:47.000Z</updated>
-        <summary type="html"><![CDATA[Re 4/ @AaveAave, $DPI member since inception, continues its surge after v3 upgrade. https://www.coindesk.com/markets/2022/03/30/aaves-token-rockets-97-since-upgrade-as-v3-strengthens-defi-capabilities/]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
