@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-06T02:57:25.659Z</id>
+    <id>urn:2022-04-06T03:35:02.285Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-06T02:57:25.659Z</updated>
+    <updated>2022-04-06T03:35:02.285Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[RT @Scalara_xyz: The Scalara NFT Index $NFTI provides diversified exposure to some of the most highly-valued #NFT collections in a single t…]]></title>
-        <id>https://twitter.com/defipulse/status/1511273855624560641</id>
-        <link href="https://twitter.com/defipulse/status/1511273855624560641"/>
-        <updated>2022-04-05T09:25:39.000Z</updated>
-        <summary type="html"><![CDATA[RT @Scalara_xyz: The Scalara NFT Index $NFTI provides diversified exposure to some of the most highly-valued #NFT collections in a single t…]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Re @classicrae1 Stay tuned to our account, a lot of educational content coming 😉🙌]]></title>
         <id>https://twitter.com/defipulse/status/1511255549605785601</id>
@@ -161,6 +151,19 @@ A 🧵]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[RT Scalara: The Scalara NFT Index $NFTI provides diversified exposure to some of the most highly-valued #NFT collections in a single token. Last week ...]]></title>
+        <id>https://twitter.com/Scalara_xyz/status/1510991790974853120</id>
+        <link href="https://twitter.com/Scalara_xyz/status/1510991790974853120"/>
+        <updated>2022-04-04T14:44:50.000Z</updated>
+        <summary type="html"><![CDATA[RT Scalara
+The Scalara NFT Index $NFTI provides diversified exposure to some of the most highly-valued #NFT collections in a single token.
+Last week @Doodles rallied -- the 5th different weekly top performer in the index in the 5th week.
+$NFTI is available on @Uniswap.]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[JUST IN: @intel has launched the second generation of their #Bitcoin mining chip, which allows for more efficient mining Source👇]]></title>
         <id>https://twitter.com/defipulse/status/1510982850153168898</id>
         <link href="https://twitter.com/defipulse/status/1510982850153168898"/>
@@ -196,7 +199,13 @@ Source👇 https://bit.ly/3NMAPxT]]></summary>
         <id>https://twitter.com/defipulse/status/1510025915060916230</id>
         <link href="https://twitter.com/defipulse/status/1510025915060916230"/>
         <updated>2022-04-01T22:46:47.000Z</updated>
-        <summary type="html"><![CDATA[Re 5/ Scalara announces March rebalancing results for the DeFi Pulse Index. https://twitter.com/Scalara_xyz/status/1508889523094183937]]></summary>
+        <summary type="html"><![CDATA[Re 5/ Scalara announces March rebalancing results for the DeFi Pulse Index.
+Scalara: Scalara announces the results of the March 2022 rebalance of the DeFi Pulse Index ($DPI).
+Monthly top performers were 3 constituents that have been index members since inception:
+- @KyberNetwork KNC +79%
+- @loopringorg LRC +61%
+- @synthetix_io SNX +46%
+ https://www.scalara.xyz/blog/march-2022-rebalance-defi-pulse-index]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -207,6 +216,20 @@ Source👇 https://bit.ly/3NMAPxT]]></summary>
         <link href="https://twitter.com/defipulse/status/1510025913282478080"/>
         <updated>2022-04-01T22:46:47.000Z</updated>
         <summary type="html"><![CDATA[Re 4/ @AaveAave, $DPI member since inception, continues its surge after v3 upgrade. https://www.coindesk.com/markets/2022/03/30/aaves-token-rockets-97-since-upgrade-as-v3-strengthens-defi-capabilities/]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 3/ 🗞️Related Market News🗞️ Gemini makes DPI available on their mobile app]]></title>
+        <id>https://twitter.com/defipulse/status/1510025911483224069</id>
+        <link href="https://twitter.com/defipulse/status/1510025911483224069"/>
+        <updated>2022-04-01T22:46:46.000Z</updated>
+        <summary type="html"><![CDATA[Re 3/ 🗞️Related Market News🗞️
+Gemini makes DPI available on their mobile app
+DeFi Pulse 🍇: 🥳 DeFi Pulse Index ($DPI) x @Gemini
+We are very happy to announce that $DPI is now listed on #Gemini!
+What does this mean? 🧵👇]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
