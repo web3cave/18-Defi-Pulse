@@ -1,26 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-06T14:19:02.628Z</id>
+    <id>urn:2022-04-06T15:21:59.380Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-06T14:19:02.628Z</updated>
+    <updated>2022-04-06T15:21:59.380Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Did you know that these countries are #crypto friendly? It means that these countries' governments are actively working on determining the legal statu...]]></title>
+        <id>https://twitter.com/defipulse/status/1511712100187521026</id>
+        <link href="https://twitter.com/defipulse/status/1511712100187521026"/>
+        <updated>2022-04-06T14:27:05.000Z</updated>
+        <summary type="html"><![CDATA[Did you know that these countries are #crypto friendly?
+It means that these countries' governments are actively working on determining the legal status of cryptocurrency
+🇵🇹 Portugal
+🇨🇭 Switzerland
+🇩🇪 Germany
+🇸🇬 Singapore
+🇲🇹 Malta
+Comment down where you’d move to 👇]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @Metaro_verse]]></title>
         <id>https://twitter.com/defipulse/status/1511679629995745283</id>
         <link href="https://twitter.com/defipulse/status/1511679629995745283"/>
         <updated>2022-04-06T12:18:04.000Z</updated>
         <summary type="html"><![CDATA[Re @Metaro_verse]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT @Scalara_xyz: The Scalara NFT Index $NFTI provides diversified exposure to some of the most highly-valued #NFT collections in a single t…]]></title>
-        <id>https://twitter.com/defipulse/status/1511273855624560641</id>
-        <link href="https://twitter.com/defipulse/status/1511273855624560641"/>
-        <updated>2022-04-05T09:25:39.000Z</updated>
-        <summary type="html"><![CDATA[RT @Scalara_xyz: The Scalara NFT Index $NFTI provides diversified exposure to some of the most highly-valued #NFT collections in a single t…]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -171,6 +178,19 @@ A 🧵]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[RT Scalara: The Scalara NFT Index $NFTI provides diversified exposure to some of the most highly-valued #NFT collections in a single token. Last week ...]]></title>
+        <id>https://twitter.com/Scalara_xyz/status/1510991790974853120</id>
+        <link href="https://twitter.com/Scalara_xyz/status/1510991790974853120"/>
+        <updated>2022-04-04T14:44:50.000Z</updated>
+        <summary type="html"><![CDATA[RT Scalara
+The Scalara NFT Index $NFTI provides diversified exposure to some of the most highly-valued #NFT collections in a single token.
+Last week @Doodles rallied -- the 5th different weekly top performer in the index in the 5th week.
+$NFTI is available on @Uniswap.]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[JUST IN: @intel has launched the second generation of their #Bitcoin mining chip, which allows for more efficient mining Source👇]]></title>
         <id>https://twitter.com/defipulse/status/1510982850153168898</id>
         <link href="https://twitter.com/defipulse/status/1510982850153168898"/>
@@ -206,7 +226,13 @@ Source👇 https://bit.ly/3NMAPxT]]></summary>
         <id>https://twitter.com/defipulse/status/1510025915060916230</id>
         <link href="https://twitter.com/defipulse/status/1510025915060916230"/>
         <updated>2022-04-01T22:46:47.000Z</updated>
-        <summary type="html"><![CDATA[Re 5/ Scalara announces March rebalancing results for the DeFi Pulse Index. https://twitter.com/Scalara_xyz/status/1508889523094183937]]></summary>
+        <summary type="html"><![CDATA[Re 5/ Scalara announces March rebalancing results for the DeFi Pulse Index.
+Scalara: Scalara announces the results of the March 2022 rebalance of the DeFi Pulse Index ($DPI).
+Monthly top performers were 3 constituents that have been index members since inception:
+- @KyberNetwork KNC +79%
+- @loopringorg LRC +61%
+- @synthetix_io SNX +46%
+ https://www.scalara.xyz/blog/march-2022-rebalance-defi-pulse-index]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
