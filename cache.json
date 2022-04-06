@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1511775354251317257",
+          "author": "DeFi Pulse 🍇",
+          "description": "\"Decentralized finance and blockchain are real, new technologies that can be deployed in both public and private fashion, permissioned or not,\" - Jamie Dimon, CEO of JP Morgan 👀",
+          "link": "https://twitter.com/defipulse/status/1511775354251317257",
+          "publishedOn": "2022-04-06T18:38:26.000Z",
+          "wordCount": 196,
+          "title": "\"Decentralized finance and blockchain are real, new technologies that can be deployed in both public and private fashion, permissioned or not,\" - Jami...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1511741827375943689",
           "author": "DeFi Pulse 🍇",
           "description": "Re 7/ Do you wish to do an in-depth analysis of the #NFT ecosystem? 🤔\nWe have a tool for you 🧰\nRead this week’s full issue to find out what it is 👇 https://bit.ly/372Ziyt",
@@ -96,6 +106,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://twitter.com/defipulse/status/1511273855624560641",
+          "author": "DeFi Pulse 🍇",
+          "description": "RT @Scalara_xyz: The Scalara NFT Index $NFTI provides diversified exposure to some of the most highly-valued #NFT collections in a single t…",
+          "link": "https://twitter.com/defipulse/status/1511273855624560641",
+          "publishedOn": "2022-04-05T09:25:39.000Z",
+          "wordCount": 196,
+          "title": "RT @Scalara_xyz: The Scalara NFT Index $NFTI provides diversified exposure to some of the most highly-valued #NFT collections in a single t…",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1511255549605785601",
           "author": "DeFi Pulse 🍇",
           "description": "Re @classicrae1 Stay tuned to our account, a lot of educational content coming 😉🙌",
@@ -173,36 +193,6 @@
           "publishedOn": "2022-04-04T19:26:16.000Z",
           "wordCount": 196,
           "title": "Re 5/ Advantages💭 … - Robust way of maintaining a secure decentralized blockchain - Provides solid mechanism of achieving consensus",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1511062613341491205",
-          "author": "DeFi Pulse 🍇",
-          "description": "Re 4/ 🏆 The winner updated the blockchain with the latest verified transaction and is rewarded by the network with a predetermined amount of #crypto",
-          "link": "https://twitter.com/defipulse/status/1511062613341491205",
-          "publishedOn": "2022-04-04T19:26:15.000Z",
-          "wordCount": 196,
-          "title": "Re 4/ 🏆 The winner updated the blockchain with the latest verified transaction and is rewarded by the network with a predetermined amount of #crypt...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1511062611873480704",
-          "author": "DeFi Pulse 🍇",
-          "description": "Re 3/ Proof of Work 🔨\n🧠 First original crypto consensus mechanism used by #Bitcoin and ETH 1.0 \nHas this name since networks requires huge amount of processing power 🔋\nThis type of #blockchain is secured and verified by virtual miners racing to be the first to solve the puzzle",
-          "link": "https://twitter.com/defipulse/status/1511062611873480704",
-          "publishedOn": "2022-04-04T19:26:15.000Z",
-          "wordCount": 196,
-          "title": "Re 3/ Proof of Work 🔨 🧠 First original crypto consensus mechanism used by #Bitcoin and ETH 1.0 Has this name since networks requires huge amount...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/Scalara_xyz/status/1510991790974853120",
-          "author": "DeFi Pulse 🍇",
-          "description": "RT Scalara\nThe Scalara NFT Index $NFTI provides diversified exposure to some of the most highly-valued #NFT collections in a single token.\nLast week @Doodles rallied -- the 5th different weekly top performer in the index in the 5th week.\n$NFTI is available on @Uniswap.",
-          "link": "https://twitter.com/Scalara_xyz/status/1510991790974853120",
-          "publishedOn": "2022-04-04T14:44:50.000Z",
-          "wordCount": 196,
-          "title": "RT Scalara: The Scalara NFT Index $NFTI provides diversified exposure to some of the most highly-valued #NFT collections in a single token. Last week ...",
           "imageUrl": null
         }
       ]
