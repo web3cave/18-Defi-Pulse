@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-06T16:29:19.383Z</id>
+    <id>urn:2022-04-06T17:20:30.334Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-06T16:29:19.383Z</updated>
+    <updated>2022-04-06T17:20:30.334Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re 7/ Do you wish to do an in-depth analysis of the #NFT ecosystem? 🤔 We have a tool for you 🧰 Read this week’s full issue to find out what it ...]]></title>
+        <id>https://twitter.com/defipulse/status/1511741827375943689</id>
+        <link href="https://twitter.com/defipulse/status/1511741827375943689"/>
+        <updated>2022-04-06T16:25:13.000Z</updated>
+        <summary type="html"><![CDATA[Re 7/ Do you wish to do an in-depth analysis of the #NFT ecosystem? 🤔
+We have a tool for you 🧰
+Read this week’s full issue to find out what it is 👇 https://bit.ly/372Ziyt]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 6/ 🚜 Up to 26% APR on USDC-ETH LP with @beefyfinance This opportunity entails risks, do not take this as financial advice. Please do your own re...]]></title>
+        <id>https://twitter.com/defipulse/status/1511741825828151300</id>
+        <link href="https://twitter.com/defipulse/status/1511741825828151300"/>
+        <updated>2022-04-06T16:25:12.000Z</updated>
+        <summary type="html"><![CDATA[Re 6/ 🚜 Up to 26% APR on USDC-ETH LP with @beefyfinance 
+This opportunity entails risks, do not take this as financial advice. Please do your own research before trying this farming opportunity]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 5/ @metamask x Apple Pay integration 🤝 iPhone and Apple Pay users can now buy #cryptocurrency with their debit/credit card from the mobile app ...]]></title>
+        <id>https://twitter.com/defipulse/status/1511741824196612101</id>
+        <link href="https://twitter.com/defipulse/status/1511741824196612101"/>
+        <updated>2022-04-06T16:25:12.000Z</updated>
+        <summary type="html"><![CDATA[Re 5/ @metamask x Apple Pay integration 🤝
+iPhone and Apple Pay users can now buy #cryptocurrency with their debit/credit card from the mobile app 💳
+This eliminates the need to transfer $ETH from an exchange such as @coinbase or @binance]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 4/ Analyze multiple high-yield opportunities on @Defikingdoms This staking opportunity entails protocol risks, market risks, impermanent loss risks...]]></title>
+        <id>https://twitter.com/defipulse/status/1511741822598623241</id>
+        <link href="https://twitter.com/defipulse/status/1511741822598623241"/>
+        <updated>2022-04-06T16:25:11.000Z</updated>
+        <summary type="html"><![CDATA[Re 4/ Analyze multiple high-yield opportunities on @Defikingdoms
+This staking opportunity entails protocol risks, market risks, impermanent loss risks, smart contract risks, and more. Do not take this as financial advice 😉]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 3/ Weeks best performing assets include 👇👀 📈 @Aave ($AAVE) - +39.7% 📈 @ConvexFinance ($CVX) +27.1% 📈 @synthetix_io (SNX) +25.7%]]></title>
+        <id>https://twitter.com/defipulse/status/1511741821201920008</id>
+        <link href="https://twitter.com/defipulse/status/1511741821201920008"/>
+        <updated>2022-04-06T16:25:11.000Z</updated>
+        <summary type="html"><![CDATA[Re 3/ Weeks best performing assets include 👇👀
+📈 @Aave ($AAVE) - +39.7%
+📈 @ConvexFinance ($CVX) +27.1%
+📈 @synthetix_io (SNX) +25.7%]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 2/ 🧑‍⚖️ ECON & LIBE committees of the EU Parliament voted in favor to support legislation forcing #cryptocurrency companies to gather and dis...]]></title>
+        <id>https://twitter.com/defipulse/status/1511741819738021911</id>
+        <link href="https://twitter.com/defipulse/status/1511741819738021911"/>
+        <updated>2022-04-06T16:25:11.000Z</updated>
+        <summary type="html"><![CDATA[Re 2/ 🧑‍⚖️ ECON & LIBE committees of the EU Parliament voted in favor to support legislation forcing #cryptocurrency companies to gather and disclose transaction data]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pulse Farmer is now live 🙌 In this thread, you will find a brief recap 😉 Subscribe to our newsletter here 👇]]></title>
+        <id>https://twitter.com/defipulse/status/1511741818265821190</id>
+        <link href="https://twitter.com/defipulse/status/1511741818265821190"/>
+        <updated>2022-04-06T16:25:10.000Z</updated>
+        <summary type="html"><![CDATA[Pulse Farmer is now live 🙌
+In this thread, you will find a brief recap 😉
+Subscribe to our newsletter here 👇 https://bit.ly/3MTiE9C]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Did you know that these countries are #crypto friendly? It means that these countries' governments are actively working on determining the legal statu...]]></title>
         <id>https://twitter.com/defipulse/status/1511712100187521026</id>
@@ -145,39 +226,6 @@ This type of #blockchain is secured and verified by virtual miners racing to be 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re 2/ Proof of Work and Proof of Stake are two major mechanisms that cryptocurrency uses to verify new transactions, add them to the blockchain and cr...]]></title>
-        <id>https://twitter.com/defipulse/status/1511062610191470597</id>
-        <link href="https://twitter.com/defipulse/status/1511062610191470597"/>
-        <updated>2022-04-04T19:26:15.000Z</updated>
-        <summary type="html"><![CDATA[Re 2/ Proof of Work and Proof of Stake are two major mechanisms that cryptocurrency uses to verify new transactions, add them to the blockchain and create new tokens 🔗 
-Let’s dive deep into what each one means]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proof of Work vs Proof of Stake 🥊 Do you know what they are and the differences between them? A 🧵]]></title>
-        <id>https://twitter.com/defipulse/status/1511062607888896013</id>
-        <link href="https://twitter.com/defipulse/status/1511062607888896013"/>
-        <updated>2022-04-04T19:26:14.000Z</updated>
-        <summary type="html"><![CDATA[Proof of Work vs Proof of Stake 🥊
-Do you know what they are and the differences between them?
-A 🧵]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Guz_MassAdopt @BlockFi @indexcoop]]></title>
-        <id>https://twitter.com/defipulse/status/1511049399534854144</id>
-        <link href="https://twitter.com/defipulse/status/1511049399534854144"/>
-        <updated>2022-04-04T18:33:45.000Z</updated>
-        <summary type="html"><![CDATA[Re @Guz_MassAdopt @BlockFi @indexcoop]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Scalara: The Scalara NFT Index $NFTI provides diversified exposure to some of the most highly-valued #NFT collections in a single token. Last week ...]]></title>
         <id>https://twitter.com/Scalara_xyz/status/1510991790974853120</id>
         <link href="https://twitter.com/Scalara_xyz/status/1510991790974853120"/>
@@ -186,53 +234,6 @@ A 🧵]]></summary>
 The Scalara NFT Index $NFTI provides diversified exposure to some of the most highly-valued #NFT collections in a single token.
 Last week @Doodles rallied -- the 5th different weekly top performer in the index in the 5th week.
 $NFTI is available on @Uniswap.]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JUST IN: @intel has launched the second generation of their #Bitcoin mining chip, which allows for more efficient mining Source👇]]></title>
-        <id>https://twitter.com/defipulse/status/1510982850153168898</id>
-        <link href="https://twitter.com/defipulse/status/1510982850153168898"/>
-        <updated>2022-04-04T14:09:18.000Z</updated>
-        <summary type="html"><![CDATA[JUST IN: @intel has launched the second generation of their #Bitcoin mining chip, which allows for more efficient mining 
-Source👇 https://bit.ly/3NMAPxT]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @ChristophGaX]]></title>
-        <id>https://twitter.com/defipulse/status/1510908203038658560</id>
-        <link href="https://twitter.com/defipulse/status/1510908203038658560"/>
-        <updated>2022-04-04T09:12:41.000Z</updated>
-        <summary type="html"><![CDATA[Re @ChristophGaX]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Vitruviews @indexcoop]]></title>
-        <id>https://twitter.com/defipulse/status/1510337169549926401</id>
-        <link href="https://twitter.com/defipulse/status/1510337169549926401"/>
-        <updated>2022-04-02T19:23:36.000Z</updated>
-        <summary type="html"><![CDATA[Re @Vitruviews @indexcoop]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 5/ Scalara announces March rebalancing results for the DeFi Pulse Index.]]></title>
-        <id>https://twitter.com/defipulse/status/1510025915060916230</id>
-        <link href="https://twitter.com/defipulse/status/1510025915060916230"/>
-        <updated>2022-04-01T22:46:47.000Z</updated>
-        <summary type="html"><![CDATA[Re 5/ Scalara announces March rebalancing results for the DeFi Pulse Index.
-Scalara: Scalara announces the results of the March 2022 rebalance of the DeFi Pulse Index ($DPI).
-Monthly top performers were 3 constituents that have been index members since inception:
-- @KyberNetwork KNC +79%
-- @loopringorg LRC +61%
-- @synthetix_io SNX +46%
- https://www.scalara.xyz/blog/march-2022-rebalance-defi-pulse-index]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
