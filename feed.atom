@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-07T12:36:34.112Z</id>
+    <id>urn:2022-04-07T13:30:22.838Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-07T12:36:34.112Z</updated>
+    <updated>2022-04-07T13:30:22.838Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[RT @Scalara_xyz: Let's look at how Flexible Leverage Indices work: #FLIs are collateralized debt positions providing positive exposure to t…]]></title>
-        <id>https://twitter.com/defipulse/status/1511952883180310532</id>
-        <link href="https://twitter.com/defipulse/status/1511952883180310532"/>
-        <updated>2022-04-07T06:23:52.000Z</updated>
-        <summary type="html"><![CDATA[RT @Scalara_xyz: Let's look at how Flexible Leverage Indices work:
-#FLIs are collateralized debt positions providing positive exposure to t…]]></summary>
+        <title type="html"><![CDATA[RT Scalara: Let's look at how Flexible Leverage Indices work: #FLIs are collateralized debt positions providing positive exposure to the deposited and...]]></title>
+        <id>https://twitter.com/Scalara_xyz/status/1511895941594329091</id>
+        <link href="https://twitter.com/Scalara_xyz/status/1511895941594329091"/>
+        <updated>2022-04-07T02:37:36.000Z</updated>
+        <summary type="html"><![CDATA[RT Scalara
+Let's look at how Flexible Leverage Indices work:
+#FLIs are collateralized debt positions providing positive exposure to the deposited and negative exposure to the borrowed asset.
+E.g. 1 iBTC-FLI currently represents about $180 $USDC deposited and $85 $WBTC borrowed against. /1]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -135,16 +137,6 @@ Comment down where you’d move to 👇]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT @Scalara_xyz: The Scalara NFT Index $NFTI provides diversified exposure to some of the most highly-valued #NFT collections in a single t…]]></title>
-        <id>https://twitter.com/defipulse/status/1511273855624560641</id>
-        <link href="https://twitter.com/defipulse/status/1511273855624560641"/>
-        <updated>2022-04-05T09:25:39.000Z</updated>
-        <summary type="html"><![CDATA[RT @Scalara_xyz: The Scalara NFT Index $NFTI provides diversified exposure to some of the most highly-valued #NFT collections in a single t…]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @classicrae1 Stay tuned to our account, a lot of educational content coming 😉🙌]]></title>
         <id>https://twitter.com/defipulse/status/1511255549605785601</id>
         <link href="https://twitter.com/defipulse/status/1511255549605785601"/>
@@ -217,6 +209,31 @@ Staking is when you pledge your coins to be used for verifying if the transactio
         <summary type="html"><![CDATA[Re 6/ Proof of Stake 🧬
 🔌 Powers #Ethereum 2.0, #Polygon and many other newer cryptocurrencies
 With ETH 2.0 planned to come out in 2022, the upgraded version of the blockchain will allow faster and less resource intensive consensus mechanism - called Proof of Stake ⚡]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 5/ Advantages💭 … - Robust way of maintaining a secure decentralized blockchain - Provides solid mechanism of achieving consensus]]></title>
+        <id>https://twitter.com/defipulse/status/1511062614742286348</id>
+        <link href="https://twitter.com/defipulse/status/1511062614742286348"/>
+        <updated>2022-04-04T19:26:16.000Z</updated>
+        <summary type="html"><![CDATA[Re 5/ Advantages💭 …
+- Robust way of maintaining a secure decentralized blockchain
+- Provides solid mechanism of achieving consensus]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Scalara: The Scalara NFT Index $NFTI provides diversified exposure to some of the most highly-valued #NFT collections in a single token. Last week ...]]></title>
+        <id>https://twitter.com/Scalara_xyz/status/1510991790974853120</id>
+        <link href="https://twitter.com/Scalara_xyz/status/1510991790974853120"/>
+        <updated>2022-04-04T14:44:50.000Z</updated>
+        <summary type="html"><![CDATA[RT Scalara
+The Scalara NFT Index $NFTI provides diversified exposure to some of the most highly-valued #NFT collections in a single token.
+Last week @Doodles rallied -- the 5th different weekly top performer in the index in the 5th week.
+$NFTI is available on @Uniswap.]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
