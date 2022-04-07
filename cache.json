@@ -6,13 +6,13 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
-          "id": "https://twitter.com/Scalara_xyz/status/1511895941594329091",
+          "id": "https://twitter.com/defipulse/status/1511952883180310532",
           "author": "DeFi Pulse 🍇",
-          "description": "RT Scalara\nLet's look at how Flexible Leverage Indices work:\n#FLIs are collateralized debt positions providing positive exposure to the deposited and negative exposure to the borrowed asset.\nE.g. 1 iBTC-FLI currently represents about $180 $USDC deposited and $85 $WBTC borrowed against. /1",
-          "link": "https://twitter.com/Scalara_xyz/status/1511895941594329091",
-          "publishedOn": "2022-04-07T02:37:36.000Z",
+          "description": "RT @Scalara_xyz: Let's look at how Flexible Leverage Indices work:\n#FLIs are collateralized debt positions providing positive exposure to t…",
+          "link": "https://twitter.com/defipulse/status/1511952883180310532",
+          "publishedOn": "2022-04-07T06:23:52.000Z",
           "wordCount": 196,
-          "title": "RT Scalara: Let's look at how Flexible Leverage Indices work: #FLIs are collateralized debt positions providing positive exposure to the deposited and...",
+          "title": "RT @Scalara_xyz: Let's look at how Flexible Leverage Indices work: #FLIs are collateralized debt positions providing positive exposure to t…",
           "imageUrl": null
         },
         {
@@ -116,6 +116,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://twitter.com/defipulse/status/1511273855624560641",
+          "author": "DeFi Pulse 🍇",
+          "description": "RT @Scalara_xyz: The Scalara NFT Index $NFTI provides diversified exposure to some of the most highly-valued #NFT collections in a single t…",
+          "link": "https://twitter.com/defipulse/status/1511273855624560641",
+          "publishedOn": "2022-04-05T09:25:39.000Z",
+          "wordCount": 196,
+          "title": "RT @Scalara_xyz: The Scalara NFT Index $NFTI provides diversified exposure to some of the most highly-valued #NFT collections in a single t…",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1511255549605785601",
           "author": "DeFi Pulse 🍇",
           "description": "Re @classicrae1 Stay tuned to our account, a lot of educational content coming 😉🙌",
@@ -183,26 +193,6 @@
           "publishedOn": "2022-04-04T19:26:16.000Z",
           "wordCount": 196,
           "title": "Re 6/ Proof of Stake 🧬 🔌 Powers #Ethereum 2.0, #Polygon and many other newer cryptocurrencies With ETH 2.0 planned to come out in 2022, the upgr...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1511062614742286348",
-          "author": "DeFi Pulse 🍇",
-          "description": "Re 5/ Advantages💭 …\n- Robust way of maintaining a secure decentralized blockchain\n- Provides solid mechanism of achieving consensus",
-          "link": "https://twitter.com/defipulse/status/1511062614742286348",
-          "publishedOn": "2022-04-04T19:26:16.000Z",
-          "wordCount": 196,
-          "title": "Re 5/ Advantages💭 … - Robust way of maintaining a secure decentralized blockchain - Provides solid mechanism of achieving consensus",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/Scalara_xyz/status/1510991790974853120",
-          "author": "DeFi Pulse 🍇",
-          "description": "RT Scalara\nThe Scalara NFT Index $NFTI provides diversified exposure to some of the most highly-valued #NFT collections in a single token.\nLast week @Doodles rallied -- the 5th different weekly top performer in the index in the 5th week.\n$NFTI is available on @Uniswap.",
-          "link": "https://twitter.com/Scalara_xyz/status/1510991790974853120",
-          "publishedOn": "2022-04-04T14:44:50.000Z",
-          "wordCount": 196,
-          "title": "RT Scalara: The Scalara NFT Index $NFTI provides diversified exposure to some of the most highly-valued #NFT collections in a single token. Last week ...",
           "imageUrl": null
         }
       ]
