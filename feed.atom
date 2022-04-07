@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-07T07:19:49.172Z</id>
+    <id>urn:2022-04-07T08:25:13.360Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-07T07:19:49.172Z</updated>
+    <updated>2022-04-07T08:25:13.360Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT Scalara: Let's look at how Flexible Leverage Indices work: #FLIs are collateralized debt positions providing positive exposure to the deposited and...]]></title>
+        <id>https://twitter.com/Scalara_xyz/status/1511895941594329091</id>
+        <link href="https://twitter.com/Scalara_xyz/status/1511895941594329091"/>
+        <updated>2022-04-07T02:37:36.000Z</updated>
+        <summary type="html"><![CDATA[RT Scalara
+Let's look at how Flexible Leverage Indices work:
+#FLIs are collateralized debt positions providing positive exposure to the deposited and negative exposure to the borrowed asset.
+E.g. 1 iBTC-FLI currently represents about $180 $USDC deposited and $85 $WBTC borrowed against. /1]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["Decentralized finance and blockchain are real, new technologies that can be deployed in both public and private fashion, permissioned or not," - Jami...]]></title>
         <id>https://twitter.com/defipulse/status/1511775354251317257</id>
@@ -208,16 +221,6 @@ With ETH 2.0 planned to come out in 2022, the upgraded version of the blockchain
         <summary type="html"><![CDATA[Re 5/ Advantages💭 …
 - Robust way of maintaining a secure decentralized blockchain
 - Provides solid mechanism of achieving consensus]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 4/ 🏆 The winner updated the blockchain with the latest verified transaction and is rewarded by the network with a predetermined amount of #crypt...]]></title>
-        <id>https://twitter.com/defipulse/status/1511062613341491205</id>
-        <link href="https://twitter.com/defipulse/status/1511062613341491205"/>
-        <updated>2022-04-04T19:26:15.000Z</updated>
-        <summary type="html"><![CDATA[Re 4/ 🏆 The winner updated the blockchain with the latest verified transaction and is rewarded by the network with a predetermined amount of #crypto]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>

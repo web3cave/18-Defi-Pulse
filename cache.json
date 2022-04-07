@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/Scalara_xyz/status/1511895941594329091",
+          "author": "DeFi Pulse 🍇",
+          "description": "RT Scalara\nLet's look at how Flexible Leverage Indices work:\n#FLIs are collateralized debt positions providing positive exposure to the deposited and negative exposure to the borrowed asset.\nE.g. 1 iBTC-FLI currently represents about $180 $USDC deposited and $85 $WBTC borrowed against. /1",
+          "link": "https://twitter.com/Scalara_xyz/status/1511895941594329091",
+          "publishedOn": "2022-04-07T02:37:36.000Z",
+          "wordCount": 196,
+          "title": "RT Scalara: Let's look at how Flexible Leverage Indices work: #FLIs are collateralized debt positions providing positive exposure to the deposited and...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1511775354251317257",
           "author": "DeFi Pulse 🍇",
           "description": "\"Decentralized finance and blockchain are real, new technologies that can be deployed in both public and private fashion, permissioned or not,\" - Jamie Dimon, CEO of JP Morgan 👀",
@@ -183,16 +193,6 @@
           "publishedOn": "2022-04-04T19:26:16.000Z",
           "wordCount": 196,
           "title": "Re 5/ Advantages💭 … - Robust way of maintaining a secure decentralized blockchain - Provides solid mechanism of achieving consensus",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1511062613341491205",
-          "author": "DeFi Pulse 🍇",
-          "description": "Re 4/ 🏆 The winner updated the blockchain with the latest verified transaction and is rewarded by the network with a predetermined amount of #crypto",
-          "link": "https://twitter.com/defipulse/status/1511062613341491205",
-          "publishedOn": "2022-04-04T19:26:15.000Z",
-          "wordCount": 196,
-          "title": "Re 4/ 🏆 The winner updated the blockchain with the latest verified transaction and is rewarded by the network with a predetermined amount of #crypt...",
           "imageUrl": null
         },
         {
