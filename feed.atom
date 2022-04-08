@@ -1,10 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-08T14:18:52.084Z</id>
+    <id>urn:2022-04-08T15:22:02.020Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-08T14:18:52.084Z</updated>
+    <updated>2022-04-08T15:22:02.020Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Poly Pulse is out 🙌 🟣 Learn about what went on in @0xpolygon’s ecosystem. In this issue you will find: 👤 Launch of #Polygon ID 🖼️ @Scala...]]></title>
+        <id>https://twitter.com/defipulse/status/1512435440808255495</id>
+        <link href="https://twitter.com/defipulse/status/1512435440808255495"/>
+        <updated>2022-04-08T14:21:23.000Z</updated>
+        <summary type="html"><![CDATA[Poly Pulse is out 🙌
+🟣 Learn about what went on in @0xpolygon’s ecosystem. In this issue you will find:
+👤 Launch of #Polygon ID
+🖼️ @Scalara_xyz launch of NFTI, Blue-chip NFT Index
+🚀 Liquidity mining 2.0 deployed on Polygon
+And more 👀
+Learn more 👇 https://bit.ly/35QSwLI]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT Scalara: Scalara announces a change to the composition of the DeFi Pulse Index as a result of the merger of Rari Governance Token $RGT and $TRIBE. ...]]></title>
         <id>https://twitter.com/Scalara_xyz/status/1512213151781113866</id>
@@ -208,18 +224,6 @@ Staking is when you pledge your coins to be used for verifying if the transactio
         <link href="https://twitter.com/defipulse/status/1511062617888104456"/>
         <updated>2022-04-04T19:26:16.000Z</updated>
         <summary type="html"><![CDATA[Re 7/ PoS’s system works similarly to PoW’s where a network participant is selected to add the latest pieces of transactions into the blockchain and earn crypto in exchange 🙌]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 6/ Proof of Stake 🧬 🔌 Powers #Ethereum 2.0, #Polygon and many other newer cryptocurrencies With ETH 2.0 planned to come out in 2022, the upgr...]]></title>
-        <id>https://twitter.com/defipulse/status/1511062616311046148</id>
-        <link href="https://twitter.com/defipulse/status/1511062616311046148"/>
-        <updated>2022-04-04T19:26:16.000Z</updated>
-        <summary type="html"><![CDATA[Re 6/ Proof of Stake 🧬
-🔌 Powers #Ethereum 2.0, #Polygon and many other newer cryptocurrencies
-With ETH 2.0 planned to come out in 2022, the upgraded version of the blockchain will allow faster and less resource intensive consensus mechanism - called Proof of Stake ⚡]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
