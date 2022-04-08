@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/Scalara_xyz/status/1512213151781113866",
+          "author": "DeFi Pulse 🍇",
+          "description": "RT Scalara\nScalara announces a change to the composition of the DeFi Pulse Index as a result of the merger of Rari Governance Token $RGT and $TRIBE. $DPI https://www.scalara.xyz/blog/defi-pulse-index-update-rgt-tribe-merger",
+          "link": "https://twitter.com/Scalara_xyz/status/1512213151781113866",
+          "publishedOn": "2022-04-07T23:38:05.000Z",
+          "wordCount": 196,
+          "title": "RT Scalara: Scalara announces a change to the composition of the DeFi Pulse Index as a result of the merger of Rari Governance Token $RGT and $TRIBE. ...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/Scalara_xyz/status/1511895941594329091",
           "author": "DeFi Pulse 🍇",
           "description": "RT Scalara\nLet's look at how Flexible Leverage Indices work:\n#FLIs are collateralized debt positions providing positive exposure to the deposited and negative exposure to the borrowed asset.\nE.g. 1 iBTC-FLI currently represents about $180 $USDC deposited and $85 $WBTC borrowed against. /1",
@@ -183,16 +193,6 @@
           "publishedOn": "2022-04-04T19:26:16.000Z",
           "wordCount": 196,
           "title": "Re 6/ Proof of Stake 🧬 🔌 Powers #Ethereum 2.0, #Polygon and many other newer cryptocurrencies With ETH 2.0 planned to come out in 2022, the upgr...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1511062614742286348",
-          "author": "DeFi Pulse 🍇",
-          "description": "Re 5/ Advantages💭 …\n- Robust way of maintaining a secure decentralized blockchain\n- Provides solid mechanism of achieving consensus",
-          "link": "https://twitter.com/defipulse/status/1511062614742286348",
-          "publishedOn": "2022-04-04T19:26:16.000Z",
-          "wordCount": 196,
-          "title": "Re 5/ Advantages💭 … - Robust way of maintaining a secure decentralized blockchain - Provides solid mechanism of achieving consensus",
           "imageUrl": null
         },
         {
