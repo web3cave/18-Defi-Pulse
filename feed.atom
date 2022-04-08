@@ -1,10 +1,93 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-08T22:20:47.402Z</id>
+    <id>urn:2022-04-08T23:20:30.415Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-08T22:20:47.402Z</updated>
+    <updated>2022-04-08T23:20:30.415Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re *The stable $USDC yield is up by 0.21%]]></title>
+        <id>https://twitter.com/defipulse/status/1512521915096780803</id>
+        <link href="https://twitter.com/defipulse/status/1512521915096780803"/>
+        <updated>2022-04-08T20:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Re *The stable $USDC yield is up by 0.21%]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 6/ @balancer launches its staking incentives trough $veBAL]]></title>
+        <id>https://twitter.com/defipulse/status/1512518993088815108</id>
+        <link href="https://twitter.com/defipulse/status/1512518993088815108"/>
+        <updated>2022-04-08T19:53:23.000Z</updated>
+        <summary type="html"><![CDATA[Re 6/ @balancer launches its staking incentives trough $veBAL
+Balancer Labs: 🧵🧵thread time🧵🧵
+Balancer devs are hard at work on an intuitive tool for Balancer LPs to calculate their $veBAL boosts under different circumstances.
+In the meantime, to explain how this calculation is done, here's a simple way to look at it 👇]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 5/ KyberSwap, the DEX aggregator from @KyberNetwork adds support to @Uniswap V3 🦄]]></title>
+        <id>https://twitter.com/defipulse/status/1512518990802862084</id>
+        <link href="https://twitter.com/defipulse/status/1512518990802862084"/>
+        <updated>2022-04-08T19:53:23.000Z</updated>
+        <summary type="html"><![CDATA[Re 5/ KyberSwap, the DEX aggregator from @KyberNetwork adds support to @Uniswap V3 🦄
+Kyber Network: 🤓This day just keeps getting better and better
+🦄 For all ya'll who's been waiting, @Uniswap V3 is now routed through #KyberSwap @ethereum @0xPolygon 🥳🎉Giving you degens the best rates, always 😉
+Swap now at the best rates on ➡️
+#DeFi #cryptocurrency
+ https://kyberswap.com/]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 4/ Weekly NFT sales jumped 46% from $300 million to $439 million in the past week (3 NFTI constituents in top 5)]]></title>
+        <id>https://twitter.com/defipulse/status/1512518988747751439</id>
+        <link href="https://twitter.com/defipulse/status/1512518988747751439"/>
+        <updated>2022-04-08T19:53:22.000Z</updated>
+        <summary type="html"><![CDATA[Re 4/ Weekly NFT sales jumped 46% from $300 million to $439 million in the past week (3 NFTI constituents in top 5) https://markets.businessinsider.com/news/currencies/pudgy-penguin-nft-sale-top-selling-nfts-bored-ape-cryptopunks-2022-4]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 3/ Related Market News On its first quarterly rebalance of 2022, @Grayscale removes Synthetix ( $SNX ) and Sushi ( $SUSHI ) from its basket of asse...]]></title>
+        <id>https://twitter.com/defipulse/status/1512518986793205761</id>
+        <link href="https://twitter.com/defipulse/status/1512518986793205761"/>
+        <updated>2022-04-08T19:53:22.000Z</updated>
+        <summary type="html"><![CDATA[Re 3/ Related Market News  
+On its first quarterly rebalance of 2022, @Grayscale  removes Synthetix ( $SNX ) and Sushi ( $SUSHI ) from its basket of assets. https://blockworks.co/grayscale-adjusts-cryptoassets-exposure-in-diversified-funds/?linkId=159754058]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 2/ $DPI token, is based on the DeFi Pulse Index, a digital asset index designed to track the performance of top protocols in #DeFi $NFTI is based o...]]></title>
+        <id>https://twitter.com/defipulse/status/1512518984704344067</id>
+        <link href="https://twitter.com/defipulse/status/1512518984704344067"/>
+        <updated>2022-04-08T19:53:21.000Z</updated>
+        <summary type="html"><![CDATA[Re 2/ $DPI token, is based on the DeFi Pulse Index, a digital asset index designed to track the performance of top protocols in #DeFi
+$NFTI is based on the @scalara_xyz NFT Index, an index designed to track the performance of the most well-known #NFT collections]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1/ It is this time of the week! #SectorPulse is here 🥳 📉 $DPI is now trading at $193.97, a 12% decrease from last week; 📉 $NFTI is now tradin...]]></title>
+        <id>https://twitter.com/defipulse/status/1512518979641909250</id>
+        <link href="https://twitter.com/defipulse/status/1512518979641909250"/>
+        <updated>2022-04-08T19:53:20.000Z</updated>
+        <summary type="html"><![CDATA[1/ It is this time of the week! #SectorPulse is here 🥳
+📉 $DPI is now trading at $193.97, a 12% decrease from last week;
+📉 $NFTI is now trading at $11.87, a 8% decrease from last week;
+The stable $USD yield is $0.21.]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Poly Pulse is out 🙌 🟣 Learn about what went on in @0xpolygon’s ecosystem. In this issue you will find: 👤 Launch of #Polygon ID 🖼️ @Scala...]]></title>
         <id>https://twitter.com/defipulse/status/1512435440808255495</id>
@@ -159,74 +242,6 @@ Comment down where you’d move to 👇]]></summary>
         <link href="https://twitter.com/defipulse/status/1511679629995745283"/>
         <updated>2022-04-06T12:18:04.000Z</updated>
         <summary type="html"><![CDATA[Re @Metaro_verse]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @classicrae1 Stay tuned to our account, a lot of educational content coming 😉🙌]]></title>
-        <id>https://twitter.com/defipulse/status/1511255549605785601</id>
-        <link href="https://twitter.com/defipulse/status/1511255549605785601"/>
-        <updated>2022-04-05T08:12:55.000Z</updated>
-        <summary type="html"><![CDATA[Re @classicrae1 Stay tuned to our account, a lot of educational content coming 😉🙌]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gm to all of you that love #DeFi]]></title>
-        <id>https://twitter.com/defipulse/status/1511254388114968576</id>
-        <link href="https://twitter.com/defipulse/status/1511254388114968576"/>
-        <updated>2022-04-05T08:08:18.000Z</updated>
-        <summary type="html"><![CDATA[Gm to all of you that love #DeFi]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 10/ Retweet this post to spread #crypto education around! 📖 Also make sure to check our website for educational blog posts]]></title>
-        <id>https://twitter.com/defipulse/status/1511062622795354114</id>
-        <link href="https://twitter.com/defipulse/status/1511062622795354114"/>
-        <updated>2022-04-04T19:26:18.000Z</updated>
-        <summary type="html"><![CDATA[Re 10/ Retweet this post to spread #crypto education around! 
-📖 Also make sure to check our website for educational blog posts https://www.defipulse.com/blog]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 9/ Differences between PoW and PoS 🤔 Penalty for submitting invalid info ❌ - PoW - Computing power, energy, and time - PoS - Validator’s crypt...]]></title>
-        <id>https://twitter.com/defipulse/status/1511062621289648146</id>
-        <link href="https://twitter.com/defipulse/status/1511062621289648146"/>
-        <updated>2022-04-04T19:26:17.000Z</updated>
-        <summary type="html"><![CDATA[Re 9/ Differences between PoW and PoS 🤔
-Penalty for submitting invalid info ❌
-- PoW - Computing power, energy, and time 
-- PoS - Validator’s crypto funds serve as an incentive to act in the network’s best interest]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 8/ The PoS model allows #crypto owners to #stake their coins and create their own validator nodes Staking is when you pledge your coins to be used ...]]></title>
-        <id>https://twitter.com/defipulse/status/1511062619687469061</id>
-        <link href="https://twitter.com/defipulse/status/1511062619687469061"/>
-        <updated>2022-04-04T19:26:17.000Z</updated>
-        <summary type="html"><![CDATA[Re 8/ The PoS model allows #crypto owners to #stake their coins and create their own validator nodes
-Staking is when you pledge your coins to be used for verifying if the transactions in the block are accurate]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Scalara: The Scalara NFT Index $NFTI provides diversified exposure to some of the most highly-valued #NFT collections in a single token. Last week ...]]></title>
-        <id>https://twitter.com/Scalara_xyz/status/1510991790974853120</id>
-        <link href="https://twitter.com/Scalara_xyz/status/1510991790974853120"/>
-        <updated>2022-04-04T14:44:50.000Z</updated>
-        <summary type="html"><![CDATA[RT Scalara
-The Scalara NFT Index $NFTI provides diversified exposure to some of the most highly-valued #NFT collections in a single token.
-Last week @Doodles rallied -- the 5th different weekly top performer in the index in the 5th week.
-$NFTI is available on @Uniswap.]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
