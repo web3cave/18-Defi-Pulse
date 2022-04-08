@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-08T18:26:50.619Z</id>
+    <id>urn:2022-04-08T19:17:01.772Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-08T18:26:50.619Z</updated>
+    <updated>2022-04-08T19:17:01.772Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -214,16 +214,6 @@ Penalty for submitting invalid info ❌
         <updated>2022-04-04T19:26:17.000Z</updated>
         <summary type="html"><![CDATA[Re 8/ The PoS model allows #crypto owners to #stake their coins and create their own validator nodes
 Staking is when you pledge your coins to be used for verifying if the transactions in the block are accurate]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 7/ PoS’s system works similarly to PoW’s where a network participant is selected to add the latest pieces of transactions into the blockchain and...]]></title>
-        <id>https://twitter.com/defipulse/status/1511062617888104456</id>
-        <link href="https://twitter.com/defipulse/status/1511062617888104456"/>
-        <updated>2022-04-04T19:26:16.000Z</updated>
-        <summary type="html"><![CDATA[Re 7/ PoS’s system works similarly to PoW’s where a network participant is selected to add the latest pieces of transactions into the blockchain and earn crypto in exchange 🙌]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
