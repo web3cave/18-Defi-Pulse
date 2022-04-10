@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-10T04:25:53.374Z</id>
+    <id>urn:2022-04-10T05:18:18.224Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-10T04:25:53.374Z</updated>
+    <updated>2022-04-10T05:18:18.224Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -20,10 +20,7 @@
         <id>https://twitter.com/defipulse/status/1512518993088815108</id>
         <link href="https://twitter.com/defipulse/status/1512518993088815108"/>
         <updated>2022-04-08T19:53:23.000Z</updated>
-        <summary type="html"><![CDATA[Re 6/ @balancer launches its staking incentives trough $veBAL
-Balancer Labs: 🧵🧵thread time🧵🧵
-Balancer devs are hard at work on an intuitive tool for Balancer LPs to calculate their $veBAL boosts under different circumstances.
-In the meantime, to explain how this calculation is done, here's a simple way to look at it 👇]]></summary>
+        <summary type="html"><![CDATA[Re 6/ @balancer launches its staking incentives trough $veBAL https://twitter.com/BalancerLabs/status/1512491484016222224]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -33,12 +30,7 @@ In the meantime, to explain how this calculation is done, here's a simple way to
         <id>https://twitter.com/defipulse/status/1512518990802862084</id>
         <link href="https://twitter.com/defipulse/status/1512518990802862084"/>
         <updated>2022-04-08T19:53:23.000Z</updated>
-        <summary type="html"><![CDATA[Re 5/ KyberSwap, the DEX aggregator from @KyberNetwork adds support to @Uniswap V3 🦄
-Kyber Network: 🤓This day just keeps getting better and better
-🦄 For all ya'll who's been waiting, @Uniswap V3 is now routed through #KyberSwap @ethereum @0xPolygon 🥳🎉Giving you degens the best rates, always 😉
-Swap now at the best rates on ➡️
-#DeFi #cryptocurrency
- https://kyberswap.com/]]></summary>
+        <summary type="html"><![CDATA[Re 5/ KyberSwap, the DEX aggregator from @KyberNetwork adds support to @Uniswap V3 🦄 https://twitter.com/KyberNetwork/status/1511969650481180678]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -232,16 +224,6 @@ It means that these countries' governments are actively working on determining t
 🇸🇬 Singapore
 🇲🇹 Malta
 Comment down where you’d move to 👇]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Metaro_verse]]></title>
-        <id>https://twitter.com/defipulse/status/1511679629995745283</id>
-        <link href="https://twitter.com/defipulse/status/1511679629995745283"/>
-        <updated>2022-04-06T12:18:04.000Z</updated>
-        <summary type="html"><![CDATA[Re @Metaro_verse]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
