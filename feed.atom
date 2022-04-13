@@ -1,10 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-13T13:30:07.044Z</id>
+    <id>urn:2022-04-13T14:27:48.434Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-13T13:30:07.044Z</updated>
+    <updated>2022-04-13T14:27:48.434Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Pulse Farmer is out! 🥳 🙌 In this week’s issue, you will learn about 👇 🇬🇧 UK plans to regulate #cryptocurrency 📈@kybernetwork was th...]]></title>
+        <id>https://twitter.com/defipulse/status/1514239915902615553</id>
+        <link href="https://twitter.com/defipulse/status/1514239915902615553"/>
+        <updated>2022-04-13T13:51:43.000Z</updated>
+        <summary type="html"><![CDATA[Pulse Farmer is out! 🥳 🙌
+In this week’s issue, you will learn about 👇
+🇬🇧 UK plans to regulate #cryptocurrency
+📈@kybernetwork was the week’s best-performing asset 🔥
+🚜 Exploring the DAI-USDC LP vault on @beefyfinance
+👀 and more
+Read more 👇 https://bit.ly/3EahgLG]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Binance deepens Middle Eastern expansion after they become approved to operate in Abu Dhabi 🇦🇪 The exchange is seeking to become fully regulated...]]></title>
         <id>https://twitter.com/defipulse/status/1513849790081212417</id>
@@ -225,18 +241,6 @@ This staking opportunity entails protocol risks, market risks, impermanent loss 
         <link href="https://twitter.com/defipulse/status/1511741819738021911"/>
         <updated>2022-04-06T16:25:11.000Z</updated>
         <summary type="html"><![CDATA[Re 2/ 🧑‍⚖️ ECON & LIBE committees of the EU Parliament voted in favor to support legislation forcing #cryptocurrency companies to gather and disclose transaction data]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pulse Farmer is now live 🙌 In this thread, you will find a brief recap 😉 Subscribe to our newsletter here 👇]]></title>
-        <id>https://twitter.com/defipulse/status/1511741818265821190</id>
-        <link href="https://twitter.com/defipulse/status/1511741818265821190"/>
-        <updated>2022-04-06T16:25:10.000Z</updated>
-        <summary type="html"><![CDATA[Pulse Farmer is now live 🙌
-In this thread, you will find a brief recap 😉
-Subscribe to our newsletter here 👇 https://bit.ly/3MTiE9C]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
