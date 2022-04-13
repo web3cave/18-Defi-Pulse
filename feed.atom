@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-13T21:18:24.714Z</id>
+    <id>urn:2022-04-13T22:19:11.588Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-13T21:18:24.714Z</updated>
+    <updated>2022-04-13T22:19:11.588Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -58,7 +58,10 @@ The exchange is seeking to become fully regulated in the country 🙌
         <id>https://twitter.com/defipulse/status/1512518993088815108</id>
         <link href="https://twitter.com/defipulse/status/1512518993088815108"/>
         <updated>2022-04-08T19:53:23.000Z</updated>
-        <summary type="html"><![CDATA[Re 6/ @balancer launches its staking incentives trough $veBAL https://twitter.com/BalancerLabs/status/1512491484016222224]]></summary>
+        <summary type="html"><![CDATA[Re 6/ @balancer launches its staking incentives trough $veBAL
+Balancer Labs: 🧵🧵thread time🧵🧵
+Balancer devs are hard at work on an intuitive tool for Balancer LPs to calculate their $veBAL boosts under different circumstances.
+In the meantime, to explain how this calculation is done, here's a simple way to look at it 👇]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -68,7 +71,12 @@ The exchange is seeking to become fully regulated in the country 🙌
         <id>https://twitter.com/defipulse/status/1512518990802862084</id>
         <link href="https://twitter.com/defipulse/status/1512518990802862084"/>
         <updated>2022-04-08T19:53:23.000Z</updated>
-        <summary type="html"><![CDATA[Re 5/ KyberSwap, the DEX aggregator from @KyberNetwork adds support to @Uniswap V3 🦄 https://twitter.com/KyberNetwork/status/1511969650481180678]]></summary>
+        <summary type="html"><![CDATA[Re 5/ KyberSwap, the DEX aggregator from @KyberNetwork adds support to @Uniswap V3 🦄
+Kyber Network: 🤓This day just keeps getting better and better
+🦄 For all ya'll who's been waiting, @Uniswap V3 is now routed through #KyberSwap @ethereum @0xPolygon 🥳🎉Giving you degens the best rates, always 😉
+Swap now at the best rates on ➡️
+#DeFi #cryptocurrency
+ https://kyberswap.com/]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -223,6 +231,16 @@ This staking opportunity entails protocol risks, market risks, impermanent loss 
 📈 @Aave ($AAVE) - +39.7%
 📈 @ConvexFinance ($CVX) +27.1%
 📈 @synthetix_io (SNX) +25.7%]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 2/ 🧑‍⚖️ ECON & LIBE committees of the EU Parliament voted in favor to support legislation forcing #cryptocurrency companies to gather and dis...]]></title>
+        <id>https://twitter.com/defipulse/status/1511741819738021911</id>
+        <link href="https://twitter.com/defipulse/status/1511741819738021911"/>
+        <updated>2022-04-06T16:25:11.000Z</updated>
+        <summary type="html"><![CDATA[Re 2/ 🧑‍⚖️ ECON & LIBE committees of the EU Parliament voted in favor to support legislation forcing #cryptocurrency companies to gather and disclose transaction data]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
