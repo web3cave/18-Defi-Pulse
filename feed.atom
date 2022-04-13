@@ -1,26 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-13T15:22:05.412Z</id>
+    <id>urn:2022-04-13T16:31:16.574Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-13T15:22:05.412Z</updated>
+    <updated>2022-04-13T16:31:16.574Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[Pulse Farmer is out! 🥳 🙌 In this week’s issue, you will learn about 👇 🇬🇧 UK plans to regulate #cryptocurrency 📈@kybernetwork was th...]]></title>
-        <id>https://twitter.com/defipulse/status/1514239915902615553</id>
-        <link href="https://twitter.com/defipulse/status/1514239915902615553"/>
-        <updated>2022-04-13T13:51:43.000Z</updated>
-        <summary type="html"><![CDATA[Pulse Farmer is out! 🥳 🙌
-In this week’s issue, you will learn about 👇
-🇬🇧 UK plans to regulate #cryptocurrency
-📈@kybernetwork was the week’s best-performing asset 🔥
-🚜 Exploring the DAI-USDC LP vault on @beefyfinance
-👀 and more
-Read more 👇 https://bit.ly/3EahgLG]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Binance deepens Middle Eastern expansion after they become approved to operate in Abu Dhabi 🇦🇪 The exchange is seeking to become fully regulated...]]></title>
         <id>https://twitter.com/defipulse/status/1513849790081212417</id>
@@ -58,10 +42,7 @@ The exchange is seeking to become fully regulated in the country 🙌
         <id>https://twitter.com/defipulse/status/1512518993088815108</id>
         <link href="https://twitter.com/defipulse/status/1512518993088815108"/>
         <updated>2022-04-08T19:53:23.000Z</updated>
-        <summary type="html"><![CDATA[Re 6/ @balancer launches its staking incentives trough $veBAL
-Balancer Labs: 🧵🧵thread time🧵🧵
-Balancer devs are hard at work on an intuitive tool for Balancer LPs to calculate their $veBAL boosts under different circumstances.
-In the meantime, to explain how this calculation is done, here's a simple way to look at it 👇]]></summary>
+        <summary type="html"><![CDATA[Re 6/ @balancer launches its staking incentives trough $veBAL https://twitter.com/BalancerLabs/status/1512491484016222224]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -71,12 +52,7 @@ In the meantime, to explain how this calculation is done, here's a simple way to
         <id>https://twitter.com/defipulse/status/1512518990802862084</id>
         <link href="https://twitter.com/defipulse/status/1512518990802862084"/>
         <updated>2022-04-08T19:53:23.000Z</updated>
-        <summary type="html"><![CDATA[Re 5/ KyberSwap, the DEX aggregator from @KyberNetwork adds support to @Uniswap V3 🦄
-Kyber Network: 🤓This day just keeps getting better and better
-🦄 For all ya'll who's been waiting, @Uniswap V3 is now routed through #KyberSwap @ethereum @0xPolygon 🥳🎉Giving you degens the best rates, always 😉
-Swap now at the best rates on ➡️
-#DeFi #cryptocurrency
- https://kyberswap.com/]]></summary>
+        <summary type="html"><![CDATA[Re 5/ KyberSwap, the DEX aggregator from @KyberNetwork adds support to @Uniswap V3 🦄 https://twitter.com/KyberNetwork/status/1511969650481180678]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
