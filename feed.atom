@@ -1,23 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-14T10:23:34.521Z</id>
+    <id>urn:2022-04-14T11:17:23.143Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-14T10:23:34.521Z</updated>
+    <updated>2022-04-14T11:17:23.143Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[RT Scalara: One main advantage of indices is the diversification they provide -- not putting all eggs in one basket. How can we quantify this for the ...]]></title>
-        <id>https://twitter.com/Scalara_xyz/status/1514430698358255618</id>
-        <link href="https://twitter.com/Scalara_xyz/status/1514430698358255618"/>
-        <updated>2022-04-14T02:29:49.000Z</updated>
-        <summary type="html"><![CDATA[RT Scalara
-One main advantage of indices is the diversification they provide -- not putting all eggs in one basket.
-How can we quantify this for the Scalara NFT Index?
-Comparing volatility of the constituents and the index shows that $NFTI is fluctuating less than the constituents. #NFT]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Pulse Farmer is out! 🥳 🙌 In this week’s issue, you will learn about 👇 🇬🇧 UK plans to regulate #cryptocurrency 📈@kybernetwork was th...]]></title>
         <id>https://twitter.com/defipulse/status/1514239915902615553</id>
@@ -244,6 +231,16 @@ This staking opportunity entails protocol risks, market risks, impermanent loss 
 📈 @Aave ($AAVE) - +39.7%
 📈 @ConvexFinance ($CVX) +27.1%
 📈 @synthetix_io (SNX) +25.7%]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 2/ 🧑‍⚖️ ECON & LIBE committees of the EU Parliament voted in favor to support legislation forcing #cryptocurrency companies to gather and dis...]]></title>
+        <id>https://twitter.com/defipulse/status/1511741819738021911</id>
+        <link href="https://twitter.com/defipulse/status/1511741819738021911"/>
+        <updated>2022-04-06T16:25:11.000Z</updated>
+        <summary type="html"><![CDATA[Re 2/ 🧑‍⚖️ ECON & LIBE committees of the EU Parliament voted in favor to support legislation forcing #cryptocurrency companies to gather and disclose transaction data]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
