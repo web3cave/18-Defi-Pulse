@@ -58,7 +58,7 @@
         {
           "id": "https://twitter.com/defipulse/status/1512518993088815108",
           "author": "DeFi Pulse 🍇",
-          "description": "Re 6/ @balancer launches its staking incentives trough $veBAL https://twitter.com/BalancerLabs/status/1512491484016222224",
+          "description": "Re 6/ @balancer launches its staking incentives trough $veBAL\nBalancer Labs: 🧵🧵thread time🧵🧵\nBalancer devs are hard at work on an intuitive tool for Balancer LPs to calculate their $veBAL boosts under different circumstances.\nIn the meantime, to explain how this calculation is done, here's a simple way to look at it 👇",
           "link": "https://twitter.com/defipulse/status/1512518993088815108",
           "publishedOn": "2022-04-08T19:53:23.000Z",
           "wordCount": 196,
@@ -68,7 +68,7 @@
         {
           "id": "https://twitter.com/defipulse/status/1512518990802862084",
           "author": "DeFi Pulse 🍇",
-          "description": "Re 5/ KyberSwap, the DEX aggregator from @KyberNetwork adds support to @Uniswap V3 🦄 https://twitter.com/KyberNetwork/status/1511969650481180678",
+          "description": "Re 5/ KyberSwap, the DEX aggregator from @KyberNetwork adds support to @Uniswap V3 🦄\nKyber Network: 🤓This day just keeps getting better and better\n🦄 For all ya'll who's been waiting, @Uniswap V3 is now routed through #KyberSwap @ethereum @0xPolygon 🥳🎉Giving you degens the best rates, always 😉\nSwap now at the best rates on ➡️\n#DeFi #cryptocurrency\n https://kyberswap.com/",
           "link": "https://twitter.com/defipulse/status/1512518990802862084",
           "publishedOn": "2022-04-08T19:53:23.000Z",
           "wordCount": 196,
@@ -193,6 +193,16 @@
           "publishedOn": "2022-04-06T16:25:11.000Z",
           "wordCount": 196,
           "title": "Re 4/ Analyze multiple high-yield opportunities on @Defikingdoms This staking opportunity entails protocol risks, market risks, impermanent loss risks...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1511741821201920008",
+          "author": "DeFi Pulse 🍇",
+          "description": "Re 3/ Weeks best performing assets include 👇👀\n📈 @Aave ($AAVE) - +39.7%\n📈 @ConvexFinance ($CVX) +27.1%\n📈 @synthetix_io (SNX) +25.7%",
+          "link": "https://twitter.com/defipulse/status/1511741821201920008",
+          "publishedOn": "2022-04-06T16:25:11.000Z",
+          "wordCount": 196,
+          "title": "Re 3/ Weeks best performing assets include 👇👀 📈 @Aave ($AAVE) - +39.7% 📈 @ConvexFinance ($CVX) +27.1% 📈 @synthetix_io (SNX) +25.7%",
           "imageUrl": null
         }
       ]
