@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1516314648387149825",
+          "author": "DeFi Pulse 🍇",
+          "description": "Re @floradome You can read more about it here 👇 https://www.defipulse.com/blog/how-to-join-the-defi-pulse-leaderboard",
+          "link": "https://twitter.com/defipulse/status/1516314648387149825",
+          "publishedOn": "2022-04-19T07:15:58.000Z",
+          "wordCount": 196,
+          "title": "Re @floradome You can read more about it here 👇",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1516141270208499718",
           "author": "DeFi Pulse 🍇",
           "description": "🚨BREAKING: Andre Cronje is in favor of crypto regulations\nRead more: https://andrecronje.medium.com/the-rise-and-fall-of-crypto-culture-3d0e6fd3e0e9",
@@ -193,16 +203,6 @@
           "publishedOn": "2022-04-07T23:38:05.000Z",
           "wordCount": 196,
           "title": "RT Scalara: Scalara announces a change to the composition of the DeFi Pulse Index as a result of the merger of Rari Governance Token $RGT and $TRIBE. ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/Scalara_xyz/status/1511895941594329091",
-          "author": "DeFi Pulse 🍇",
-          "description": "RT Scalara\nLet's look at how Flexible Leverage Indices work:\n#FLIs are collateralized debt positions providing positive exposure to the deposited and negative exposure to the borrowed asset.\nE.g. 1 iBTC-FLI currently represents about $180 $USDC deposited and $85 $WBTC borrowed against. /1",
-          "link": "https://twitter.com/Scalara_xyz/status/1511895941594329091",
-          "publishedOn": "2022-04-07T02:37:36.000Z",
-          "wordCount": 196,
-          "title": "RT Scalara: Let's look at how Flexible Leverage Indices work: #FLIs are collateralized debt positions providing positive exposure to the deposited and...",
           "imageUrl": null
         }
       ]
