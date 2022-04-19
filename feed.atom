@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-19T17:27:18.559Z</id>
+    <id>urn:2022-04-19T18:26:08.565Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-19T17:27:18.559Z</updated>
+    <updated>2022-04-19T18:26:08.565Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -42,12 +42,7 @@ $NFTI is based on the @scalara_xyz NFT Index, an index designed to track the per
         <id>https://twitter.com/defipulse/status/1515138338180767747</id>
         <link href="https://twitter.com/defipulse/status/1515138338180767747"/>
         <updated>2022-04-16T01:21:44.000Z</updated>
-        <summary type="html"><![CDATA[Re 4/ @coinbase hinting on a movie with @BoredApeYC & @apecoin? 👀
-Coinbase: ⭐️DEFINITELY SOMETHING⭐️
-We're creating an interactive three-part film featuring the @BoredApeYC & @apecoin communities. 
-Come build with us!
-👉
- http://degentrilogy.com]]></summary>
+        <summary type="html"><![CDATA[Re 4/ @coinbase hinting on a movie with @BoredApeYC & @apecoin? 👀 https://twitter.com/coinbase/status/1513589848048689152]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -153,10 +148,7 @@ The exchange is seeking to become fully regulated in the country 🙌
         <id>https://twitter.com/defipulse/status/1512518993088815108</id>
         <link href="https://twitter.com/defipulse/status/1512518993088815108"/>
         <updated>2022-04-08T19:53:23.000Z</updated>
-        <summary type="html"><![CDATA[Re 6/ @balancer launches its staking incentives trough $veBAL
-Balancer Labs: 🧵🧵thread time🧵🧵
-Balancer devs are hard at work on an intuitive tool for Balancer LPs to calculate their $veBAL boosts under different circumstances.
-In the meantime, to explain how this calculation is done, here's a simple way to look at it 👇]]></summary>
+        <summary type="html"><![CDATA[Re 6/ @balancer launches its staking incentives trough $veBAL https://twitter.com/BalancerLabs/status/1512491484016222224]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -166,12 +158,7 @@ In the meantime, to explain how this calculation is done, here's a simple way to
         <id>https://twitter.com/defipulse/status/1512518990802862084</id>
         <link href="https://twitter.com/defipulse/status/1512518990802862084"/>
         <updated>2022-04-08T19:53:23.000Z</updated>
-        <summary type="html"><![CDATA[Re 5/ KyberSwap, the DEX aggregator from @KyberNetwork adds support to @Uniswap V3 🦄
-Kyber Network: 🤓This day just keeps getting better and better
-🦄 For all ya'll who's been waiting, @Uniswap V3 is now routed through #KyberSwap @ethereum @0xPolygon 🥳🎉Giving you degens the best rates, always 😉
-Swap now at the best rates on ➡️
-#DeFi #cryptocurrency
- https://kyberswap.com/]]></summary>
+        <summary type="html"><![CDATA[Re 5/ KyberSwap, the DEX aggregator from @KyberNetwork adds support to @Uniswap V3 🦄 https://twitter.com/KyberNetwork/status/1511969650481180678]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -233,17 +220,6 @@ The stable $USD yield is $0.21.]]></summary>
 🚀 Liquidity mining 2.0 deployed on Polygon
 And more 👀
 Learn more 👇 https://bit.ly/35QSwLI]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Scalara: Scalara announces a change to the composition of the DeFi Pulse Index as a result of the merger of Rari Governance Token $RGT and $TRIBE. ...]]></title>
-        <id>https://twitter.com/Scalara_xyz/status/1512213151781113866</id>
-        <link href="https://twitter.com/Scalara_xyz/status/1512213151781113866"/>
-        <updated>2022-04-07T23:38:05.000Z</updated>
-        <summary type="html"><![CDATA[RT Scalara
-Scalara announces a change to the composition of the DeFi Pulse Index as a result of the merger of Rari Governance Token $RGT and $TRIBE. $DPI https://www.scalara.xyz/blog/defi-pulse-index-update-rgt-tribe-merger]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
