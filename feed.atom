@@ -1,10 +1,119 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-20T14:20:11.987Z</id>
+    <id>urn:2022-04-20T15:24:34.342Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-20T14:20:11.987Z</updated>
+    <updated>2022-04-20T15:24:34.342Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re 9/9 Let us know in the comments below what are your thoughts on this new upgrade to Ethereum’s network 👇]]></title>
+        <id>https://twitter.com/defipulse/status/1516793216074461185</id>
+        <link href="https://twitter.com/defipulse/status/1516793216074461185"/>
+        <updated>2022-04-20T14:57:38.000Z</updated>
+        <summary type="html"><![CDATA[Re 9/9 Let us know in the comments below what are your thoughts on this new upgrade to Ethereum’s network 👇]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 8/9 Will The Merge solve the high gas fees problem? ⛽ Unfortunately not ☹️ It will not have any impact on the current user experience on Ethereu...]]></title>
+        <id>https://twitter.com/defipulse/status/1516793206633078788</id>
+        <link href="https://twitter.com/defipulse/status/1516793206633078788"/>
+        <updated>2022-04-20T14:57:35.000Z</updated>
+        <summary type="html"><![CDATA[Re 8/9 Will The Merge solve the high gas fees problem? ⛽
+Unfortunately not ☹️
+It will not have any impact on the current user experience on Ethereum, but future updates on Ethereum’s roadmap such as #sharding will help solve that issue]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 7/9 Bitcoin vs Ethereum’s halvening 💭 📋Bitcoin: Halves its insurance rate every 4 years 📋Ethereum: Insurance rate will reduce 90% at the ...]]></title>
+        <id>https://twitter.com/defipulse/status/1516793205135663109</id>
+        <link href="https://twitter.com/defipulse/status/1516793205135663109"/>
+        <updated>2022-04-20T14:57:35.000Z</updated>
+        <summary type="html"><![CDATA[Re 7/9 Bitcoin vs Ethereum’s halvening 💭
+📋Bitcoin:
+Halves its insurance rate every 4 years
+📋Ethereum:
+Insurance rate will reduce 90% at the time of The Merge
+The Merge is equivalent to 3 #Bitcoin halvenings happening at once]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 6/9 What is “Triple Halvening”? It is the large drop in ETH insurance that will occur once The Merge is fully upgraded and the shift from PoW to ...]]></title>
+        <id>https://twitter.com/defipulse/status/1516793203579629577</id>
+        <link href="https://twitter.com/defipulse/status/1516793203579629577"/>
+        <updated>2022-04-20T14:57:35.000Z</updated>
+        <summary type="html"><![CDATA[Re 6/9 What is “Triple Halvening”?
+It is the large drop in ETH insurance that will occur once The Merge is fully upgraded and the shift from PoW to PoS consensus algorithm has been fully made]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 5/9 You do not need 32 ETH to run a validator on the Ethereum network 🙌 Services like @Rocket_Pool allows someone with 17.6 ETH+ to be matched w...]]></title>
+        <id>https://twitter.com/defipulse/status/1516793201817968650</id>
+        <link href="https://twitter.com/defipulse/status/1516793201817968650"/>
+        <updated>2022-04-20T14:57:34.000Z</updated>
+        <summary type="html"><![CDATA[Re 5/9 You do not need 32 ETH to run a validator on the Ethereum network 🙌
+Services like @Rocket_Pool allows someone with 17.6 ETH+ to be matched with 16 ETH deposited to the Rocket Pool smart contract by other stakers
+Let us know if you’d like us to go more in-depth on this 🧠]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 4/9 🔄 How will this impact you? If you are a regular user of Ethereum, nothing will change All the $ETH currently on Ethereum’s network will be...]]></title>
+        <id>https://twitter.com/defipulse/status/1516793200073183239</id>
+        <link href="https://twitter.com/defipulse/status/1516793200073183239"/>
+        <updated>2022-04-20T14:57:34.000Z</updated>
+        <summary type="html"><![CDATA[Re 4/9 🔄 How will this impact you?
+If you are a regular user of Ethereum, nothing will change
+All the $ETH currently on Ethereum’s network will be unaffected by the switch from PoW to PoS once The Merge occurs 
+The Merge will only affect the consensus layer of the network]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 3/9 Do you know the difference between PoW and PoS? Head over to this other thread we made to learn more 👇]]></title>
+        <id>https://twitter.com/defipulse/status/1516793198194139138</id>
+        <link href="https://twitter.com/defipulse/status/1516793198194139138"/>
+        <updated>2022-04-20T14:57:33.000Z</updated>
+        <summary type="html"><![CDATA[Re 3/9 Do you know the difference between PoW and PoS?
+Head over to this other thread we made to learn more 👇
+DeFi Pulse 🍇: Proof of Work vs Proof of Stake 🥊
+Do you know what they are and the differences between them?
+A 🧵]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 2/9 What is The Merge? 🤔 It is an upgrade in #Ethereum’s network that aims to replace the current consensus layer from Proof of Work (PoW) to a...]]></title>
+        <id>https://twitter.com/defipulse/status/1516793196713594883</id>
+        <link href="https://twitter.com/defipulse/status/1516793196713594883"/>
+        <updated>2022-04-20T14:57:33.000Z</updated>
+        <summary type="html"><![CDATA[Re 2/9 What is The Merge? 🤔
+It is an upgrade in #Ethereum’s network that aims to replace the current consensus layer from Proof of Work (PoW) to a more energy & capital efficient, but also more secure Proof of Stake (PoS) consensus]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The #ETH Proof of Stake Merge Explained 🔗 🧵👇]]></title>
+        <id>https://twitter.com/defipulse/status/1516793195279048709</id>
+        <link href="https://twitter.com/defipulse/status/1516793195279048709"/>
+        <updated>2022-04-20T14:57:33.000Z</updated>
+        <summary type="html"><![CDATA[The #ETH Proof of Stake Merge Explained 🔗
+🧵👇]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @floradome You can read more about it here 👇]]></title>
         <id>https://twitter.com/defipulse/status/1516314648387149825</id>
@@ -134,116 +243,6 @@ The exchange is seeking to become fully regulated in the country 🙌
         <link href="https://twitter.com/defipulse/status/1513539315946639361"/>
         <updated>2022-04-11T15:27:47.000Z</updated>
         <summary type="html"><![CDATA[Tag a friend that needs to learn about #DeFi asap in the comments! 👀]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re *The stable $USDC yield is up by 0.21%]]></title>
-        <id>https://twitter.com/defipulse/status/1512521915096780803</id>
-        <link href="https://twitter.com/defipulse/status/1512521915096780803"/>
-        <updated>2022-04-08T20:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Re *The stable $USDC yield is up by 0.21%]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 6/ @balancer launches its staking incentives trough $veBAL]]></title>
-        <id>https://twitter.com/defipulse/status/1512518993088815108</id>
-        <link href="https://twitter.com/defipulse/status/1512518993088815108"/>
-        <updated>2022-04-08T19:53:23.000Z</updated>
-        <summary type="html"><![CDATA[Re 6/ @balancer launches its staking incentives trough $veBAL
-Balancer Labs: 🧵🧵thread time🧵🧵
-Balancer devs are hard at work on an intuitive tool for Balancer LPs to calculate their $veBAL boosts under different circumstances.
-In the meantime, to explain how this calculation is done, here's a simple way to look at it 👇]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 5/ KyberSwap, the DEX aggregator from @KyberNetwork adds support to @Uniswap V3 🦄]]></title>
-        <id>https://twitter.com/defipulse/status/1512518990802862084</id>
-        <link href="https://twitter.com/defipulse/status/1512518990802862084"/>
-        <updated>2022-04-08T19:53:23.000Z</updated>
-        <summary type="html"><![CDATA[Re 5/ KyberSwap, the DEX aggregator from @KyberNetwork adds support to @Uniswap V3 🦄
-Kyber Network: 🤓This day just keeps getting better and better
-🦄 For all ya'll who's been waiting, @Uniswap V3 is now routed through #KyberSwap @ethereum @0xPolygon 🥳🎉Giving you degens the best rates, always 😉
-Swap now at the best rates on ➡️
-#DeFi #cryptocurrency
- https://kyberswap.com/]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 4/ Weekly NFT sales jumped 46% from $300 million to $439 million in the past week (3 NFTI constituents in top 5)]]></title>
-        <id>https://twitter.com/defipulse/status/1512518988747751439</id>
-        <link href="https://twitter.com/defipulse/status/1512518988747751439"/>
-        <updated>2022-04-08T19:53:22.000Z</updated>
-        <summary type="html"><![CDATA[Re 4/ Weekly NFT sales jumped 46% from $300 million to $439 million in the past week (3 NFTI constituents in top 5) https://markets.businessinsider.com/news/currencies/pudgy-penguin-nft-sale-top-selling-nfts-bored-ape-cryptopunks-2022-4]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 3/ Related Market News On its first quarterly rebalance of 2022, @Grayscale removes Synthetix ( $SNX ) and Sushi ( $SUSHI ) from its basket of asse...]]></title>
-        <id>https://twitter.com/defipulse/status/1512518986793205761</id>
-        <link href="https://twitter.com/defipulse/status/1512518986793205761"/>
-        <updated>2022-04-08T19:53:22.000Z</updated>
-        <summary type="html"><![CDATA[Re 3/ Related Market News  
-On its first quarterly rebalance of 2022, @Grayscale  removes Synthetix ( $SNX ) and Sushi ( $SUSHI ) from its basket of assets. https://blockworks.co/grayscale-adjusts-cryptoassets-exposure-in-diversified-funds/?linkId=159754058]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 2/ $DPI token, is based on the DeFi Pulse Index, a digital asset index designed to track the performance of top protocols in #DeFi $NFTI is based o...]]></title>
-        <id>https://twitter.com/defipulse/status/1512518984704344067</id>
-        <link href="https://twitter.com/defipulse/status/1512518984704344067"/>
-        <updated>2022-04-08T19:53:21.000Z</updated>
-        <summary type="html"><![CDATA[Re 2/ $DPI token, is based on the DeFi Pulse Index, a digital asset index designed to track the performance of top protocols in #DeFi
-$NFTI is based on the @scalara_xyz NFT Index, an index designed to track the performance of the most well-known #NFT collections]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1/ It is this time of the week! #SectorPulse is here 🥳 📉 $DPI is now trading at $193.97, a 12% decrease from last week; 📉 $NFTI is now tradin...]]></title>
-        <id>https://twitter.com/defipulse/status/1512518979641909250</id>
-        <link href="https://twitter.com/defipulse/status/1512518979641909250"/>
-        <updated>2022-04-08T19:53:20.000Z</updated>
-        <summary type="html"><![CDATA[1/ It is this time of the week! #SectorPulse is here 🥳
-📉 $DPI is now trading at $193.97, a 12% decrease from last week;
-📉 $NFTI is now trading at $11.87, a 8% decrease from last week;
-The stable $USD yield is $0.21.]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poly Pulse is out 🙌 🟣 Learn about what went on in @0xpolygon’s ecosystem. In this issue you will find: 👤 Launch of #Polygon ID 🖼️ @Scala...]]></title>
-        <id>https://twitter.com/defipulse/status/1512435440808255495</id>
-        <link href="https://twitter.com/defipulse/status/1512435440808255495"/>
-        <updated>2022-04-08T14:21:23.000Z</updated>
-        <summary type="html"><![CDATA[Poly Pulse is out 🙌
-🟣 Learn about what went on in @0xpolygon’s ecosystem. In this issue you will find:
-👤 Launch of #Polygon ID
-🖼️ @Scalara_xyz launch of NFTI, Blue-chip NFT Index
-🚀 Liquidity mining 2.0 deployed on Polygon
-And more 👀
-Learn more 👇 https://bit.ly/35QSwLI]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Scalara: Scalara announces a change to the composition of the DeFi Pulse Index as a result of the merger of Rari Governance Token $RGT and $TRIBE. ...]]></title>
-        <id>https://twitter.com/Scalara_xyz/status/1512213151781113866</id>
-        <link href="https://twitter.com/Scalara_xyz/status/1512213151781113866"/>
-        <updated>2022-04-07T23:38:05.000Z</updated>
-        <summary type="html"><![CDATA[RT Scalara
-Scalara announces a change to the composition of the DeFi Pulse Index as a result of the merger of Rari Governance Token $RGT and $TRIBE. $DPI https://www.scalara.xyz/blog/defi-pulse-index-update-rgt-tribe-merger]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
