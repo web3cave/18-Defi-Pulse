@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-21T01:50:10.649Z</id>
+    <id>urn:2022-04-21T03:38:35.250Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-21T01:50:10.649Z</updated>
+    <updated>2022-04-21T03:38:35.250Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT Scalara: Blue-chip #NFT collections have rallied over the last few days leading up to the @Coinbase_NFT beta launch. ⬆️Leaders: @cryptoadzNFT and...]]></title>
+        <id>https://twitter.com/Scalara_xyz/status/1516939268974915586</id>
+        <link href="https://twitter.com/Scalara_xyz/status/1516939268974915586"/>
+        <updated>2022-04-21T00:37:59.000Z</updated>
+        <summary type="html"><![CDATA[RT Scalara
+Blue-chip #NFT collections have rallied over the last few days leading up to the @Coinbase_NFT beta launch.
+⬆️Leaders: @cryptoadzNFT and @MeebitsNFTs 
+⬇️Laggards: @cryptopunksnfts and @doodles]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re 9/9 Let us know in the comments below what are your thoughts on this new upgrade to Ethereum’s network 👇]]></title>
         <id>https://twitter.com/defipulse/status/1516793216074461185</id>
@@ -84,7 +97,10 @@ The Merge will only affect the consensus layer of the network]]></summary>
         <link href="https://twitter.com/defipulse/status/1516793198194139138"/>
         <updated>2022-04-20T14:57:33.000Z</updated>
         <summary type="html"><![CDATA[Re 3/9 Do you know the difference between PoW and PoS?
-Head over to this other thread we made to learn more 👇 https://twitter.com/defipulse/status/1511062607888896013]]></summary>
+Head over to this other thread we made to learn more 👇
+DeFi Pulse 🍇: Proof of Work vs Proof of Stake 🥊
+Do you know what they are and the differences between them?
+A 🧵]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -148,7 +164,12 @@ $NFTI is based on the @scalara_xyz NFT Index, an index designed to track the per
         <id>https://twitter.com/defipulse/status/1515138338180767747</id>
         <link href="https://twitter.com/defipulse/status/1515138338180767747"/>
         <updated>2022-04-16T01:21:44.000Z</updated>
-        <summary type="html"><![CDATA[Re 4/ @coinbase hinting on a movie with @BoredApeYC & @apecoin? 👀 https://twitter.com/coinbase/status/1513589848048689152]]></summary>
+        <summary type="html"><![CDATA[Re 4/ @coinbase hinting on a movie with @BoredApeYC & @apecoin? 👀
+Coinbase: ⭐️DEFINITELY SOMETHING⭐️
+We're creating an interactive three-part film featuring the @BoredApeYC & @apecoin communities. 
+Come build with us!
+👉
+ http://degentrilogy.com]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
