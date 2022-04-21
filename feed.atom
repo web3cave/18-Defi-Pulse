@@ -1,10 +1,103 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-21T22:21:10.986Z</id>
+    <id>urn:2022-04-21T23:20:19.255Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-21T22:21:10.986Z</updated>
+    <updated>2022-04-21T23:20:19.255Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re Now we want to hear from you! Drop your thought below 👇]]></title>
+        <id>https://twitter.com/defipulse/status/1517256326950313986</id>
+        <link href="https://twitter.com/defipulse/status/1517256326950313986"/>
+        <updated>2022-04-21T21:37:52.000Z</updated>
+        <summary type="html"><![CDATA[Re Now we want to hear from you!
+Drop your thought below 👇]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1517256010456387584</id>
+        <link href="https://twitter.com/defipulse/status/1517256010456387584"/>
+        <updated>2022-04-21T21:36:36.000Z</updated>
+        <summary type="html"><![CDATA[Re 
+-Kitto the Tiny Dinos Maximalist: So the mythical #CoinbaseNFT Marketplace is finally here... at least in Beta. Does it live up to the hype? An analysis: 🧵 #NFTCommunity
+ https://nft.coinbase.com/]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1517256007310725121</id>
+        <link href="https://twitter.com/defipulse/status/1517256007310725121"/>
+        <updated>2022-04-21T21:36:36.000Z</updated>
+        <summary type="html"><![CDATA[Re 
+David Gokhshtein: People joke on @Coinbase_NFT but I think they can take on OpenSea.]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1517256004173324294</id>
+        <link href="https://twitter.com/defipulse/status/1517256004173324294"/>
+        <updated>2022-04-21T21:36:35.000Z</updated>
+        <summary type="html"><![CDATA[Re 
+Arcanic.eth ✨: Never using Coinbase NFT again. Just listed my NFT for 0.01 below floor and someone called me a pussy in the comment section]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1517256000960532480</id>
+        <link href="https://twitter.com/defipulse/status/1517256000960532480"/>
+        <updated>2022-04-21T21:36:34.000Z</updated>
+        <summary type="html"><![CDATA[Re 
+cr0ss.eth: This has been my Coinbase NFT experience so far...]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1517255997739311104</id>
+        <link href="https://twitter.com/defipulse/status/1517255997739311104"/>
+        <updated>2022-04-21T21:36:33.000Z</updated>
+        <summary type="html"><![CDATA[Re 
+tropoFarmer ∞: quick thoughts on @Coinbase_NFT:
+👎 major missing/half-baked features (no trait filtering, no timed listings, no activity/sales, profile curation sucks)
+👍 0% fees, clean design, comments, non-custodial/non-KYC, Discover has potential
+👍👍👍 90 million registered Coinbase users]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1517255994765496320</id>
+        <link href="https://twitter.com/defipulse/status/1517255994765496320"/>
+        <updated>2022-04-21T21:36:33.000Z</updated>
+        <summary type="html"><![CDATA[Re 
+Yano 🟪: Coinbase didn't launch an NFT platform... they launched Web3 Instagram]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BREAKING: Coinbase NFT Beta version is live 👀 Here we've highlighted some beta testers impressions Read the thread below to see what they are think...]]></title>
+        <id>https://twitter.com/defipulse/status/1517255991313592321</id>
+        <link href="https://twitter.com/defipulse/status/1517255991313592321"/>
+        <updated>2022-04-21T21:36:32.000Z</updated>
+        <summary type="html"><![CDATA[BREAKING: Coinbase NFT Beta version is live 👀
+Here we've highlighted some beta testers impressions 
+Read the thread below to see what they are thinking👇]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT Scalara: Blue-chip #NFT collections have rallied over the last few days leading up to the @Coinbase_NFT beta launch. ⬆️Leaders: @cryptoadzNFT and...]]></title>
         <id>https://twitter.com/Scalara_xyz/status/1516939268974915586</id>
@@ -144,108 +237,6 @@ It is an upgrade in #Ethereum’s network that aims to replace the current conse
         <updated>2022-04-18T19:47:02.000Z</updated>
         <summary type="html"><![CDATA[🚨BREAKING: Andre Cronje is in favor of crypto regulations
 Read more: https://andrecronje.medium.com/the-rise-and-fall-of-crypto-culture-3d0e6fd3e0e9]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re $DPI token, is based on the DeFi Pulse Index, a digital asset index designed to track the performance of top protocols in #DeFi $NFTI is based on t...]]></title>
-        <id>https://twitter.com/defipulse/status/1515138342861643776</id>
-        <link href="https://twitter.com/defipulse/status/1515138342861643776"/>
-        <updated>2022-04-16T01:21:45.000Z</updated>
-        <summary type="html"><![CDATA[Re $DPI token, is based on the DeFi Pulse Index, a digital asset index designed to track the performance of top protocols in #DeFi
-$NFTI is based on the @scalara_xyz NFT Index, an index designed to track the performance of the most well-known #NFT collections]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 4/ @coinbase hinting on a movie with @BoredApeYC & @apecoin? 👀]]></title>
-        <id>https://twitter.com/defipulse/status/1515138338180767747</id>
-        <link href="https://twitter.com/defipulse/status/1515138338180767747"/>
-        <updated>2022-04-16T01:21:44.000Z</updated>
-        <summary type="html"><![CDATA[Re 4/ @coinbase hinting on a movie with @BoredApeYC & @apecoin? 👀
-Coinbase: ⭐️DEFINITELY SOMETHING⭐️
-We're creating an interactive three-part film featuring the @BoredApeYC & @apecoin communities. 
-Come build with us!
-👉
- http://degentrilogy.com]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 3/ #NFT market has traded over $17 billion since 2020 according to @nansei_ai’s NFT Report]]></title>
-        <id>https://twitter.com/defipulse/status/1515138335991386112</id>
-        <link href="https://twitter.com/defipulse/status/1515138335991386112"/>
-        <updated>2022-04-16T01:21:43.000Z</updated>
-        <summary type="html"><![CDATA[Re 3/ #NFT market has traded over $17 billion since 2020 according to @nansei_ai’s NFT Report https://bit.ly/36ktvsG]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 2/ Related Market News 📰 👀 @uniswap launches new website integration tool which will allow websites to embed their trading capabilities 🔧]]></title>
-        <id>https://twitter.com/defipulse/status/1515138333978120193</id>
-        <link href="https://twitter.com/defipulse/status/1515138333978120193"/>
-        <updated>2022-04-16T01:21:43.000Z</updated>
-        <summary type="html"><![CDATA[Re 2/ Related Market News 📰 👀
-@uniswap launches new website integration tool which will allow websites to embed their trading capabilities 🔧 https://bloom.bg/3KNCmlA]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1/ Time for News! #SectorPulse is here 🥳🙌 📉 $DPI is now trading at $178.36, a 5.8% decrease from last week 📉 $NFTI is now trading at $10.3...]]></title>
-        <id>https://twitter.com/defipulse/status/1515138331130146819</id>
-        <link href="https://twitter.com/defipulse/status/1515138331130146819"/>
-        <updated>2022-04-16T01:21:42.000Z</updated>
-        <summary type="html"><![CDATA[1/ Time for News! #SectorPulse is here 🥳🙌
-📉 $DPI is now trading at $178.36, a 5.8% decrease from last week
-📉 $NFTI is now trading at $10.36, a 10.4% decrease from last week
-The stable $USDC yield is 2.33%
-Let's do a news roundup to see what happened in the  past week 🧵👇]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Scalara: One main advantage of indices is the diversification they provide -- not putting all eggs in one basket. How can we quantify this for the ...]]></title>
-        <id>https://twitter.com/Scalara_xyz/status/1514430698358255618</id>
-        <link href="https://twitter.com/Scalara_xyz/status/1514430698358255618"/>
-        <updated>2022-04-14T02:29:49.000Z</updated>
-        <summary type="html"><![CDATA[RT Scalara
-One main advantage of indices is the diversification they provide -- not putting all eggs in one basket.
-How can we quantify this for the Scalara NFT Index?
-Comparing volatility of the constituents and the index shows that $NFTI is fluctuating less than the constituents. #NFT]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pulse Farmer is out! 🥳 🙌 In this week’s issue, you will learn about 👇 🇬🇧 UK plans to regulate #cryptocurrency 📈@kybernetwork was th...]]></title>
-        <id>https://twitter.com/defipulse/status/1514239915902615553</id>
-        <link href="https://twitter.com/defipulse/status/1514239915902615553"/>
-        <updated>2022-04-13T13:51:43.000Z</updated>
-        <summary type="html"><![CDATA[Pulse Farmer is out! 🥳 🙌
-In this week’s issue, you will learn about 👇
-🇬🇧 UK plans to regulate #cryptocurrency
-📈@kybernetwork was the week’s best-performing asset 🔥
-🚜 Exploring the DAI-USDC LP vault on @beefyfinance
-👀 and more
-Read more 👇 https://bit.ly/3EahgLG]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance deepens Middle Eastern expansion after they become approved to operate in Abu Dhabi 🇦🇪 The exchange is seeking to become fully regulated...]]></title>
-        <id>https://twitter.com/defipulse/status/1513849790081212417</id>
-        <link href="https://twitter.com/defipulse/status/1513849790081212417"/>
-        <updated>2022-04-12T12:01:30.000Z</updated>
-        <summary type="html"><![CDATA[Binance deepens Middle Eastern expansion after they become approved to operate in Abu Dhabi 🇦🇪
-The exchange is seeking to become fully regulated in the country 🙌
-@cz_binance has said that there is more to come 👀]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
