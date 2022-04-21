@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-21T09:21:26.083Z</id>
+    <id>urn:2022-04-21T10:24:38.475Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-21T09:21:26.083Z</updated>
+    <updated>2022-04-21T10:24:38.475Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -97,10 +97,7 @@ The Merge will only affect the consensus layer of the network]]></summary>
         <link href="https://twitter.com/defipulse/status/1516793198194139138"/>
         <updated>2022-04-20T14:57:33.000Z</updated>
         <summary type="html"><![CDATA[Re 3/9 Do you know the difference between PoW and PoS?
-Head over to this other thread we made to learn more 👇
-DeFi Pulse 🍇: Proof of Work vs Proof of Stake 🥊
-Do you know what they are and the differences between them?
-A 🧵]]></summary>
+Head over to this other thread we made to learn more 👇 https://twitter.com/defipulse/status/1511062607888896013]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -164,12 +161,7 @@ $NFTI is based on the @scalara_xyz NFT Index, an index designed to track the per
         <id>https://twitter.com/defipulse/status/1515138338180767747</id>
         <link href="https://twitter.com/defipulse/status/1515138338180767747"/>
         <updated>2022-04-16T01:21:44.000Z</updated>
-        <summary type="html"><![CDATA[Re 4/ @coinbase hinting on a movie with @BoredApeYC & @apecoin? 👀
-Coinbase: ⭐️DEFINITELY SOMETHING⭐️
-We're creating an interactive three-part film featuring the @BoredApeYC & @apecoin communities. 
-Come build with us!
-👉
- http://degentrilogy.com]]></summary>
+        <summary type="html"><![CDATA[Re 4/ @coinbase hinting on a movie with @BoredApeYC & @apecoin? 👀 https://twitter.com/coinbase/status/1513589848048689152]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -234,18 +226,6 @@ In this week’s issue, you will learn about 👇
 🚜 Exploring the DAI-USDC LP vault on @beefyfinance
 👀 and more
 Read more 👇 https://bit.ly/3EahgLG]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance deepens Middle Eastern expansion after they become approved to operate in Abu Dhabi 🇦🇪 The exchange is seeking to become fully regulated...]]></title>
-        <id>https://twitter.com/defipulse/status/1513849790081212417</id>
-        <link href="https://twitter.com/defipulse/status/1513849790081212417"/>
-        <updated>2022-04-12T12:01:30.000Z</updated>
-        <summary type="html"><![CDATA[Binance deepens Middle Eastern expansion after they become approved to operate in Abu Dhabi 🇦🇪
-The exchange is seeking to become fully regulated in the country 🙌
-@cz_binance has said that there is more to come 👀]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
