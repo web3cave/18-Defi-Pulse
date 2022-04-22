@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-22T03:51:02.617Z</id>
+    <id>urn:2022-04-22T04:52:08.812Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-22T03:51:02.617Z</updated>
+    <updated>2022-04-22T04:52:08.812Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -21,7 +21,9 @@ Drop your thought below 👇]]></summary>
         <id>https://twitter.com/defipulse/status/1517256010456387584</id>
         <link href="https://twitter.com/defipulse/status/1517256010456387584"/>
         <updated>2022-04-21T21:36:36.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://twitter.com/DashKitto/status/1516775353104142336]]></summary>
+        <summary type="html"><![CDATA[Re 
+-Kitto the Tiny Dinos Maximalist: So the mythical #CoinbaseNFT Marketplace is finally here... at least in Beta. Does it live up to the hype? An analysis: 🧵 #NFTCommunity
+ https://nft.coinbase.com/]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -31,7 +33,8 @@ Drop your thought below 👇]]></summary>
         <id>https://twitter.com/defipulse/status/1517256007310725121</id>
         <link href="https://twitter.com/defipulse/status/1517256007310725121"/>
         <updated>2022-04-21T21:36:36.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://twitter.com/davidgokhshtein/status/1516803505155186690]]></summary>
+        <summary type="html"><![CDATA[Re 
+David Gokhshtein: People joke on @Coinbase_NFT but I think they can take on OpenSea.]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -41,7 +44,8 @@ Drop your thought below 👇]]></summary>
         <id>https://twitter.com/defipulse/status/1517256004173324294</id>
         <link href="https://twitter.com/defipulse/status/1517256004173324294"/>
         <updated>2022-04-21T21:36:35.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://twitter.com/ArcanicNFT/status/1516801371399507971]]></summary>
+        <summary type="html"><![CDATA[Re 
+Arcanic.eth ✨: Never using Coinbase NFT again. Just listed my NFT for 0.01 below floor and someone called me a pussy in the comment section]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -51,7 +55,8 @@ Drop your thought below 👇]]></summary>
         <id>https://twitter.com/defipulse/status/1517256000960532480</id>
         <link href="https://twitter.com/defipulse/status/1517256000960532480"/>
         <updated>2022-04-21T21:36:34.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://twitter.com/cr0ssETH/status/1516815705949151234]]></summary>
+        <summary type="html"><![CDATA[Re 
+cr0ss.eth: This has been my Coinbase NFT experience so far...]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -61,7 +66,11 @@ Drop your thought below 👇]]></summary>
         <id>https://twitter.com/defipulse/status/1517255997739311104</id>
         <link href="https://twitter.com/defipulse/status/1517255997739311104"/>
         <updated>2022-04-21T21:36:33.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://twitter.com/tropoFarmer/status/1516799047411113987]]></summary>
+        <summary type="html"><![CDATA[Re 
+tropoFarmer ∞: quick thoughts on @Coinbase_NFT:
+👎 major missing/half-baked features (no trait filtering, no timed listings, no activity/sales, profile curation sucks)
+👍 0% fees, clean design, comments, non-custodial/non-KYC, Discover has potential
+👍👍👍 90 million registered Coinbase users]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -71,7 +80,8 @@ Drop your thought below 👇]]></summary>
         <id>https://twitter.com/defipulse/status/1517255994765496320</id>
         <link href="https://twitter.com/defipulse/status/1517255994765496320"/>
         <updated>2022-04-21T21:36:33.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://twitter.com/JasonYanowitz/status/1516799282233360386]]></summary>
+        <summary type="html"><![CDATA[Re 
+Yano 🟪: Coinbase didn't launch an NFT platform... they launched Web3 Instagram]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -180,7 +190,10 @@ The Merge will only affect the consensus layer of the network]]></summary>
         <link href="https://twitter.com/defipulse/status/1516793198194139138"/>
         <updated>2022-04-20T14:57:33.000Z</updated>
         <summary type="html"><![CDATA[Re 3/9 Do you know the difference between PoW and PoS?
-Head over to this other thread we made to learn more 👇 https://twitter.com/defipulse/status/1511062607888896013]]></summary>
+Head over to this other thread we made to learn more 👇
+DeFi Pulse 🍇: Proof of Work vs Proof of Stake 🥊
+Do you know what they are and the differences between them?
+A 🧵]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -213,6 +226,17 @@ It is an upgrade in #Ethereum’s network that aims to replace the current conse
         <link href="https://twitter.com/defipulse/status/1516314648387149825"/>
         <updated>2022-04-19T07:15:58.000Z</updated>
         <summary type="html"><![CDATA[Re @floradome You can read more about it here 👇 https://www.defipulse.com/blog/how-to-join-the-defi-pulse-leaderboard]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🚨BREAKING: Andre Cronje is in favor of crypto regulations Read more:]]></title>
+        <id>https://twitter.com/defipulse/status/1516141270208499718</id>
+        <link href="https://twitter.com/defipulse/status/1516141270208499718"/>
+        <updated>2022-04-18T19:47:02.000Z</updated>
+        <summary type="html"><![CDATA[🚨BREAKING: Andre Cronje is in favor of crypto regulations
+Read more: https://andrecronje.medium.com/the-rise-and-fall-of-crypto-culture-3d0e6fd3e0e9]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
