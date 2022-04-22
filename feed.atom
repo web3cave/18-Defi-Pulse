@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-22T22:21:41.372Z</id>
+    <id>urn:2022-04-22T23:20:52.088Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-22T22:21:41.372Z</updated>
+    <updated>2022-04-22T23:20:52.088Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re 6/ #DeFi's TVL increases to $239B after large institutional push Source: @Blockworks_]]></title>
+        <id>https://twitter.com/defipulse/status/1517596450628116483</id>
+        <link href="https://twitter.com/defipulse/status/1517596450628116483"/>
+        <updated>2022-04-22T20:09:24.000Z</updated>
+        <summary type="html"><![CDATA[Re 6/ #DeFi's TVL increases to $239B after large institutional push
+Source: @Blockworks_ https://blockworks.co/large-institutional-transactions-push-total-value-locked-in-defi-to-239b/]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 5/ @iearnfinance's creator, Andre Cronje speaks in favor of crypto regulation Source: @CoinDesk]]></title>
+        <id>https://twitter.com/defipulse/status/1517596447759233024</id>
+        <link href="https://twitter.com/defipulse/status/1517596447759233024"/>
+        <updated>2022-04-22T20:09:23.000Z</updated>
+        <summary type="html"><![CDATA[Re 5/ @iearnfinance's creator, Andre Cronje speaks in favor of crypto regulation
+Source: @CoinDesk https://www.coindesk.com/tech/2022/04/19/defi-developer-andre-cronje-teases-new-regulation-focused-crypto-projects/]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 4/ @coolcatsnft help increase the weekly #NFT sales to $260 million]]></title>
+        <id>https://twitter.com/defipulse/status/1517596444873486336</id>
+        <link href="https://twitter.com/defipulse/status/1517596444873486336"/>
+        <updated>2022-04-22T20:09:22.000Z</updated>
+        <summary type="html"><![CDATA[Re 4/ @coolcatsnft help increase the weekly #NFT sales to $260 million https://markets.businessinsider.com/news/currencies/bored-ape-yacht-club-weekly-nft-sales-crypto-cool-cats-2022-4]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 3/ Related Market News 📰 👀]]></title>
+        <id>https://twitter.com/defipulse/status/1517596441924964352</id>
+        <link href="https://twitter.com/defipulse/status/1517596441924964352"/>
+        <updated>2022-04-22T20:09:21.000Z</updated>
+        <summary type="html"><![CDATA[Re 3/ Related Market News 📰 👀
+DeFi Pulse 🍇: BREAKING: Coinbase NFT Beta version is live 👀
+Here we've highlighted some beta testers impressions 
+Read the thread below to see what they are thinking👇]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 2/ $DPI token, is based on the DeFi Pulse Index, a digital asset index designed to track the performance of top protocols in #DeFi $NFTI is based o...]]></title>
+        <id>https://twitter.com/defipulse/status/1517596438846353409</id>
+        <link href="https://twitter.com/defipulse/status/1517596438846353409"/>
+        <updated>2022-04-22T20:09:21.000Z</updated>
+        <summary type="html"><![CDATA[Re 2/ $DPI token, is based on the DeFi Pulse Index, a digital asset index designed to track the performance of top protocols in #DeFi
+$NFTI is based on the @scalara_xyz NFT Index, an index designed to track the performance of the most well-known #NFT collections]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1/It's this time of the week again! #SectorPulse is here! 🙌 $DPI is now trading at $178.46 for the 2nd consecutive week 📉$NFTI is now trading at...]]></title>
+        <id>https://twitter.com/defipulse/status/1517596431657308160</id>
+        <link href="https://twitter.com/defipulse/status/1517596431657308160"/>
+        <updated>2022-04-22T20:09:19.000Z</updated>
+        <summary type="html"><![CDATA[1/It's this time of the week again! #SectorPulse is here! 🙌
+$DPI is now trading at $178.46 for the 2nd consecutive week
+📉$NFTI is now trading at $10.29, a 1% decrease from last week
+The stable $USDC yield is 2.66%
+In the 🧵 👇 you will see a summary of the recent news]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re And a lot more! To learn more read the latest edition here 👇]]></title>
         <id>https://twitter.com/defipulse/status/1517428022390910976</id>
@@ -164,79 +234,6 @@ tropoFarmer ∞: quick thoughts on @Coinbase_NFT:
 👎 major missing/half-baked features (no trait filtering, no timed listings, no activity/sales, profile curation sucks)
 👍 0% fees, clean design, comments, non-custodial/non-KYC, Discover has potential
 👍👍👍 90 million registered Coinbase users]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1517411085191589890</id>
-        <link href="https://twitter.com/defipulse/status/1517411085191589890"/>
-        <updated>2022-04-22T07:52:49.000Z</updated>
-        <summary type="html"><![CDATA[Re 
-Yano 🟪: Coinbase didn't launch an NFT platform... they launched Web3 Instagram]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BREAKING: Coinbase NFT Beta version is live 👀 Here we've highlighted some beta testers impressions Read the thread below to see what they are think...]]></title>
-        <id>https://twitter.com/defipulse/status/1517411081781612544</id>
-        <link href="https://twitter.com/defipulse/status/1517411081781612544"/>
-        <updated>2022-04-22T07:52:48.000Z</updated>
-        <summary type="html"><![CDATA[BREAKING: Coinbase NFT Beta version is live 👀
-Here we've highlighted some beta testers impressions 
-Read the thread below to see what they are thinking👇]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Scalara: Blue-chip #NFT collections have rallied over the last few days leading up to the @Coinbase_NFT beta launch. ⬆️Leaders: @cryptoadzNFT and...]]></title>
-        <id>https://twitter.com/Scalara_xyz/status/1516939268974915586</id>
-        <link href="https://twitter.com/Scalara_xyz/status/1516939268974915586"/>
-        <updated>2022-04-21T00:37:59.000Z</updated>
-        <summary type="html"><![CDATA[RT Scalara
-Blue-chip #NFT collections have rallied over the last few days leading up to the @Coinbase_NFT beta launch.
-⬆️Leaders: @cryptoadzNFT and @MeebitsNFTs 
-⬇️Laggards: @cryptopunksnfts and @doodles]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 9/9 Let us know in the comments below what are your thoughts on this new upgrade to Ethereum’s network 👇]]></title>
-        <id>https://twitter.com/defipulse/status/1516793216074461185</id>
-        <link href="https://twitter.com/defipulse/status/1516793216074461185"/>
-        <updated>2022-04-20T14:57:38.000Z</updated>
-        <summary type="html"><![CDATA[Re 9/9 Let us know in the comments below what are your thoughts on this new upgrade to Ethereum’s network 👇]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 8/9 Will The Merge solve the high gas fees problem? ⛽ Unfortunately not ☹️ It will not have any impact on the current user experience on Ethereu...]]></title>
-        <id>https://twitter.com/defipulse/status/1516793206633078788</id>
-        <link href="https://twitter.com/defipulse/status/1516793206633078788"/>
-        <updated>2022-04-20T14:57:35.000Z</updated>
-        <summary type="html"><![CDATA[Re 8/9 Will The Merge solve the high gas fees problem? ⛽
-Unfortunately not ☹️
-It will not have any impact on the current user experience on Ethereum, but future updates on Ethereum’s roadmap such as #sharding will help solve that issue]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 7/9 Bitcoin vs Ethereum’s halvening 💭 📋Bitcoin: Halves its insurance rate every 4 years 📋Ethereum: Insurance rate will reduce 90% at the ...]]></title>
-        <id>https://twitter.com/defipulse/status/1516793205135663109</id>
-        <link href="https://twitter.com/defipulse/status/1516793205135663109"/>
-        <updated>2022-04-20T14:57:35.000Z</updated>
-        <summary type="html"><![CDATA[Re 7/9 Bitcoin vs Ethereum’s halvening 💭
-📋Bitcoin:
-Halves its insurance rate every 4 years
-📋Ethereum:
-Insurance rate will reduce 90% at the time of The Merge
-The Merge is equivalent to 3 #Bitcoin halvenings happening at once]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
