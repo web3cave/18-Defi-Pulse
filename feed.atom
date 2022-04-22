@@ -1,96 +1,176 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-22T09:21:28.965Z</id>
+    <id>urn:2022-04-22T10:24:36.870Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-22T09:21:28.965Z</updated>
+    <updated>2022-04-22T10:24:36.870Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Re Now we want to hear from you! Drop your thought below 👇]]></title>
-        <id>https://twitter.com/defipulse/status/1517256326950313986</id>
-        <link href="https://twitter.com/defipulse/status/1517256326950313986"/>
-        <updated>2022-04-21T21:37:52.000Z</updated>
+        <title type="html"><![CDATA[Re And a lot more! To learn more read the latest edition here 👇]]></title>
+        <id>https://twitter.com/defipulse/status/1517428022390910976</id>
+        <link href="https://twitter.com/defipulse/status/1517428022390910976"/>
+        <updated>2022-04-22T09:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Re And a lot more! 
+To learn more read the latest edition here 👇 https://bit.ly/3EBwFVA]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Things to think about ahead of #DeFi summer 💭🌞]]></title>
+        <id>https://twitter.com/defipulse/status/1517428019719073792</id>
+        <link href="https://twitter.com/defipulse/status/1517428019719073792"/>
+        <updated>2022-04-22T09:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Re Things to think about ahead of #DeFi summer 💭🌞]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 🚜Explore @bobanetwork's $USDC pool on cBridge]]></title>
+        <id>https://twitter.com/defipulse/status/1517428016833433601</id>
+        <link href="https://twitter.com/defipulse/status/1517428016833433601"/>
+        <updated>2022-04-22T09:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Re 🚜Explore @bobanetwork's $USDC pool on cBridge]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1517428013796782081</id>
+        <link href="https://twitter.com/defipulse/status/1517428013796782081"/>
+        <updated>2022-04-22T09:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://twitter.com/defipulse/status/1516141270208499718?s=20&t=mQkr-aVqEdV7aLDm93lXvQ]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Coinbase launched the beta version of their #NFT marketplace Interested in knowing what people's thoughts are? We've combined a few in this thread ...]]></title>
+        <id>https://twitter.com/defipulse/status/1517428010915303425</id>
+        <link href="https://twitter.com/defipulse/status/1517428010915303425"/>
+        <updated>2022-04-22T09:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Re Coinbase launched the beta version of their #NFT marketplace
+Interested in knowing what people's thoughts are?
+We've combined a few in this thread 👇 https://twitter.com/defipulse/status/1517255991313592321?s=20&t=mQkr-aVqEdV7aLDm93lXvQ]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Weeks best-performing assets were... 🥁 1. 📈 @compoundfinance ($COMP) +19.1% 2. 📈 @synthetix_io +17.8% ($SNX) 3. 📈 @renprotocol + 11.8% ...]]></title>
+        <id>https://twitter.com/defipulse/status/1517428008067354624</id>
+        <link href="https://twitter.com/defipulse/status/1517428008067354624"/>
+        <updated>2022-04-22T09:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Re Weeks best-performing assets were... 🥁
+1. 📈 @compoundfinance ($COMP) +19.1%
+2. 📈 @synthetix_io +17.8% ($SNX)
+3. 📈 @renprotocol + 11.8% ($REN)]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re CEO of @AMCTheatres, @CEOAdam announced that the iOS and the Android app now take payment in #crypto Available payment options include $DOGE, $SHIB...]]></title>
+        <id>https://twitter.com/defipulse/status/1517428005156519936</id>
+        <link href="https://twitter.com/defipulse/status/1517428005156519936"/>
+        <updated>2022-04-22T09:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Re CEO of @AMCTheatres, @CEOAdam announced that the iOS and the Android app now take payment in #crypto
+Available payment options include $DOGE, $SHIB, and others]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pulse Farmer is live! 🙌 🎉 The Pulse Famer is one of our newsletters where we explore what has been happening in the #DeFi world and also is a gu...]]></title>
+        <id>https://twitter.com/defipulse/status/1517428002254057478</id>
+        <link href="https://twitter.com/defipulse/status/1517428002254057478"/>
+        <updated>2022-04-22T09:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Pulse Farmer is live! 🙌 🎉
+The Pulse Famer is one of our newsletters where we explore what has been happening in the #DeFi world and also is a guide to yield-farming opportunities
+Read the 🧵 to get a sneak peek of what we covered this week
+Subscribe👇 https://yieldfarmer.substack.com/]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Now we want to hear from you! Drop your thought on Coinbase NFT in the comments]]></title>
+        <id>https://twitter.com/defipulse/status/1517411102497202182</id>
+        <link href="https://twitter.com/defipulse/status/1517411102497202182"/>
+        <updated>2022-04-22T07:52:53.000Z</updated>
         <summary type="html"><![CDATA[Re Now we want to hear from you!
-Drop your thought below 👇]]></summary>
+Drop your thought on Coinbase NFT in the comments]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1517256010456387584</id>
-        <link href="https://twitter.com/defipulse/status/1517256010456387584"/>
-        <updated>2022-04-21T21:36:36.000Z</updated>
-        <summary type="html"><![CDATA[Re 
--Kitto the Tiny Dinos Maximalist: So the mythical #CoinbaseNFT Marketplace is finally here... at least in Beta. Does it live up to the hype? An analysis: 🧵 #NFTCommunity
- https://nft.coinbase.com/]]></summary>
+        <id>https://twitter.com/defipulse/status/1517411099619954689</id>
+        <link href="https://twitter.com/defipulse/status/1517411099619954689"/>
+        <updated>2022-04-22T07:52:52.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://twitter.com/DashKitto/status/1516775353104142336]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1517256007310725121</id>
-        <link href="https://twitter.com/defipulse/status/1517256007310725121"/>
-        <updated>2022-04-21T21:36:36.000Z</updated>
-        <summary type="html"><![CDATA[Re 
-David Gokhshtein: People joke on @Coinbase_NFT but I think they can take on OpenSea.]]></summary>
+        <id>https://twitter.com/defipulse/status/1517411096818184192</id>
+        <link href="https://twitter.com/defipulse/status/1517411096818184192"/>
+        <updated>2022-04-22T07:52:52.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://twitter.com/davidgokhshtein/status/1516803505155186690]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1517256004173324294</id>
-        <link href="https://twitter.com/defipulse/status/1517256004173324294"/>
-        <updated>2022-04-21T21:36:35.000Z</updated>
-        <summary type="html"><![CDATA[Re 
-Arcanic.eth ✨: Never using Coinbase NFT again. Just listed my NFT for 0.01 below floor and someone called me a pussy in the comment section]]></summary>
+        <id>https://twitter.com/defipulse/status/1517411093982765056</id>
+        <link href="https://twitter.com/defipulse/status/1517411093982765056"/>
+        <updated>2022-04-22T07:52:51.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://twitter.com/ArcanicNFT/status/1516801371399507971]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1517256000960532480</id>
-        <link href="https://twitter.com/defipulse/status/1517256000960532480"/>
-        <updated>2022-04-21T21:36:34.000Z</updated>
-        <summary type="html"><![CDATA[Re 
-cr0ss.eth: This has been my Coinbase NFT experience so far...]]></summary>
+        <id>https://twitter.com/defipulse/status/1517411091042557953</id>
+        <link href="https://twitter.com/defipulse/status/1517411091042557953"/>
+        <updated>2022-04-22T07:52:50.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://twitter.com/cr0ssETH/status/1516815705949151234]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1517255997739311104</id>
-        <link href="https://twitter.com/defipulse/status/1517255997739311104"/>
-        <updated>2022-04-21T21:36:33.000Z</updated>
-        <summary type="html"><![CDATA[Re 
-tropoFarmer ∞: quick thoughts on @Coinbase_NFT:
-👎 major missing/half-baked features (no trait filtering, no timed listings, no activity/sales, profile curation sucks)
-👍 0% fees, clean design, comments, non-custodial/non-KYC, Discover has potential
-👍👍👍 90 million registered Coinbase users]]></summary>
+        <id>https://twitter.com/defipulse/status/1517411088056258560</id>
+        <link href="https://twitter.com/defipulse/status/1517411088056258560"/>
+        <updated>2022-04-22T07:52:50.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://twitter.com/tropoFarmer/status/1516799047411113987]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1517255994765496320</id>
-        <link href="https://twitter.com/defipulse/status/1517255994765496320"/>
-        <updated>2022-04-21T21:36:33.000Z</updated>
-        <summary type="html"><![CDATA[Re 
-Yano 🟪: Coinbase didn't launch an NFT platform... they launched Web3 Instagram]]></summary>
+        <id>https://twitter.com/defipulse/status/1517411085191589890</id>
+        <link href="https://twitter.com/defipulse/status/1517411085191589890"/>
+        <updated>2022-04-22T07:52:49.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://twitter.com/JasonYanowitz/status/1516799282233360386]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[BREAKING: Coinbase NFT Beta version is live 👀 Here we've highlighted some beta testers impressions Read the thread below to see what they are think...]]></title>
-        <id>https://twitter.com/defipulse/status/1517255991313592321</id>
-        <link href="https://twitter.com/defipulse/status/1517255991313592321"/>
-        <updated>2022-04-21T21:36:32.000Z</updated>
+        <id>https://twitter.com/defipulse/status/1517411081781612544</id>
+        <link href="https://twitter.com/defipulse/status/1517411081781612544"/>
+        <updated>2022-04-22T07:52:48.000Z</updated>
         <summary type="html"><![CDATA[BREAKING: Coinbase NFT Beta version is live 👀
 Here we've highlighted some beta testers impressions 
 Read the thread below to see what they are thinking👇]]></summary>
@@ -129,114 +209,6 @@ Blue-chip #NFT collections have rallied over the last few days leading up to the
         <summary type="html"><![CDATA[Re 8/9 Will The Merge solve the high gas fees problem? ⛽
 Unfortunately not ☹️
 It will not have any impact on the current user experience on Ethereum, but future updates on Ethereum’s roadmap such as #sharding will help solve that issue]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 7/9 Bitcoin vs Ethereum’s halvening 💭 📋Bitcoin: Halves its insurance rate every 4 years 📋Ethereum: Insurance rate will reduce 90% at the ...]]></title>
-        <id>https://twitter.com/defipulse/status/1516793205135663109</id>
-        <link href="https://twitter.com/defipulse/status/1516793205135663109"/>
-        <updated>2022-04-20T14:57:35.000Z</updated>
-        <summary type="html"><![CDATA[Re 7/9 Bitcoin vs Ethereum’s halvening 💭
-📋Bitcoin:
-Halves its insurance rate every 4 years
-📋Ethereum:
-Insurance rate will reduce 90% at the time of The Merge
-The Merge is equivalent to 3 #Bitcoin halvenings happening at once]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 6/9 What is “Triple Halvening”? It is the large drop in ETH insurance that will occur once The Merge is fully upgraded and the shift from PoW to ...]]></title>
-        <id>https://twitter.com/defipulse/status/1516793203579629577</id>
-        <link href="https://twitter.com/defipulse/status/1516793203579629577"/>
-        <updated>2022-04-20T14:57:35.000Z</updated>
-        <summary type="html"><![CDATA[Re 6/9 What is “Triple Halvening”?
-It is the large drop in ETH insurance that will occur once The Merge is fully upgraded and the shift from PoW to PoS consensus algorithm has been fully made]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 5/9 You do not need 32 ETH to run a validator on the Ethereum network 🙌 Services like @Rocket_Pool allows someone with 17.6 ETH+ to be matched w...]]></title>
-        <id>https://twitter.com/defipulse/status/1516793201817968650</id>
-        <link href="https://twitter.com/defipulse/status/1516793201817968650"/>
-        <updated>2022-04-20T14:57:34.000Z</updated>
-        <summary type="html"><![CDATA[Re 5/9 You do not need 32 ETH to run a validator on the Ethereum network 🙌
-Services like @Rocket_Pool allows someone with 17.6 ETH+ to be matched with 16 ETH deposited to the Rocket Pool smart contract by other stakers
-Let us know if you’d like us to go more in-depth on this 🧠]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 4/9 🔄 How will this impact you? If you are a regular user of Ethereum, nothing will change All the $ETH currently on Ethereum’s network will be...]]></title>
-        <id>https://twitter.com/defipulse/status/1516793200073183239</id>
-        <link href="https://twitter.com/defipulse/status/1516793200073183239"/>
-        <updated>2022-04-20T14:57:34.000Z</updated>
-        <summary type="html"><![CDATA[Re 4/9 🔄 How will this impact you?
-If you are a regular user of Ethereum, nothing will change
-All the $ETH currently on Ethereum’s network will be unaffected by the switch from PoW to PoS once The Merge occurs 
-The Merge will only affect the consensus layer of the network]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 3/9 Do you know the difference between PoW and PoS? Head over to this other thread we made to learn more 👇]]></title>
-        <id>https://twitter.com/defipulse/status/1516793198194139138</id>
-        <link href="https://twitter.com/defipulse/status/1516793198194139138"/>
-        <updated>2022-04-20T14:57:33.000Z</updated>
-        <summary type="html"><![CDATA[Re 3/9 Do you know the difference between PoW and PoS?
-Head over to this other thread we made to learn more 👇
-DeFi Pulse 🍇: Proof of Work vs Proof of Stake 🥊
-Do you know what they are and the differences between them?
-A 🧵]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 2/9 What is The Merge? 🤔 It is an upgrade in #Ethereum’s network that aims to replace the current consensus layer from Proof of Work (PoW) to a...]]></title>
-        <id>https://twitter.com/defipulse/status/1516793196713594883</id>
-        <link href="https://twitter.com/defipulse/status/1516793196713594883"/>
-        <updated>2022-04-20T14:57:33.000Z</updated>
-        <summary type="html"><![CDATA[Re 2/9 What is The Merge? 🤔
-It is an upgrade in #Ethereum’s network that aims to replace the current consensus layer from Proof of Work (PoW) to a more energy & capital efficient, but also more secure Proof of Stake (PoS) consensus]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The #ETH Proof of Stake Merge Explained 🔗 🧵👇]]></title>
-        <id>https://twitter.com/defipulse/status/1516793195279048709</id>
-        <link href="https://twitter.com/defipulse/status/1516793195279048709"/>
-        <updated>2022-04-20T14:57:33.000Z</updated>
-        <summary type="html"><![CDATA[The #ETH Proof of Stake Merge Explained 🔗
-🧵👇]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @floradome You can read more about it here 👇]]></title>
-        <id>https://twitter.com/defipulse/status/1516314648387149825</id>
-        <link href="https://twitter.com/defipulse/status/1516314648387149825"/>
-        <updated>2022-04-19T07:15:58.000Z</updated>
-        <summary type="html"><![CDATA[Re @floradome You can read more about it here 👇 https://www.defipulse.com/blog/how-to-join-the-defi-pulse-leaderboard]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🚨BREAKING: Andre Cronje is in favor of crypto regulations Read more:]]></title>
-        <id>https://twitter.com/defipulse/status/1516141270208499718</id>
-        <link href="https://twitter.com/defipulse/status/1516141270208499718"/>
-        <updated>2022-04-18T19:47:02.000Z</updated>
-        <summary type="html"><![CDATA[🚨BREAKING: Andre Cronje is in favor of crypto regulations
-Read more: https://andrecronje.medium.com/the-rise-and-fall-of-crypto-culture-3d0e6fd3e0e9]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
