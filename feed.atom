@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-24T05:18:31.560Z</id>
+    <id>urn:2022-04-24T06:25:39.036Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-24T05:18:31.560Z</updated>
+    <updated>2022-04-24T06:25:39.036Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -42,10 +42,7 @@ Source: @CoinDesk https://www.coindesk.com/tech/2022/04/19/defi-developer-andr
         <id>https://twitter.com/defipulse/status/1517596441924964352</id>
         <link href="https://twitter.com/defipulse/status/1517596441924964352"/>
         <updated>2022-04-22T20:09:21.000Z</updated>
-        <summary type="html"><![CDATA[Re 3/ Related Market News 📰 👀
-DeFi Pulse 🍇: BREAKING: Coinbase NFT Beta version is live 👀
-Here we've highlighted some beta testers impressions 
-Read the thread below to see what they are thinking👇]]></summary>
+        <summary type="html"><![CDATA[Re 3/ Related Market News 📰 👀 https://twitter.com/defipulse/status/1517411081781612544?s=20&t=Se74HVGLLLTDZC4rIS0rYA]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -111,10 +108,7 @@ To learn more read the latest edition here 👇 https://bit.ly/3EBwFVA]]></sum
         <id>https://twitter.com/defipulse/status/1517428013796782081</id>
         <link href="https://twitter.com/defipulse/status/1517428013796782081"/>
         <updated>2022-04-22T09:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Re 
-DeFi Pulse 🍇: 🚨BREAKING: Andre Cronje is in favor of crypto regulations
-Read more:
- https://andrecronje.medium.com/the-rise-and-fall-of-crypto-culture-3d0e6fd3e0e9]]></summary>
+        <summary type="html"><![CDATA[Re  https://twitter.com/defipulse/status/1516141270208499718?s=20&t=mQkr-aVqEdV7aLDm93lXvQ]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -184,9 +178,7 @@ Drop your thought on Coinbase NFT in the comments]]></summary>
         <id>https://twitter.com/defipulse/status/1517411099619954689</id>
         <link href="https://twitter.com/defipulse/status/1517411099619954689"/>
         <updated>2022-04-22T07:52:52.000Z</updated>
-        <summary type="html"><![CDATA[Re 
--Kitto the Tiny Dinos Maximalist: So the mythical #CoinbaseNFT Marketplace is finally here... at least in Beta. Does it live up to the hype? An analysis: 🧵 #NFTCommunity
- https://nft.coinbase.com/]]></summary>
+        <summary type="html"><![CDATA[Re  https://twitter.com/DashKitto/status/1516775353104142336]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -196,8 +188,7 @@ Drop your thought on Coinbase NFT in the comments]]></summary>
         <id>https://twitter.com/defipulse/status/1517411096818184192</id>
         <link href="https://twitter.com/defipulse/status/1517411096818184192"/>
         <updated>2022-04-22T07:52:52.000Z</updated>
-        <summary type="html"><![CDATA[Re 
-David Gokhshtein: People joke on @Coinbase_NFT but I think they can take on OpenSea.]]></summary>
+        <summary type="html"><![CDATA[Re  https://twitter.com/davidgokhshtein/status/1516803505155186690]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -207,8 +198,7 @@ David Gokhshtein: People joke on @Coinbase_NFT but I think they can take on Op
         <id>https://twitter.com/defipulse/status/1517411093982765056</id>
         <link href="https://twitter.com/defipulse/status/1517411093982765056"/>
         <updated>2022-04-22T07:52:51.000Z</updated>
-        <summary type="html"><![CDATA[Re 
-Arcanic.eth ✨: Never using Coinbase NFT again. Just listed my NFT for 0.01 below floor and someone called me a pussy in the comment section]]></summary>
+        <summary type="html"><![CDATA[Re  https://twitter.com/ArcanicNFT/status/1516801371399507971]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -218,22 +208,7 @@ Arcanic.eth ✨: Never using Coinbase NFT again. Just listed my NFT for 0.01 b
         <id>https://twitter.com/defipulse/status/1517411091042557953</id>
         <link href="https://twitter.com/defipulse/status/1517411091042557953"/>
         <updated>2022-04-22T07:52:50.000Z</updated>
-        <summary type="html"><![CDATA[Re 
-cr0ss.eth: This has been my Coinbase NFT experience so far...]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1517411088056258560</id>
-        <link href="https://twitter.com/defipulse/status/1517411088056258560"/>
-        <updated>2022-04-22T07:52:50.000Z</updated>
-        <summary type="html"><![CDATA[Re 
-tropoFarmer ∞: quick thoughts on @Coinbase_NFT:
-👎 major missing/half-baked features (no trait filtering, no timed listings, no activity/sales, profile curation sucks)
-👍 0% fees, clean design, comments, non-custodial/non-KYC, Discover has potential
-👍👍👍 90 million registered Coinbase users]]></summary>
+        <summary type="html"><![CDATA[Re  https://twitter.com/cr0ssETH/status/1516815705949151234]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
