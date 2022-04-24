@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-24T11:17:18.580Z</id>
+    <id>urn:2022-04-24T12:34:04.663Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-24T11:17:18.580Z</updated>
+    <updated>2022-04-24T12:34:04.663Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DeFi Pulse is very excited to introduce #ZerotoDeFi 🧠 📚 In this series of content, we will be breaking down and explaining key parts of the indu...]]></title>
+        <id>https://twitter.com/defipulse/status/1518200223897722880</id>
+        <link href="https://twitter.com/defipulse/status/1518200223897722880"/>
+        <updated>2022-04-24T12:08:34.000Z</updated>
+        <summary type="html"><![CDATA[DeFi Pulse is very excited to introduce #ZerotoDeFi 🧠 📚
+In this series of content, we will be breaking down and explaining key parts of the industry in a glance 🙌 
+Comment down below what you want us to cover 👇]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re 6/ #DeFi's TVL increases to $239B after large institutional push Source: @Blockworks_]]></title>
         <id>https://twitter.com/defipulse/status/1517596450628116483</id>
@@ -199,16 +211,6 @@ Drop your thought on Coinbase NFT in the comments]]></summary>
         <link href="https://twitter.com/defipulse/status/1517411093982765056"/>
         <updated>2022-04-22T07:52:51.000Z</updated>
         <summary type="html"><![CDATA[Re  https://twitter.com/ArcanicNFT/status/1516801371399507971]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1517411091042557953</id>
-        <link href="https://twitter.com/defipulse/status/1517411091042557953"/>
-        <updated>2022-04-22T07:52:50.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://twitter.com/cr0ssETH/status/1516815705949151234]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
