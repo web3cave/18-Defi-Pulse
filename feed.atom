@@ -1,10 +1,187 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-24T14:18:41.913Z</id>
+    <id>urn:2022-04-24T15:21:22.573Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-24T14:18:41.913Z</updated>
+    <updated>2022-04-24T15:21:22.573Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re 16/16 Did we miss any terms? Drop them in the comment below, and we will explain it 👇 🧠]]></title>
+        <id>https://twitter.com/defipulse/status/1518243422611533825</id>
+        <link href="https://twitter.com/defipulse/status/1518243422611533825"/>
+        <updated>2022-04-24T15:00:14.000Z</updated>
+        <summary type="html"><![CDATA[Re 16/16 Did we miss any terms? Drop them in the comment below, and we will explain it 👇 🧠]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 15/16 No coiner A person who has no #Bitcoin or #crypto]]></title>
+        <id>https://twitter.com/defipulse/status/1518243419889430528</id>
+        <link href="https://twitter.com/defipulse/status/1518243419889430528"/>
+        <updated>2022-04-24T15:00:13.000Z</updated>
+        <summary type="html"><![CDATA[Re 15/16 No coiner
+A person who has no #Bitcoin or #crypto]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 14/16 Web3 Decentralized internet]]></title>
+        <id>https://twitter.com/defipulse/status/1518243417125376000</id>
+        <link href="https://twitter.com/defipulse/status/1518243417125376000"/>
+        <updated>2022-04-24T15:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Re 14/16 Web3
+Decentralized internet https://www.defipulse.com/blog/web3-explained]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 13/16 Pump and Dump A scheme where people will hype a project with no fundamentals in order to make the price of the #token increase to then sell t...]]></title>
+        <id>https://twitter.com/defipulse/status/1518243414285840386</id>
+        <link href="https://twitter.com/defipulse/status/1518243414285840386"/>
+        <updated>2022-04-24T15:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Re 13/16 Pump and Dump
+A scheme where people will hype a project with no fundamentals in order to make the price of the #token increase to then sell their holdings to earn profit]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 12/16 Whale 🐋 Someone who has a very large amount of #cryptocurrency, these people can manipulate the market 💰]]></title>
+        <id>https://twitter.com/defipulse/status/1518243411492732928</id>
+        <link href="https://twitter.com/defipulse/status/1518243411492732928"/>
+        <updated>2022-04-24T15:00:11.000Z</updated>
+        <summary type="html"><![CDATA[Re 12/16 Whale 🐋
+Someone who has a very large amount of #cryptocurrency, these people can manipulate the market 💰]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 11/16 HODL Originated in 2013 after a post on the #Bitcoin forum by a user who posted “I AM HODLING” with a typo, it is used to refer to when som...]]></title>
+        <id>https://twitter.com/defipulse/status/1518243408623534080</id>
+        <link href="https://twitter.com/defipulse/status/1518243408623534080"/>
+        <updated>2022-04-24T15:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Re 11/16 HODL
+Originated in 2013 after a post on the #Bitcoin forum by a user who posted “I AM HODLING” with a typo, it is used to refer to when someone is holding on to their tokens instead of selling them]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 10/16 Degen Short for degenerate and is used to refer to people who trade without doing research and/or due diligence 📖]]></title>
+        <id>https://twitter.com/defipulse/status/1518243405880385536</id>
+        <link href="https://twitter.com/defipulse/status/1518243405880385536"/>
+        <updated>2022-04-24T15:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Re 10/16 Degen
+Short for degenerate and is used to refer to people who trade without doing research and/or due diligence 📖]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 9/16 Shilling When a coin is promoted by implicit advertising]]></title>
+        <id>https://twitter.com/defipulse/status/1518243403124731904</id>
+        <link href="https://twitter.com/defipulse/status/1518243403124731904"/>
+        <updated>2022-04-24T15:00:09.000Z</updated>
+        <summary type="html"><![CDATA[Re 9/16 Shilling
+When a coin is promoted by implicit advertising]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 8/16 Gas & Gwei ⛽ Gas is the fee required to complete a transaction on the #ETH blockchain Gwei is the denomination of $ETH that the gas price is ...]]></title>
+        <id>https://twitter.com/defipulse/status/1518243400289382400</id>
+        <link href="https://twitter.com/defipulse/status/1518243400289382400"/>
+        <updated>2022-04-24T15:00:08.000Z</updated>
+        <summary type="html"><![CDATA[Re 8/16 Gas & Gwei ⛽
+Gas is the fee required to complete a transaction on the #ETH blockchain
+Gwei is the denomination of $ETH that the gas price is paid in (1 Gwei = 0.000000001 ETH)]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 7/16 DAO Short for Decentralized Autonomous Organization 🏠]]></title>
+        <id>https://twitter.com/defipulse/status/1518243397542105088</id>
+        <link href="https://twitter.com/defipulse/status/1518243397542105088"/>
+        <updated>2022-04-24T15:00:08.000Z</updated>
+        <summary type="html"><![CDATA[Re 7/16 DAO
+Short for Decentralized Autonomous Organization 🏠]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 6/16 dApps A dApp is a decentralized application, which means that it can operate autonomously, usually with the use of smart contracts that runs o...]]></title>
+        <id>https://twitter.com/defipulse/status/1518243394643841025</id>
+        <link href="https://twitter.com/defipulse/status/1518243394643841025"/>
+        <updated>2022-04-24T15:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Re 6/16 dApps
+A dApp is a decentralized application, which means that it can operate autonomously, usually with the use of smart contracts that runs on a decentralized #blockchain system]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 5/16 DeFi #DeFi is short for Decentralized Finance]]></title>
+        <id>https://twitter.com/defipulse/status/1518243391842119681</id>
+        <link href="https://twitter.com/defipulse/status/1518243391842119681"/>
+        <updated>2022-04-24T15:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Re 5/16 DeFi
+#DeFi is short for Decentralized Finance https://www.defipulse.com/blog/what-is-defi]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 4/16 Bullish 🐂 Opposite of bearish If you are feeling bullish, you expect the market to rise and have positive sentiment 📈]]></title>
+        <id>https://twitter.com/defipulse/status/1518243389199724547</id>
+        <link href="https://twitter.com/defipulse/status/1518243389199724547"/>
+        <updated>2022-04-24T15:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Re 4/16 Bullish 🐂
+Opposite of bearish
+If you are feeling bullish, you expect the market to rise and have positive sentiment 📈]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 3/16 Bearish 🐻 📉 If you are bearish, you have negative sentiment/thoughts about the market and expect it to decline]]></title>
+        <id>https://twitter.com/defipulse/status/1518243386540453889</id>
+        <link href="https://twitter.com/defipulse/status/1518243386540453889"/>
+        <updated>2022-04-24T15:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Re 3/16 Bearish 🐻
+📉 If you are bearish, you have negative sentiment/thoughts about the market and expect it to decline]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 2/16 WAGMI Stands for: We are all going to make it 🙌]]></title>
+        <id>https://twitter.com/defipulse/status/1518243383818416128</id>
+        <link href="https://twitter.com/defipulse/status/1518243383818416128"/>
+        <updated>2022-04-24T15:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Re 2/16 WAGMI
+Stands for: We are all going to make it 🙌]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1/16 This week we will be covering crypto slang on #ZerotoDeFi 🧠 Read the 🧵 to learn the most used slang in the blockchain industry 😉]]></title>
+        <id>https://twitter.com/defipulse/status/1518243380450320385</id>
+        <link href="https://twitter.com/defipulse/status/1518243380450320385"/>
+        <updated>2022-04-24T15:00:04.000Z</updated>
+        <summary type="html"><![CDATA[1/16 This week we will be covering crypto slang on #ZerotoDeFi 🧠
+Read the 🧵 to learn the most used slang in the blockchain industry 😉]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeFi Pulse is very excited to introduce #ZerotoDeFi 🧠 📚 In this series of content, we will be breaking down and explaining key parts of the indu...]]></title>
         <id>https://twitter.com/defipulse/status/1518200223897722880</id>
@@ -45,172 +222,6 @@ Source: @CoinDesk https://www.coindesk.com/tech/2022/04/19/defi-developer-andr
         <link href="https://twitter.com/defipulse/status/1517596444873486336"/>
         <updated>2022-04-22T20:09:22.000Z</updated>
         <summary type="html"><![CDATA[Re 4/ @coolcatsnft help increase the weekly #NFT sales to $260 million https://markets.businessinsider.com/news/currencies/bored-ape-yacht-club-weekly-nft-sales-crypto-cool-cats-2022-4]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 3/ Related Market News 📰 👀]]></title>
-        <id>https://twitter.com/defipulse/status/1517596441924964352</id>
-        <link href="https://twitter.com/defipulse/status/1517596441924964352"/>
-        <updated>2022-04-22T20:09:21.000Z</updated>
-        <summary type="html"><![CDATA[Re 3/ Related Market News 📰 👀 https://twitter.com/defipulse/status/1517411081781612544?s=20&t=Se74HVGLLLTDZC4rIS0rYA]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 2/ $DPI token, is based on the DeFi Pulse Index, a digital asset index designed to track the performance of top protocols in #DeFi $NFTI is based o...]]></title>
-        <id>https://twitter.com/defipulse/status/1517596438846353409</id>
-        <link href="https://twitter.com/defipulse/status/1517596438846353409"/>
-        <updated>2022-04-22T20:09:21.000Z</updated>
-        <summary type="html"><![CDATA[Re 2/ $DPI token, is based on the DeFi Pulse Index, a digital asset index designed to track the performance of top protocols in #DeFi
-$NFTI is based on the @scalara_xyz NFT Index, an index designed to track the performance of the most well-known #NFT collections]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1/It's this time of the week again! #SectorPulse is here! 🙌 $DPI is now trading at $178.46 for the 2nd consecutive week 📉$NFTI is now trading at...]]></title>
-        <id>https://twitter.com/defipulse/status/1517596431657308160</id>
-        <link href="https://twitter.com/defipulse/status/1517596431657308160"/>
-        <updated>2022-04-22T20:09:19.000Z</updated>
-        <summary type="html"><![CDATA[1/It's this time of the week again! #SectorPulse is here! 🙌
-$DPI is now trading at $178.46 for the 2nd consecutive week
-📉$NFTI is now trading at $10.29, a 1% decrease from last week
-The stable $USDC yield is 2.66%
-In the 🧵 👇 you will see a summary of the recent news]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re And a lot more! To learn more read the latest edition here 👇]]></title>
-        <id>https://twitter.com/defipulse/status/1517428022390910976</id>
-        <link href="https://twitter.com/defipulse/status/1517428022390910976"/>
-        <updated>2022-04-22T09:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Re And a lot more! 
-To learn more read the latest edition here 👇 https://bit.ly/3EBwFVA]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Things to think about ahead of #DeFi summer 💭🌞]]></title>
-        <id>https://twitter.com/defipulse/status/1517428019719073792</id>
-        <link href="https://twitter.com/defipulse/status/1517428019719073792"/>
-        <updated>2022-04-22T09:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Re Things to think about ahead of #DeFi summer 💭🌞]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 🚜Explore @bobanetwork's $USDC pool on cBridge]]></title>
-        <id>https://twitter.com/defipulse/status/1517428016833433601</id>
-        <link href="https://twitter.com/defipulse/status/1517428016833433601"/>
-        <updated>2022-04-22T09:00:06.000Z</updated>
-        <summary type="html"><![CDATA[Re 🚜Explore @bobanetwork's $USDC pool on cBridge]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1517428013796782081</id>
-        <link href="https://twitter.com/defipulse/status/1517428013796782081"/>
-        <updated>2022-04-22T09:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://twitter.com/defipulse/status/1516141270208499718?s=20&t=mQkr-aVqEdV7aLDm93lXvQ]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Coinbase launched the beta version of their #NFT marketplace Interested in knowing what people's thoughts are? We've combined a few in this thread ...]]></title>
-        <id>https://twitter.com/defipulse/status/1517428010915303425</id>
-        <link href="https://twitter.com/defipulse/status/1517428010915303425"/>
-        <updated>2022-04-22T09:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Re Coinbase launched the beta version of their #NFT marketplace
-Interested in knowing what people's thoughts are?
-We've combined a few in this thread 👇 https://twitter.com/defipulse/status/1517255991313592321?s=20&t=mQkr-aVqEdV7aLDm93lXvQ]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Weeks best-performing assets were... 🥁 1. 📈 @compoundfinance ($COMP) +19.1% 2. 📈 @synthetix_io +17.8% ($SNX) 3. 📈 @renprotocol + 11.8% ...]]></title>
-        <id>https://twitter.com/defipulse/status/1517428008067354624</id>
-        <link href="https://twitter.com/defipulse/status/1517428008067354624"/>
-        <updated>2022-04-22T09:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Re Weeks best-performing assets were... 🥁
-1. 📈 @compoundfinance ($COMP) +19.1%
-2. 📈 @synthetix_io +17.8% ($SNX)
-3. 📈 @renprotocol + 11.8% ($REN)]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re CEO of @AMCTheatres, @CEOAdam announced that the iOS and the Android app now take payment in #crypto Available payment options include $DOGE, $SHIB...]]></title>
-        <id>https://twitter.com/defipulse/status/1517428005156519936</id>
-        <link href="https://twitter.com/defipulse/status/1517428005156519936"/>
-        <updated>2022-04-22T09:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Re CEO of @AMCTheatres, @CEOAdam announced that the iOS and the Android app now take payment in #crypto
-Available payment options include $DOGE, $SHIB, and others]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pulse Farmer is live! 🙌 🎉 The Pulse Famer is one of our newsletters where we explore what has been happening in the #DeFi world and also is a gu...]]></title>
-        <id>https://twitter.com/defipulse/status/1517428002254057478</id>
-        <link href="https://twitter.com/defipulse/status/1517428002254057478"/>
-        <updated>2022-04-22T09:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Pulse Farmer is live! 🙌 🎉
-The Pulse Famer is one of our newsletters where we explore what has been happening in the #DeFi world and also is a guide to yield-farming opportunities
-Read the 🧵 to get a sneak peek of what we covered this week
-Subscribe👇 https://yieldfarmer.substack.com/]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Now we want to hear from you! Drop your thought on Coinbase NFT in the comments]]></title>
-        <id>https://twitter.com/defipulse/status/1517411102497202182</id>
-        <link href="https://twitter.com/defipulse/status/1517411102497202182"/>
-        <updated>2022-04-22T07:52:53.000Z</updated>
-        <summary type="html"><![CDATA[Re Now we want to hear from you!
-Drop your thought on Coinbase NFT in the comments]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1517411099619954689</id>
-        <link href="https://twitter.com/defipulse/status/1517411099619954689"/>
-        <updated>2022-04-22T07:52:52.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://twitter.com/DashKitto/status/1516775353104142336]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1517411096818184192</id>
-        <link href="https://twitter.com/defipulse/status/1517411096818184192"/>
-        <updated>2022-04-22T07:52:52.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://twitter.com/davidgokhshtein/status/1516803505155186690]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1517411093982765056</id>
-        <link href="https://twitter.com/defipulse/status/1517411093982765056"/>
-        <updated>2022-04-22T07:52:51.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://twitter.com/ArcanicNFT/status/1516801371399507971]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
