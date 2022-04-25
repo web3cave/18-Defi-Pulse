@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1518653503497031681",
+          "author": "DeFi Pulse 🍇",
+          "description": "Re 2/ Members of the community are asking for improved security from the NFT collection https://twitter.com/timkimm/status/1518592682150535168",
+          "link": "https://twitter.com/defipulse/status/1518653503497031681",
+          "publishedOn": "2022-04-25T18:09:45.000Z",
+          "wordCount": 196,
+          "title": "Re 2/ Members of the community are asking for improved security from the NFT collection",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1518653501777326086",
+          "author": "DeFi Pulse 🍇",
+          "description": "⚠️ @BAYC’s social media account has been hacked https://twitter.com/BoredApeYC/status/1518590210686308354",
+          "link": "https://twitter.com/defipulse/status/1518653501777326086",
+          "publishedOn": "2022-04-25T18:09:44.000Z",
+          "wordCount": 196,
+          "title": "⚠️ @BAYC’s social media account has been hacked",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1518243422611533825",
           "author": "DeFi Pulse 🍇",
           "description": "Re 16/16 Did we miss any terms? Drop them in the comment below, and we will explain it 👇 🧠",
@@ -173,26 +193,6 @@
           "publishedOn": "2022-04-24T12:08:34.000Z",
           "wordCount": 196,
           "title": "DeFi Pulse is very excited to introduce #ZerotoDeFi 🧠 📚 In this series of content, we will be breaking down and explaining key parts of the indu...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1517596450628116483",
-          "author": "DeFi Pulse 🍇",
-          "description": "Re 6/ #DeFi's TVL increases to $239B after large institutional push\nSource: @Blockworks_ https://blockworks.co/large-institutional-transactions-push-total-value-locked-in-defi-to-239b/",
-          "link": "https://twitter.com/defipulse/status/1517596450628116483",
-          "publishedOn": "2022-04-22T20:09:24.000Z",
-          "wordCount": 196,
-          "title": "Re 6/ #DeFi's TVL increases to $239B after large institutional push Source: @Blockworks_",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1517596447759233024",
-          "author": "DeFi Pulse 🍇",
-          "description": "Re 5/ @iearnfinance's creator, Andre Cronje speaks in favor of crypto regulation\nSource: @CoinDesk https://www.coindesk.com/tech/2022/04/19/defi-developer-andre-cronje-teases-new-regulation-focused-crypto-projects/",
-          "link": "https://twitter.com/defipulse/status/1517596447759233024",
-          "publishedOn": "2022-04-22T20:09:23.000Z",
-          "wordCount": 196,
-          "title": "Re 5/ @iearnfinance's creator, Andre Cronje speaks in favor of crypto regulation Source: @CoinDesk",
           "imageUrl": null
         }
       ]

@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-25T19:16:43.449Z</id>
+    <id>urn:2022-04-25T20:22:03.910Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-25T19:16:43.449Z</updated>
+    <updated>2022-04-25T20:22:03.910Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re 2/ Members of the community are asking for improved security from the NFT collection]]></title>
+        <id>https://twitter.com/defipulse/status/1518653503497031681</id>
+        <link href="https://twitter.com/defipulse/status/1518653503497031681"/>
+        <updated>2022-04-25T18:09:45.000Z</updated>
+        <summary type="html"><![CDATA[Re 2/ Members of the community are asking for improved security from the NFT collection https://twitter.com/timkimm/status/1518592682150535168]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[⚠️ @BAYC’s social media account has been hacked]]></title>
+        <id>https://twitter.com/defipulse/status/1518653501777326086</id>
+        <link href="https://twitter.com/defipulse/status/1518653501777326086"/>
+        <updated>2022-04-25T18:09:44.000Z</updated>
+        <summary type="html"><![CDATA[⚠️ @BAYC’s social media account has been hacked https://twitter.com/BoredApeYC/status/1518590210686308354]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re 16/16 Did we miss any terms? Drop them in the comment below, and we will explain it 👇 🧠]]></title>
         <id>https://twitter.com/defipulse/status/1518243422611533825</id>
@@ -190,28 +210,6 @@ Read the 🧵 to learn the most used slang in the blockchain industry 😉]]></s
         <summary type="html"><![CDATA[DeFi Pulse is very excited to introduce #ZerotoDeFi 🧠 📚
 In this series of content, we will be breaking down and explaining key parts of the industry in a glance 🙌 
 Comment down below what you want us to cover 👇]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 6/ #DeFi's TVL increases to $239B after large institutional push Source: @Blockworks_]]></title>
-        <id>https://twitter.com/defipulse/status/1517596450628116483</id>
-        <link href="https://twitter.com/defipulse/status/1517596450628116483"/>
-        <updated>2022-04-22T20:09:24.000Z</updated>
-        <summary type="html"><![CDATA[Re 6/ #DeFi's TVL increases to $239B after large institutional push
-Source: @Blockworks_ https://blockworks.co/large-institutional-transactions-push-total-value-locked-in-defi-to-239b/]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 5/ @iearnfinance's creator, Andre Cronje speaks in favor of crypto regulation Source: @CoinDesk]]></title>
-        <id>https://twitter.com/defipulse/status/1517596447759233024</id>
-        <link href="https://twitter.com/defipulse/status/1517596447759233024"/>
-        <updated>2022-04-22T20:09:23.000Z</updated>
-        <summary type="html"><![CDATA[Re 5/ @iearnfinance's creator, Andre Cronje speaks in favor of crypto regulation
-Source: @CoinDesk https://www.coindesk.com/tech/2022/04/19/defi-developer-andre-cronje-teases-new-regulation-focused-crypto-projects/]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
