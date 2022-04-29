@@ -1,10 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-29T18:27:31.556Z</id>
+    <id>urn:2022-04-29T19:17:39.321Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-29T18:27:31.557Z</updated>
+    <updated>2022-04-29T19:17:39.321Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re 6/ The #NFT sector is expected to move around $800 billion over the next 2 years]]></title>
+        <id>https://twitter.com/defipulse/status/1520109644881928192</id>
+        <link href="https://twitter.com/defipulse/status/1520109644881928192"/>
+        <updated>2022-04-29T18:35:56.000Z</updated>
+        <summary type="html"><![CDATA[Re 6/ The #NFT sector is expected to move around $800 billion over the next 2 years https://cointelegraph.com/news/the-nft-sector-is-projected-to-move-around-800-billion-over-next-2-years-report]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 5/ @Twitter accepts Elon Musk's bid to buy the company]]></title>
+        <id>https://twitter.com/defipulse/status/1520109641874624512</id>
+        <link href="https://twitter.com/defipulse/status/1520109641874624512"/>
+        <updated>2022-04-29T18:35:55.000Z</updated>
+        <summary type="html"><![CDATA[Re 5/ @Twitter accepts Elon Musk's bid to buy the company
+DeFi Pulse 🍇: 🚨BREAKING: Twitter has officially accepted Elon Musk’s $44 Billion bid to buy the company]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 4/ “The metaverse sector is projected to move around $800 billion over the next 2 years” a @coingecko report predicts]]></title>
+        <id>https://twitter.com/defipulse/status/1520109638930223104</id>
+        <link href="https://twitter.com/defipulse/status/1520109638930223104"/>
+        <updated>2022-04-29T18:35:54.000Z</updated>
+        <summary type="html"><![CDATA[Re 4/ “The metaverse sector is projected to move around $800 billion over the next 2 years” a @coingecko report predicts https://cointelegraph.com/news/the-nft-sector-is-projected-to-move-around-800-billion-over-next-2-years-report]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 3/ 🗞 Recent news @KyberNetwork continues its rally, up 14% over the week]]></title>
+        <id>https://twitter.com/defipulse/status/1520109636094816256</id>
+        <link href="https://twitter.com/defipulse/status/1520109636094816256"/>
+        <updated>2022-04-29T18:35:54.000Z</updated>
+        <summary type="html"><![CDATA[Re 3/ 🗞 Recent news
+@KyberNetwork continues its rally, up 14% over the week https://beincrypto.com/kyberswap-dex-integration-with-bittorrent-chain-providing-liquidity/]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 2/ $DPI token, is based on the DeFi Pulse Index, a digital asset index designed to track the performance of top protocols in #DeFi $NFTI is based o...]]></title>
+        <id>https://twitter.com/defipulse/status/1520109632965857280</id>
+        <link href="https://twitter.com/defipulse/status/1520109632965857280"/>
+        <updated>2022-04-29T18:35:53.000Z</updated>
+        <summary type="html"><![CDATA[Re 2/ $DPI token, is based on the DeFi Pulse Index, a digital asset index designed to track the performance of top protocols in #DeFi
+$NFTI is based on the @scalara_xyz NFT Index, an index designed to track the performance of the most well-known #NFT collections]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1/ #SectorPulse is here again! 🙌 🎉 📉$DPI is now trading at $159.56 a 10.7% decrease from last week 📉$NFTI is now trading at $9.83, a 5.0% ...]]></title>
+        <id>https://twitter.com/defipulse/status/1520109626334728193</id>
+        <link href="https://twitter.com/defipulse/status/1520109626334728193"/>
+        <updated>2022-04-29T18:35:51.000Z</updated>
+        <summary type="html"><![CDATA[1/ #SectorPulse is here again! 🙌 🎉
+📉$DPI is now trading at $159.56 a 10.7% decrease from last week
+📉$NFTI is now trading at $9.83, a 5.0% decrease from last week
+The stable $USDC yield is 2.65%
+On the 🧵 👇 you will find a summary of the week's news 📰]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Two countries have made #Bitcoin a legal tender 🇸🇻 - El Salvador 🇨🇫 - Central African Republic 193 left to go Which one do you think will ...]]></title>
         <id>https://twitter.com/defipulse/status/1519597664291069954</id>
@@ -169,72 +236,6 @@ Shameful.]]></summary>
         <updated>2022-04-25T20:42:44.000Z</updated>
         <summary type="html"><![CDATA[Here is a 🧵on people’s thoughts about Elon buying Twitter👇
 DeFi Pulse 🍇: 🚨BREAKING: Twitter has officially accepted Elon Musk’s $44 Billion bid to buy the company]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT DeFi Pulse 🍇: 🚨BREAKING: Twitter has officially accepted Elon Musk’s $44 Billion bid to buy the company]]></title>
-        <id>https://twitter.com/defipulse/status/1518682086856609794</id>
-        <link href="https://twitter.com/defipulse/status/1518682086856609794"/>
-        <updated>2022-04-25T20:03:19.000Z</updated>
-        <summary type="html"><![CDATA[RT DeFi Pulse 🍇
-🚨BREAKING: Twitter has officially accepted Elon Musk’s $44 Billion bid to buy the company]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🚨BREAKING: Twitter has officially accepted Elon Musk’s $44 Billion bid to buy the company]]></title>
-        <id>https://twitter.com/defipulse/status/1518682086856609794</id>
-        <link href="https://twitter.com/defipulse/status/1518682086856609794"/>
-        <updated>2022-04-25T20:03:19.000Z</updated>
-        <summary type="html"><![CDATA[🚨BREAKING: Twitter has officially accepted Elon Musk’s $44 Billion bid to buy the company]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 2/ Members of the community are asking for improved security from the NFT collection]]></title>
-        <id>https://twitter.com/defipulse/status/1518653503497031681</id>
-        <link href="https://twitter.com/defipulse/status/1518653503497031681"/>
-        <updated>2022-04-25T18:09:45.000Z</updated>
-        <summary type="html"><![CDATA[Re 2/ Members of the community are asking for improved security from the NFT collection
-0xTK.eth: @BoredApeYC Getting your Discord hacked should've been a lesson. Can you guys please reset all pws, add some 2-factor and take better care of this across all social?
-This is irresponsible, you're not a small project. 
-You're risking your community's money at this point.]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[⚠️ @BAYC’s social media account has been hacked]]></title>
-        <id>https://twitter.com/defipulse/status/1518653501777326086</id>
-        <link href="https://twitter.com/defipulse/status/1518653501777326086"/>
-        <updated>2022-04-25T18:09:44.000Z</updated>
-        <summary type="html"><![CDATA[⚠️ @BAYC’s social media account has been hacked
-Bored Ape Yacht Club: 🚨There is no mint going on today. It looks like BAYC Instagram was hacked. Do not mint anything, click links, or link your wallet to anything.]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 16/16 Did we miss any terms? Drop them in the comment below, and we will explain it 👇 🧠]]></title>
-        <id>https://twitter.com/defipulse/status/1518243422611533825</id>
-        <link href="https://twitter.com/defipulse/status/1518243422611533825"/>
-        <updated>2022-04-24T15:00:14.000Z</updated>
-        <summary type="html"><![CDATA[Re 16/16 Did we miss any terms? Drop them in the comment below, and we will explain it 👇 🧠]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 15/16 No coiner A person who has no #Bitcoin or #crypto]]></title>
-        <id>https://twitter.com/defipulse/status/1518243419889430528</id>
-        <link href="https://twitter.com/defipulse/status/1518243419889430528"/>
-        <updated>2022-04-24T15:00:13.000Z</updated>
-        <summary type="html"><![CDATA[Re 15/16 No coiner
-A person who has no #Bitcoin or #crypto]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
