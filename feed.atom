@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-30T06:25:46.102Z</id>
+    <id>urn:2022-04-30T07:20:04.090Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-30T06:25:46.102Z</updated>
+    <updated>2022-04-30T07:20:04.090Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -68,6 +68,23 @@ $NFTI is based on the @scalara_xyz NFT Index, an index designed to track the per
 📉$NFTI is now trading at $9.83, a 5.0% decrease from last week
 The stable $USDC yield is 2.65%
 On the 🧵 👇 you will find a summary of the week's news 📰]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT silenok.eth: The State of DeFi 📈 We are back for @SuperLayerIO Sundays this Sun 5/1 5pm PT / 8pm ET! Join us for a conversation about DeFi with:...]]></title>
+        <id>https://twitter.com/silenok/status/1520101942139097088</id>
+        <link href="https://twitter.com/silenok/status/1520101942139097088"/>
+        <updated>2022-04-29T18:05:19.000Z</updated>
+        <summary type="html"><![CDATA[RT silenok.eth
+The State of DeFi 📈
+We are back for @SuperLayerIO Sundays this Sun 5/1 5pm PT / 8pm ET!
+Join us for a conversation about DeFi with:
+@alive_eth @a16z 
+@scott_lew_is @defipulse @SlingshotCrypto
+@hosseeb @dragonfly_cap 
+Set a reminder 👇 https://twitter.com/i/spaces/1PlKQaXDAqDKE]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -225,17 +242,6 @@ Shameful.]]></summary>
         <link href="https://twitter.com/defipulse/status/1518692201651449856"/>
         <updated>2022-04-25T20:43:31.000Z</updated>
         <summary type="html"><![CDATA[Re  https://twitter.com/hasufl/status/1518687470136836105]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here is a 🧵on people’s thoughts about Elon buying Twitter👇]]></title>
-        <id>https://twitter.com/defipulse/status/1518692004024233987</id>
-        <link href="https://twitter.com/defipulse/status/1518692004024233987"/>
-        <updated>2022-04-25T20:42:44.000Z</updated>
-        <summary type="html"><![CDATA[Here is a 🧵on people’s thoughts about Elon buying Twitter👇
-DeFi Pulse 🍇: 🚨BREAKING: Twitter has officially accepted Elon Musk’s $44 Billion bid to buy the company]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
