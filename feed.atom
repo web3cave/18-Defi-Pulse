@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-01T22:20:37.509Z</id>
+    <id>urn:2022-05-01T23:20:40.530Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-01T22:20:37.509Z</updated>
+    <updated>2022-05-01T23:20:40.530Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -10,7 +10,10 @@
         <id>https://twitter.com/defipulse/status/1520873322413760512</id>
         <link href="https://twitter.com/defipulse/status/1520873322413760512"/>
         <updated>2022-05-01T21:10:31.000Z</updated>
-        <summary type="html"><![CDATA[Make sure to tune in! 😉]]></summary>
+        <summary type="html"><![CDATA[Make sure to tune in! 😉
+silenok.eth: Tune in tonight 5pm PT / 8pm ET! We’ll be talking about DeFi with @alive_eth @a16z @scott_lew_is @SlingshotCrypto @defipulse @hosseeb @dragonfly_cap 🤩
+Set a reminder👇
+ https://mobile.twitter.com/i/spaces/1PlKQaXDAqDKE https://twitter.com/silenok/status/1520101942139097088]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -105,7 +108,8 @@ Join our community in the official channels and get the best content about DeFi!
         <id>https://twitter.com/defipulse/status/1520109641874624512</id>
         <link href="https://twitter.com/defipulse/status/1520109641874624512"/>
         <updated>2022-04-29T18:35:55.000Z</updated>
-        <summary type="html"><![CDATA[Re 5/ @Twitter accepts Elon Musk's bid to buy the company https://twitter.com/defipulse/status/1518682086856609794?s=20&t=O0BfX1A7RHbNSC0UvHHupw]]></summary>
+        <summary type="html"><![CDATA[Re 5/ @Twitter accepts Elon Musk's bid to buy the company
+DeFi Pulse 🍇: 🚨BREAKING: Twitter has officially accepted Elon Musk’s $44 Billion bid to buy the company]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -230,7 +234,20 @@ In the email sent to developers, Satoshi wanted to make it clear that he had “
         <id>https://twitter.com/defipulse/status/1518697903098937346</id>
         <link href="https://twitter.com/defipulse/status/1518697903098937346"/>
         <updated>2022-04-25T21:06:10.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://twitter.com/defipulse/status/1518692004024233987?s=21&t=4eFD6Srz9gwfBaz-wxUxzw]]></summary>
+        <summary type="html"><![CDATA[Re 
+DeFi Pulse 🍇: Here is a 🧵on people’s thoughts about Elon buying Twitter👇
+ https://twitter.com/defipulse/status/1518682086856609794?s=21&t=H6GbAy4RJtOD71ub_djSdA]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[These are somethings Elon wants to change on Twitter Which one are you looking forward to the most? 👀]]></title>
+        <id>https://twitter.com/defipulse/status/1518697821012176896</id>
+        <link href="https://twitter.com/defipulse/status/1518697821012176896"/>
+        <updated>2022-04-25T21:05:51.000Z</updated>
+        <summary type="html"><![CDATA[These are somethings Elon wants to change on Twitter
+Which one are you looking forward to the most? 👀]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
