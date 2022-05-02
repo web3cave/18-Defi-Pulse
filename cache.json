@@ -28,7 +28,7 @@
         {
           "id": "https://twitter.com/defipulse/status/1521119850537517056",
           "author": "DeFi Pulse 🍇",
-          "description": "Re 9/ What went wrong? \n⛽️ Gas fees were extremely high, reaching around 2ETH \nThe mint was so large that Etherscan crashed 🤯\nFind out more about what happened here: https://twitter.com/yugalabs/status/1520612357734793219",
+          "description": "Re 9/ What went wrong? \n⛽️ Gas fees were extremely high, reaching around 2ETH \nThe mint was so large that Etherscan crashed 🤯\nFind out more about what happened here:\nYuga Labs: We wanted to say a few words about the mint tonight. 🧵",
           "link": "https://twitter.com/defipulse/status/1521119850537517056",
           "publishedOn": "2022-05-02T13:30:08.000Z",
           "wordCount": 196,
@@ -38,7 +38,7 @@
         {
           "id": "https://twitter.com/defipulse/status/1521119847534321665",
           "author": "DeFi Pulse 🍇",
-          "description": "Re 8/ The collection was originally planned to drop as a Dutch Auction format for sale\nIn this type of auction, the mint price gradually falls over time, but they declared that these auctions were BS https://twitter.com/OthersideMeta/status/1519853273855021056?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1519853273855021056%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fdecrypt.co%2F https://twitter.com/OthersideMeta/status/1519853273855021056?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1519853273855021056%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fdecrypt.co%2F",
+          "description": "Re 8/ The collection was originally planned to drop as a Dutch Auction format for sale\nIn this type of auction, the mint price gradually falls over time, but they declared that these auctions were BS\nOthersideMeta: Dutch auctions are actually bullshit, so Otherdeeds will be sold for a flat price of 305 ApeCoin 🧵.",
           "link": "https://twitter.com/defipulse/status/1521119847534321665",
           "publishedOn": "2022-05-02T13:30:07.000Z",
           "wordCount": 196,
@@ -78,7 +78,7 @@
         {
           "id": "https://twitter.com/defipulse/status/1521119836109037568",
           "author": "DeFi Pulse 🍇",
-          "description": "Re 4/ If you missed out on the official @YugaLabs trailer, watch the video below 👇 https://twitter.com/yugalabs/status/1505014986556551172?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1505014986556551172%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fdecrypt.co%2F https://twitter.com/yugalabs/status/1505014986556551172?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1505014986556551172%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fdecrypt.co%2F",
+          "description": "Re 4/ If you missed out on the official @YugaLabs trailer, watch the video below 👇\nYuga Labs: See you on the Otherside in April. Powered by @apecoin",
           "link": "https://twitter.com/defipulse/status/1521119836109037568",
           "publishedOn": "2022-05-02T13:30:04.000Z",
           "wordCount": 196,
@@ -128,7 +128,7 @@
         {
           "id": "https://twitter.com/defipulse/status/1520873322413760512",
           "author": "DeFi Pulse 🍇",
-          "description": "Make sure to tune in! 😉",
+          "description": "Make sure to tune in! 😉\nsilenok.eth: Tune in tonight 5pm PT / 8pm ET! We’ll be talking about DeFi with @alive_eth @a16z @scott_lew_is @SlingshotCrypto @defipulse @hosseeb @dragonfly_cap 🤩\nSet a reminder👇\n https://mobile.twitter.com/i/spaces/1PlKQaXDAqDKE https://twitter.com/silenok/status/1520101942139097088",
           "link": "https://twitter.com/defipulse/status/1520873322413760512",
           "publishedOn": "2022-05-01T21:10:31.000Z",
           "wordCount": 196,
@@ -193,6 +193,16 @@
           "publishedOn": "2022-04-30T16:40:38.000Z",
           "wordCount": 196,
           "title": "Are you new to #DeFi or have been around for a few years? Join our community in the official channels and get the best content about DeFi! 👇 💬: ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/silenok/status/1520101942139097088",
+          "author": "DeFi Pulse 🍇",
+          "description": "RT silenok.eth\nThe State of DeFi 📈\nWe are back for @SuperLayerIO Sundays this Sun 5/1 5pm PT / 8pm ET!\nJoin us for a conversation about DeFi with:\n@alive_eth @a16z \n@scott_lew_is @defipulse @SlingshotCrypto\n@hosseeb @dragonfly_cap \nSet a reminder 👇 https://twitter.com/i/spaces/1PlKQaXDAqDKE",
+          "link": "https://twitter.com/silenok/status/1520101942139097088",
+          "publishedOn": "2022-04-29T18:05:19.000Z",
+          "wordCount": 196,
+          "title": "RT silenok.eth: The State of DeFi 📈 We are back for @SuperLayerIO Sundays this Sun 5/1 5pm PT / 8pm ET! Join us for a conversation about DeFi with:...",
           "imageUrl": null
         }
       ]
