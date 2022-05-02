@@ -1,10 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-01T23:20:40.530Z</id>
+    <id>urn:2022-05-02T02:00:06.248Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-01T23:20:40.530Z</updated>
+    <updated>2022-05-02T02:00:06.248Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT Scalara: Scalara announces the results of the April 2022 rebalance of the DeFi Pulse Index $DPI. Only one of the 3 monthly top performers was up in...]]></title>
+        <id>https://twitter.com/Scalara_xyz/status/1520926387770732546</id>
+        <link href="https://twitter.com/Scalara_xyz/status/1520926387770732546"/>
+        <updated>2022-05-02T00:41:22.000Z</updated>
+        <summary type="html"><![CDATA[RT Scalara
+Scalara announces the results of the April 2022 rebalance of the DeFi Pulse Index $DPI.
+Only one of the 3 monthly top performers was up in absolute terms:
+@KyberNetwork $KNC +57%
+@BalancerLabs $BAL -19%
+@harvest_finance $FARM -24% https://www.scalara.xyz/blog/april-2022-rebalance-defi-pulse-index]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Make sure to tune in! 😉]]></title>
         <id>https://twitter.com/defipulse/status/1520873322413760512</id>
@@ -237,17 +252,6 @@ In the email sent to developers, Satoshi wanted to make it clear that he had “
         <summary type="html"><![CDATA[Re 
 DeFi Pulse 🍇: Here is a 🧵on people’s thoughts about Elon buying Twitter👇
  https://twitter.com/defipulse/status/1518682086856609794?s=21&t=H6GbAy4RJtOD71ub_djSdA]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[These are somethings Elon wants to change on Twitter Which one are you looking forward to the most? 👀]]></title>
-        <id>https://twitter.com/defipulse/status/1518697821012176896</id>
-        <link href="https://twitter.com/defipulse/status/1518697821012176896"/>
-        <updated>2022-04-25T21:05:51.000Z</updated>
-        <summary type="html"><![CDATA[These are somethings Elon wants to change on Twitter
-Which one are you looking forward to the most? 👀]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
