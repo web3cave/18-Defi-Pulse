@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-03T10:27:34.369Z</id>
+    <id>urn:2022-05-03T11:19:55.708Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-03T10:27:34.369Z</updated>
+    <updated>2022-05-03T11:19:55.708Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[⚽️OFFICIAL: @Algorand becomes first US blockchain sponsor of FIFA World Cup in Qatar]]></title>
+        <id>https://twitter.com/defipulse/status/1521431548892954627</id>
+        <link href="https://twitter.com/defipulse/status/1521431548892954627"/>
+        <updated>2022-05-03T10:08:42.000Z</updated>
+        <summary type="html"><![CDATA[⚽️OFFICIAL: @Algorand becomes first US blockchain sponsor of FIFA World Cup in Qatar]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[gm #DeFi frens 👋🏼]]></title>
         <id>https://twitter.com/defipulse/status/1521375151270645765</id>
@@ -203,21 +213,6 @@ FUD - Fear, Uncertainty & Doubt 🧐
 FOMO - Fear of Missing Out 😖
 ICO - Initial Coin Offering 🪙
 DEX - Decentralized exchange 🔄]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 2/3 ATH - All-Time High 📈 DYOR - Do Your Own Research 📖 KYC - Know Your Customer 💡 BTD - Buy the Dip 💰 EVM - Ethereum Virtual Machine ...]]></title>
-        <id>https://twitter.com/defipulse/status/1520753219177050113</id>
-        <link href="https://twitter.com/defipulse/status/1520753219177050113"/>
-        <updated>2022-05-01T13:13:16.000Z</updated>
-        <summary type="html"><![CDATA[Re 2/3
-ATH - All-Time High 📈
-DYOR - Do Your Own Research 📖
-KYC - Know Your Customer 💡
-BTD - Buy the Dip 💰
-EVM - Ethereum Virtual Machine 💻]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
