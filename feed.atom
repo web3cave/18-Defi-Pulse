@@ -1,10 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-04T12:44:46.130Z</id>
+    <id>urn:2022-05-04T13:40:39.855Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-04T12:44:46.130Z</updated>
+    <updated>2022-05-04T13:40:39.855Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Did you know that these top universities added #Crypto courses to their curriculum? 🧑‍🏫 📚 - Massachusetts Institute of Technology - National...]]></title>
+        <id>https://twitter.com/defipulse/status/1521820819344744448</id>
+        <link href="https://twitter.com/defipulse/status/1521820819344744448"/>
+        <updated>2022-05-04T11:55:32.000Z</updated>
+        <summary type="html"><![CDATA[Did you know that these top universities added #Crypto  courses to their curriculum? 🧑‍🏫 📚
+- Massachusetts Institute of Technology
+- National University of Singapore
+- Oxford University
+- Cornell University
+- University of California, Berkeley
+Share to spread the knowledge! 🧠]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Join us for an AMA with @NFTX_ and @Scalara_xyz covering DeFi 🤝 NFTs. 👉Learn how NFTX inventory-staked, yield-bearing xTokens bring the composab...]]></title>
         <id>https://twitter.com/defipulse/status/1521681149986316289</id>
@@ -222,16 +238,6 @@ Set a reminder👇
         <link href="https://twitter.com/defipulse/status/1520753227486007296"/>
         <updated>2022-05-01T13:13:18.000Z</updated>
         <summary type="html"><![CDATA[Re 4/ Share this thread with your friends that are new to the space! 😉]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 4/ Here are some links for you to go more in-depth on the acronyms mentioned above:]]></title>
-        <id>https://twitter.com/defipulse/status/1520753224654852097</id>
-        <link href="https://twitter.com/defipulse/status/1520753224654852097"/>
-        <updated>2022-05-01T13:13:17.000Z</updated>
-        <summary type="html"><![CDATA[Re 4/ Here are some links for you to go more in-depth on the acronyms mentioned above: https://academy.binance.com/en/glossary/do-your-own-research https://www.alchemy.com/overviews/what-is-the-ethereum-virtual-machine-evm https://www.coinbase.com/pt/learn/crypto-basics/what-is-a-dex]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
