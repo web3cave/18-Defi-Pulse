@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-04T01:56:50.573Z</id>
+    <id>urn:2022-05-04T03:33:50.814Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-04T01:56:50.573Z</updated>
+    <updated>2022-05-04T03:33:50.814Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Join us for an AMA with @NFTX_ and @Scalara_xyz covering DeFi 🤝 NFTs. 👉Learn how NFTX inventory-staked, yield-bearing xTokens bring the composab...]]></title>
+        <id>https://twitter.com/defipulse/status/1521681149986316289</id>
+        <link href="https://twitter.com/defipulse/status/1521681149986316289"/>
+        <updated>2022-05-04T02:40:32.000Z</updated>
+        <summary type="html"><![CDATA[Join us for an AMA with @NFTX_  and @Scalara_xyz  covering DeFi 🤝 NFTs. 
+👉Learn how NFTX inventory-staked, yield-bearing xTokens bring the composability and upside of #DeFi to #NFTs.
+📆 May 5th - Thursday
+⏱   5PM UTC
+📌 https://discord.gg/yYyZY8Ga]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today there are around 15,000 #Bitcoin ATMs in the world 💰 How many do you think there will be in 2025? 👀 Source: @StatistaCharts]]></title>
         <id>https://twitter.com/defipulse/status/1521447200974385155</id>
@@ -218,20 +232,6 @@ Set a reminder👇
         <link href="https://twitter.com/defipulse/status/1520753224654852097"/>
         <updated>2022-05-01T13:13:17.000Z</updated>
         <summary type="html"><![CDATA[Re 4/ Here are some links for you to go more in-depth on the acronyms mentioned above: https://academy.binance.com/en/glossary/do-your-own-research https://www.alchemy.com/overviews/what-is-the-ethereum-virtual-machine-evm https://www.coinbase.com/pt/learn/crypto-basics/what-is-a-dex]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 3/3 FUD - Fear, Uncertainty & Doubt 🧐 FOMO - Fear of Missing Out 😖 ICO - Initial Coin Offering 🪙 DEX - Decentralized exchange 🔄]]></title>
-        <id>https://twitter.com/defipulse/status/1520753221907611648</id>
-        <link href="https://twitter.com/defipulse/status/1520753221907611648"/>
-        <updated>2022-05-01T13:13:16.000Z</updated>
-        <summary type="html"><![CDATA[Re 3/3
-FUD - Fear, Uncertainty & Doubt 🧐
-FOMO - Fear of Missing Out 😖
-ICO - Initial Coin Offering 🪙
-DEX - Decentralized exchange 🔄]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
