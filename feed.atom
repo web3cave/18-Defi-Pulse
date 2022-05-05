@@ -1,10 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-05T19:17:29.941Z</id>
+    <id>urn:2022-05-05T20:23:42.553Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-05T19:17:29.941Z</updated>
+    <updated>2022-05-05T20:23:42.553Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re "Usability is the name of the game. A lot of NFT users are unfamiliar with the complications that DeFi users r accustomed to. Our role is the ecosy...]]></title>
+        <id>https://twitter.com/defipulse/status/1522278031527759874</id>
+        <link href="https://twitter.com/defipulse/status/1522278031527759874"/>
+        <updated>2022-05-05T18:12:19.000Z</updated>
+        <summary type="html"><![CDATA[Re "Usability is the name of the game. A lot of NFT users are unfamiliar with the complications that DeFi users r accustomed to. Our role is the ecosystem is to unleash NFTs to realize their full potential and help unlock the $20b+ currently sitting idle to become yield generating."]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re positions and taking profits. I’m personally quite excited about this and I think it will go a long way to showcasing how powerful NFTX is."]]></title>
+        <id>https://twitter.com/defipulse/status/1522277681269780485</id>
+        <link href="https://twitter.com/defipulse/status/1522277681269780485"/>
+        <updated>2022-05-05T18:10:56.000Z</updated>
+        <summary type="html"><![CDATA[Re positions and taking profits. I’m personally quite excited about this and I think it will go a long way to showcasing how powerful NFTX is."]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re and there are also other benefits such as built-in TWAP feeds. On the webapp side, our team is working on a total overhaul of our DeFi staking dash...]]></title>
+        <id>https://twitter.com/defipulse/status/1522277679378186240</id>
+        <link href="https://twitter.com/defipulse/status/1522277679378186240"/>
+        <updated>2022-05-05T18:10:55.000Z</updated>
+        <summary type="html"><![CDATA[Re and there are also other benefits such as built-in TWAP feeds.  
+
+On the webapp side, our team is working on a total overhaul of our DeFi staking dashboard so that stakers have more tools in their arsenal for maximizing their returns and also interacting with their...]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some alpha on @NFTX_ next steps, according to @0xToes : "On the protocol side, we are currently working on a large upgrade which will migrate vault li...]]></title>
+        <id>https://twitter.com/defipulse/status/1522277677285138432</id>
+        <link href="https://twitter.com/defipulse/status/1522277677285138432"/>
+        <updated>2022-05-05T18:10:55.000Z</updated>
+        <summary type="html"><![CDATA[Some alpha on @NFTX_ next steps, according to @0xToes :
+"On the protocol side, we are currently working on a large upgrade which will migrate vault liquidity from SushiSwap over to UniswapV3. 
+Our hope is that this enables us to support concentrated liquidity in the future,...]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re ...there has to be some baseline liquidity in the underlying market. So for example if NFTs are frozen on Open Sea this could be a problem in the i...]]></title>
+        <id>https://twitter.com/defipulse/status/1522275944332935169</id>
+        <link href="https://twitter.com/defipulse/status/1522275944332935169"/>
+        <updated>2022-05-05T18:04:02.000Z</updated>
+        <summary type="html"><![CDATA[Re ...there has to be some baseline liquidity in the underlying market. So for example if NFTs are frozen on Open Sea this could be a problem in the index redeeming process."]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On why are some big NFT projects out of $NFTI, @ChristophGaX said: "We think that blue-chip also means that the NFT collection is established, has a f...]]></title>
+        <id>https://twitter.com/defipulse/status/1522275942374256647</id>
+        <link href="https://twitter.com/defipulse/status/1522275942374256647"/>
+        <updated>2022-05-05T18:04:01.000Z</updated>
+        <summary type="html"><![CDATA[On why are some big NFT projects out of $NFTI, @ChristophGaX said:
+"We think that blue-chip also means that the NFT collection is established, has a following, and is past its launch spike.
+And secondly, investability is important. For the index to be efficiently trading,...]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @BassBauman @justinavery "If you believe in the future of the project and wants to have long term exposure" . But it was too long for a written AMA...]]></title>
+        <id>https://twitter.com/defipulse/status/1522271354946469891</id>
+        <link href="https://twitter.com/defipulse/status/1522271354946469891"/>
+        <updated>2022-05-05T17:45:48.000Z</updated>
+        <summary type="html"><![CDATA[Re @BassBauman @justinavery "If you believe in the future of the project and wants to have long term exposure" .
+But it was too long for a written AMA.]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re ...the user base is also quite distinct. So we saw this as an opportunity to bring a simple way to get exposure to that NFT theme. Lastly, and inde...]]></title>
+        <id>https://twitter.com/defipulse/status/1522270047988817921</id>
+        <link href="https://twitter.com/defipulse/status/1522270047988817921"/>
+        <updated>2022-05-05T17:40:36.000Z</updated>
+        <summary type="html"><![CDATA[Re ...the user base is also quite distinct. 
+So we saw this as an opportunity to bring a simple way to get exposure to that NFT theme.
+Lastly, and index, if available as an ERC-20, would lower the cost significantly of getting exposure since it essentially fractionalizes an NFT."]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Now @ChristophGaX explained why an NFT index: (1/2) "We already had indices for $ETH and $BTC exposure, the FLI suite of leverage indices, and DeFi pr...]]></title>
+        <id>https://twitter.com/defipulse/status/1522270045887475713</id>
+        <link href="https://twitter.com/defipulse/status/1522270045887475713"/>
+        <updated>2022-05-05T17:40:36.000Z</updated>
+        <summary type="html"><![CDATA[Now @ChristophGaX explained why an NFT index:
+(1/2)
+"We already had indices for $ETH and $BTC exposure, the FLI suite of leverage indices, and DeFi protocol exposure through $DPI.
+NFTs as an asset class behaves quite differently than those, and in addition...]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some thoughts from @justinavery on the strengths of fractional NFTs: "CryptoPunks cost a fortune and it's difficult to buy them outright, but if you h...]]></title>
+        <id>https://twitter.com/defipulse/status/1522267816941993988</id>
+        <link href="https://twitter.com/defipulse/status/1522267816941993988"/>
+        <updated>2022-05-05T17:31:44.000Z</updated>
+        <summary type="html"><![CDATA[Some thoughts from @justinavery on the strengths of fractional NFTs:
+"CryptoPunks cost a fortune and it's difficult to buy them outright, but if you have faith in the collection you can buy little bit by little bit and build up to 1 token over time."]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re Come check our AMA with @Scalara_xyz and @NFTX_ team!]]></title>
         <id>https://twitter.com/defipulse/status/1522265590278369282</id>
@@ -130,121 +243,6 @@ Source: @StatistaCharts]]></summary>
         <link href="https://twitter.com/defipulse/status/1521375151270645765"/>
         <updated>2022-05-03T06:24:36.000Z</updated>
         <summary type="html"><![CDATA[gm #DeFi frens 👋🏼]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kudos to all 3 digits and 4 digits groups, color groups, letter groups, fruit groups, 0x groups… Congrats to all $ENS ecosystem!]]></title>
-        <id>https://twitter.com/defipulse/status/1521277136329494528</id>
-        <link href="https://twitter.com/defipulse/status/1521277136329494528"/>
-        <updated>2022-05-02T23:55:07.000Z</updated>
-        <summary type="html"><![CDATA[Kudos to all 3 digits and 4 digits groups, color groups, letter groups, fruit groups, 0x groups…
-Congrats to all $ENS ecosystem!
-Crypto-Gucci.eth ᵍᵐ🦇🔊: ENS names have now surpassed 1 million registrations 👀]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let’s compare #Bitcoin’s price on the 2nd of May for the past 3 years: 2022: $38,681 2021: $56,605 2020: $8,982 How much will 1 $BTC be next year?]]></title>
-        <id>https://twitter.com/defipulse/status/1521160353161297922</id>
-        <link href="https://twitter.com/defipulse/status/1521160353161297922"/>
-        <updated>2022-05-02T16:11:04.000Z</updated>
-        <summary type="html"><![CDATA[Let’s compare #Bitcoin’s price on the 2nd of May for the past 3 years:
-2022: $38,681
-2021: $56,605
-2020: $8,982
-How much will 1 $BTC be next year?]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 10/ Share this with a friend that wants to know all that happened on the Otherside mint! 🔥]]></title>
-        <id>https://twitter.com/defipulse/status/1521119853536374784</id>
-        <link href="https://twitter.com/defipulse/status/1521119853536374784"/>
-        <updated>2022-05-02T13:30:08.000Z</updated>
-        <summary type="html"><![CDATA[Re 10/ Share this with a friend that wants to know all that happened on the Otherside mint! 🔥]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 9/ What went wrong? ⛽️ Gas fees were extremely high, reaching around 2ETH The mint was so large that Etherscan crashed 🤯 Find out more about w...]]></title>
-        <id>https://twitter.com/defipulse/status/1521119850537517056</id>
-        <link href="https://twitter.com/defipulse/status/1521119850537517056"/>
-        <updated>2022-05-02T13:30:08.000Z</updated>
-        <summary type="html"><![CDATA[Re 9/ What went wrong? 
-⛽️ Gas fees were extremely high, reaching around 2ETH 
-The mint was so large that Etherscan crashed 🤯
-Find out more about what happened here:
-Yuga Labs: We wanted to say a few words about the mint tonight. 🧵]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 8/ The collection was originally planned to drop as a Dutch Auction format for sale In this type of auction, the mint price gradually falls over ti...]]></title>
-        <id>https://twitter.com/defipulse/status/1521119847534321665</id>
-        <link href="https://twitter.com/defipulse/status/1521119847534321665"/>
-        <updated>2022-05-02T13:30:07.000Z</updated>
-        <summary type="html"><![CDATA[Re 8/ The collection was originally planned to drop as a Dutch Auction format for sale
-In this type of auction, the mint price gradually falls over time, but they declared that these auctions were BS
-OthersideMeta: Dutch auctions are actually bullshit, so Otherdeeds will be sold for a flat price of 305 ApeCoin 🧵.]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 7/ Earlier in March, @yugalabs & @animocabrands opened a website for people to register an ETH wallet and complete the Know Your Customer (KYC) pro...]]></title>
-        <id>https://twitter.com/defipulse/status/1521119844740993025</id>
-        <link href="https://twitter.com/defipulse/status/1521119844740993025"/>
-        <updated>2022-05-02T13:30:06.000Z</updated>
-        <summary type="html"><![CDATA[Re 7/ Earlier in March, @yugalabs & @animocabrands opened a website for people to register an ETH wallet and complete the Know Your Customer (KYC) procedure
-If you didn't do this, you wouldn't be able to mint the NFT]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 6/ In total there are 55,000 NFTs available for purchase and can only be bought using $APE coin - they will sell for 305 $APE coins apiece]]></title>
-        <id>https://twitter.com/defipulse/status/1521119841997889536</id>
-        <link href="https://twitter.com/defipulse/status/1521119841997889536"/>
-        <updated>2022-05-02T13:30:06.000Z</updated>
-        <summary type="html"><![CDATA[Re 6/ In total there are 55,000 NFTs available for purchase and can only be bought using $APE coin - they will sell for 305 $APE coins apiece]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 5/ It is still unknown if the collection will serve as a virtual land in the metaverse but the leaked pitch deck that Yuga Lab's Co-Founder admitte...]]></title>
-        <id>https://twitter.com/defipulse/status/1521119839212867587</id>
-        <link href="https://twitter.com/defipulse/status/1521119839212867587"/>
-        <updated>2022-05-02T13:30:05.000Z</updated>
-        <summary type="html"><![CDATA[Re 5/ It is still unknown if the collection will serve as a virtual land in the metaverse but the leaked pitch deck that Yuga Lab's Co-Founder admitted to being real included a detailed plan of creating a metaverse and virtual land 👀]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 4/ If you missed out on the official @YugaLabs trailer, watch the video below 👇]]></title>
-        <id>https://twitter.com/defipulse/status/1521119836109037568</id>
-        <link href="https://twitter.com/defipulse/status/1521119836109037568"/>
-        <updated>2022-05-02T13:30:04.000Z</updated>
-        <summary type="html"><![CDATA[Re 4/ If you missed out on the official @YugaLabs trailer, watch the video below 👇
-Yuga Labs: See you on the Otherside in April. Powered by @apecoin]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 3/ Yesterday, BAYC launched the Otherdeed NFT collection for the game These NFTs are believed to serve as a deed to some type of virtual land in th...]]></title>
-        <id>https://twitter.com/defipulse/status/1521119833235984385</id>
-        <link href="https://twitter.com/defipulse/status/1521119833235984385"/>
-        <updated>2022-05-02T13:30:03.000Z</updated>
-        <summary type="html"><![CDATA[Re 3/ Yesterday, BAYC launched the Otherdeed NFT collection for the game
-These NFTs are believed to serve as a deed to some type of virtual land in the #metaverse game]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>

@@ -6,6 +6,106 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1522278031527759874",
+          "author": "DeFi Pulse 🍇",
+          "description": "Re \"Usability is the name of the game. A lot of NFT users are unfamiliar with the complications that DeFi users r accustomed to. Our role is the ecosystem is to unleash NFTs to realize their full potential and help unlock the $20b+ currently sitting idle to become yield generating.\"",
+          "link": "https://twitter.com/defipulse/status/1522278031527759874",
+          "publishedOn": "2022-05-05T18:12:19.000Z",
+          "wordCount": 196,
+          "title": "Re \"Usability is the name of the game. A lot of NFT users are unfamiliar with the complications that DeFi users r accustomed to. Our role is the ecosy...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1522277681269780485",
+          "author": "DeFi Pulse 🍇",
+          "description": "Re positions and taking profits. I’m personally quite excited about this and I think it will go a long way to showcasing how powerful NFTX is.\"",
+          "link": "https://twitter.com/defipulse/status/1522277681269780485",
+          "publishedOn": "2022-05-05T18:10:56.000Z",
+          "wordCount": 196,
+          "title": "Re positions and taking profits. I’m personally quite excited about this and I think it will go a long way to showcasing how powerful NFTX is.\"",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1522277679378186240",
+          "author": "DeFi Pulse 🍇",
+          "description": "Re and there are also other benefits such as built-in TWAP feeds.  \n\nOn the webapp side, our team is working on a total overhaul of our DeFi staking dashboard so that stakers have more tools in their arsenal for maximizing their returns and also interacting with their...",
+          "link": "https://twitter.com/defipulse/status/1522277679378186240",
+          "publishedOn": "2022-05-05T18:10:55.000Z",
+          "wordCount": 196,
+          "title": "Re and there are also other benefits such as built-in TWAP feeds. On the webapp side, our team is working on a total overhaul of our DeFi staking dash...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1522277677285138432",
+          "author": "DeFi Pulse 🍇",
+          "description": "Some alpha on @NFTX_ next steps, according to @0xToes :\n\"On the protocol side, we are currently working on a large upgrade which will migrate vault liquidity from SushiSwap over to UniswapV3. \nOur hope is that this enables us to support concentrated liquidity in the future,...",
+          "link": "https://twitter.com/defipulse/status/1522277677285138432",
+          "publishedOn": "2022-05-05T18:10:55.000Z",
+          "wordCount": 196,
+          "title": "Some alpha on @NFTX_ next steps, according to @0xToes : \"On the protocol side, we are currently working on a large upgrade which will migrate vault li...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1522275944332935169",
+          "author": "DeFi Pulse 🍇",
+          "description": "Re ...there has to be some baseline liquidity in the underlying market. So for example if NFTs are frozen on Open Sea this could be a problem in the index redeeming process.\"",
+          "link": "https://twitter.com/defipulse/status/1522275944332935169",
+          "publishedOn": "2022-05-05T18:04:02.000Z",
+          "wordCount": 196,
+          "title": "Re ...there has to be some baseline liquidity in the underlying market. So for example if NFTs are frozen on Open Sea this could be a problem in the i...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1522275942374256647",
+          "author": "DeFi Pulse 🍇",
+          "description": "On why are some big NFT projects out of $NFTI, @ChristophGaX said:\n\"We think that blue-chip also means that the NFT collection is established, has a following, and is past its launch spike.\nAnd secondly, investability is important. For the index to be efficiently trading,...",
+          "link": "https://twitter.com/defipulse/status/1522275942374256647",
+          "publishedOn": "2022-05-05T18:04:01.000Z",
+          "wordCount": 196,
+          "title": "On why are some big NFT projects out of $NFTI, @ChristophGaX said: \"We think that blue-chip also means that the NFT collection is established, has a f...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1522271354946469891",
+          "author": "DeFi Pulse 🍇",
+          "description": "Re @BassBauman @justinavery \"If you believe in the future of the project and wants to have long term exposure\" .\nBut it was too long for a written AMA.",
+          "link": "https://twitter.com/defipulse/status/1522271354946469891",
+          "publishedOn": "2022-05-05T17:45:48.000Z",
+          "wordCount": 196,
+          "title": "Re @BassBauman @justinavery \"If you believe in the future of the project and wants to have long term exposure\" . But it was too long for a written AMA...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1522270047988817921",
+          "author": "DeFi Pulse 🍇",
+          "description": "Re ...the user base is also quite distinct. \nSo we saw this as an opportunity to bring a simple way to get exposure to that NFT theme.\nLastly, and index, if available as an ERC-20, would lower the cost significantly of getting exposure since it essentially fractionalizes an NFT.\"",
+          "link": "https://twitter.com/defipulse/status/1522270047988817921",
+          "publishedOn": "2022-05-05T17:40:36.000Z",
+          "wordCount": 196,
+          "title": "Re ...the user base is also quite distinct. So we saw this as an opportunity to bring a simple way to get exposure to that NFT theme. Lastly, and inde...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1522270045887475713",
+          "author": "DeFi Pulse 🍇",
+          "description": "Now @ChristophGaX explained why an NFT index:\n(1/2)\n\"We already had indices for $ETH and $BTC exposure, the FLI suite of leverage indices, and DeFi protocol exposure through $DPI.\nNFTs as an asset class behaves quite differently than those, and in addition...",
+          "link": "https://twitter.com/defipulse/status/1522270045887475713",
+          "publishedOn": "2022-05-05T17:40:36.000Z",
+          "wordCount": 196,
+          "title": "Now @ChristophGaX explained why an NFT index: (1/2) \"We already had indices for $ETH and $BTC exposure, the FLI suite of leverage indices, and DeFi pr...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1522267816941993988",
+          "author": "DeFi Pulse 🍇",
+          "description": "Some thoughts from @justinavery on the strengths of fractional NFTs:\n\"CryptoPunks cost a fortune and it's difficult to buy them outright, but if you have faith in the collection you can buy little bit by little bit and build up to 1 token over time.\"",
+          "link": "https://twitter.com/defipulse/status/1522267816941993988",
+          "publishedOn": "2022-05-05T17:31:44.000Z",
+          "wordCount": 196,
+          "title": "Some thoughts from @justinavery on the strengths of fractional NFTs: \"CryptoPunks cost a fortune and it's difficult to buy them outright, but if you h...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1522265590278369282",
           "author": "DeFi Pulse 🍇",
           "description": "Re Come check our AMA with @Scalara_xyz and @NFTX_ team! http://discord.gg/yYyZY8Ga",
@@ -103,106 +203,6 @@
           "publishedOn": "2022-05-03T06:24:36.000Z",
           "wordCount": 196,
           "title": "gm #DeFi frens 👋🏼",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1521277136329494528",
-          "author": "DeFi Pulse 🍇",
-          "description": "Kudos to all 3 digits and 4 digits groups, color groups, letter groups, fruit groups, 0x groups…\nCongrats to all $ENS ecosystem!\nCrypto-Gucci.eth ᵍᵐ🦇🔊: ENS names have now surpassed 1 million registrations 👀",
-          "link": "https://twitter.com/defipulse/status/1521277136329494528",
-          "publishedOn": "2022-05-02T23:55:07.000Z",
-          "wordCount": 196,
-          "title": "Kudos to all 3 digits and 4 digits groups, color groups, letter groups, fruit groups, 0x groups… Congrats to all $ENS ecosystem!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1521160353161297922",
-          "author": "DeFi Pulse 🍇",
-          "description": "Let’s compare #Bitcoin’s price on the 2nd of May for the past 3 years:\n2022: $38,681\n2021: $56,605\n2020: $8,982\nHow much will 1 $BTC be next year?",
-          "link": "https://twitter.com/defipulse/status/1521160353161297922",
-          "publishedOn": "2022-05-02T16:11:04.000Z",
-          "wordCount": 196,
-          "title": "Let’s compare #Bitcoin’s price on the 2nd of May for the past 3 years: 2022: $38,681 2021: $56,605 2020: $8,982 How much will 1 $BTC be next year?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1521119853536374784",
-          "author": "DeFi Pulse 🍇",
-          "description": "Re 10/ Share this with a friend that wants to know all that happened on the Otherside mint! 🔥",
-          "link": "https://twitter.com/defipulse/status/1521119853536374784",
-          "publishedOn": "2022-05-02T13:30:08.000Z",
-          "wordCount": 196,
-          "title": "Re 10/ Share this with a friend that wants to know all that happened on the Otherside mint! 🔥",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1521119850537517056",
-          "author": "DeFi Pulse 🍇",
-          "description": "Re 9/ What went wrong? \n⛽️ Gas fees were extremely high, reaching around 2ETH \nThe mint was so large that Etherscan crashed 🤯\nFind out more about what happened here:\nYuga Labs: We wanted to say a few words about the mint tonight. 🧵",
-          "link": "https://twitter.com/defipulse/status/1521119850537517056",
-          "publishedOn": "2022-05-02T13:30:08.000Z",
-          "wordCount": 196,
-          "title": "Re 9/ What went wrong? ⛽️ Gas fees were extremely high, reaching around 2ETH The mint was so large that Etherscan crashed 🤯 Find out more about w...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1521119847534321665",
-          "author": "DeFi Pulse 🍇",
-          "description": "Re 8/ The collection was originally planned to drop as a Dutch Auction format for sale\nIn this type of auction, the mint price gradually falls over time, but they declared that these auctions were BS\nOthersideMeta: Dutch auctions are actually bullshit, so Otherdeeds will be sold for a flat price of 305 ApeCoin 🧵.",
-          "link": "https://twitter.com/defipulse/status/1521119847534321665",
-          "publishedOn": "2022-05-02T13:30:07.000Z",
-          "wordCount": 196,
-          "title": "Re 8/ The collection was originally planned to drop as a Dutch Auction format for sale In this type of auction, the mint price gradually falls over ti...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1521119844740993025",
-          "author": "DeFi Pulse 🍇",
-          "description": "Re 7/ Earlier in March, @yugalabs & @animocabrands opened a website for people to register an ETH wallet and complete the Know Your Customer (KYC) procedure\nIf you didn't do this, you wouldn't be able to mint the NFT",
-          "link": "https://twitter.com/defipulse/status/1521119844740993025",
-          "publishedOn": "2022-05-02T13:30:06.000Z",
-          "wordCount": 196,
-          "title": "Re 7/ Earlier in March, @yugalabs & @animocabrands opened a website for people to register an ETH wallet and complete the Know Your Customer (KYC) pro...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1521119841997889536",
-          "author": "DeFi Pulse 🍇",
-          "description": "Re 6/ In total there are 55,000 NFTs available for purchase and can only be bought using $APE coin - they will sell for 305 $APE coins apiece",
-          "link": "https://twitter.com/defipulse/status/1521119841997889536",
-          "publishedOn": "2022-05-02T13:30:06.000Z",
-          "wordCount": 196,
-          "title": "Re 6/ In total there are 55,000 NFTs available for purchase and can only be bought using $APE coin - they will sell for 305 $APE coins apiece",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1521119839212867587",
-          "author": "DeFi Pulse 🍇",
-          "description": "Re 5/ It is still unknown if the collection will serve as a virtual land in the metaverse but the leaked pitch deck that Yuga Lab's Co-Founder admitted to being real included a detailed plan of creating a metaverse and virtual land 👀",
-          "link": "https://twitter.com/defipulse/status/1521119839212867587",
-          "publishedOn": "2022-05-02T13:30:05.000Z",
-          "wordCount": 196,
-          "title": "Re 5/ It is still unknown if the collection will serve as a virtual land in the metaverse but the leaked pitch deck that Yuga Lab's Co-Founder admitte...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1521119836109037568",
-          "author": "DeFi Pulse 🍇",
-          "description": "Re 4/ If you missed out on the official @YugaLabs trailer, watch the video below 👇\nYuga Labs: See you on the Otherside in April. Powered by @apecoin",
-          "link": "https://twitter.com/defipulse/status/1521119836109037568",
-          "publishedOn": "2022-05-02T13:30:04.000Z",
-          "wordCount": 196,
-          "title": "Re 4/ If you missed out on the official @YugaLabs trailer, watch the video below 👇",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1521119833235984385",
-          "author": "DeFi Pulse 🍇",
-          "description": "Re 3/ Yesterday, BAYC launched the Otherdeed NFT collection for the game\nThese NFTs are believed to serve as a deed to some type of virtual land in the #metaverse game",
-          "link": "https://twitter.com/defipulse/status/1521119833235984385",
-          "publishedOn": "2022-05-02T13:30:03.000Z",
-          "wordCount": 196,
-          "title": "Re 3/ Yesterday, BAYC launched the Otherdeed NFT collection for the game These NFTs are believed to serve as a deed to some type of virtual land in th...",
           "imageUrl": null
         }
       ]
