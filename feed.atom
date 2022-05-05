@@ -1,10 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-05T17:26:32.944Z</id>
+    <id>urn:2022-05-05T18:25:45.898Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-05T17:26:32.944Z</updated>
+    <updated>2022-05-05T18:25:45.898Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re Come check our AMA with @Scalara_xyz and @NFTX_ team!]]></title>
+        <id>https://twitter.com/defipulse/status/1522265590278369282</id>
+        <link href="https://twitter.com/defipulse/status/1522265590278369282"/>
+        <updated>2022-05-05T17:22:53.000Z</updated>
+        <summary type="html"><![CDATA[Re Come check our AMA with @Scalara_xyz and @NFTX_ team! http://discord.gg/yYyZY8Ga]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re experimenting as a developer more. I was amazed with how vibrant the NFT ecosystem had become so I decided to build something at the intersection o...]]></title>
+        <id>https://twitter.com/defipulse/status/1522265588617420801</id>
+        <link href="https://twitter.com/defipulse/status/1522265588617420801"/>
+        <updated>2022-05-05T17:22:53.000Z</updated>
+        <summary type="html"><![CDATA[Re experimenting as a developer more. I was amazed with how vibrant the NFT ecosystem had become so I decided to build something at the intersection of DeFi and NFTs. Originally the idea was to make just a Cryptopunk ERC20, but then the idea snowballed into what became NFTX 🙂".]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some interesting facts on how @alexgausman ended up at @NFTX_ 👇🧵1/2 "I started getting into Ethereum/crypto/web3 around 2017 while working on my...]]></title>
+        <id>https://twitter.com/defipulse/status/1522265586545434624</id>
+        <link href="https://twitter.com/defipulse/status/1522265586545434624"/>
+        <updated>2022-05-05T17:22:52.000Z</updated>
+        <summary type="html"><![CDATA[Some interesting facts on how @alexgausman ended up at @NFTX_ 👇🧵1/2
+"I started getting into Ethereum/crypto/web3 around 2017 while working on my CompSci degree. I ended up finishing that degree in summer 2020 right when DeFi was taking off, so I had time to start...]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We are LIVE! 🔴 Join our AMA with @NFTX_ and @Scalara_xyznow to learn all about #DeFi and #NFTs 📌]]></title>
+        <id>https://twitter.com/defipulse/status/1522259833889730562</id>
+        <link href="https://twitter.com/defipulse/status/1522259833889730562"/>
+        <updated>2022-05-05T17:00:01.000Z</updated>
+        <summary type="html"><![CDATA[We are LIVE! 🔴
+Join our AMA with @NFTX_ and @Scalara_xyznow to learn all about #DeFi and #NFTs
+📌
+DeFi Pulse 🍇: Join us for an AMA with @NFTX_  and @Scalara_xyz  covering DeFi 🤝 NFTs. 
+👉Learn how NFTX inventory-staked, yield-bearing xTokens bring the composability and upside of #DeFi to #NFTs.
+📆 May 5th - Thursday
+⏱   5PM UTC
+📌
+ https://discord.gg/yYyZY8Ga]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Want to learn more about the synergies between #NFT and #DeFi? The AMA will start in 10 min! Tune now! 👉]]></title>
+        <id>https://twitter.com/defipulse/status/1522257732568551424</id>
+        <link href="https://twitter.com/defipulse/status/1522257732568551424"/>
+        <updated>2022-05-05T16:51:40.000Z</updated>
+        <summary type="html"><![CDATA[Want to learn more about the synergies between #NFT and #DeFi?
+The AMA will start in 10 min! 
+Tune now! 👉
+DeFi Pulse 🍇: Join us for an AMA with @NFTX_  and @Scalara_xyz  covering DeFi 🤝 NFTs. 
+👉Learn how NFTX inventory-staked, yield-bearing xTokens bring the composability and upside of #DeFi to #NFTs.
+📆 May 5th - Thursday
+⏱   5PM UTC
+📌
+ https://discord.gg/yYyZY8Ga]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Did you know that these top universities added #Crypto courses to their curriculum? 🧑‍🏫 📚 - Massachusetts Institute of Technology - National...]]></title>
         <id>https://twitter.com/defipulse/status/1521820819344744448</id>
@@ -178,66 +245,6 @@ Yuga Labs: See you on the Otherside in April. Powered by @apecoin]]></summary>
         <updated>2022-05-02T13:30:03.000Z</updated>
         <summary type="html"><![CDATA[Re 3/ Yesterday, BAYC launched the Otherdeed NFT collection for the game
 These NFTs are believed to serve as a deed to some type of virtual land in the #metaverse game]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 2/ What is Otherside? 🎮 A metaverse game that will bring together some of the biggest Blue-Chip NFT projects to date, such as @MeebitsNFTs, @coo...]]></title>
-        <id>https://twitter.com/defipulse/status/1521119830463500291</id>
-        <link href="https://twitter.com/defipulse/status/1521119830463500291"/>
-        <updated>2022-05-02T13:30:03.000Z</updated>
-        <summary type="html"><![CDATA[Re 2/ What is Otherside? 🎮
-A metaverse game that will bring together some of the biggest Blue-Chip NFT projects to date, such as @MeebitsNFTs, @coolcatsnft, and much more!]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1/ @BoredApeYC's @OthersideMeta #NFT drop explained A 🧵👇]]></title>
-        <id>https://twitter.com/defipulse/status/1521119827682742285</id>
-        <link href="https://twitter.com/defipulse/status/1521119827682742285"/>
-        <updated>2022-05-02T13:30:02.000Z</updated>
-        <summary type="html"><![CDATA[1/ @BoredApeYC's @OthersideMeta #NFT drop explained 
-A 🧵👇]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Scalara: Scalara announces the results of the April 2022 rebalance of the DeFi Pulse Index $DPI. Only one of the 3 monthly top performers was up in...]]></title>
-        <id>https://twitter.com/Scalara_xyz/status/1520926387770732546</id>
-        <link href="https://twitter.com/Scalara_xyz/status/1520926387770732546"/>
-        <updated>2022-05-02T00:41:22.000Z</updated>
-        <summary type="html"><![CDATA[RT Scalara
-Scalara announces the results of the April 2022 rebalance of the DeFi Pulse Index $DPI.
-Only one of the 3 monthly top performers was up in absolute terms:
-@KyberNetwork $KNC +57%
-@BalancerLabs $BAL -19%
-@harvest_finance $FARM -24% https://www.scalara.xyz/blog/april-2022-rebalance-defi-pulse-index]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Make sure to tune in! 😉]]></title>
-        <id>https://twitter.com/defipulse/status/1520873322413760512</id>
-        <link href="https://twitter.com/defipulse/status/1520873322413760512"/>
-        <updated>2022-05-01T21:10:31.000Z</updated>
-        <summary type="html"><![CDATA[Make sure to tune in! 😉
-silenok.eth: Tune in tonight 5pm PT / 8pm ET! We’ll be talking about DeFi with @alive_eth @a16z @scott_lew_is @SlingshotCrypto @defipulse @hosseeb @dragonfly_cap 🤩
-Set a reminder👇
- https://mobile.twitter.com/i/spaces/1PlKQaXDAqDKE https://twitter.com/silenok/status/1520101942139097088]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 4/ Share this thread with your friends that are new to the space! 😉]]></title>
-        <id>https://twitter.com/defipulse/status/1520753227486007296</id>
-        <link href="https://twitter.com/defipulse/status/1520753227486007296"/>
-        <updated>2022-05-01T13:13:18.000Z</updated>
-        <summary type="html"><![CDATA[Re 4/ Share this thread with your friends that are new to the space! 😉]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
