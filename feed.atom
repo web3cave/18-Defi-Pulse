@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-06T15:23:29.595Z</id>
+    <id>urn:2022-05-06T16:32:41.082Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-06T15:23:29.595Z</updated>
+    <updated>2022-05-06T16:32:41.082Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -20,10 +20,7 @@
         <id>https://twitter.com/defipulse/status/1522327808038432768</id>
         <link href="https://twitter.com/defipulse/status/1522327808038432768"/>
         <updated>2022-05-05T21:30:07.000Z</updated>
-        <summary type="html"><![CDATA[Re 
-DeFi Pulse 🍇: Some alpha on @NFTX_ next steps, according to @0xToes :
-"On the protocol side, we are currently working on a large upgrade which will migrate vault liquidity from SushiSwap over to UniswapV3. 
-Our hope is that this enables us to support concentrated liquidity in the future,...]]></summary>
+        <summary type="html"><![CDATA[Re  https://twitter.com/defipulse/status/1522277677285138432?s=20&t=-LQCGCwuIkfUtivgTTXgHQ]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -33,10 +30,7 @@ Our hope is that this enables us to support concentrated liquidity in the future
         <id>https://twitter.com/defipulse/status/1522327805035356160</id>
         <link href="https://twitter.com/defipulse/status/1522327805035356160"/>
         <updated>2022-05-05T21:30:06.000Z</updated>
-        <summary type="html"><![CDATA[Re 
-DeFi Pulse 🍇: On why are some big NFT projects out of $NFTI, @ChristophGaX said:
-"We think that blue-chip also means that the NFT collection is established, has a following, and is past its launch spike.
-And secondly, investability is important. For the index to be efficiently trading,...]]></summary>
+        <summary type="html"><![CDATA[Re  https://twitter.com/defipulse/status/1522275942374256647?s=20&t=-LQCGCwuIkfUtivgTTXgHQ]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -46,11 +40,7 @@ And secondly, investability is important. For the index to be efficiently tradin
         <id>https://twitter.com/defipulse/status/1522327801910599681</id>
         <link href="https://twitter.com/defipulse/status/1522327801910599681"/>
         <updated>2022-05-05T21:30:06.000Z</updated>
-        <summary type="html"><![CDATA[Re 
-DeFi Pulse 🍇: Now @ChristophGaX explained why an NFT index:
-(1/2)
-"We already had indices for $ETH and $BTC exposure, the FLI suite of leverage indices, and DeFi protocol exposure through $DPI.
-NFTs as an asset class behaves quite differently than those, and in addition...]]></summary>
+        <summary type="html"><![CDATA[Re  https://twitter.com/defipulse/status/1522270045887475713?s=20&t=-LQCGCwuIkfUtivgTTXgHQ]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -60,9 +50,7 @@ NFTs as an asset class behaves quite differently than those, and in addition...]
         <id>https://twitter.com/defipulse/status/1522327798819344384</id>
         <link href="https://twitter.com/defipulse/status/1522327798819344384"/>
         <updated>2022-05-05T21:30:05.000Z</updated>
-        <summary type="html"><![CDATA[Re 
-DeFi Pulse 🍇: Some thoughts from @justinavery on the strengths of fractional NFTs:
-"CryptoPunks cost a fortune and it's difficult to buy them outright, but if you have faith in the collection you can buy little bit by little bit and build up to 1 token over time."]]></summary>
+        <summary type="html"><![CDATA[Re  https://twitter.com/defipulse/status/1522267816941993988?s=20&t=-LQCGCwuIkfUtivgTTXgHQ]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -72,9 +60,7 @@ DeFi Pulse 🍇: Some thoughts from @justinavery on the strengths of fractiona
         <id>https://twitter.com/defipulse/status/1522327795946319872</id>
         <link href="https://twitter.com/defipulse/status/1522327795946319872"/>
         <updated>2022-05-05T21:30:04.000Z</updated>
-        <summary type="html"><![CDATA[Re 
-DeFi Pulse 🍇: Some interesting facts on how @alexgausman ended up at @NFTX_ 👇🧵1/2
-"I started getting into Ethereum/crypto/web3 around 2017 while working on my CompSci degree. I ended up finishing that degree in summer 2020 right when DeFi was taking off, so I had time to start...]]></summary>
+        <summary type="html"><![CDATA[Re  https://twitter.com/defipulse/status/1522265586545434624?s=20&t=-LQCGCwuIkfUtivgTTXgHQ]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -219,17 +205,6 @@ NFTs as an asset class behaves quite differently than those, and in addition...]
         <link href="https://twitter.com/defipulse/status/1522265588617420801"/>
         <updated>2022-05-05T17:22:53.000Z</updated>
         <summary type="html"><![CDATA[Re experimenting as a developer more. I was amazed with how vibrant the NFT ecosystem had become so I decided to build something at the intersection of DeFi and NFTs. Originally the idea was to make just a Cryptopunk ERC20, but then the idea snowballed into what became NFTX 🙂".]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Some interesting facts on how @alexgausman ended up at @NFTX_ 👇🧵1/2 "I started getting into Ethereum/crypto/web3 around 2017 while working on my...]]></title>
-        <id>https://twitter.com/defipulse/status/1522265586545434624</id>
-        <link href="https://twitter.com/defipulse/status/1522265586545434624"/>
-        <updated>2022-05-05T17:22:52.000Z</updated>
-        <summary type="html"><![CDATA[Some interesting facts on how @alexgausman ended up at @NFTX_ 👇🧵1/2
-"I started getting into Ethereum/crypto/web3 around 2017 while working on my CompSci degree. I ended up finishing that degree in summer 2020 right when DeFi was taking off, so I had time to start...]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
