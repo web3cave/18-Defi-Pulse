@@ -1,10 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-05T23:22:03.025Z</id>
+    <id>urn:2022-05-06T01:42:43.730Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-05T23:22:03.025Z</updated>
+    <updated>2022-05-06T01:42:43.730Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1522327808038432768</id>
+        <link href="https://twitter.com/defipulse/status/1522327808038432768"/>
+        <updated>2022-05-05T21:30:07.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://twitter.com/defipulse/status/1522277677285138432?s=20&t=-LQCGCwuIkfUtivgTTXgHQ]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1522327805035356160</id>
+        <link href="https://twitter.com/defipulse/status/1522327805035356160"/>
+        <updated>2022-05-05T21:30:06.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://twitter.com/defipulse/status/1522275942374256647?s=20&t=-LQCGCwuIkfUtivgTTXgHQ]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1522327801910599681</id>
+        <link href="https://twitter.com/defipulse/status/1522327801910599681"/>
+        <updated>2022-05-05T21:30:06.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://twitter.com/defipulse/status/1522270045887475713?s=20&t=-LQCGCwuIkfUtivgTTXgHQ]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1522327798819344384</id>
+        <link href="https://twitter.com/defipulse/status/1522327798819344384"/>
+        <updated>2022-05-05T21:30:05.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://twitter.com/defipulse/status/1522267816941993988?s=20&t=-LQCGCwuIkfUtivgTTXgHQ]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1522327795946319872</id>
+        <link href="https://twitter.com/defipulse/status/1522327795946319872"/>
+        <updated>2022-05-05T21:30:04.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://twitter.com/defipulse/status/1522265586545434624?s=20&t=-LQCGCwuIkfUtivgTTXgHQ]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recap from our AMA with @NFTX_ and @Scalara_xyz ! 🙌 Here are some highlights 🧵👇]]></title>
+        <id>https://twitter.com/defipulse/status/1522327792393760768</id>
+        <link href="https://twitter.com/defipulse/status/1522327792393760768"/>
+        <updated>2022-05-05T21:30:03.000Z</updated>
+        <summary type="html"><![CDATA[Recap from our AMA with @NFTX_ and @Scalara_xyz ! 🙌
+Here are some highlights 🧵👇]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re "Usability is the name of the game. A lot of NFT users are unfamiliar with the complications that DeFi users r accustomed to. Our role is the ecosy...]]></title>
         <id>https://twitter.com/defipulse/status/1522278031527759874</id>
@@ -145,104 +206,6 @@ NFTs as an asset class behaves quite differently than those, and in addition...]
         <updated>2022-05-05T17:22:52.000Z</updated>
         <summary type="html"><![CDATA[Some interesting facts on how @alexgausman ended up at @NFTX_ 👇🧵1/2
 "I started getting into Ethereum/crypto/web3 around 2017 while working on my CompSci degree. I ended up finishing that degree in summer 2020 right when DeFi was taking off, so I had time to start...]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We are LIVE! 🔴 Join our AMA with @NFTX_ and @Scalara_xyznow to learn all about #DeFi and #NFTs 📌]]></title>
-        <id>https://twitter.com/defipulse/status/1522259833889730562</id>
-        <link href="https://twitter.com/defipulse/status/1522259833889730562"/>
-        <updated>2022-05-05T17:00:01.000Z</updated>
-        <summary type="html"><![CDATA[We are LIVE! 🔴
-Join our AMA with @NFTX_ and @Scalara_xyznow to learn all about #DeFi and #NFTs
-📌
-DeFi Pulse 🍇: Join us for an AMA with @NFTX_  and @Scalara_xyz  covering DeFi 🤝 NFTs. 
-👉Learn how NFTX inventory-staked, yield-bearing xTokens bring the composability and upside of #DeFi to #NFTs.
-📆 May 5th - Thursday
-⏱   5PM UTC
-📌
- https://discord.gg/yYyZY8Ga]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Want to learn more about the synergies between #NFT and #DeFi? The AMA will start in 10 min! Tune now! 👉]]></title>
-        <id>https://twitter.com/defipulse/status/1522257732568551424</id>
-        <link href="https://twitter.com/defipulse/status/1522257732568551424"/>
-        <updated>2022-05-05T16:51:40.000Z</updated>
-        <summary type="html"><![CDATA[Want to learn more about the synergies between #NFT and #DeFi?
-The AMA will start in 10 min! 
-Tune now! 👉
-DeFi Pulse 🍇: Join us for an AMA with @NFTX_  and @Scalara_xyz  covering DeFi 🤝 NFTs. 
-👉Learn how NFTX inventory-staked, yield-bearing xTokens bring the composability and upside of #DeFi to #NFTs.
-📆 May 5th - Thursday
-⏱   5PM UTC
-📌
- https://discord.gg/yYyZY8Ga]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Did you know that these top universities added #Crypto courses to their curriculum? 🧑‍🏫 📚 - Massachusetts Institute of Technology - National...]]></title>
-        <id>https://twitter.com/defipulse/status/1521820819344744448</id>
-        <link href="https://twitter.com/defipulse/status/1521820819344744448"/>
-        <updated>2022-05-04T11:55:32.000Z</updated>
-        <summary type="html"><![CDATA[Did you know that these top universities added #Crypto  courses to their curriculum? 🧑‍🏫 📚
-- Massachusetts Institute of Technology
-- National University of Singapore
-- Oxford University
-- Cornell University
-- University of California, Berkeley
-Share to spread the knowledge! 🧠]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Join us for an AMA with @NFTX_ and @Scalara_xyz covering DeFi 🤝 NFTs. 👉Learn how NFTX inventory-staked, yield-bearing xTokens bring the composab...]]></title>
-        <id>https://twitter.com/defipulse/status/1521681149986316289</id>
-        <link href="https://twitter.com/defipulse/status/1521681149986316289"/>
-        <updated>2022-05-04T02:40:32.000Z</updated>
-        <summary type="html"><![CDATA[Join us for an AMA with @NFTX_  and @Scalara_xyz  covering DeFi 🤝 NFTs. 
-👉Learn how NFTX inventory-staked, yield-bearing xTokens bring the composability and upside of #DeFi to #NFTs.
-📆 May 5th - Thursday
-⏱   5PM UTC
-📌 https://discord.gg/yYyZY8Ga]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today there are around 15,000 #Bitcoin ATMs in the world 💰 How many do you think there will be in 2025? 👀 Source: @StatistaCharts]]></title>
-        <id>https://twitter.com/defipulse/status/1521447200974385155</id>
-        <link href="https://twitter.com/defipulse/status/1521447200974385155"/>
-        <updated>2022-05-03T11:10:54.000Z</updated>
-        <summary type="html"><![CDATA[Today there are around 15,000 #Bitcoin ATMs in the world 💰
-How many do you think there will be in 2025? 👀
-Source: @StatistaCharts]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[⚽️OFFICIAL: @Algorand becomes first US blockchain sponsor of FIFA World Cup in Qatar]]></title>
-        <id>https://twitter.com/defipulse/status/1521431548892954627</id>
-        <link href="https://twitter.com/defipulse/status/1521431548892954627"/>
-        <updated>2022-05-03T10:08:42.000Z</updated>
-        <summary type="html"><![CDATA[⚽️OFFICIAL: @Algorand becomes first US blockchain sponsor of FIFA World Cup in Qatar]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[gm #DeFi frens 👋🏼]]></title>
-        <id>https://twitter.com/defipulse/status/1521375151270645765</id>
-        <link href="https://twitter.com/defipulse/status/1521375151270645765"/>
-        <updated>2022-05-03T06:24:36.000Z</updated>
-        <summary type="html"><![CDATA[gm #DeFi frens 👋🏼]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
