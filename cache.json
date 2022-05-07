@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1522703962708750336",
+          "author": "DeFi Pulse 🍇",
+          "description": "Poly Pulse is now LIVE! 🙌\n🟣 Learn about what went on in @0xpolygon’s ecosystem. In this issue you will find:\n💻. Number of #dApps on #Polygon is over 19,000\n🥳  Liquid #staking unlocked on Polygon\n🧠 Alpha leaks\nand much more!\nRead more here👇 https://bit.ly/39JurYW",
+          "link": "https://twitter.com/defipulse/status/1522703962708750336",
+          "publishedOn": "2022-05-06T22:24:49.000Z",
+          "wordCount": 196,
+          "title": "Poly Pulse is now LIVE! 🙌 🟣 Learn about what went on in @0xpolygon’s ecosystem. In this issue you will find: 💻. Number of #dApps on #Polygon...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1522650964368392192",
           "author": "DeFi Pulse 🍇",
           "description": "Re 9/ $DPI token, is based on the DeFi Pulse Index, a digital asset index designed to track the performance of top protocols in #DeFi\n$NFTI is based on the @scalara_xyz NFT Index, an index designed to track the performance of the most well-known #NFT collections",
@@ -193,16 +203,6 @@
           "publishedOn": "2022-05-05T18:10:55.000Z",
           "wordCount": 196,
           "title": "Re and there are also other benefits such as built-in TWAP feeds. On the webapp side, our team is working on a total overhaul of our DeFi staking dash...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1522277677285138432",
-          "author": "DeFi Pulse 🍇",
-          "description": "Some alpha on @NFTX_ next steps, according to @0xToes :\n\"On the protocol side, we are currently working on a large upgrade which will migrate vault liquidity from SushiSwap over to UniswapV3. \nOur hope is that this enables us to support concentrated liquidity in the future,...",
-          "link": "https://twitter.com/defipulse/status/1522277677285138432",
-          "publishedOn": "2022-05-05T18:10:55.000Z",
-          "wordCount": 196,
-          "title": "Some alpha on @NFTX_ next steps, according to @0xToes : \"On the protocol side, we are currently working on a large upgrade which will migrate vault li...",
           "imageUrl": null
         }
       ]

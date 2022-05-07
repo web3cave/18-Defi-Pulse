@@ -1,10 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-06T23:21:15.959Z</id>
+    <id>urn:2022-05-07T01:43:08.021Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-06T23:21:15.959Z</updated>
+    <updated>2022-05-07T01:43:08.021Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Poly Pulse is now LIVE! 🙌 🟣 Learn about what went on in @0xpolygon’s ecosystem. In this issue you will find: 💻. Number of #dApps on #Polygon...]]></title>
+        <id>https://twitter.com/defipulse/status/1522703962708750336</id>
+        <link href="https://twitter.com/defipulse/status/1522703962708750336"/>
+        <updated>2022-05-06T22:24:49.000Z</updated>
+        <summary type="html"><![CDATA[Poly Pulse is now LIVE! 🙌
+🟣 Learn about what went on in @0xpolygon’s ecosystem. In this issue you will find:
+💻. Number of #dApps on #Polygon is over 19,000
+🥳  Liquid #staking unlocked on Polygon
+🧠 Alpha leaks
+and much more!
+Read more here👇 https://bit.ly/39JurYW]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re 9/ $DPI token, is based on the DeFi Pulse Index, a digital asset index designed to track the performance of top protocols in #DeFi $NFTI is based o...]]></title>
         <id>https://twitter.com/defipulse/status/1522650964368392192</id>
@@ -221,18 +237,6 @@ Here are some highlights 🧵👇]]></summary>
         <summary type="html"><![CDATA[Re and there are also other benefits such as built-in TWAP feeds.  
 
 On the webapp side, our team is working on a total overhaul of our DeFi staking dashboard so that stakers have more tools in their arsenal for maximizing their returns and also interacting with their...]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Some alpha on @NFTX_ next steps, according to @0xToes : "On the protocol side, we are currently working on a large upgrade which will migrate vault li...]]></title>
-        <id>https://twitter.com/defipulse/status/1522277677285138432</id>
-        <link href="https://twitter.com/defipulse/status/1522277677285138432"/>
-        <updated>2022-05-05T18:10:55.000Z</updated>
-        <summary type="html"><![CDATA[Some alpha on @NFTX_ next steps, according to @0xToes :
-"On the protocol side, we are currently working on a large upgrade which will migrate vault liquidity from SushiSwap over to UniswapV3. 
-Our hope is that this enables us to support concentrated liquidity in the future,...]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
