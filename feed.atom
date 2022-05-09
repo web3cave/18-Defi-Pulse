@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-09T10:25:15.773Z</id>
+    <id>urn:2022-05-09T11:19:01.585Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-09T10:25:15.773Z</updated>
+    <updated>2022-05-09T11:19:01.585Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[OFFICIAL: Instagram to support NFTs from Ethereum, Polygon, Solana and Flow]]></title>
+        <id>https://twitter.com/defipulse/status/1523587999426301953</id>
+        <link href="https://twitter.com/defipulse/status/1523587999426301953"/>
+        <updated>2022-05-09T08:57:40.000Z</updated>
+        <summary type="html"><![CDATA[OFFICIAL: Instagram to support NFTs from Ethereum, Polygon, Solana and Flow]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🍇 Happy mother’s day! How do you explain #DeFi to your mom?]]></title>
         <id>https://twitter.com/defipulse/status/1523398156049780736</id>
@@ -226,16 +236,6 @@ Here are some highlights 🧵👇]]></summary>
         <link href="https://twitter.com/defipulse/status/1522278031527759874"/>
         <updated>2022-05-05T18:12:19.000Z</updated>
         <summary type="html"><![CDATA[Re "Usability is the name of the game. A lot of NFT users are unfamiliar with the complications that DeFi users r accustomed to. Our role is the ecosystem is to unleash NFTs to realize their full potential and help unlock the $20b+ currently sitting idle to become yield generating."]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re positions and taking profits. I’m personally quite excited about this and I think it will go a long way to showcasing how powerful NFTX is."]]></title>
-        <id>https://twitter.com/defipulse/status/1522277681269780485</id>
-        <link href="https://twitter.com/defipulse/status/1522277681269780485"/>
-        <updated>2022-05-05T18:10:56.000Z</updated>
-        <summary type="html"><![CDATA[Re positions and taking profits. I’m personally quite excited about this and I think it will go a long way to showcasing how powerful NFTX is."]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
