@@ -38,7 +38,7 @@
         {
           "id": "https://twitter.com/defipulse/status/1523802883765940224",
           "author": "DeFi Pulse 🍇",
-          "description": "Re 12/ Decentralized algorithm, centralized collateral 👀\nThe algorithm that controls $UST is decentralized, but the $BTC reserve “in case something goes wrong” is controlled by an entity.\nBecause of recent volatility, they've announced a $1.5B deployment.\nDo Kwon 🌕: 2/ First, *LFG is not trying to exit its bitcoin position*. \nThe goal is to have this capital in the hands of a professional market maker such that: \n1) Buy UST if price < peg\n2) Buy BTC if price >= peg\nthus significantly strengthening the liquidity around UST peg",
+          "description": "Re 12/ Decentralized algorithm, centralized collateral 👀\nThe algorithm that controls $UST is decentralized, but the $BTC reserve “in case something goes wrong” is controlled by an entity.\nBecause of recent volatility, they've announced a $1.5B deployment. https://twitter.com/stablekwon/status/1523532476898897920",
           "link": "https://twitter.com/defipulse/status/1523802883765940224",
           "publishedOn": "2022-05-09T23:11:33.000Z",
           "wordCount": 196,
@@ -68,7 +68,7 @@
         {
           "id": "https://twitter.com/defipulse/status/1523802874815279104",
           "author": "DeFi Pulse 🍇",
-          "description": "Re 9/ With that risk in mind, the Luna Foundation Guard had raised over $1B through private token sales to build a crypto reserve to support $UST. \nSo now the algo stable is also… collateralized? 🤔\nLet's recap $DAI's main features and compare with $UST.\nLFG | Luna Foundation Guard: Welcoming $AVAX as the second major layer one crypto asset next to $BTC as part of the $UST Reserve. \nThe inclusion of @avalancheavax's native token marks the start of a diverse pool of layer one crypto assets helping support the $UST peg. \nIt's only just the beginning frens.\n https://twitter.com/business/status/1512110339613147142",
+          "description": "Re 9/ With that risk in mind, the Luna Foundation Guard had raised over $1B through private token sales to build a crypto reserve to support $UST. \nSo now the algo stable is also… collateralized? 🤔\nLet's recap $DAI's main features and compare with $UST. https://twitter.com/LFG_org/status/1512113288804552717",
           "link": "https://twitter.com/defipulse/status/1523802874815279104",
           "publishedOn": "2022-05-09T23:11:30.000Z",
           "wordCount": 196,
@@ -78,7 +78,7 @@
         {
           "id": "https://twitter.com/defipulse/status/1523802871841497088",
           "author": "DeFi Pulse 🍇",
-          "description": "Re 8/ As we've experienced before with $FEI, a Black Swan event or just a strong bearish sentiment could cause a large sell pressure on both $UST and $LUNA assets, causing a \"death spiral\".\nWestie 🌖 🟪: This process is what is known as a \"bank run\" or a \"death spiral,\" and can be visualized below. (Source: @ZeMariaMacedo",
+          "description": "Re 8/ As we've experienced before with $FEI, a Black Swan event or just a strong bearish sentiment could cause a large sell pressure on both $UST and $LUNA assets, causing a \"death spiral\". https://twitter.com/WestieCapital/status/1496223640534323200",
           "link": "https://twitter.com/defipulse/status/1523802871841497088",
           "publishedOn": "2022-05-09T23:11:30.000Z",
           "wordCount": 196,
@@ -193,16 +193,6 @@
           "publishedOn": "2022-05-09T19:08:46.000Z",
           "wordCount": 196,
           "title": "What are your thoughts? 👀 $UST = $0.95 Do you think the peg can be established?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1523693160035086340",
-          "author": "DeFi Pulse 🍇",
-          "description": "Re This is a sneak peak of how it will look:",
-          "link": "https://twitter.com/defipulse/status/1523693160035086340",
-          "publishedOn": "2022-05-09T15:55:32.000Z",
-          "wordCount": 196,
-          "title": "Re This is a sneak peak of how it will look:",
           "imageUrl": null
         }
       ]
