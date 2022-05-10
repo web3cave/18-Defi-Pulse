@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-10T15:23:04.072Z</id>
+    <id>urn:2022-05-10T16:35:11.601Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-10T15:23:04.072Z</updated>
+    <updated>2022-05-10T16:35:11.601Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -45,7 +45,12 @@ If this thread helped you to understand recent concerns and discussions about $U
         <updated>2022-05-09T23:11:33.000Z</updated>
         <summary type="html"><![CDATA[Re 12/ Decentralized algorithm, centralized collateral 👀
 The algorithm that controls $UST is decentralized, but the $BTC reserve “in case something goes wrong” is controlled by an entity.
-Because of recent volatility, they've announced a $1.5B deployment. https://twitter.com/stablekwon/status/1523532476898897920]]></summary>
+Because of recent volatility, they've announced a $1.5B deployment.
+Do Kwon 🌕: 2/ First, *LFG is not trying to exit its bitcoin position*. 
+The goal is to have this capital in the hands of a professional market maker such that: 
+1) Buy UST if price < peg
+2) Buy BTC if price >= peg
+thus significantly strengthening the liquidity around UST peg]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -81,7 +86,11 @@ $UST peg is maintained by an algorithm, but there is a $BTC reserve in case it f
         <updated>2022-05-09T23:11:30.000Z</updated>
         <summary type="html"><![CDATA[Re 9/ With that risk in mind, the Luna Foundation Guard had raised over $1B through private token sales to build a crypto reserve to support $UST. 
 So now the algo stable is also… collateralized? 🤔
-Let's recap $DAI's main features and compare with $UST. https://twitter.com/LFG_org/status/1512113288804552717]]></summary>
+Let's recap $DAI's main features and compare with $UST.
+LFG | Luna Foundation Guard: Welcoming $AVAX as the second major layer one crypto asset next to $BTC as part of the $UST Reserve. 
+The inclusion of @avalancheavax's native token marks the start of a diverse pool of layer one crypto assets helping support the $UST peg. 
+It's only just the beginning frens.
+ https://twitter.com/business/status/1512110339613147142]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -91,7 +100,8 @@ Let's recap $DAI's main features and compare with $UST. https://twitter.com/LF
         <id>https://twitter.com/defipulse/status/1523802871841497088</id>
         <link href="https://twitter.com/defipulse/status/1523802871841497088"/>
         <updated>2022-05-09T23:11:30.000Z</updated>
-        <summary type="html"><![CDATA[Re 8/ As we've experienced before with $FEI, a Black Swan event or just a strong bearish sentiment could cause a large sell pressure on both $UST and $LUNA assets, causing a "death spiral". https://twitter.com/WestieCapital/status/1496223640534323200]]></summary>
+        <summary type="html"><![CDATA[Re 8/ As we've experienced before with $FEI, a Black Swan event or just a strong bearish sentiment could cause a large sell pressure on both $UST and $LUNA assets, causing a "death spiral".
+Westie 🌖 🟪: This process is what is known as a "bank run" or a "death spiral," and can be visualized below. (Source: @ZeMariaMacedo]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -217,6 +227,16 @@ Let's find out! (1/13) 🧵]]></summary>
         <summary type="html"><![CDATA[What are your thoughts? 👀
 $UST = $0.95 
 Do you think the peg can be established?]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re This is a sneak peak of how it will look:]]></title>
+        <id>https://twitter.com/defipulse/status/1523693160035086340</id>
+        <link href="https://twitter.com/defipulse/status/1523693160035086340"/>
+        <updated>2022-05-09T15:55:32.000Z</updated>
+        <summary type="html"><![CDATA[Re This is a sneak peak of how it will look:]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
