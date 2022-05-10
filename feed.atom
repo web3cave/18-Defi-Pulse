@@ -1,10 +1,204 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-09T23:21:28.363Z</id>
+    <id>urn:2022-05-10T01:26:49.052Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-09T23:21:28.363Z</updated>
+    <updated>2022-05-10T01:26:49.052Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT sassal.eth 🦇🔊🐼: Decentralization matters]]></title>
+        <id>https://twitter.com/sassal0x/status/1523813695620411392</id>
+        <link href="https://twitter.com/sassal0x/status/1523813695620411392"/>
+        <updated>2022-05-09T23:54:30.000Z</updated>
+        <summary type="html"><![CDATA[RT sassal.eth 🦇🔊🐼
+Decentralization matters]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @alexeiZamyatin @InterlayHQ If a stable needs another protocol to do its primary job right... something sound wrong. Of course no problem at all wi...]]></title>
+        <id>https://twitter.com/defipulse/status/1523811681163673600</id>
+        <link href="https://twitter.com/defipulse/status/1523811681163673600"/>
+        <updated>2022-05-09T23:46:30.000Z</updated>
+        <summary type="html"><![CDATA[Re @alexeiZamyatin @InterlayHQ If a stable needs another protocol to do its primary job right... something sound wrong.
+Of course no problem at all with Interlay.]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 13/ If this thread helped you to understand recent concerns and discussions about $UST and stablecoins in general, like it and share!]]></title>
+        <id>https://twitter.com/defipulse/status/1523802903860764672</id>
+        <link href="https://twitter.com/defipulse/status/1523802903860764672"/>
+        <updated>2022-05-09T23:11:37.000Z</updated>
+        <summary type="html"><![CDATA[Re 13/ 
+If this thread helped you to understand recent concerns and discussions about $UST and stablecoins in general, like it and share!]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 12/ Decentralized algorithm, centralized collateral 👀 The algorithm that controls $UST is decentralized, but the $BTC reserve “in case somethin...]]></title>
+        <id>https://twitter.com/defipulse/status/1523802883765940224</id>
+        <link href="https://twitter.com/defipulse/status/1523802883765940224"/>
+        <updated>2022-05-09T23:11:33.000Z</updated>
+        <summary type="html"><![CDATA[Re 12/ Decentralized algorithm, centralized collateral 👀
+The algorithm that controls $UST is decentralized, but the $BTC reserve “in case something goes wrong” is controlled by an entity.
+Because of recent volatility, they've announced a $1.5B deployment.
+Do Kwon 🌕: 2/ First, *LFG is not trying to exit its bitcoin position*. 
+The goal is to have this capital in the hands of a professional market maker such that: 
+1) Buy UST if price < peg
+2) Buy BTC if price >= peg
+thus significantly strengthening the liquidity around UST peg]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 11/ Decentralized and unbiased Maker's vaults are controlled by smart-contracts. The collateral management, liquidation process, price checks, ever...]]></title>
+        <id>https://twitter.com/defipulse/status/1523802880888631296</id>
+        <link href="https://twitter.com/defipulse/status/1523802880888631296"/>
+        <updated>2022-05-09T23:11:32.000Z</updated>
+        <summary type="html"><![CDATA[Re 11/ Decentralized and unbiased
+Maker's vaults are controlled by smart-contracts. The collateral management, liquidation process, price checks, everything is decentralized. Emergency processes can be triggered by the DAO, a decentralized entity.
+What about $UST?]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 10/ Collateral-backed Each $DAI in circulation is backed by a diverse class of cryptoassets. If your vault collateralization drops from a certain a...]]></title>
+        <id>https://twitter.com/defipulse/status/1523802878019706881</id>
+        <link href="https://twitter.com/defipulse/status/1523802878019706881"/>
+        <updated>2022-05-09T23:11:31.000Z</updated>
+        <summary type="html"><![CDATA[Re 10/ Collateral-backed
+Each $DAI in circulation is backed by a diverse class of cryptoassets. If your vault collateralization drops from a certain amount (from 130 to 150%) you're liquidated.
+$UST peg is maintained by an algorithm, but there is a $BTC reserve in case it fails.]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 9/ With that risk in mind, the Luna Foundation Guard had raised over $1B through private token sales to build a crypto reserve to support $UST. So ...]]></title>
+        <id>https://twitter.com/defipulse/status/1523802874815279104</id>
+        <link href="https://twitter.com/defipulse/status/1523802874815279104"/>
+        <updated>2022-05-09T23:11:30.000Z</updated>
+        <summary type="html"><![CDATA[Re 9/ With that risk in mind, the Luna Foundation Guard had raised over $1B through private token sales to build a crypto reserve to support $UST. 
+So now the algo stable is also… collateralized? 🤔
+Let's recap $DAI's main features and compare with $UST.
+LFG | Luna Foundation Guard: Welcoming $AVAX as the second major layer one crypto asset next to $BTC as part of the $UST Reserve. 
+The inclusion of @avalancheavax's native token marks the start of a diverse pool of layer one crypto assets helping support the $UST peg. 
+It's only just the beginning frens.
+ https://twitter.com/business/status/1512110339613147142]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 8/ As we've experienced before with $FEI, a Black Swan event or just a strong bearish sentiment could cause a large sell pressure on both $UST and ...]]></title>
+        <id>https://twitter.com/defipulse/status/1523802871841497088</id>
+        <link href="https://twitter.com/defipulse/status/1523802871841497088"/>
+        <updated>2022-05-09T23:11:30.000Z</updated>
+        <summary type="html"><![CDATA[Re 8/ As we've experienced before with $FEI, a Black Swan event or just a strong bearish sentiment could cause a large sell pressure on both $UST and $LUNA assets, causing a "death spiral".
+Westie 🌖 🟪: This process is what is known as a "bank run" or a "death spiral," and can be visualized below. (Source: @ZeMariaMacedo]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 7/ Collateralized x Algorithmic This is where both solutions differentiate the most. While Maker protocol holds a higher amount of dollars in crypt...]]></title>
+        <id>https://twitter.com/defipulse/status/1523802868632805376</id>
+        <link href="https://twitter.com/defipulse/status/1523802868632805376"/>
+        <updated>2022-05-09T23:11:29.000Z</updated>
+        <summary type="html"><![CDATA[Re 7/ Collateralized x Algorithmic
+This is where both solutions differentiate the most. While Maker protocol holds a higher amount of dollars in cryptoassets than $DAI in circulation, $UST relies on human reaction facing supply/demands fluctuation.
+But humans are not perfect.]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 6/ To implement the elastic supply mechanism, Terra uses its governance coin, $LUNA. In the Terra Blockchain, users can always swap $1 worth of $LU...]]></title>
+        <id>https://twitter.com/defipulse/status/1523802856955863041</id>
+        <link href="https://twitter.com/defipulse/status/1523802856955863041"/>
+        <updated>2022-05-09T23:11:26.000Z</updated>
+        <summary type="html"><![CDATA[Re 6/ To implement the elastic supply mechanism, Terra uses its governance coin, $LUNA.
+In the Terra Blockchain, users can always swap $1 worth of $LUNA to 1 $UST and vice-versa, incentivizing arbitrageurs to take action in case the peg is lost.]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 5/ When writing an algorithm for a stablecoin, projects usually try to work with variations of a demand/supply mechanisms. It's intuitive if u thin...]]></title>
+        <id>https://twitter.com/defipulse/status/1523802850102448129</id>
+        <link href="https://twitter.com/defipulse/status/1523802850102448129"/>
+        <updated>2022-05-09T23:11:25.000Z</updated>
+        <summary type="html"><![CDATA[Re 5/  When writing an algorithm for a stablecoin, projects usually try to work with variations of a demand/supply mechanisms.  
+It's intuitive if u think about it: if the coin drops in price, let's burn some of it, creating a shortage of supply. But $UST adds some details.]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 4/ And what is $UST? $UST is an algorithmically stabilized cryptocurrency. It means that its peg (in this case to USD) is maintained by calculation...]]></title>
+        <id>https://twitter.com/defipulse/status/1523802843643142144</id>
+        <link href="https://twitter.com/defipulse/status/1523802843643142144"/>
+        <updated>2022-05-09T23:11:23.000Z</updated>
+        <summary type="html"><![CDATA[Re 4/ And what is $UST?
+$UST is an algorithmically stabilized cryptocurrency. 
+ It means that its peg (in this case to USD) is maintained by calculations executed by a smart-contract. There are many different algorithms for maintaining stablecoins, let's dive into $UST's.]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 3/ Collateral-backed: Each $DAI put into circulation is backed by different class of cryptocurrency as $ETH, $WBTC, $UNI and others decided by the ...]]></title>
+        <id>https://twitter.com/defipulse/status/1523802829911076864</id>
+        <link href="https://twitter.com/defipulse/status/1523802829911076864"/>
+        <updated>2022-05-09T23:11:20.000Z</updated>
+        <summary type="html"><![CDATA[Re 3/  Collateral-backed: 
+Each $DAI put into circulation is backed by different class of cryptocurrency as $ETH, $WBTC, $UNI and others decided by the DAO.  
+The stable is overcollateralized, meaning that you can mint less $DAI than the relative value of collateral locked.]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 2/ Decentralized and unbiased $DAI is not controlled by any centralized entity. The stablecoin is maintained by the Maker Protocol trough @oasisdot...]]></title>
+        <id>https://twitter.com/defipulse/status/1523802822772285440</id>
+        <link href="https://twitter.com/defipulse/status/1523802822772285440"/>
+        <updated>2022-05-09T23:11:18.000Z</updated>
+        <summary type="html"><![CDATA[Re 2/  Decentralized and unbiased 
+$DAI is not controlled by any centralized entity. The stablecoin is maintained by the Maker Protocol trough @oasisdotapp, with collaboration of the @MakerDAO governance.
+Learn more about Oasis 👇 https://www.defipulse.com/blog/oasis-app-growing-cryptos-tried-and-true-dai-and-defi-gateway]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 1/ What is $DAI? "Dai is a decentralized, unbiased, collateral-backed cryptocurrency soft-pegged to the US Dollar" - according to Maker's Whitepape...]]></title>
+        <id>https://twitter.com/defipulse/status/1523802819886604288</id>
+        <link href="https://twitter.com/defipulse/status/1523802819886604288"/>
+        <updated>2022-05-09T23:11:17.000Z</updated>
+        <summary type="html"><![CDATA[Re 1/  What is $DAI? 
+"Dai is a decentralized, unbiased, collateral-backed cryptocurrency soft-pegged to the US Dollar" - according to Maker's Whitepaper. 
+But what does each one of those terms mean? https://makerdao.com/en/whitepaper#abstract]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are the main differences between $DAI (a decentralized stablecoin on Ethereum) and $UST (Terra's algo stablecoin)? Let's find out! (1/13) 🧵]]></title>
+        <id>https://twitter.com/defipulse/status/1523802816657035264</id>
+        <link href="https://twitter.com/defipulse/status/1523802816657035264"/>
+        <updated>2022-05-09T23:11:17.000Z</updated>
+        <summary type="html"><![CDATA[What are the main differences between $DAI (a decentralized stablecoin on Ethereum) and $UST (Terra's algo stablecoin)?
+Let's find out! (1/13) 🧵]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🚨BREAKING: Luna Foundation Guard's (LFG) wallet moved over 42 thousand #Bitcoin = $1.3B]]></title>
         <id>https://twitter.com/defipulse/status/1523748971096592384</id>
@@ -43,168 +237,6 @@ Do you think the peg can be established?]]></summary>
         <link href="https://twitter.com/defipulse/status/1523693160035086340"/>
         <updated>2022-05-09T15:55:32.000Z</updated>
         <summary type="html"><![CDATA[Re This is a sneak peak of how it will look:]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OFFICIAL: Instagram to support NFTs from Ethereum, Polygon, Solana and Flow]]></title>
-        <id>https://twitter.com/defipulse/status/1523587999426301953</id>
-        <link href="https://twitter.com/defipulse/status/1523587999426301953"/>
-        <updated>2022-05-09T08:57:40.000Z</updated>
-        <summary type="html"><![CDATA[OFFICIAL: Instagram to support NFTs from Ethereum, Polygon, Solana and Flow]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🍇 Happy mother’s day! How do you explain #DeFi to your mom?]]></title>
-        <id>https://twitter.com/defipulse/status/1523398156049780736</id>
-        <link href="https://twitter.com/defipulse/status/1523398156049780736"/>
-        <updated>2022-05-08T20:23:18.000Z</updated>
-        <summary type="html"><![CDATA[🍇 Happy mother’s day! 
-How do you explain #DeFi to your mom?]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poly Pulse is now LIVE! 🙌 🟣 Learn about what went on in @0xpolygon’s ecosystem. In this issue you will find: 💻. Number of #dApps on #Polygon...]]></title>
-        <id>https://twitter.com/defipulse/status/1522703962708750336</id>
-        <link href="https://twitter.com/defipulse/status/1522703962708750336"/>
-        <updated>2022-05-06T22:24:49.000Z</updated>
-        <summary type="html"><![CDATA[Poly Pulse is now LIVE! 🙌
-🟣 Learn about what went on in @0xpolygon’s ecosystem. In this issue you will find:
-💻. Number of #dApps on #Polygon is over 19,000
-🥳  Liquid #staking unlocked on Polygon
-🧠 Alpha leaks
-and much more!
-Read more here👇 https://bit.ly/39JurYW]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 9/ $DPI token, is based on the DeFi Pulse Index, a digital asset index designed to track the performance of top protocols in #DeFi $NFTI is based o...]]></title>
-        <id>https://twitter.com/defipulse/status/1522650964368392192</id>
-        <link href="https://twitter.com/defipulse/status/1522650964368392192"/>
-        <updated>2022-05-06T18:54:14.000Z</updated>
-        <summary type="html"><![CDATA[Re 9/ $DPI token, is based on the DeFi Pulse Index, a digital asset index designed to track the performance of top protocols in #DeFi
-$NFTI is based on the @scalara_xyz NFT Index, an index designed to track the performance of the most well-known #NFT collections]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 8/ The Merge Update]]></title>
-        <id>https://twitter.com/defipulse/status/1522650956520845312</id>
-        <link href="https://twitter.com/defipulse/status/1522650956520845312"/>
-        <updated>2022-05-06T18:54:12.000Z</updated>
-        <summary type="html"><![CDATA[Re 8/ The Merge Update https://thedefiant.io/the-merge-update-beiko/]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 7/ First Mover Asia: Events in China, India Have Also Weighed on #Crypto Prices]]></title>
-        <id>https://twitter.com/defipulse/status/1522650953517649920</id>
-        <link href="https://twitter.com/defipulse/status/1522650953517649920"/>
-        <updated>2022-05-06T18:54:11.000Z</updated>
-        <summary type="html"><![CDATA[Re 7/ First Mover Asia: Events in China, India Have Also Weighed on #Crypto Prices https://www.coindesk.com/markets/2022/05/05/first-mover-asia-events-in-china-india-have-also-weighed-on-crypto-prices/]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 6/]]></title>
-        <id>https://twitter.com/defipulse/status/1522650950447472640</id>
-        <link href="https://twitter.com/defipulse/status/1522650950447472640"/>
-        <updated>2022-05-06T18:54:10.000Z</updated>
-        <summary type="html"><![CDATA[Re 6/ https://twitter.com/defipulse/status/1522327792393760768]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 5/]]></title>
-        <id>https://twitter.com/defipulse/status/1522650947452751873</id>
-        <link href="https://twitter.com/defipulse/status/1522650947452751873"/>
-        <updated>2022-05-06T18:54:10.000Z</updated>
-        <summary type="html"><![CDATA[Re 5/ https://twitter.com/Scalara_xyz/status/1521685016891342849 https://twitter.com/Scalara_xyz/status/1521685016891342849]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 4/ OpenSea Suffers Discord Exploit Promoting YouTube #NFT Scam]]></title>
-        <id>https://twitter.com/defipulse/status/1522650944617385984</id>
-        <link href="https://twitter.com/defipulse/status/1522650944617385984"/>
-        <updated>2022-05-06T18:54:09.000Z</updated>
-        <summary type="html"><![CDATA[Re 4/ OpenSea Suffers Discord Exploit Promoting YouTube #NFT Scam https://decrypt.co/99611/opensea-suffers-discord-exploit-promoting-youtube-nft-scam]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 3/ @CurveFinance integrates with $NEAR's @auroraisnear network]]></title>
-        <id>https://twitter.com/defipulse/status/1522650941824012288</id>
-        <link href="https://twitter.com/defipulse/status/1522650941824012288"/>
-        <updated>2022-05-06T18:54:08.000Z</updated>
-        <summary type="html"><![CDATA[Re 3/ @CurveFinance integrates with $NEAR's @auroraisnear network https://www.coindesk.com/markets/2022/05/05/curve-finance-integrates-with-nears-aurora-network/?utm_source=tldrnewsletter]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 2/ 📰 Latest news:]]></title>
-        <id>https://twitter.com/defipulse/status/1522650938883796992</id>
-        <link href="https://twitter.com/defipulse/status/1522650938883796992"/>
-        <updated>2022-05-06T18:54:07.000Z</updated>
-        <summary type="html"><![CDATA[Re 2/ 📰 Latest news: https://twitter.com/danrobinson/status/1522268836430417931]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1/ It is that time of the week, #SectorPusle is here! 🥳 $DPI is now trading at $134.05 a 14.6% decrease from last week 📉 $NFTI is now trading at...]]></title>
-        <id>https://twitter.com/defipulse/status/1522650934588764160</id>
-        <link href="https://twitter.com/defipulse/status/1522650934588764160"/>
-        <updated>2022-05-06T18:54:06.000Z</updated>
-        <summary type="html"><![CDATA[1/ It is that time of the week, #SectorPusle is here! 🥳
-$DPI is now trading at $134.05 a 14.6% decrease from last week 📉
-$NFTI is now trading at $9.08, a 7.3% decrease from last week 📉
-The stable $USDC yield is 2.49%
-On the 🧵 👇 you will find a summary of the week's news]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[gm! happy friday! 🙌]]></title>
-        <id>https://twitter.com/defipulse/status/1522468296624414720</id>
-        <link href="https://twitter.com/defipulse/status/1522468296624414720"/>
-        <updated>2022-05-06T06:48:22.000Z</updated>
-        <summary type="html"><![CDATA[gm! happy friday! 🙌]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1522327808038432768</id>
-        <link href="https://twitter.com/defipulse/status/1522327808038432768"/>
-        <updated>2022-05-05T21:30:07.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://twitter.com/defipulse/status/1522277677285138432?s=20&t=-LQCGCwuIkfUtivgTTXgHQ]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1522327805035356160</id>
-        <link href="https://twitter.com/defipulse/status/1522327805035356160"/>
-        <updated>2022-05-05T21:30:06.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://twitter.com/defipulse/status/1522275942374256647?s=20&t=-LQCGCwuIkfUtivgTTXgHQ]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
