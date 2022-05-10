@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-10T19:18:05.418Z</id>
+    <id>urn:2022-05-10T20:23:20.394Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-10T19:18:05.418Z</updated>
+    <updated>2022-05-10T20:23:20.394Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[Re @abdullaalkamil no, not at all]]></title>
-        <id>https://twitter.com/defipulse/status/1524100002993389569</id>
-        <link href="https://twitter.com/defipulse/status/1524100002993389569"/>
-        <updated>2022-05-10T18:52:11.000Z</updated>
-        <summary type="html"><![CDATA[Re @abdullaalkamil no, not at all]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[RT sassal.eth 🦇🔊🐼: Decentralization matters]]></title>
         <id>https://twitter.com/sassal0x/status/1523813695620411392</id>
@@ -237,6 +227,16 @@ Let's find out! (1/13) 🧵]]></summary>
         <summary type="html"><![CDATA[What are your thoughts? 👀
 $UST = $0.95 
 Do you think the peg can be established?]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re This is a sneak peak of how it will look:]]></title>
+        <id>https://twitter.com/defipulse/status/1523693160035086340</id>
+        <link href="https://twitter.com/defipulse/status/1523693160035086340"/>
+        <updated>2022-05-09T15:55:32.000Z</updated>
+        <summary type="html"><![CDATA[Re This is a sneak peak of how it will look:]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
