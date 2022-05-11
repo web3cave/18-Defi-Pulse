@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-11T11:18:13.887Z</id>
+    <id>urn:2022-05-11T12:45:31.669Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-11T11:18:13.887Z</updated>
+    <updated>2022-05-11T12:45:31.669Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Do Kwon on $UST:]]></title>
+        <id>https://twitter.com/defipulse/status/1524340110845784067</id>
+        <link href="https://twitter.com/defipulse/status/1524340110845784067"/>
+        <updated>2022-05-11T10:46:17.000Z</updated>
+        <summary type="html"><![CDATA[Do Kwon on $UST:]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Good morning. Godmorgen. Goedemorgen. Bonjour. Guten Morgen. Buongiorno. Bom dia. Доброе утро. Buenos días. सुप्रभात. おはようござ...]]></title>
         <id>https://twitter.com/defipulse/status/1524292226913869825</id>
@@ -222,18 +232,6 @@ $UST is an algorithmically stabilized cryptocurrency.
         <summary type="html"><![CDATA[Re 3/  Collateral-backed: 
 Each $DAI put into circulation is backed by different class of cryptocurrency as $ETH, $WBTC, $UNI and others decided by the DAO.  
 The stable is overcollateralized, meaning that you can mint less $DAI than the relative value of collateral locked.]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 2/ Decentralized and unbiased $DAI is not controlled by any centralized entity. The stablecoin is maintained by the Maker Protocol trough @oasisdot...]]></title>
-        <id>https://twitter.com/defipulse/status/1523802822772285440</id>
-        <link href="https://twitter.com/defipulse/status/1523802822772285440"/>
-        <updated>2022-05-09T23:11:18.000Z</updated>
-        <summary type="html"><![CDATA[Re 2/  Decentralized and unbiased 
-$DAI is not controlled by any centralized entity. The stablecoin is maintained by the Maker Protocol trough @oasisdotapp, with collaboration of the @MakerDAO governance.
-Learn more about Oasis 👇 https://www.defipulse.com/blog/oasis-app-growing-cryptos-tried-and-true-dai-and-defi-gateway]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
