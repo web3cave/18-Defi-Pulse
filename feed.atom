@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-12T13:46:47.443Z</id>
+    <id>urn:2022-05-12T14:22:03.231Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-12T13:46:47.443Z</updated>
+    <updated>2022-05-12T14:22:03.231Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -28,16 +28,7 @@ Read the full edition 👇 https://bit.ly/3KZp58Q]]></summary>
         <updated>2022-05-11T18:41:36.000Z</updated>
         <summary type="html"><![CDATA[📣 @Scalara_xyz  x @NFTX_ Spaces 📣
 DeFi meets NFTs! Learn more about how NFTX is unlocking the composability of DeFi for NFTs
-Make sure to tune in! 😉
-DeFi Pulse 🍇: 🚨 DeFi Pulse Spaces Alert
-🎙️Co-hosts:
-@defipulse
-@NFTX_
-@Scalara_xyz
-@0xcaps
-@fallow8DeFi
-🔔 Set your reminders
- https://twitter.com/i/spaces/1kvJpAErzZZxE]]></summary>
+Make sure to tune in! 😉]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -58,9 +49,7 @@ Source: @CoinDesk]]></summary>
         <id>https://twitter.com/defipulse/status/1524340110845784067</id>
         <link href="https://twitter.com/defipulse/status/1524340110845784067"/>
         <updated>2022-05-11T10:46:17.000Z</updated>
-        <summary type="html"><![CDATA[Do Kwon on $UST:
-Do Kwon 🌕: 6/ Before anything else, the only path forward will be to absorb the stablecoin supply that wants to exit before $UST can start to repeg. There is no way around it. 
-We propose several remedial measures to aid the peg mechanism to absorb supply:]]></summary>
+        <summary type="html"><![CDATA[Do Kwon on $UST:]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -105,16 +94,7 @@ DeFi]]></summary>
         <link href="https://twitter.com/fallow8DeFi/status/1524135079290806272"/>
         <updated>2022-05-10T21:11:34.000Z</updated>
         <summary type="html"><![CDATA[RT Nathan Howard
-Excited to be hosting a conversation about DeFi🤝NFTs with @ChristophGaX and @0xCaps on Thursday! Stop by and give us a listen.
-DeFi Pulse 🍇: 🚨 DeFi Pulse Spaces Alert
-🎙️Co-hosts:
-@defipulse
-@NFTX_
-@Scalara_xyz
-@0xcaps
-@fallow8DeFi
-🔔 Set your reminders
- https://twitter.com/i/spaces/1kvJpAErzZZxE]]></summary>
+Excited to be hosting a conversation about DeFi🤝NFTs with @ChristophGaX and @0xCaps on Thursday! Stop by and give us a listen.]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -186,12 +166,7 @@ If this thread helped you to understand recent concerns and discussions about $U
         <updated>2022-05-09T23:11:33.000Z</updated>
         <summary type="html"><![CDATA[Re 12/ Decentralized algorithm, centralized collateral 👀
 The algorithm that controls $UST is decentralized, but the $BTC reserve “in case something goes wrong” is controlled by an entity.
-Because of recent volatility, they've announced a $1.5B deployment.
-Do Kwon 🌕: 2/ First, *LFG is not trying to exit its bitcoin position*. 
-The goal is to have this capital in the hands of a professional market maker such that: 
-1) Buy UST if price < peg
-2) Buy BTC if price >= peg
-thus significantly strengthening the liquidity around UST peg]]></summary>
+Because of recent volatility, they've announced a $1.5B deployment. https://twitter.com/stablekwon/status/1523532476898897920]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -227,11 +202,7 @@ $UST peg is maintained by an algorithm, but there is a $BTC reserve in case it f
         <updated>2022-05-09T23:11:30.000Z</updated>
         <summary type="html"><![CDATA[Re 9/ With that risk in mind, the Luna Foundation Guard had raised over $1B through private token sales to build a crypto reserve to support $UST. 
 So now the algo stable is also… collateralized? 🤔
-Let's recap $DAI's main features and compare with $UST.
-LFG | Luna Foundation Guard: Welcoming $AVAX as the second major layer one crypto asset next to $BTC as part of the $UST Reserve. 
-The inclusion of @avalancheavax's native token marks the start of a diverse pool of layer one crypto assets helping support the $UST peg. 
-It's only just the beginning frens.
- https://twitter.com/business/status/1512110339613147142]]></summary>
+Let's recap $DAI's main features and compare with $UST. https://twitter.com/LFG_org/status/1512113288804552717]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -241,8 +212,7 @@ It's only just the beginning frens.
         <id>https://twitter.com/defipulse/status/1523802871841497088</id>
         <link href="https://twitter.com/defipulse/status/1523802871841497088"/>
         <updated>2022-05-09T23:11:30.000Z</updated>
-        <summary type="html"><![CDATA[Re 8/ As we've experienced before with $FEI, a Black Swan event or just a strong bearish sentiment could cause a large sell pressure on both $UST and $LUNA assets, causing a "death spiral".
-Westie 🌖 🟪: This process is what is known as a "bank run" or a "death spiral," and can be visualized below. (Source: @ZeMariaMacedo]]></summary>
+        <summary type="html"><![CDATA[Re 8/ As we've experienced before with $FEI, a Black Swan event or just a strong bearish sentiment could cause a large sell pressure on both $UST and $LUNA assets, causing a "death spiral". https://twitter.com/WestieCapital/status/1496223640534323200]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -266,17 +236,6 @@ But humans are not perfect.]]></summary>
         <updated>2022-05-09T23:11:26.000Z</updated>
         <summary type="html"><![CDATA[Re 6/ To implement the elastic supply mechanism, Terra uses its governance coin, $LUNA.
 In the Terra Blockchain, users can always swap $1 worth of $LUNA to 1 $UST and vice-versa, incentivizing arbitrageurs to take action in case the peg is lost.]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 5/ When writing an algorithm for a stablecoin, projects usually try to work with variations of a demand/supply mechanisms. It's intuitive if u thin...]]></title>
-        <id>https://twitter.com/defipulse/status/1523802850102448129</id>
-        <link href="https://twitter.com/defipulse/status/1523802850102448129"/>
-        <updated>2022-05-09T23:11:25.000Z</updated>
-        <summary type="html"><![CDATA[Re 5/  When writing an algorithm for a stablecoin, projects usually try to work with variations of a demand/supply mechanisms.  
-It's intuitive if u think about it: if the coin drops in price, let's burn some of it, creating a shortage of supply. But $UST adds some details.]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
