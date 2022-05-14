@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-14T14:19:58.749Z</id>
+    <id>urn:2022-05-14T15:22:23.421Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-14T14:19:58.749Z</updated>
+    <updated>2022-05-14T15:22:23.421Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT Scalara: The Scalara NFT Index lets users gain exposure to a curated selection of top NFTs. Watch as @alexgausman, @ChristophGaX, and @fallow8DeFi ...]]></title>
+        <id>https://twitter.com/Scalara_xyz/status/1525313240527519746</id>
+        <link href="https://twitter.com/Scalara_xyz/status/1525313240527519746"/>
+        <updated>2022-05-14T03:13:10.000Z</updated>
+        <summary type="html"><![CDATA[RT Scalara
+The Scalara NFT Index lets users gain exposure to a curated selection of top NFTs.
+Watch as @alexgausman, @ChristophGaX, and @fallow8DeFi share how Scalara and @NFTX_ have partnered to bring DeFi yields to NFT investors.
+Full Video: https://youtu.be/Zl4prD4oZIM]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @CoinDesk @etherscan @coingecko @0x_bae]]></title>
         <id>https://twitter.com/defipulse/status/1525283033498243074</id>
@@ -240,16 +253,6 @@ Buenos días.
 Chào buổi sáng.
 Günaydın. 
 DeFi]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Gas 👀👋]]></title>
-        <id>https://twitter.com/defipulse/status/1524211512767881217</id>
-        <link href="https://twitter.com/defipulse/status/1524211512767881217"/>
-        <updated>2022-05-11T02:15:17.000Z</updated>
-        <summary type="html"><![CDATA[Re @Gas 👀👋]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
