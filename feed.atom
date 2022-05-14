@@ -1,19 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-13T23:23:58.504Z</id>
+    <id>urn:2022-05-14T02:06:12.717Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-13T23:23:58.504Z</updated>
+    <updated>2022-05-14T02:06:12.717Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @CoinDesk @etherscan @coingecko @0x_bae]]></title>
+        <id>https://twitter.com/defipulse/status/1525283033498243074</id>
+        <link href="https://twitter.com/defipulse/status/1525283033498243074"/>
+        <updated>2022-05-14T01:13:08.000Z</updated>
+        <summary type="html"><![CDATA[Re @CoinDesk @etherscan @coingecko @0x_bae https://twitter.com/defipulse/status/1525282861296779265?t=vHG9-l1VuAtmqkB9hX-uWw&s=19]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Just to clarify: we were NOT targeted.]]></title>
+        <id>https://twitter.com/defipulse/status/1525282861296779265</id>
+        <link href="https://twitter.com/defipulse/status/1525282861296779265"/>
+        <updated>2022-05-14T01:12:27.000Z</updated>
+        <summary type="html"><![CDATA[Just to clarify: we were NOT targeted. http://defipulse.com]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Freelance Writer/Researcher 📋Details: - Focus on Ethereum's ecosystem - High-quality Research - Members of our team are here to help - Regular c...]]></title>
+        <id>https://twitter.com/defipulse/status/1525249542685200384</id>
+        <link href="https://twitter.com/defipulse/status/1525249542685200384"/>
+        <updated>2022-05-13T23:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Re Freelance Writer/Researcher
+📋Details:
+- Focus on Ethereum's ecosystem
+- High-quality Research
+- Members of our team are here to help
+- Regular contribution not required
+Apply 👇 https://bit.ly/3FL4VON]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We are hiring! Are you a writer and experienced in DeFi? This position might be perfect for you 🤞 More information on the 🧵 below]]></title>
+        <id>https://twitter.com/defipulse/status/1525249539883405312</id>
+        <link href="https://twitter.com/defipulse/status/1525249539883405312"/>
+        <updated>2022-05-13T23:00:02.000Z</updated>
+        <summary type="html"><![CDATA[We are hiring!
+Are you a writer and experienced in DeFi?
+This position might be perfect for you 🤞
+More information on the 🧵 below]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🚨 Warning! Some people are getting this notification when connecting to @etherscan or @coingecko. DO NOT SIGN any transactions that you don't recog...]]></title>
         <id>https://twitter.com/defipulse/status/1525229253792604161</id>
         <link href="https://twitter.com/defipulse/status/1525229253792604161"/>
         <updated>2022-05-13T21:39:26.000Z</updated>
         <summary type="html"><![CDATA[🚨 Warning! Some people are getting this notification when connecting to @etherscan or @coingecko.
-DO NOT SIGN any transactions that you don't recognize, and keep an eye on this “NFT Apes Win” notification, don't interact with it!
-JLRoyal: 🚨 Careful with ETHERSCAN! 🚨 There is a pop up for "Nftapes win" that attempts to immediately connect to your wallet relentlessly! Careful out there 
-#nft #nftcommunity]]></summary>
+DO NOT SIGN any transactions that you don't recognize, and keep an eye on this “NFT Apes Win” notification, don't interact with it!]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -54,8 +101,7 @@ $NFTI is based on the @scalara_xyz NFT Index, an index designed to track the per
         <id>https://twitter.com/defipulse/status/1525219013655048192</id>
         <link href="https://twitter.com/defipulse/status/1525219013655048192"/>
         <updated>2022-05-13T20:58:44.000Z</updated>
-        <summary type="html"><![CDATA[Re @FTX_Official @SBF_FTX 3/ Instagram to support NFTs from Ethereum, Polygon, Solana and Flow
-DeFi Pulse 🍇: OFFICIAL: Instagram to support NFTs from Ethereum, Polygon, Solana and Flow]]></summary>
+        <summary type="html"><![CDATA[Re @FTX_Official @SBF_FTX 3/ Instagram to support NFTs from Ethereum, Polygon, Solana and Flow https://twitter.com/defipulse/status/1523587999426301953?s=20&t=GHk1wERJ51ldVjYsVabShw]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -129,16 +175,7 @@ Read the full edition 👇 https://bit.ly/3KZp58Q]]></summary>
         <updated>2022-05-11T18:41:36.000Z</updated>
         <summary type="html"><![CDATA[📣 @Scalara_xyz  x @NFTX_ Spaces 📣
 DeFi meets NFTs! Learn more about how NFTX is unlocking the composability of DeFi for NFTs
-Make sure to tune in! 😉
-DeFi Pulse 🍇: 🚨 DeFi Pulse Spaces Alert
-🎙️Co-hosts:
-@defipulse
-@NFTX_
-@Scalara_xyz
-@0xcaps
-@fallow8DeFi
-🔔 Set your reminders
- https://twitter.com/i/spaces/1kvJpAErzZZxE]]></summary>
+Make sure to tune in! 😉]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -159,9 +196,7 @@ Source: @CoinDesk]]></summary>
         <id>https://twitter.com/defipulse/status/1524340110845784067</id>
         <link href="https://twitter.com/defipulse/status/1524340110845784067"/>
         <updated>2022-05-11T10:46:17.000Z</updated>
-        <summary type="html"><![CDATA[Do Kwon on $UST:
-Do Kwon 🌕: 6/ Before anything else, the only path forward will be to absorb the stablecoin supply that wants to exit before $UST can start to repeg. There is no way around it. 
-We propose several remedial measures to aid the peg mechanism to absorb supply:]]></summary>
+        <summary type="html"><![CDATA[Do Kwon on $UST:]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -191,80 +226,12 @@ DeFi]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @Gas 👀👋]]></title>
-        <id>https://twitter.com/defipulse/status/1524211512767881217</id>
-        <link href="https://twitter.com/defipulse/status/1524211512767881217"/>
-        <updated>2022-05-11T02:15:17.000Z</updated>
-        <summary type="html"><![CDATA[Re @Gas 👀👋]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Nathan Howard: Excited to be hosting a conversation about DeFi🤝NFTs with @ChristophGaX and @0xCaps on Thursday! Stop by and give us a listen.]]></title>
         <id>https://twitter.com/fallow8DeFi/status/1524135079290806272</id>
         <link href="https://twitter.com/fallow8DeFi/status/1524135079290806272"/>
         <updated>2022-05-10T21:11:34.000Z</updated>
         <summary type="html"><![CDATA[RT Nathan Howard
-Excited to be hosting a conversation about DeFi🤝NFTs with @ChristophGaX and @0xCaps on Thursday! Stop by and give us a listen.
-DeFi Pulse 🍇: 🚨 DeFi Pulse Spaces Alert
-🎙️Co-hosts:
-@defipulse
-@NFTX_
-@Scalara_xyz
-@0xcaps
-@fallow8DeFi
-🔔 Set your reminders
- https://twitter.com/i/spaces/1kvJpAErzZZxE]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🚨 DeFi Pulse Spaces Alert 🎙️Co-hosts: @defipulse @NFTX_ @Scalara_xyz @0xcaps @fallow8DeFi 🔔 Set your reminders]]></title>
-        <id>https://twitter.com/defipulse/status/1524134604634009606</id>
-        <link href="https://twitter.com/defipulse/status/1524134604634009606"/>
-        <updated>2022-05-10T21:09:41.000Z</updated>
-        <summary type="html"><![CDATA[🚨 DeFi Pulse Spaces Alert
-🎙️Co-hosts:
-@defipulse
-@NFTX_
-@Scalara_xyz
-@0xcaps
-@fallow8DeFi
-🔔 Set your reminders https://twitter.com/i/spaces/1kvJpAErzZZxE]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @abdullaalkamil no, not at all]]></title>
-        <id>https://twitter.com/defipulse/status/1524100002993389569</id>
-        <link href="https://twitter.com/defipulse/status/1524100002993389569"/>
-        <updated>2022-05-10T18:52:11.000Z</updated>
-        <summary type="html"><![CDATA[Re @abdullaalkamil no, not at all]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT sassal.eth 🦇🔊🐼: Decentralization matters]]></title>
-        <id>https://twitter.com/sassal0x/status/1523813695620411392</id>
-        <link href="https://twitter.com/sassal0x/status/1523813695620411392"/>
-        <updated>2022-05-09T23:54:30.000Z</updated>
-        <summary type="html"><![CDATA[RT sassal.eth 🦇🔊🐼
-Decentralization matters]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @alexeiZamyatin @InterlayHQ If a stable needs another protocol to do its primary job right... something sound wrong. Of course no problem at all wi...]]></title>
-        <id>https://twitter.com/defipulse/status/1523811681163673600</id>
-        <link href="https://twitter.com/defipulse/status/1523811681163673600"/>
-        <updated>2022-05-09T23:46:30.000Z</updated>
-        <summary type="html"><![CDATA[Re @alexeiZamyatin @InterlayHQ If a stable needs another protocol to do its primary job right... something sound wrong.
-Of course no problem at all with Interlay.]]></summary>
+Excited to be hosting a conversation about DeFi🤝NFTs with @ChristophGaX and @0xCaps on Thursday! Stop by and give us a listen.]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
