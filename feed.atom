@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-17T16:34:58.058Z</id>
+    <id>urn:2022-05-17T17:26:53.033Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-17T16:34:58.058Z</updated>
+    <updated>2022-05-17T17:26:53.033Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT Pony_Finance: The Pony Finance waitlist is open! 🎉 To celebrate, we're launching a competition & $PONY giveaway. Join for exclusive rewards and ...]]></title>
+        <id>https://twitter.com/PonyFinance/status/1526599626475704320</id>
+        <link href="https://twitter.com/PonyFinance/status/1526599626475704320"/>
+        <updated>2022-05-17T16:24:48.000Z</updated>
+        <summary type="html"><![CDATA[RT Pony_Finance
+The Pony Finance waitlist is open! 
+🎉 To celebrate, we're launching a competition & $PONY giveaway.
+Join for exclusive rewards and to be among the first to gain access to the Passive Omnichain Net Yield Index👇 https://gleam.io/QLEcH/pony-finance-waitlist-competition]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT Nathan Howard: Heard that someone from @MakerDAO is replacing Do on the stablecoin panel at #Permissionless and that is just *chef's kiss.* Bullish...]]></title>
         <id>https://twitter.com/fallow8DeFi/status/1526228621928579074</id>
@@ -240,30 +253,6 @@ Source: @CoinDesk]]></summary>
         <summary type="html"><![CDATA[Do Kwon on $UST:
 Do Kwon 🌕: 6/ Before anything else, the only path forward will be to absorb the stablecoin supply that wants to exit before $UST can start to repeg. There is no way around it. 
 We propose several remedial measures to aid the peg mechanism to absorb supply:]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Good morning. Godmorgen. Goedemorgen. Bonjour. Guten Morgen. Buongiorno. Bom dia. Доброе утро. Buenos días. सुप्रभात. おはようござ...]]></title>
-        <id>https://twitter.com/defipulse/status/1524292226913869825</id>
-        <link href="https://twitter.com/defipulse/status/1524292226913869825"/>
-        <updated>2022-05-11T07:36:01.000Z</updated>
-        <summary type="html"><![CDATA[Good morning. 
-Godmorgen.
-Goedemorgen.
-Bonjour.
-Guten Morgen.
-Buongiorno.
-Bom dia.
-Доброе утро.
-Buenos días.
-सुप्रभात.
-おはようございます.
-早上好.
-Chào buổi sáng.
-Günaydın. 
-DeFi]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
