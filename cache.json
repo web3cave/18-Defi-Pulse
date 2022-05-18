@@ -6,6 +6,56 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1527014957375623169",
+          "author": "DeFi Pulse 🍇",
+          "description": "Re @TimBeiko @LidoFinance @Rocket_Pool 5/ Make sure to read our thread about The Merge for a further explanation 👇 https://twitter.com/defipulse/status/1516793195279048709?s=20&t=pFPj_mZ0e-TWk9EH94qmvw",
+          "link": "https://twitter.com/defipulse/status/1527014957375623169",
+          "publishedOn": "2022-05-18T19:55:11.000Z",
+          "wordCount": 196,
+          "title": "Re @TimBeiko @LidoFinance @Rocket_Pool 5/ Make sure to read our thread about The Merge for a further explanation 👇",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1527014954569674752",
+          "author": "DeFi Pulse 🍇",
+          "description": "Re @TimBeiko 4/ $ETH that is locked in liquid staking through platforms such as @LidoFinance & @Rocket_Pool will only be accessible after The Merge 🔒",
+          "link": "https://twitter.com/defipulse/status/1527014954569674752",
+          "publishedOn": "2022-05-18T19:55:10.000Z",
+          "wordCount": 196,
+          "title": "Re @TimBeiko 4/ $ETH that is locked in liquid staking through platforms such as @LidoFinance & @Rocket_Pool will only be accessible after The Merge �...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1527014951549665280",
+          "author": "DeFi Pulse 🍇",
+          "description": "Re 3/ The Merge has been delayed again, which was planned to go live in June\n@TimBeiko has announced that it should take a few months 😕 https://twitter.com/TimBeiko/status/1514010098145759232?s=20&t=uOHQO3Aed0D0ziJeWawb6w",
+          "link": "https://twitter.com/defipulse/status/1527014951549665280",
+          "publishedOn": "2022-05-18T19:55:09.000Z",
+          "wordCount": 196,
+          "title": "Re 3/ The Merge has been delayed again, which was planned to go live in June @TimBeiko has announced that it should take a few months 😕",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1527014948706000896",
+          "author": "DeFi Pulse 🍇",
+          "description": "Re 2/ A few tests have been made before the protocol switches from PoW to PoS, here is a breakdown of them:\n1. Hive tests are used to test the new engine APIs\n2. Kurtosis helps spin up staging networks which are testing environments to isolate specific aspects of the Merge",
+          "link": "https://twitter.com/defipulse/status/1527014948706000896",
+          "publishedOn": "2022-05-18T19:55:08.000Z",
+          "wordCount": 196,
+          "title": "Re 2/ A few tests have been made before the protocol switches from PoW to PoS, here is a breakdown of them: 1. Hive tests are used to test the new eng...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1527014945807773701",
+          "author": "DeFi Pulse 🍇",
+          "description": ".#Ethereum has recently been making Merge tests, the latest shadow fork happened on the 5th of May 👀\nRead the 🧵 for a breakdown of the latest updates on The Merge 👇",
+          "link": "https://twitter.com/defipulse/status/1527014945807773701",
+          "publishedOn": "2022-05-18T19:55:08.000Z",
+          "wordCount": 196,
+          "title": ".#Ethereum has recently been making Merge tests, the latest shadow fork happened on the 5th of May 👀 Read the 🧵 for a breakdown of the latest up...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1526668958991908864",
           "author": "DeFi Pulse 🍇",
           "description": "One of our newsletters, Poly Pulse, is LIVE 🥳\n🟣 Deep dive on @0xpolygon’s ecosystem. In this issue you will find:\n🧬 Boost a #blockchain with #Polygon edge\n🌉 How to bridge your #assets to Polygon\n📈 Stake $USDC and earn up to 30% APR\nSubscribe 👇 https://bit.ly/3LnoUEo",
@@ -48,7 +98,7 @@
         {
           "id": "https://twitter.com/defipulse/status/1525283033498243074",
           "author": "DeFi Pulse 🍇",
-          "description": "Re @CoinDesk @etherscan @coingecko @0x_bae\nDeFi Pulse 🍇: Just to clarify: we were NOT targeted.\n http://defipulse.com https://twitter.com/defipulse/status/1525229253792604161",
+          "description": "Re @CoinDesk @etherscan @coingecko @0x_bae https://twitter.com/defipulse/status/1525282861296779265?t=vHG9-l1VuAtmqkB9hX-uWw&s=19",
           "link": "https://twitter.com/defipulse/status/1525283033498243074",
           "publishedOn": "2022-05-14T01:13:08.000Z",
           "wordCount": 196,
@@ -58,7 +108,7 @@
         {
           "id": "https://twitter.com/defipulse/status/1525282861296779265",
           "author": "DeFi Pulse 🍇",
-          "description": "Just to clarify: we were NOT targeted.\nDeFi Pulse 🍇: 🚨 Warning! Some people are getting this notification when connecting to @etherscan or @coingecko.\nDO NOT SIGN any transactions that you don't recognize, and keep an eye on this “NFT Apes Win” notification, don't interact with it!\n https://twitter.com/JLRoyal42/status/1525222565278494720",
+          "description": "Just to clarify: we were NOT targeted. http://defipulse.com",
           "link": "https://twitter.com/defipulse/status/1525282861296779265",
           "publishedOn": "2022-05-14T01:12:27.000Z",
           "wordCount": 196,
@@ -76,19 +126,9 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/defipulse/status/1525249539883405312",
-          "author": "DeFi Pulse 🍇",
-          "description": "We are hiring!\nAre you a writer and experienced in DeFi?\nThis position might be perfect for you 🤞\nMore information on the 🧵 below",
-          "link": "https://twitter.com/defipulse/status/1525249539883405312",
-          "publishedOn": "2022-05-13T23:00:02.000Z",
-          "wordCount": 196,
-          "title": "We are hiring! Are you a writer and experienced in DeFi? This position might be perfect for you 🤞 More information on the 🧵 below",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/defipulse/status/1525229253792604161",
           "author": "DeFi Pulse 🍇",
-          "description": "🚨 Warning! Some people are getting this notification when connecting to @etherscan or @coingecko.\nDO NOT SIGN any transactions that you don't recognize, and keep an eye on this “NFT Apes Win” notification, don't interact with it!\nJLRoyal: 🚨 Careful with ETHERSCAN! 🚨 There is a pop up for \"Nftapes win\" that attempts to immediately connect to your wallet relentlessly! Careful out there \n#nft #nftcommunity",
+          "description": "🚨 Warning! Some people are getting this notification when connecting to @etherscan or @coingecko.\nDO NOT SIGN any transactions that you don't recognize, and keep an eye on this “NFT Apes Win” notification, don't interact with it!",
           "link": "https://twitter.com/defipulse/status/1525229253792604161",
           "publishedOn": "2022-05-13T21:39:26.000Z",
           "wordCount": 196,
@@ -128,7 +168,7 @@
         {
           "id": "https://twitter.com/defipulse/status/1525219013655048192",
           "author": "DeFi Pulse 🍇",
-          "description": "Re @FTX_Official @SBF_FTX 3/ Instagram to support NFTs from Ethereum, Polygon, Solana and Flow\nDeFi Pulse 🍇: OFFICIAL: Instagram to support NFTs from Ethereum, Polygon, Solana and Flow",
+          "description": "Re @FTX_Official @SBF_FTX 3/ Instagram to support NFTs from Ethereum, Polygon, Solana and Flow https://twitter.com/defipulse/status/1523587999426301953?s=20&t=GHk1wERJ51ldVjYsVabShw",
           "link": "https://twitter.com/defipulse/status/1525219013655048192",
           "publishedOn": "2022-05-13T20:58:44.000Z",
           "wordCount": 196,
@@ -143,66 +183,6 @@
           "publishedOn": "2022-05-13T20:58:44.000Z",
           "wordCount": 196,
           "title": "Re 2/ 🗞 Recent News @FTX_Official's CEO @SBF_FTX buys 7.6% stake in Robinhood",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1525219007237718016",
-          "author": "DeFi Pulse 🍇",
-          "description": "1/ #SectorPulse is here 🙌 🥳\n$DPI is now trading at $101.51 a 25.0% decrease from last week 📉\n$NFTI is now trading at $7.29, a 20.3% decrease from last week 📉\nThe stable $USDC yield is 2.34%\nOn the 🧵 👇 you will find a summary of the week's news",
-          "link": "https://twitter.com/defipulse/status/1525219007237718016",
-          "publishedOn": "2022-05-13T20:58:43.000Z",
-          "wordCount": 196,
-          "title": "1/ #SectorPulse is here 🙌 🥳 $DPI is now trading at $101.51 a 25.0% decrease from last week 📉 $NFTI is now trading at $7.29, a 20.3% decrease ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1524822997059653634",
-          "author": "DeFi Pulse 🍇",
-          "description": "🔴 We're LIVE! Join us in this conversation around the future of the #NFT + #DeFi spaces. https://twitter.com/i/spaces/1kvJpAErzZZxE",
-          "link": "https://twitter.com/defipulse/status/1524822997059653634",
-          "publishedOn": "2022-05-12T18:45:06.000Z",
-          "wordCount": 196,
-          "title": "🔴 We're LIVE! Join us in this conversation around the future of the #NFT + #DeFi spaces.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1524804855306633216",
-          "author": "DeFi Pulse 🍇",
-          "description": "📣 T-1 hour until our spaces with @NFTX_ & @Scalara_xyz \nTune in to learn more about the convergence of DeFi & NFTs and use cases for NFTX https://twitter.com/i/spaces/1kvJpAErzZZxE",
-          "link": "https://twitter.com/defipulse/status/1524804855306633216",
-          "publishedOn": "2022-05-12T17:33:01.000Z",
-          "wordCount": 196,
-          "title": "📣 T-1 hour until our spaces with @NFTX_ & @Scalara_xyz Tune in to learn more about the convergence of DeFi & NFTs and use cases for NFTX",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1524497789278953477",
-          "author": "DeFi Pulse 🍇",
-          "description": "🥳Pulse Farmer is OUT! \nIn this week’s issue you’ll find:\n🤔Main differences between $UST x $DAI\n🚜How to use options to hedge asset exposure on yield farming\n⛽️@kucoincom aims to solve high Ethereum gas fees\nAnd much more!\nRead the full edition 👇 https://bit.ly/3KZp58Q",
-          "link": "https://twitter.com/defipulse/status/1524497789278953477",
-          "publishedOn": "2022-05-11T21:12:51.000Z",
-          "wordCount": 196,
-          "title": "🥳Pulse Farmer is OUT! In this week’s issue you’ll find: 🤔Main differences between $UST x $DAI 🚜How to use options to hedge asset exposure o...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1524459725466832896",
-          "author": "DeFi Pulse 🍇",
-          "description": "📣 @Scalara_xyz  x @NFTX_ Spaces 📣\nDeFi meets NFTs! Learn more about how NFTX is unlocking the composability of DeFi for NFTs\nMake sure to tune in! 😉\nDeFi Pulse 🍇: 🚨 DeFi Pulse Spaces Alert\n🎙️Co-hosts:\n@defipulse\n@NFTX_\n@Scalara_xyz\n@0xcaps\n@fallow8DeFi\n🔔 Set your reminders\n https://twitter.com/i/spaces/1kvJpAErzZZxE",
-          "link": "https://twitter.com/defipulse/status/1524459725466832896",
-          "publishedOn": "2022-05-11T18:41:36.000Z",
-          "wordCount": 196,
-          "title": "📣 @Scalara_xyz x @NFTX_ Spaces 📣 DeFi meets NFTs! Learn more about how NFTX is unlocking the composability of DeFi for NFTs Make sure to tune in...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1524415317522497538",
-          "author": "DeFi Pulse 🍇",
-          "description": "🚨BREAKING: $UST's Do Kwon was behind earlier failed stablecoin Basis Cash\nSource: @CoinDesk",
-          "link": "https://twitter.com/defipulse/status/1524415317522497538",
-          "publishedOn": "2022-05-11T15:45:08.000Z",
-          "wordCount": 196,
-          "title": "🚨BREAKING: $UST's Do Kwon was behind earlier failed stablecoin Basis Cash Source: @CoinDesk",
           "imageUrl": null
         }
       ]
