@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-19T04:37:34.685Z</id>
+    <id>urn:2022-05-19T05:25:08.217Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-19T04:37:34.685Z</updated>
+    <updated>2022-05-19T05:25:08.217Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -10,7 +10,9 @@
         <id>https://twitter.com/defipulse/status/1527014957375623169</id>
         <link href="https://twitter.com/defipulse/status/1527014957375623169"/>
         <updated>2022-05-18T19:55:11.000Z</updated>
-        <summary type="html"><![CDATA[Re @TimBeiko @LidoFinance @Rocket_Pool 5/ Make sure to read our thread about The Merge for a further explanation 👇 https://twitter.com/defipulse/status/1516793195279048709?s=20&t=pFPj_mZ0e-TWk9EH94qmvw]]></summary>
+        <summary type="html"><![CDATA[Re @TimBeiko @LidoFinance @Rocket_Pool 5/ Make sure to read our thread about The Merge for a further explanation 👇
+DeFi Pulse 🍇: The #ETH Proof of Stake Merge Explained 🔗
+🧵👇]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -31,7 +33,8 @@
         <link href="https://twitter.com/defipulse/status/1527014951549665280"/>
         <updated>2022-05-18T19:55:09.000Z</updated>
         <summary type="html"><![CDATA[Re 3/ The Merge has been delayed again, which was planned to go live in June
-@TimBeiko has announced that it should take a few months 😕 https://twitter.com/TimBeiko/status/1514010098145759232?s=20&t=uOHQO3Aed0D0ziJeWawb6w]]></summary>
+@TimBeiko has announced that it should take a few months 😕
+Tim Beiko | timbeiko.eth 🔥🧱: @TripleSack It won't be June, but likely in the few months after. No firm date yet, but we're definitely in the final chapter of PoW on Ethereum]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -116,7 +119,9 @@ Full Video: https://youtu.be/Zl4prD4oZIM]]></summary>
         <id>https://twitter.com/defipulse/status/1525283033498243074</id>
         <link href="https://twitter.com/defipulse/status/1525283033498243074"/>
         <updated>2022-05-14T01:13:08.000Z</updated>
-        <summary type="html"><![CDATA[Re @CoinDesk @etherscan @coingecko @0x_bae https://twitter.com/defipulse/status/1525282861296779265?t=vHG9-l1VuAtmqkB9hX-uWw&s=19]]></summary>
+        <summary type="html"><![CDATA[Re @CoinDesk @etherscan @coingecko @0x_bae
+DeFi Pulse 🍇: Just to clarify: we were NOT targeted.
+ http://defipulse.com https://twitter.com/defipulse/status/1525229253792604161]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -126,7 +131,10 @@ Full Video: https://youtu.be/Zl4prD4oZIM]]></summary>
         <id>https://twitter.com/defipulse/status/1525282861296779265</id>
         <link href="https://twitter.com/defipulse/status/1525282861296779265"/>
         <updated>2022-05-14T01:12:27.000Z</updated>
-        <summary type="html"><![CDATA[Just to clarify: we were NOT targeted. http://defipulse.com]]></summary>
+        <summary type="html"><![CDATA[Just to clarify: we were NOT targeted.
+DeFi Pulse 🍇: 🚨 Warning! Some people are getting this notification when connecting to @etherscan or @coingecko.
+DO NOT SIGN any transactions that you don't recognize, and keep an eye on this “NFT Apes Win” notification, don't interact with it!
+ https://twitter.com/JLRoyal42/status/1525222565278494720]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -148,12 +156,27 @@ Apply 👇 https://bit.ly/3FL4VON]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[We are hiring! Are you a writer and experienced in DeFi? This position might be perfect for you 🤞 More information on the 🧵 below]]></title>
+        <id>https://twitter.com/defipulse/status/1525249539883405312</id>
+        <link href="https://twitter.com/defipulse/status/1525249539883405312"/>
+        <updated>2022-05-13T23:00:02.000Z</updated>
+        <summary type="html"><![CDATA[We are hiring!
+Are you a writer and experienced in DeFi?
+This position might be perfect for you 🤞
+More information on the 🧵 below]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[🚨 Warning! Some people are getting this notification when connecting to @etherscan or @coingecko. DO NOT SIGN any transactions that you don't recog...]]></title>
         <id>https://twitter.com/defipulse/status/1525229253792604161</id>
         <link href="https://twitter.com/defipulse/status/1525229253792604161"/>
         <updated>2022-05-13T21:39:26.000Z</updated>
         <summary type="html"><![CDATA[🚨 Warning! Some people are getting this notification when connecting to @etherscan or @coingecko.
-DO NOT SIGN any transactions that you don't recognize, and keep an eye on this “NFT Apes Win” notification, don't interact with it!]]></summary>
+DO NOT SIGN any transactions that you don't recognize, and keep an eye on this “NFT Apes Win” notification, don't interact with it!
+JLRoyal: 🚨 Careful with ETHERSCAN! 🚨 There is a pop up for "Nftapes win" that attempts to immediately connect to your wallet relentlessly! Careful out there 
+#nft #nftcommunity]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -194,7 +217,8 @@ $NFTI is based on the @scalara_xyz NFT Index, an index designed to track the per
         <id>https://twitter.com/defipulse/status/1525219013655048192</id>
         <link href="https://twitter.com/defipulse/status/1525219013655048192"/>
         <updated>2022-05-13T20:58:44.000Z</updated>
-        <summary type="html"><![CDATA[Re @FTX_Official @SBF_FTX 3/ Instagram to support NFTs from Ethereum, Polygon, Solana and Flow https://twitter.com/defipulse/status/1523587999426301953?s=20&t=GHk1wERJ51ldVjYsVabShw]]></summary>
+        <summary type="html"><![CDATA[Re @FTX_Official @SBF_FTX 3/ Instagram to support NFTs from Ethereum, Polygon, Solana and Flow
+DeFi Pulse 🍇: OFFICIAL: Instagram to support NFTs from Ethereum, Polygon, Solana and Flow]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -206,6 +230,20 @@ $NFTI is based on the @scalara_xyz NFT Index, an index designed to track the per
         <updated>2022-05-13T20:58:44.000Z</updated>
         <summary type="html"><![CDATA[Re 2/ 🗞 Recent News
 @FTX_Official's CEO @SBF_FTX buys 7.6% stake in Robinhood https://www.coindesk.com/business/2022/05/12/ftx-ceo-sam-bankman-fried-buys-56m-position-in-robinhood/]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1/ #SectorPulse is here 🙌 🥳 $DPI is now trading at $101.51 a 25.0% decrease from last week 📉 $NFTI is now trading at $7.29, a 20.3% decrease ...]]></title>
+        <id>https://twitter.com/defipulse/status/1525219007237718016</id>
+        <link href="https://twitter.com/defipulse/status/1525219007237718016"/>
+        <updated>2022-05-13T20:58:43.000Z</updated>
+        <summary type="html"><![CDATA[1/ #SectorPulse is here 🙌 🥳
+$DPI is now trading at $101.51 a 25.0% decrease from last week 📉
+$NFTI is now trading at $7.29, a 20.3% decrease from last week 📉
+The stable $USDC yield is 2.34%
+On the 🧵 👇 you will find a summary of the week's news]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
