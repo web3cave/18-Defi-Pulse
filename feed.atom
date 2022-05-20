@@ -1,10 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-19T23:21:51.728Z</id>
+    <id>urn:2022-05-20T01:52:46.895Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-19T23:21:51.728Z</updated>
+    <updated>2022-05-20T01:52:46.895Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The latest edition of Pulse Farmer is now live! Here is a brief recap of what you can find in this week's issue 👇 👀 @ponyfinance's wait list is ...]]></title>
+        <id>https://twitter.com/defipulse/status/1527396217637859336</id>
+        <link href="https://twitter.com/defipulse/status/1527396217637859336"/>
+        <updated>2022-05-19T21:10:10.000Z</updated>
+        <summary type="html"><![CDATA[The latest edition of Pulse Farmer is now live!
+Here is a brief recap of what you can find in this week's issue 👇
+👀 @ponyfinance's wait list is open 
+🚜 DeFi yield strategy with the migration of stETH to @CurveFinance 
+📉 TVL holds ground
+Read more 👇 https://bit.ly/3sL6N4G]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT Scalara: Join us now on @0xPolygon talking about Scalara and our indices✨]]></title>
         <id>https://twitter.com/Scalara_xyz/status/1527303345219715072</id>
@@ -230,17 +245,6 @@ $NFTI is based on the @scalara_xyz NFT Index, an index designed to track the per
         <updated>2022-05-13T20:58:44.000Z</updated>
         <summary type="html"><![CDATA[Re @FTX_Official @SBF_FTX 3/ Instagram to support NFTs from Ethereum, Polygon, Solana and Flow
 DeFi Pulse 🍇: OFFICIAL: Instagram to support NFTs from Ethereum, Polygon, Solana and Flow]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 2/ 🗞 Recent News @FTX_Official's CEO @SBF_FTX buys 7.6% stake in Robinhood]]></title>
-        <id>https://twitter.com/defipulse/status/1525219010937139200</id>
-        <link href="https://twitter.com/defipulse/status/1525219010937139200"/>
-        <updated>2022-05-13T20:58:44.000Z</updated>
-        <summary type="html"><![CDATA[Re 2/ 🗞 Recent News
-@FTX_Official's CEO @SBF_FTX buys 7.6% stake in Robinhood https://www.coindesk.com/business/2022/05/12/ftx-ceo-sam-bankman-fried-buys-56m-position-in-robinhood/]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
