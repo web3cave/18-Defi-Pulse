@@ -28,7 +28,7 @@
         {
           "id": "https://twitter.com/defipulse/status/1527014957375623169",
           "author": "DeFi Pulse 🍇",
-          "description": "Re @TimBeiko @LidoFinance @Rocket_Pool 5/ Make sure to read our thread about The Merge for a further explanation 👇 https://twitter.com/defipulse/status/1516793195279048709?s=20&t=pFPj_mZ0e-TWk9EH94qmvw",
+          "description": "Re @TimBeiko @LidoFinance @Rocket_Pool 5/ Make sure to read our thread about The Merge for a further explanation 👇\nDeFi Pulse 🍇: The #ETH Proof of Stake Merge Explained 🔗\n🧵👇",
           "link": "https://twitter.com/defipulse/status/1527014957375623169",
           "publishedOn": "2022-05-18T19:55:11.000Z",
           "wordCount": 196,
@@ -48,7 +48,7 @@
         {
           "id": "https://twitter.com/defipulse/status/1527014951549665280",
           "author": "DeFi Pulse 🍇",
-          "description": "Re 3/ The Merge has been delayed again, which was planned to go live in June\n@TimBeiko has announced that it should take a few months 😕 https://twitter.com/TimBeiko/status/1514010098145759232?s=20&t=uOHQO3Aed0D0ziJeWawb6w",
+          "description": "Re 3/ The Merge has been delayed again, which was planned to go live in June\n@TimBeiko has announced that it should take a few months 😕\nTim Beiko | timbeiko.eth 🔥🧱: @TripleSack It won't be June, but likely in the few months after. No firm date yet, but we're definitely in the final chapter of PoW on Ethereum",
           "link": "https://twitter.com/defipulse/status/1527014951549665280",
           "publishedOn": "2022-05-18T19:55:09.000Z",
           "wordCount": 196,
@@ -118,7 +118,7 @@
         {
           "id": "https://twitter.com/defipulse/status/1525283033498243074",
           "author": "DeFi Pulse 🍇",
-          "description": "Re @CoinDesk @etherscan @coingecko @0x_bae https://twitter.com/defipulse/status/1525282861296779265?t=vHG9-l1VuAtmqkB9hX-uWw&s=19",
+          "description": "Re @CoinDesk @etherscan @coingecko @0x_bae\nDeFi Pulse 🍇: Just to clarify: we were NOT targeted.\n http://defipulse.com https://twitter.com/defipulse/status/1525229253792604161",
           "link": "https://twitter.com/defipulse/status/1525283033498243074",
           "publishedOn": "2022-05-14T01:13:08.000Z",
           "wordCount": 196,
@@ -128,7 +128,7 @@
         {
           "id": "https://twitter.com/defipulse/status/1525282861296779265",
           "author": "DeFi Pulse 🍇",
-          "description": "Just to clarify: we were NOT targeted. http://defipulse.com",
+          "description": "Just to clarify: we were NOT targeted.\nDeFi Pulse 🍇: 🚨 Warning! Some people are getting this notification when connecting to @etherscan or @coingecko.\nDO NOT SIGN any transactions that you don't recognize, and keep an eye on this “NFT Apes Win” notification, don't interact with it!\n https://twitter.com/JLRoyal42/status/1525222565278494720",
           "link": "https://twitter.com/defipulse/status/1525282861296779265",
           "publishedOn": "2022-05-14T01:12:27.000Z",
           "wordCount": 196,
@@ -146,9 +146,19 @@
           "imageUrl": null
         },
         {
+          "id": "https://twitter.com/defipulse/status/1525249539883405312",
+          "author": "DeFi Pulse 🍇",
+          "description": "We are hiring!\nAre you a writer and experienced in DeFi?\nThis position might be perfect for you 🤞\nMore information on the 🧵 below",
+          "link": "https://twitter.com/defipulse/status/1525249539883405312",
+          "publishedOn": "2022-05-13T23:00:02.000Z",
+          "wordCount": 196,
+          "title": "We are hiring! Are you a writer and experienced in DeFi? This position might be perfect for you 🤞 More information on the 🧵 below",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1525229253792604161",
           "author": "DeFi Pulse 🍇",
-          "description": "🚨 Warning! Some people are getting this notification when connecting to @etherscan or @coingecko.\nDO NOT SIGN any transactions that you don't recognize, and keep an eye on this “NFT Apes Win” notification, don't interact with it!",
+          "description": "🚨 Warning! Some people are getting this notification when connecting to @etherscan or @coingecko.\nDO NOT SIGN any transactions that you don't recognize, and keep an eye on this “NFT Apes Win” notification, don't interact with it!\nJLRoyal: 🚨 Careful with ETHERSCAN! 🚨 There is a pop up for \"Nftapes win\" that attempts to immediately connect to your wallet relentlessly! Careful out there \n#nft #nftcommunity",
           "link": "https://twitter.com/defipulse/status/1525229253792604161",
           "publishedOn": "2022-05-13T21:39:26.000Z",
           "wordCount": 196,
@@ -183,6 +193,16 @@
           "publishedOn": "2022-05-13T20:58:45.000Z",
           "wordCount": 196,
           "title": "Re @FTX_Official @SBF_FTX 4/ $UST depegs and Terra crashes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1525219013655048192",
+          "author": "DeFi Pulse 🍇",
+          "description": "Re @FTX_Official @SBF_FTX 3/ Instagram to support NFTs from Ethereum, Polygon, Solana and Flow\nDeFi Pulse 🍇: OFFICIAL: Instagram to support NFTs from Ethereum, Polygon, Solana and Flow",
+          "link": "https://twitter.com/defipulse/status/1525219013655048192",
+          "publishedOn": "2022-05-13T20:58:44.000Z",
+          "wordCount": 196,
+          "title": "Re @FTX_Official @SBF_FTX 3/ Instagram to support NFTs from Ethereum, Polygon, Solana and Flow",
           "imageUrl": null
         }
       ]
