@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-20T17:25:38.769Z</id>
+    <id>urn:2022-05-20T18:26:43.039Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-20T17:25:38.769Z</updated>
+    <updated>2022-05-20T18:26:43.039Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT Pony_Finance: Join us for a pre-launch event! Meet the Pony Finance team and guests from @beefyfinance, @defipulse, and @Scalara_xyz for details on...]]></title>
+        <id>https://twitter.com/PonyFinance/status/1527713448238280711</id>
+        <link href="https://twitter.com/PonyFinance/status/1527713448238280711"/>
+        <updated>2022-05-20T18:10:44.000Z</updated>
+        <summary type="html"><![CDATA[RT Pony_Finance
+Join us for a pre-launch event!
+Meet the Pony Finance team and guests from @beefyfinance, @defipulse, and @Scalara_xyz for details on PONY and the upcoming launch. 
+📆 Monday, March 23 at 8pm UTC / 4pm ET / 1pm PT.
+Save Your Spot👇 https://www.crowdcast.io/e/introducing-pony-finance]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The latest edition of Pulse Farmer is now live! Here is a brief recap of what you can find in this week's issue 👇 👀 @ponyfinance's wait list is ...]]></title>
         <id>https://twitter.com/defipulse/status/1527396217637859336</id>
@@ -36,7 +50,9 @@ Join us now on @0xPolygon talking about Scalara and our indices✨ https://twi
         <id>https://twitter.com/defipulse/status/1527014957375623169</id>
         <link href="https://twitter.com/defipulse/status/1527014957375623169"/>
         <updated>2022-05-18T19:55:11.000Z</updated>
-        <summary type="html"><![CDATA[Re @TimBeiko @LidoFinance @Rocket_Pool 5/ Make sure to read our thread about The Merge for a further explanation 👇 https://twitter.com/defipulse/status/1516793195279048709?s=20&t=pFPj_mZ0e-TWk9EH94qmvw]]></summary>
+        <summary type="html"><![CDATA[Re @TimBeiko @LidoFinance @Rocket_Pool 5/ Make sure to read our thread about The Merge for a further explanation 👇
+DeFi Pulse 🍇: The #ETH Proof of Stake Merge Explained 🔗
+🧵👇]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -57,7 +73,8 @@ Join us now on @0xPolygon talking about Scalara and our indices✨ https://twi
         <link href="https://twitter.com/defipulse/status/1527014951549665280"/>
         <updated>2022-05-18T19:55:09.000Z</updated>
         <summary type="html"><![CDATA[Re 3/ The Merge has been delayed again, which was planned to go live in June
-@TimBeiko has announced that it should take a few months 😕 https://twitter.com/TimBeiko/status/1514010098145759232?s=20&t=uOHQO3Aed0D0ziJeWawb6w]]></summary>
+@TimBeiko has announced that it should take a few months 😕
+Tim Beiko | timbeiko.eth 🔥🧱: @TripleSack It won't be June, but likely in the few months after. No firm date yet, but we're definitely in the final chapter of PoW on Ethereum]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -142,7 +159,9 @@ Full Video: https://youtu.be/Zl4prD4oZIM]]></summary>
         <id>https://twitter.com/defipulse/status/1525283033498243074</id>
         <link href="https://twitter.com/defipulse/status/1525283033498243074"/>
         <updated>2022-05-14T01:13:08.000Z</updated>
-        <summary type="html"><![CDATA[Re @CoinDesk @etherscan @coingecko @0x_bae https://twitter.com/defipulse/status/1525282861296779265?t=vHG9-l1VuAtmqkB9hX-uWw&s=19]]></summary>
+        <summary type="html"><![CDATA[Re @CoinDesk @etherscan @coingecko @0x_bae
+DeFi Pulse 🍇: Just to clarify: we were NOT targeted.
+ http://defipulse.com https://twitter.com/defipulse/status/1525229253792604161]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -152,7 +171,10 @@ Full Video: https://youtu.be/Zl4prD4oZIM]]></summary>
         <id>https://twitter.com/defipulse/status/1525282861296779265</id>
         <link href="https://twitter.com/defipulse/status/1525282861296779265"/>
         <updated>2022-05-14T01:12:27.000Z</updated>
-        <summary type="html"><![CDATA[Just to clarify: we were NOT targeted. http://defipulse.com]]></summary>
+        <summary type="html"><![CDATA[Just to clarify: we were NOT targeted.
+DeFi Pulse 🍇: 🚨 Warning! Some people are getting this notification when connecting to @etherscan or @coingecko.
+DO NOT SIGN any transactions that you don't recognize, and keep an eye on this “NFT Apes Win” notification, don't interact with it!
+ https://twitter.com/JLRoyal42/status/1525222565278494720]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -174,12 +196,27 @@ Apply 👇 https://bit.ly/3FL4VON]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[We are hiring! Are you a writer and experienced in DeFi? This position might be perfect for you 🤞 More information on the 🧵 below]]></title>
+        <id>https://twitter.com/defipulse/status/1525249539883405312</id>
+        <link href="https://twitter.com/defipulse/status/1525249539883405312"/>
+        <updated>2022-05-13T23:00:02.000Z</updated>
+        <summary type="html"><![CDATA[We are hiring!
+Are you a writer and experienced in DeFi?
+This position might be perfect for you 🤞
+More information on the 🧵 below]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[🚨 Warning! Some people are getting this notification when connecting to @etherscan or @coingecko. DO NOT SIGN any transactions that you don't recog...]]></title>
         <id>https://twitter.com/defipulse/status/1525229253792604161</id>
         <link href="https://twitter.com/defipulse/status/1525229253792604161"/>
         <updated>2022-05-13T21:39:26.000Z</updated>
         <summary type="html"><![CDATA[🚨 Warning! Some people are getting this notification when connecting to @etherscan or @coingecko.
-DO NOT SIGN any transactions that you don't recognize, and keep an eye on this “NFT Apes Win” notification, don't interact with it!]]></summary>
+DO NOT SIGN any transactions that you don't recognize, and keep an eye on this “NFT Apes Win” notification, don't interact with it!
+JLRoyal: 🚨 Careful with ETHERSCAN! 🚨 There is a pop up for "Nftapes win" that attempts to immediately connect to your wallet relentlessly! Careful out there 
+#nft #nftcommunity]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
