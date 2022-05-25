@@ -1,10 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-25T07:20:56.989Z</id>
+    <id>urn:2022-05-25T08:28:07.137Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-25T07:20:56.989Z</updated>
+    <updated>2022-05-25T08:28:07.137Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Did you know the age of these coins? 🤔 $BTC - 13 years old $ETH - 7 years old $XRP - 10 years old $BNB - 5 years old $AVAX - 2 years old]]></title>
+        <id>https://twitter.com/defipulse/status/1529371735094702080</id>
+        <link href="https://twitter.com/defipulse/status/1529371735094702080"/>
+        <updated>2022-05-25T08:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Did you know the age of these coins? 🤔
+$BTC - 13 years old
+$ETH - 7 years old
+$XRP - 10 years old
+$BNB - 5 years old
+$AVAX - 2 years old]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🎙 DeFi Pulse Spaces How is the stablecoin passive income landscape after the $UST collapse? 👀 We want to hear from you! Join the discussions tom...]]></title>
         <id>https://twitter.com/defipulse/status/1529337386903158784</id>
@@ -251,17 +266,6 @@ More information on the 🧵 below]]></summary>
 DO NOT SIGN any transactions that you don't recognize, and keep an eye on this “NFT Apes Win” notification, don't interact with it!
 JLRoyal: 🚨 Careful with ETHERSCAN! 🚨 There is a pop up for "Nftapes win" that attempts to immediately connect to your wallet relentlessly! Careful out there 
 #nft #nftcommunity]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @FTX_Official @SBF_FTX 6/ $DPI token, is based on the DeFi Pulse Index, a digital asset index designed to track the performance of top protocols in...]]></title>
-        <id>https://twitter.com/defipulse/status/1525219026057646080</id>
-        <link href="https://twitter.com/defipulse/status/1525219026057646080"/>
-        <updated>2022-05-13T20:58:47.000Z</updated>
-        <summary type="html"><![CDATA[Re @FTX_Official @SBF_FTX 6/ $DPI token, is based on the DeFi Pulse Index, a digital asset index designed to track the performance of top protocols in #DeFi
-$NFTI is based on the @scalara_xyz NFT Index, an index designed to track the performance of the most well-known #NFT collections]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
