@@ -1,10 +1,86 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-30T13:43:59.132Z</id>
+    <id>urn:2022-05-30T14:20:50.951Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-30T13:43:59.133Z</updated>
+    <updated>2022-05-30T14:20:50.951Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @VitalikButerin @PoolTogether @opensea @MakerDAO 7/ $DPI token, is based on the DeFi Pulse Index, a digital asset index designed to track the perfo...]]></title>
+        <id>https://twitter.com/defipulse/status/1531266662225260554</id>
+        <link href="https://twitter.com/defipulse/status/1531266662225260554"/>
+        <updated>2022-05-30T13:29:56.000Z</updated>
+        <summary type="html"><![CDATA[Re @VitalikButerin @PoolTogether @opensea @MakerDAO 7/ $DPI token, is based on the DeFi Pulse Index, a digital asset index designed to track the performance of top protocols in #DeFi
+$NFTI is based on the @scalara_xyz NFT Index, an index designed to track the performance of the most well-known #NFT collections]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @VitalikButerin @PoolTogether @opensea 6/ @MakerDAO Regains Top Spot on TVL Leaderboard]]></title>
+        <id>https://twitter.com/defipulse/status/1531266656240033795</id>
+        <link href="https://twitter.com/defipulse/status/1531266656240033795"/>
+        <updated>2022-05-30T13:29:55.000Z</updated>
+        <summary type="html"><![CDATA[Re @VitalikButerin @PoolTogether @opensea 6/ @MakerDAO Regains Top Spot on TVL Leaderboard https://thedefiant.io/makerdao-tops-tvl-charts/]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @VitalikButerin @PoolTogether 5/ @opensea Drops New Marketplace Protocol for #NFTs]]></title>
+        <id>https://twitter.com/defipulse/status/1531266653459054592</id>
+        <link href="https://twitter.com/defipulse/status/1531266653459054592"/>
+        <updated>2022-05-30T13:29:54.000Z</updated>
+        <summary type="html"><![CDATA[Re @VitalikButerin @PoolTogether 5/ @opensea Drops New Marketplace Protocol for #NFTs https://thedefiant.io/opensea-seaport/]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @VitalikButerin 4/ @PoolTogether, one of the earliest #DeFi projects launched in 2019, launches NFT Sale to Fund Ongoing Litigation]]></title>
+        <id>https://twitter.com/defipulse/status/1531266650841812993</id>
+        <link href="https://twitter.com/defipulse/status/1531266650841812993"/>
+        <updated>2022-05-30T13:29:53.000Z</updated>
+        <summary type="html"><![CDATA[Re @VitalikButerin 4/ @PoolTogether, one of the earliest #DeFi projects launched in 2019, launches NFT Sale to Fund Ongoing Litigation https://thedefiant.io/pooltogether-lawsuit-nfts/]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 3/ @VitalikButerin Defends Algo Stablecoins]]></title>
+        <id>https://twitter.com/defipulse/status/1531266648249753600</id>
+        <link href="https://twitter.com/defipulse/status/1531266648249753600"/>
+        <updated>2022-05-30T13:29:53.000Z</updated>
+        <summary type="html"><![CDATA[Re 3/ @VitalikButerin Defends Algo Stablecoins https://thedefiant.io/ethereum-founder-vitalik-buterin-defends-algo-stables/]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 2/ Recent News 🗞 #Ethereum Miner Tries to Expedite Testnet Merge By 2 Weeks]]></title>
+        <id>https://twitter.com/defipulse/status/1531266645670645760</id>
+        <link href="https://twitter.com/defipulse/status/1531266645670645760"/>
+        <updated>2022-05-30T13:29:52.000Z</updated>
+        <summary type="html"><![CDATA[Re 2/ Recent News 🗞
+#Ethereum Miner Tries to Expedite Testnet Merge By 2 Weeks https://thedefiant.io/ethereum-miner-tries-to-expedite-testnet-merge-by-2-weeks/]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1/ #SectorPulse is here again 🥳 🙌 $DPI is now trading at $98.78 a 1.1% decrease from last week 📉 $NFTI is now trading at $6.31, a 7.6% decrea...]]></title>
+        <id>https://twitter.com/defipulse/status/1531266642323222529</id>
+        <link href="https://twitter.com/defipulse/status/1531266642323222529"/>
+        <updated>2022-05-30T13:29:51.000Z</updated>
+        <summary type="html"><![CDATA[1/ #SectorPulse is here again 🥳  🙌
+$DPI is now trading at $98.78 a 1.1% decrease from last week 📉
+$NFTI is now trading at $6.31, a 7.6% decrease from last week 📉
+The stable $USDC yield is 1.76%
+On the 🧵 👇 you will find a summary of the week's news]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🔴 We're Live! Tune in now to listen to @PonyFinance & @Scalara_xyz talk about stablecoin yields post $UST]]></title>
         <id>https://twitter.com/defipulse/status/1529869943222767616</id>
@@ -195,94 +271,6 @@ Tim Beiko | timbeiko.eth 🔥🧱: @TripleSack It won't be June, but likely in
         <summary type="html"><![CDATA[Re 2/ A few tests have been made before the protocol switches from PoW to PoS, here is a breakdown of them:
 1. Hive tests are used to test the new engine APIs
 2. Kurtosis helps spin up staging networks which are testing environments to isolate specific aspects of the Merge]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[.#Ethereum has recently been making Merge tests, the latest shadow fork happened on the 5th of May 👀 Read the 🧵 for a breakdown of the latest up...]]></title>
-        <id>https://twitter.com/defipulse/status/1527014945807773701</id>
-        <link href="https://twitter.com/defipulse/status/1527014945807773701"/>
-        <updated>2022-05-18T19:55:08.000Z</updated>
-        <summary type="html"><![CDATA[.#Ethereum has recently been making Merge tests, the latest shadow fork happened on the 5th of May 👀
-Read the 🧵 for a breakdown of the latest updates on The Merge 👇]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One of our newsletters, Poly Pulse, is LIVE 🥳 🟣 Deep dive on @0xpolygon’s ecosystem. In this issue you will find: 🧬 Boost a #blockchain with...]]></title>
-        <id>https://twitter.com/defipulse/status/1526668958991908864</id>
-        <link href="https://twitter.com/defipulse/status/1526668958991908864"/>
-        <updated>2022-05-17T21:00:18.000Z</updated>
-        <summary type="html"><![CDATA[One of our newsletters, Poly Pulse, is LIVE 🥳
-🟣 Deep dive on @0xpolygon’s ecosystem. In this issue you will find:
-🧬 Boost a #blockchain with #Polygon edge
-🌉 How to bridge your #assets to Polygon
-📈 Stake $USDC and earn up to 30% APR
-Subscribe 👇 https://bit.ly/3LnoUEo]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Pony_Finance: The Pony Finance waitlist is open! 🎉 To celebrate, we're launching a competition & $PONY giveaway. Join for exclusive rewards and ...]]></title>
-        <id>https://twitter.com/PonyFinance/status/1526599626475704320</id>
-        <link href="https://twitter.com/PonyFinance/status/1526599626475704320"/>
-        <updated>2022-05-17T16:24:48.000Z</updated>
-        <summary type="html"><![CDATA[RT Pony_Finance
-The Pony Finance waitlist is open! 
-🎉 To celebrate, we're launching a competition & $PONY giveaway.
-Join for exclusive rewards and to be among the first to gain access to the Passive Omnichain Net Yield Index👇 https://gleam.io/QLEcH/pony-finance-waitlist-competition]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Nathan Howard: Heard that someone from @MakerDAO is replacing Do on the stablecoin panel at #Permissionless and that is just *chef's kiss.* Bullish...]]></title>
-        <id>https://twitter.com/fallow8DeFi/status/1526228621928579074</id>
-        <link href="https://twitter.com/fallow8DeFi/status/1526228621928579074"/>
-        <updated>2022-05-16T15:50:34.000Z</updated>
-        <summary type="html"><![CDATA[RT Nathan Howard
-Heard that someone from @MakerDAO is replacing Do on the stablecoin panel at #Permissionless and that is just *chef's kiss.* Bullish on DeFi 1.0. The tide will come back in and these OGs will still be here. Name of the game is survive.]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Scalara: The Scalara NFT Index lets users gain exposure to a curated selection of top NFTs. Watch as @alexgausman, @ChristophGaX, and @fallow8DeFi ...]]></title>
-        <id>https://twitter.com/Scalara_xyz/status/1525313240527519746</id>
-        <link href="https://twitter.com/Scalara_xyz/status/1525313240527519746"/>
-        <updated>2022-05-14T03:13:10.000Z</updated>
-        <summary type="html"><![CDATA[RT Scalara
-The Scalara NFT Index lets users gain exposure to a curated selection of top NFTs.
-Watch as @alexgausman, @ChristophGaX, and @fallow8DeFi share how Scalara and @NFTX_ have partnered to bring DeFi yields to NFT investors.
-Full Video: https://youtu.be/Zl4prD4oZIM]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @CoinDesk @etherscan @coingecko @0x_bae]]></title>
-        <id>https://twitter.com/defipulse/status/1525283033498243074</id>
-        <link href="https://twitter.com/defipulse/status/1525283033498243074"/>
-        <updated>2022-05-14T01:13:08.000Z</updated>
-        <summary type="html"><![CDATA[Re @CoinDesk @etherscan @coingecko @0x_bae
-DeFi Pulse 🍇: Just to clarify: we were NOT targeted.
- http://defipulse.com https://twitter.com/defipulse/status/1525229253792604161]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Just to clarify: we were NOT targeted.]]></title>
-        <id>https://twitter.com/defipulse/status/1525282861296779265</id>
-        <link href="https://twitter.com/defipulse/status/1525282861296779265"/>
-        <updated>2022-05-14T01:12:27.000Z</updated>
-        <summary type="html"><![CDATA[Just to clarify: we were NOT targeted.
-DeFi Pulse 🍇: 🚨 Warning! Some people are getting this notification when connecting to @etherscan or @coingecko.
-DO NOT SIGN any transactions that you don't recognize, and keep an eye on this “NFT Apes Win” notification, don't interact with it!
- https://twitter.com/JLRoyal42/status/1525222565278494720]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
