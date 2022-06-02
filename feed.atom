@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-02T16:34:58.144Z</id>
+    <id>urn:2022-06-02T17:30:29.697Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-02T16:34:58.144Z</updated>
+    <updated>2022-06-02T17:30:29.697Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[OFFICIAL: Chipotle now accepts over 98 types of #cryptocurrencies as payment method 🌯]]></title>
+        <id>https://twitter.com/defipulse/status/1532376939297742848</id>
+        <link href="https://twitter.com/defipulse/status/1532376939297742848"/>
+        <updated>2022-06-02T15:01:47.000Z</updated>
+        <summary type="html"><![CDATA[OFFICIAL: Chipotle now accepts over 98 types of #cryptocurrencies as payment method 🌯]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[People that believe in crypto: Tesla CEO Uber CEO Apple CEO Nvidia CEO PayPal CEO Airbnb CEO Google CEO Microsoft CEO Mastercard CEO Meta Co-Founder A...]]></title>
         <id>https://twitter.com/defipulse/status/1531541292802617346</id>
@@ -114,18 +124,7 @@ On the 🧵 👇 you will find a summary of the week's news]]></summary>
         <link href="https://twitter.com/defipulse/status/1529869943222767616"/>
         <updated>2022-05-26T16:59:52.000Z</updated>
         <summary type="html"><![CDATA[🔴 We're Live!
-Tune in now to listen to @PonyFinance & @Scalara_xyz talk about stablecoin yields post $UST
-DeFi Pulse 🍇: 🎙 DeFi Pulse Spaces
-How is the stablecoin passive income landscape after the $UST collapse? 👀
-We want to hear from you! Join the discussions tomorrow with:
-@ChristophGaX
-@fallow8DeFi 
-@BigSky_7
-From:
-@Scalara_xyz
-@PonyFinance
-⏰️ 5PM UTC
- https://twitter.com/i/spaces/1YpKkZvANMyxj]]></summary>
+Tune in now to listen to @PonyFinance & @Scalara_xyz talk about stablecoin yields post $UST]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -136,18 +135,7 @@ From:
         <link href="https://twitter.com/defipulse/status/1529864721838616577"/>
         <updated>2022-05-26T16:39:07.000Z</updated>
         <summary type="html"><![CDATA[We are going live in 30 minutes! 🥳
-Learn all about stablecoin yields with @PonyFinance & @Scalara_xyz
-DeFi Pulse 🍇: 🎙 DeFi Pulse Spaces
-How is the stablecoin passive income landscape after the $UST collapse? 👀
-We want to hear from you! Join the discussions tomorrow with:
-@ChristophGaX
-@fallow8DeFi 
-@BigSky_7
-From:
-@Scalara_xyz
-@PonyFinance
-⏰️ 5PM UTC
- https://twitter.com/i/spaces/1YpKkZvANMyxj]]></summary>
+Learn all about stablecoin yields with @PonyFinance & @Scalara_xyz]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -261,31 +249,7 @@ Join us now on @0xPolygon talking about Scalara and our indices✨ https://twi
         <id>https://twitter.com/defipulse/status/1527014957375623169</id>
         <link href="https://twitter.com/defipulse/status/1527014957375623169"/>
         <updated>2022-05-18T19:55:11.000Z</updated>
-        <summary type="html"><![CDATA[Re @TimBeiko @LidoFinance @Rocket_Pool 5/ Make sure to read our thread about The Merge for a further explanation 👇
-DeFi Pulse 🍇: The #ETH Proof of Stake Merge Explained 🔗
-🧵👇]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @TimBeiko 4/ $ETH that is locked in liquid staking through platforms such as @LidoFinance & @Rocket_Pool will only be accessible after The Merge �...]]></title>
-        <id>https://twitter.com/defipulse/status/1527014954569674752</id>
-        <link href="https://twitter.com/defipulse/status/1527014954569674752"/>
-        <updated>2022-05-18T19:55:10.000Z</updated>
-        <summary type="html"><![CDATA[Re @TimBeiko 4/ $ETH that is locked in liquid staking through platforms such as @LidoFinance & @Rocket_Pool will only be accessible after The Merge 🔒]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 3/ The Merge has been delayed again, which was planned to go live in June @TimBeiko has announced that it should take a few months 😕]]></title>
-        <id>https://twitter.com/defipulse/status/1527014951549665280</id>
-        <link href="https://twitter.com/defipulse/status/1527014951549665280"/>
-        <updated>2022-05-18T19:55:09.000Z</updated>
-        <summary type="html"><![CDATA[Re 3/ The Merge has been delayed again, which was planned to go live in June
-@TimBeiko has announced that it should take a few months 😕
-Tim Beiko | timbeiko.eth 🐼: @TripleSack It won't be June, but likely in the few months after. No firm date yet, but we're definitely in the final chapter of PoW on Ethereum]]></summary>
+        <summary type="html"><![CDATA[Re @TimBeiko @LidoFinance @Rocket_Pool 5/ Make sure to read our thread about The Merge for a further explanation 👇 https://twitter.com/defipulse/status/1516793195279048709?s=20&t=pFPj_mZ0e-TWk9EH94qmvw]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
