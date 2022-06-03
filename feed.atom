@@ -1,10 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-03T08:24:59.245Z</id>
+    <id>urn:2022-06-03T09:21:13.455Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-03T08:24:59.245Z</updated>
+    <updated>2022-06-03T09:21:13.455Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The latest edition of our newsletter, #PulseFarmer is live! 🎉 This week we've covered: 🖼 @opensea's Code4rena live contest ⛓ Ethereum's Beacon ...]]></title>
+        <id>https://twitter.com/defipulse/status/1532632631640211457</id>
+        <link href="https://twitter.com/defipulse/status/1532632631640211457"/>
+        <updated>2022-06-03T07:57:48.000Z</updated>
+        <summary type="html"><![CDATA[The latest edition of our newsletter, #PulseFarmer is live! 🎉
+This week we've covered: 
+🖼 @opensea's Code4rena live contest
+⛓ Ethereum's Beacon Chain
+🧠 #ETH's scaling soultions
+Learn more 👇 https://bit.ly/3McUVzt]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[happy friday #DeFi 💜]]></title>
+        <id>https://twitter.com/defipulse/status/1532630232213200897</id>
+        <link href="https://twitter.com/defipulse/status/1532630232213200897"/>
+        <updated>2022-06-03T07:48:16.000Z</updated>
+        <summary type="html"><![CDATA[happy friday #DeFi 💜]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OFFICIAL: Chipotle now accepts over 98 types of #cryptocurrencies as payment method 🌯]]></title>
         <id>https://twitter.com/defipulse/status/1532376939297742848</id>
@@ -124,7 +149,18 @@ On the 🧵 👇 you will find a summary of the week's news]]></summary>
         <link href="https://twitter.com/defipulse/status/1529869943222767616"/>
         <updated>2022-05-26T16:59:52.000Z</updated>
         <summary type="html"><![CDATA[🔴 We're Live!
-Tune in now to listen to @PonyFinance & @Scalara_xyz talk about stablecoin yields post $UST]]></summary>
+Tune in now to listen to @PonyFinance & @Scalara_xyz talk about stablecoin yields post $UST
+DeFi Pulse 🍇: 🎙 DeFi Pulse Spaces
+How is the stablecoin passive income landscape after the $UST collapse? 👀
+We want to hear from you! Join the discussions tomorrow with:
+@ChristophGaX
+@fallow8DeFi 
+@BigSky_7
+From:
+@Scalara_xyz
+@PonyFinance
+⏰️ 5PM UTC
+ https://twitter.com/i/spaces/1YpKkZvANMyxj]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -135,7 +171,18 @@ Tune in now to listen to @PonyFinance & @Scalara_xyz talk about stablecoin yield
         <link href="https://twitter.com/defipulse/status/1529864721838616577"/>
         <updated>2022-05-26T16:39:07.000Z</updated>
         <summary type="html"><![CDATA[We are going live in 30 minutes! 🥳
-Learn all about stablecoin yields with @PonyFinance & @Scalara_xyz]]></summary>
+Learn all about stablecoin yields with @PonyFinance & @Scalara_xyz
+DeFi Pulse 🍇: 🎙 DeFi Pulse Spaces
+How is the stablecoin passive income landscape after the $UST collapse? 👀
+We want to hear from you! Join the discussions tomorrow with:
+@ChristophGaX
+@fallow8DeFi 
+@BigSky_7
+From:
+@Scalara_xyz
+@PonyFinance
+⏰️ 5PM UTC
+ https://twitter.com/i/spaces/1YpKkZvANMyxj]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -240,16 +287,6 @@ Read more 👇 https://bit.ly/3sL6N4G]]></summary>
         <updated>2022-05-19T15:01:08.000Z</updated>
         <summary type="html"><![CDATA[RT Scalara
 Join us now on @0xPolygon talking about Scalara and our indices✨ https://twitter.com/i/spaces/1ynJOZOaARWGR]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @TimBeiko @LidoFinance @Rocket_Pool 5/ Make sure to read our thread about The Merge for a further explanation 👇]]></title>
-        <id>https://twitter.com/defipulse/status/1527014957375623169</id>
-        <link href="https://twitter.com/defipulse/status/1527014957375623169"/>
-        <updated>2022-05-18T19:55:11.000Z</updated>
-        <summary type="html"><![CDATA[Re @TimBeiko @LidoFinance @Rocket_Pool 5/ Make sure to read our thread about The Merge for a further explanation 👇 https://twitter.com/defipulse/status/1516793195279048709?s=20&t=pFPj_mZ0e-TWk9EH94qmvw]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
