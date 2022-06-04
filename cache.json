@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/Scalara_xyz/status/1532790475530424321",
+          "author": "DeFi Pulse 🍇",
+          "description": "RT Scalara\nThe DeFi Pulse Index $DPI is designed to be a benchmark of the DeFi sector.\nHow does the DeFi Pulse Index select its constituents? https://www.scalara.xyz/blog/defi-pulse-index-a-methodology-deep-dive",
+          "link": "https://twitter.com/Scalara_xyz/status/1532790475530424321",
+          "publishedOn": "2022-06-03T18:25:01.000Z",
+          "wordCount": 196,
+          "title": "RT Scalara: The DeFi Pulse Index $DPI is designed to be a benchmark of the DeFi sector. How does the DeFi Pulse Index select its constituents?",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1532782630575513601",
           "author": "DeFi Pulse 🍇",
           "description": "The latest version of #PolyPulse is here!\n🟣 Deep dive on @0xpolygon’s ecosystem. In this issue you will find:\n⛏ KPI-based Liquidity Mining\n💰 Native $USDT goes live on #Polygon\n🎉Rewards on @stader_polygon \nand much more!\nRead the full edition 👇 https://bit.ly/3xdqUvg",
@@ -193,16 +203,6 @@
           "publishedOn": "2022-05-20T18:46:48.000Z",
           "wordCount": 196,
           "title": "RT Pony_Finance: Join us for a pre-launch event! Meet the Pony Finance team and guests from @beefyfinance, @defipulse, and @Scalara_xyz for details on...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1527396217637859336",
-          "author": "DeFi Pulse 🍇",
-          "description": "The latest edition of Pulse Farmer is now live!\nHere is a brief recap of what you can find in this week's issue 👇\n👀 @ponyfinance's wait list is open \n🚜 DeFi yield strategy with the migration of stETH to @CurveFinance \n📉 TVL holds ground\nRead more 👇 https://bit.ly/3sL6N4G",
-          "link": "https://twitter.com/defipulse/status/1527396217637859336",
-          "publishedOn": "2022-05-19T21:10:10.000Z",
-          "wordCount": 196,
-          "title": "The latest edition of Pulse Farmer is now live! Here is a brief recap of what you can find in this week's issue 👇 👀 @ponyfinance's wait list is ...",
           "imageUrl": null
         }
       ]
