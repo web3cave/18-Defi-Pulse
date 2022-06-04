@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-04T07:18:28.451Z</id>
+    <id>urn:2022-06-04T08:24:02.412Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-04T07:18:28.451Z</updated>
+    <updated>2022-06-04T08:24:02.412Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -165,7 +165,18 @@ On the 🧵 👇 you will find a summary of the week's news]]></summary>
         <link href="https://twitter.com/defipulse/status/1529869943222767616"/>
         <updated>2022-05-26T16:59:52.000Z</updated>
         <summary type="html"><![CDATA[🔴 We're Live!
-Tune in now to listen to @PonyFinance & @Scalara_xyz talk about stablecoin yields post $UST]]></summary>
+Tune in now to listen to @PonyFinance & @Scalara_xyz talk about stablecoin yields post $UST
+DeFi Pulse 🍇: 🎙 DeFi Pulse Spaces
+How is the stablecoin passive income landscape after the $UST collapse? 👀
+We want to hear from you! Join the discussions tomorrow with:
+@ChristophGaX
+@fallow8DeFi 
+@BigSky_7
+From:
+@Scalara_xyz
+@PonyFinance
+⏰️ 5PM UTC
+ https://twitter.com/i/spaces/1YpKkZvANMyxj]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -176,7 +187,18 @@ Tune in now to listen to @PonyFinance & @Scalara_xyz talk about stablecoin yield
         <link href="https://twitter.com/defipulse/status/1529864721838616577"/>
         <updated>2022-05-26T16:39:07.000Z</updated>
         <summary type="html"><![CDATA[We are going live in 30 minutes! 🥳
-Learn all about stablecoin yields with @PonyFinance & @Scalara_xyz]]></summary>
+Learn all about stablecoin yields with @PonyFinance & @Scalara_xyz
+DeFi Pulse 🍇: 🎙 DeFi Pulse Spaces
+How is the stablecoin passive income landscape after the $UST collapse? 👀
+We want to hear from you! Join the discussions tomorrow with:
+@ChristophGaX
+@fallow8DeFi 
+@BigSky_7
+From:
+@Scalara_xyz
+@PonyFinance
+⏰️ 5PM UTC
+ https://twitter.com/i/spaces/1YpKkZvANMyxj]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -255,6 +277,21 @@ Join us for a pre-launch event!
 Meet the Pony Finance team and guests from @beefyfinance, @defipulse, and @Scalara_xyz for details on PONY and the upcoming launch. 
 📆 Monday, May 23 at 8pm UTC / 4pm ET / 1pm PT.
 Save Your Spot👇 https://www.crowdcast.io/e/introducing-pony-finance]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The latest edition of Pulse Farmer is now live! Here is a brief recap of what you can find in this week's issue 👇 👀 @ponyfinance's wait list is ...]]></title>
+        <id>https://twitter.com/defipulse/status/1527396217637859336</id>
+        <link href="https://twitter.com/defipulse/status/1527396217637859336"/>
+        <updated>2022-05-19T21:10:10.000Z</updated>
+        <summary type="html"><![CDATA[The latest edition of Pulse Farmer is now live!
+Here is a brief recap of what you can find in this week's issue 👇
+👀 @ponyfinance's wait list is open 
+🚜 DeFi yield strategy with the migration of stETH to @CurveFinance 
+📉 TVL holds ground
+Read more 👇 https://bit.ly/3sL6N4G]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
