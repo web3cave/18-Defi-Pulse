@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-08T22:20:14.328Z</id>
+    <id>urn:2022-06-08T23:20:39.503Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-08T22:20:14.328Z</updated>
+    <updated>2022-06-08T23:20:39.503Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT Scalara: 🤔 How do you determine a blue-chip NFT collection? @ChristophGaX explains the criteria behind the Scalara NFT Index ($NFTI) on the @def...]]></title>
+        <id>https://twitter.com/Scalara_xyz/status/1534645011626721283</id>
+        <link href="https://twitter.com/Scalara_xyz/status/1534645011626721283"/>
+        <updated>2022-06-08T21:14:17.000Z</updated>
+        <summary type="html"><![CDATA[RT Scalara
+🤔 How do you determine a blue-chip NFT collection? 
+@ChristophGaX explains the criteria behind the Scalara NFT Index ($NFTI) on the @defipulse Twitter Spaces w @NFTX_💫 
+▶️ Full Video: 
+▶️ NFTI: https://youtu.be/hLnXotkXifg http://scalara.xyz/indices/nfti]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1 year ago today, #ETH was $2,500 - where will it be in 2023? 🤔]]></title>
         <id>https://twitter.com/defipulse/status/1534095024282927104</id>
@@ -270,21 +284,6 @@ From:
 @Scalara_xyz
 @PonyFinance
 ⏰️ 5PM UTC https://twitter.com/i/spaces/1YpKkZvANMyxj]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The latest version of #PolyPulse is here! 🟣 Deep dive on @0xpolygon’s ecosystem. In this issue you will find: 🚀 Accelerator program is back �...]]></title>
-        <id>https://twitter.com/defipulse/status/1528846234043027456</id>
-        <link href="https://twitter.com/defipulse/status/1528846234043027456"/>
-        <updated>2022-05-23T21:12:01.000Z</updated>
-        <summary type="html"><![CDATA[The latest version of #PolyPulse is here!
-🟣 Deep dive on @0xpolygon’s ecosystem. In this issue you will find:
-🚀 Accelerator program is back
-🔐 Polygon Nightfall brings privacy to #blockchain
-🤝 @LidoFinance holds 85%+ of staked $MATIC
-Read more 👇 https://bit.ly/3wIyV9W]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
