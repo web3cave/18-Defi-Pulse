@@ -1,10 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-09T15:20:03.963Z</id>
+    <id>urn:2022-06-09T16:30:49.923Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-09T15:20:03.963Z</updated>
+    <updated>2022-06-09T16:30:49.923Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[We are still #hiring for an experienced #DeFi writer! 👀 Please share this post with someone you think can be a good fit for the position!]]></title>
+        <id>https://twitter.com/defipulse/status/1534912951173500928</id>
+        <link href="https://twitter.com/defipulse/status/1534912951173500928"/>
+        <updated>2022-06-09T14:58:59.000Z</updated>
+        <summary type="html"><![CDATA[We are still #hiring for an experienced #DeFi writer! 👀
+Please share this post with someone you think can be a good fit for the position!
+DeFi Pulse 🍇: We are hiring!
+Are you a writer and experienced in DeFi?
+This position might be perfect for you 🤞
+More information on the 🧵 below]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🚨OFFICIAL: Ethereum's testnet Ropsten successfully transitions to PoS]]></title>
         <id>https://twitter.com/defipulse/status/1534844264181649408</id>
@@ -260,21 +275,6 @@ From:
 🛠 @cryptomenics - content sentiment analysis tool
 🧠 Introduction to cryptowallets 
 Read more 👇 https://bit.ly/3PVcWWj]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Did you know the age of these coins? 🤔 $BTC - 13 years old $ETH - 7 years old $XRP - 10 years old $BNB - 5 years old $AVAX - 2 years old]]></title>
-        <id>https://twitter.com/defipulse/status/1529371735094702080</id>
-        <link href="https://twitter.com/defipulse/status/1529371735094702080"/>
-        <updated>2022-05-25T08:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Did you know the age of these coins? 🤔
-$BTC - 13 years old
-$ETH - 7 years old
-$XRP - 10 years old
-$BNB - 5 years old
-$AVAX - 2 years old]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>

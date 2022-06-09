@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1534912951173500928",
+          "author": "DeFi Pulse 🍇",
+          "description": "We are still #hiring for an experienced #DeFi writer! 👀\nPlease share this post with someone you think can be a good fit for the position!\nDeFi Pulse 🍇: We are hiring!\nAre you a writer and experienced in DeFi?\nThis position might be perfect for you 🤞\nMore information on the 🧵 below",
+          "link": "https://twitter.com/defipulse/status/1534912951173500928",
+          "publishedOn": "2022-06-09T14:58:59.000Z",
+          "wordCount": 196,
+          "title": "We are still #hiring for an experienced #DeFi writer! 👀 Please share this post with someone you think can be a good fit for the position!",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1534844264181649408",
           "author": "DeFi Pulse 🍇",
           "description": "🚨OFFICIAL: Ethereum's testnet Ropsten successfully transitions to PoS",
@@ -193,16 +203,6 @@
           "publishedOn": "2022-05-26T01:52:36.000Z",
           "wordCount": 196,
           "title": "The latest edition of the Pulse Farmer is live! 🙌 👀 In this week's newsletter, you'll find: 🏝 Bitcoin Beach party 🛠 @cryptomenics - conten...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1529371735094702080",
-          "author": "DeFi Pulse 🍇",
-          "description": "Did you know the age of these coins? 🤔\n$BTC - 13 years old\n$ETH - 7 years old\n$XRP - 10 years old\n$BNB - 5 years old\n$AVAX - 2 years old",
-          "link": "https://twitter.com/defipulse/status/1529371735094702080",
-          "publishedOn": "2022-05-25T08:00:10.000Z",
-          "wordCount": 196,
-          "title": "Did you know the age of these coins? 🤔 $BTC - 13 years old $ETH - 7 years old $XRP - 10 years old $BNB - 5 years old $AVAX - 2 years old",
           "imageUrl": null
         }
       ]
