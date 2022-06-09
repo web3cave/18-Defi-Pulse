@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-09T10:25:21.793Z</id>
+    <id>urn:2022-06-09T11:16:59.317Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-09T10:25:21.793Z</updated>
+    <updated>2022-06-09T11:16:59.317Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[🚨OFFICIAL: Ethereum's testnet Ropsten successfully transitions to PoS]]></title>
+        <id>https://twitter.com/defipulse/status/1534844264181649408</id>
+        <link href="https://twitter.com/defipulse/status/1534844264181649408"/>
+        <updated>2022-06-09T10:26:03.000Z</updated>
+        <summary type="html"><![CDATA[🚨OFFICIAL: Ethereum's testnet Ropsten successfully transitions to PoS]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT Scalara: 🤔 How do you determine a blue-chip NFT collection? @ChristophGaX explains the criteria behind the Scalara NFT Index ($NFTI) on the @def...]]></title>
         <id>https://twitter.com/Scalara_xyz/status/1534645011626721283</id>
@@ -265,25 +275,6 @@ $ETH - 7 years old
 $XRP - 10 years old
 $BNB - 5 years old
 $AVAX - 2 years old]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎙 DeFi Pulse Spaces How is the stablecoin passive income landscape after the $UST collapse? 👀 We want to hear from you! Join the discussions tom...]]></title>
-        <id>https://twitter.com/defipulse/status/1529337386903158784</id>
-        <link href="https://twitter.com/defipulse/status/1529337386903158784"/>
-        <updated>2022-05-25T05:43:41.000Z</updated>
-        <summary type="html"><![CDATA[🎙 DeFi Pulse Spaces
-How is the stablecoin passive income landscape after the $UST collapse? 👀
-We want to hear from you! Join the discussions tomorrow with:
-@ChristophGaX
-@fallow8DeFi 
-@BigSky_7
-From:
-@Scalara_xyz
-@PonyFinance
-⏰️ 5PM UTC https://twitter.com/i/spaces/1YpKkZvANMyxj]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
