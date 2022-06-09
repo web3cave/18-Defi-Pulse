@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-09T19:16:48.700Z</id>
+    <id>urn:2022-06-09T20:26:20.743Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-09T19:16:48.700Z</updated>
+    <updated>2022-06-09T20:26:20.743Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,11 +11,7 @@
         <link href="https://twitter.com/defipulse/status/1534912951173500928"/>
         <updated>2022-06-09T14:58:59.000Z</updated>
         <summary type="html"><![CDATA[We are still #hiring for an experienced #DeFi writer! 👀
-Please share this post with someone you think can be a good fit for the position!
-DeFi Pulse 🍇: We are hiring!
-Are you a writer and experienced in DeFi?
-This position might be perfect for you 🤞
-More information on the 🧵 below]]></summary>
+Please share this post with someone you think can be a good fit for the position!]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -226,18 +222,7 @@ On the 🧵 👇 you will find a summary of the week's news]]></summary>
         <link href="https://twitter.com/defipulse/status/1529869943222767616"/>
         <updated>2022-05-26T16:59:52.000Z</updated>
         <summary type="html"><![CDATA[🔴 We're Live!
-Tune in now to listen to @PonyFinance & @Scalara_xyz talk about stablecoin yields post $UST
-DeFi Pulse 🍇: 🎙 DeFi Pulse Spaces
-How is the stablecoin passive income landscape after the $UST collapse? 👀
-We want to hear from you! Join the discussions tomorrow with:
-@ChristophGaX
-@fallow8DeFi 
-@BigSky_7
-From:
-@Scalara_xyz
-@PonyFinance
-⏰️ 5PM UTC
- https://twitter.com/i/spaces/1YpKkZvANMyxj]]></summary>
+Tune in now to listen to @PonyFinance & @Scalara_xyz talk about stablecoin yields post $UST]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -248,33 +233,7 @@ From:
         <link href="https://twitter.com/defipulse/status/1529864721838616577"/>
         <updated>2022-05-26T16:39:07.000Z</updated>
         <summary type="html"><![CDATA[We are going live in 30 minutes! 🥳
-Learn all about stablecoin yields with @PonyFinance & @Scalara_xyz
-DeFi Pulse 🍇: 🎙 DeFi Pulse Spaces
-How is the stablecoin passive income landscape after the $UST collapse? 👀
-We want to hear from you! Join the discussions tomorrow with:
-@ChristophGaX
-@fallow8DeFi 
-@BigSky_7
-From:
-@Scalara_xyz
-@PonyFinance
-⏰️ 5PM UTC
- https://twitter.com/i/spaces/1YpKkZvANMyxj]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The latest edition of the Pulse Farmer is live! 🙌 👀 In this week's newsletter, you'll find: 🏝 Bitcoin Beach party 🛠 @cryptomenics - conten...]]></title>
-        <id>https://twitter.com/defipulse/status/1529641622517862400</id>
-        <link href="https://twitter.com/defipulse/status/1529641622517862400"/>
-        <updated>2022-05-26T01:52:36.000Z</updated>
-        <summary type="html"><![CDATA[The latest edition of the Pulse Farmer is live! 🙌
-👀 In this week's newsletter, you'll find:
-🏝 Bitcoin Beach party
-🛠 @cryptomenics - content sentiment analysis tool
-🧠 Introduction to cryptowallets 
-Read more 👇 https://bit.ly/3PVcWWj]]></summary>
+Learn all about stablecoin yields with @PonyFinance & @Scalara_xyz]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
