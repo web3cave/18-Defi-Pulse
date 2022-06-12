@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-12T08:23:39.456Z</id>
+    <id>urn:2022-06-12T09:19:46.999Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-12T08:23:39.456Z</updated>
+    <updated>2022-06-12T09:19:46.999Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What are your thoughts on the $stETH situation? 🤔]]></title>
+        <id>https://twitter.com/defipulse/status/1535876544354299904</id>
+        <link href="https://twitter.com/defipulse/status/1535876544354299904"/>
+        <updated>2022-06-12T06:47:58.000Z</updated>
+        <summary type="html"><![CDATA[What are your thoughts on the $stETH situation? 🤔]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🎉The latest edition of the Pulse Farmer is out! In this weeks newsletter, you'll find: 🤝 #ETH's Ropsten Merge 💰 20M OP tokens stolen 🧠 Ste...]]></title>
         <id>https://twitter.com/defipulse/status/1535276123487092739</id>
@@ -241,28 +251,6 @@ $DPI is now trading at $98.78 a 1.1% decrease from last week 📉
 $NFTI is now trading at $6.31, a 7.6% decrease from last week 📉
 The stable $USDC yield is 1.76%
 On the 🧵 👇 you will find a summary of the week's news]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔴 We're Live! Tune in now to listen to @PonyFinance & @Scalara_xyz talk about stablecoin yields post $UST]]></title>
-        <id>https://twitter.com/defipulse/status/1529869943222767616</id>
-        <link href="https://twitter.com/defipulse/status/1529869943222767616"/>
-        <updated>2022-05-26T16:59:52.000Z</updated>
-        <summary type="html"><![CDATA[🔴 We're Live!
-Tune in now to listen to @PonyFinance & @Scalara_xyz talk about stablecoin yields post $UST
-DeFi Pulse 🍇: 🎙 DeFi Pulse Spaces
-How is the stablecoin passive income landscape after the $UST collapse? 👀
-We want to hear from you! Join the discussions tomorrow with:
-@ChristophGaX
-@fallow8DeFi 
-@BigSky_7
-From:
-@Scalara_xyz
-@PonyFinance
-⏰️ 5PM UTC
- https://twitter.com/i/spaces/1YpKkZvANMyxj]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
