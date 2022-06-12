@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-12T18:22:59.353Z</id>
+    <id>urn:2022-06-12T19:15:39.739Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-12T18:22:59.353Z</updated>
+    <updated>2022-06-12T19:15:39.739Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -46,11 +46,7 @@ Read and subscribe to our newsletter here 👇 https://bit.ly/3zAzxlf]]></summ
         <link href="https://twitter.com/defipulse/status/1534912951173500928"/>
         <updated>2022-06-09T14:58:59.000Z</updated>
         <summary type="html"><![CDATA[We are still #hiring for an experienced #DeFi writer! 👀
-Please share this post with someone you think can be a good fit for the position!
-DeFi Pulse 🍇: We are hiring!
-Are you a writer and experienced in DeFi?
-This position might be perfect for you 🤞
-More information on the 🧵 below]]></summary>
+Please share this post with someone you think can be a good fit for the position!]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -237,20 +233,6 @@ $NFTI is based on the @scalara_xyz NFT Index, an index designed to track the per
         <updated>2022-05-30T13:29:52.000Z</updated>
         <summary type="html"><![CDATA[Re 2/ Recent News 🗞
 #Ethereum Miner Tries to Expedite Testnet Merge By 2 Weeks https://thedefiant.io/ethereum-miner-tries-to-expedite-testnet-merge-by-2-weeks/]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1/ #SectorPulse is here again 🥳 🙌 $DPI is now trading at $98.78 a 1.1% decrease from last week 📉 $NFTI is now trading at $6.31, a 7.6% decrea...]]></title>
-        <id>https://twitter.com/defipulse/status/1531266642323222529</id>
-        <link href="https://twitter.com/defipulse/status/1531266642323222529"/>
-        <updated>2022-05-30T13:29:51.000Z</updated>
-        <summary type="html"><![CDATA[1/ #SectorPulse is here again 🥳  🙌
-$DPI is now trading at $98.78 a 1.1% decrease from last week 📉
-$NFTI is now trading at $6.31, a 7.6% decrease from last week 📉
-The stable $USDC yield is 1.76%
-On the 🧵 👇 you will find a summary of the week's news]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
