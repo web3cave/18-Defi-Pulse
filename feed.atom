@@ -1,16 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-13T08:29:01.062Z</id>
+    <id>urn:2022-06-13T09:21:49.195Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-13T08:29:01.062Z</updated>
+    <updated>2022-06-13T09:21:49.195Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[🚨 BREAKING: @CelsiusNetwork pauses withdrawals due to "extreme market conditions"]]></title>
+        <id>https://twitter.com/defipulse/status/1536268182796779520</id>
+        <link href="https://twitter.com/defipulse/status/1536268182796779520"/>
+        <updated>2022-06-13T08:44:11.000Z</updated>
+        <summary type="html"><![CDATA[🚨 BREAKING: @CelsiusNetwork pauses withdrawals due to "extreme market conditions"]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What are your thoughts on the $stETH situation? 🤔]]></title>
         <id>https://twitter.com/defipulse/status/1535876544354299904</id>
         <link href="https://twitter.com/defipulse/status/1535876544354299904"/>
         <updated>2022-06-12T06:47:58.000Z</updated>
         <summary type="html"><![CDATA[What are your thoughts on the $stETH situation? 🤔]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Stader Polygon: Learn more about one of our popular APY multiplier strategies in this edition of @defipulse blog Read on to know how to get 29%+ AP...]]></title>
+        <id>https://twitter.com/stader_polygon/status/1535844920530849792</id>
+        <link href="https://twitter.com/stader_polygon/status/1535844920530849792"/>
+        <updated>2022-06-12T04:42:18.000Z</updated>
+        <summary type="html"><![CDATA[RT Stader Polygon
+Learn more about one of our popular APY multiplier strategies in this edition of @defipulse blog
+Read on to know how to get 29%+ APY with @stader_polygon !
+🌐
+Aishwary.eth (🇮🇳💚): Have #MATIC. Put it to good use at @stader_polygon.
+@0xPolygon #LiquidStaking @defipulse
+ https://www.defipulse.com/blog/a-stepwise-guide-to-earn-high-returns-through-liquid-staking-on-polygon]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -226,31 +252,6 @@ $NFTI is based on the @scalara_xyz NFT Index, an index designed to track the per
         <link href="https://twitter.com/defipulse/status/1531266648249753600"/>
         <updated>2022-05-30T13:29:53.000Z</updated>
         <summary type="html"><![CDATA[Re 3/ @VitalikButerin Defends Algo Stablecoins https://thedefiant.io/ethereum-founder-vitalik-buterin-defends-algo-stables/]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 2/ Recent News 🗞 #Ethereum Miner Tries to Expedite Testnet Merge By 2 Weeks]]></title>
-        <id>https://twitter.com/defipulse/status/1531266645670645760</id>
-        <link href="https://twitter.com/defipulse/status/1531266645670645760"/>
-        <updated>2022-05-30T13:29:52.000Z</updated>
-        <summary type="html"><![CDATA[Re 2/ Recent News 🗞
-#Ethereum Miner Tries to Expedite Testnet Merge By 2 Weeks https://thedefiant.io/ethereum-miner-tries-to-expedite-testnet-merge-by-2-weeks/]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1/ #SectorPulse is here again 🥳 🙌 $DPI is now trading at $98.78 a 1.1% decrease from last week 📉 $NFTI is now trading at $6.31, a 7.6% decrea...]]></title>
-        <id>https://twitter.com/defipulse/status/1531266642323222529</id>
-        <link href="https://twitter.com/defipulse/status/1531266642323222529"/>
-        <updated>2022-05-30T13:29:51.000Z</updated>
-        <summary type="html"><![CDATA[1/ #SectorPulse is here again 🥳  🙌
-$DPI is now trading at $98.78 a 1.1% decrease from last week 📉
-$NFTI is now trading at $6.31, a 7.6% decrease from last week 📉
-The stable $USDC yield is 1.76%
-On the 🧵 👇 you will find a summary of the week's news]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>

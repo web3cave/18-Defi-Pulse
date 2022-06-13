@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1536268182796779520",
+          "author": "DeFi Pulse 🍇",
+          "description": "🚨 BREAKING: @CelsiusNetwork pauses withdrawals due to \"extreme market conditions\"",
+          "link": "https://twitter.com/defipulse/status/1536268182796779520",
+          "publishedOn": "2022-06-13T08:44:11.000Z",
+          "wordCount": 196,
+          "title": "🚨 BREAKING: @CelsiusNetwork pauses withdrawals due to \"extreme market conditions\"",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1535876544354299904",
           "author": "DeFi Pulse 🍇",
           "description": "What are your thoughts on the $stETH situation? 🤔",
@@ -13,6 +23,16 @@
           "publishedOn": "2022-06-12T06:47:58.000Z",
           "wordCount": 196,
           "title": "What are your thoughts on the $stETH situation? 🤔",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/stader_polygon/status/1535844920530849792",
+          "author": "DeFi Pulse 🍇",
+          "description": "RT Stader Polygon\nLearn more about one of our popular APY multiplier strategies in this edition of @defipulse blog\nRead on to know how to get 29%+ APY with @stader_polygon !\n🌐\nAishwary.eth (🇮🇳💚): Have #MATIC. Put it to good use at @stader_polygon.\n@0xPolygon #LiquidStaking @defipulse\n https://www.defipulse.com/blog/a-stepwise-guide-to-earn-high-returns-through-liquid-staking-on-polygon",
+          "link": "https://twitter.com/stader_polygon/status/1535844920530849792",
+          "publishedOn": "2022-06-12T04:42:18.000Z",
+          "wordCount": 196,
+          "title": "RT Stader Polygon: Learn more about one of our popular APY multiplier strategies in this edition of @defipulse blog Read on to know how to get 29%+ AP...",
           "imageUrl": null
         },
         {
@@ -183,26 +203,6 @@
           "publishedOn": "2022-05-30T13:29:53.000Z",
           "wordCount": 196,
           "title": "Re 3/ @VitalikButerin Defends Algo Stablecoins",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1531266645670645760",
-          "author": "DeFi Pulse 🍇",
-          "description": "Re 2/ Recent News 🗞\n#Ethereum Miner Tries to Expedite Testnet Merge By 2 Weeks https://thedefiant.io/ethereum-miner-tries-to-expedite-testnet-merge-by-2-weeks/",
-          "link": "https://twitter.com/defipulse/status/1531266645670645760",
-          "publishedOn": "2022-05-30T13:29:52.000Z",
-          "wordCount": 196,
-          "title": "Re 2/ Recent News 🗞 #Ethereum Miner Tries to Expedite Testnet Merge By 2 Weeks",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1531266642323222529",
-          "author": "DeFi Pulse 🍇",
-          "description": "1/ #SectorPulse is here again 🥳  🙌\n$DPI is now trading at $98.78 a 1.1% decrease from last week 📉\n$NFTI is now trading at $6.31, a 7.6% decrease from last week 📉\nThe stable $USDC yield is 1.76%\nOn the 🧵 👇 you will find a summary of the week's news",
-          "link": "https://twitter.com/defipulse/status/1531266642323222529",
-          "publishedOn": "2022-05-30T13:29:51.000Z",
-          "wordCount": 196,
-          "title": "1/ #SectorPulse is here again 🥳 🙌 $DPI is now trading at $98.78 a 1.1% decrease from last week 📉 $NFTI is now trading at $6.31, a 7.6% decrea...",
           "imageUrl": null
         }
       ]
