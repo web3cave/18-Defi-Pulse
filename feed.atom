@@ -1,10 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-13T23:20:17.977Z</id>
+    <id>urn:2022-06-14T02:07:25.617Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-13T23:20:17.977Z</updated>
+    <updated>2022-06-14T02:07:25.617Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT Aishwary.eth (🇮🇳💚): The fresh edition of #PolyPulse is out: Read more about: A thread (🧵) @defipulse @0xPolygon (1/4)]]></title>
+        <id>https://twitter.com/Crypto_Wildwest/status/1536372931583848448</id>
+        <link href="https://twitter.com/Crypto_Wildwest/status/1536372931583848448"/>
+        <updated>2022-06-13T15:40:25.000Z</updated>
+        <summary type="html"><![CDATA[RT Aishwary.eth (🇮🇳💚)
+The fresh edition of #PolyPulse is out:
+Read more about: 
+A thread (🧵)
+@defipulse @0xPolygon 
+(1/4) https://yieldfarmer.substack.com/p/-polypulse-25-polygon-avail-is-just?s=r]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🚨 BREAKING: @CelsiusNetwork pauses withdrawals due to "extreme market conditions"]]></title>
         <id>https://twitter.com/defipulse/status/1536268182796779520</id>
@@ -225,16 +240,6 @@ $NFTI is based on the @scalara_xyz NFT Index, an index designed to track the per
         <link href="https://twitter.com/defipulse/status/1531266653459054592"/>
         <updated>2022-05-30T13:29:54.000Z</updated>
         <summary type="html"><![CDATA[Re @VitalikButerin @PoolTogether 5/ @opensea Drops New Marketplace Protocol for #NFTs https://thedefiant.io/opensea-seaport/]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @VitalikButerin 4/ @PoolTogether, one of the earliest #DeFi projects launched in 2019, launches NFT Sale to Fund Ongoing Litigation]]></title>
-        <id>https://twitter.com/defipulse/status/1531266650841812993</id>
-        <link href="https://twitter.com/defipulse/status/1531266650841812993"/>
-        <updated>2022-05-30T13:29:53.000Z</updated>
-        <summary type="html"><![CDATA[Re @VitalikButerin 4/ @PoolTogether, one of the earliest #DeFi projects launched in 2019, launches NFT Sale to Fund Ongoing Litigation https://thedefiant.io/pooltogether-lawsuit-nfts/]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
