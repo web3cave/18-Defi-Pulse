@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-18T18:24:17.444Z</id>
+    <id>urn:2022-06-18T19:16:37.953Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-18T18:24:17.444Z</updated>
-    <generator>osmosfeed 1.14.4</generator>
+    <updated>2022-06-18T19:16:37.953Z</updated>
+    <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[RT Aishwary.eth (🇮🇳💚): The fresh edition of #PolyPulse is out: Read more about: A thread (🧵) @defipulse @0xPolygon (1/4)]]></title>
