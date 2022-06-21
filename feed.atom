@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-21T15:23:20.672Z</id>
+    <id>urn:2022-06-21T16:35:19.155Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-21T15:23:20.672Z</updated>
+    <updated>2022-06-21T16:35:19.155Z</updated>
     <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[BREAKING: Twitter's board unanimously approves Elon Musk’s $44B Twitter takeover bid]]></title>
+        <id>https://twitter.com/defipulse/status/1539248919871373317</id>
+        <link href="https://twitter.com/defipulse/status/1539248919871373317"/>
+        <updated>2022-06-21T14:08:35.000Z</updated>
+        <summary type="html"><![CDATA[BREAKING: Twitter's board unanimously approves Elon Musk’s $44B Twitter takeover bid]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎙️What #crypto podcasts are you currently listening to? Drop them below 👇]]></title>
+        <id>https://twitter.com/defipulse/status/1539245376032620544</id>
+        <link href="https://twitter.com/defipulse/status/1539245376032620544"/>
+        <updated>2022-06-21T13:54:30.000Z</updated>
+        <summary type="html"><![CDATA[🎙️What #crypto podcasts are you currently listening to? 
+Drop them below 👇]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @BigSky_7 @fallow8DeFi @Scalara_xyz 🤩🤩🤩]]></title>
         <id>https://twitter.com/defipulse/status/1538982669308010498</id>
@@ -237,26 +258,6 @@ Charles Schwab CEO]]></summary>
         <updated>2022-05-30T13:29:56.000Z</updated>
         <summary type="html"><![CDATA[Re @VitalikButerin @PoolTogether @opensea @MakerDAO 7/ $DPI token, is based on the DeFi Pulse Index, a digital asset index designed to track the performance of top protocols in #DeFi
 $NFTI is based on the @scalara_xyz NFT Index, an index designed to track the performance of the most well-known #NFT collections]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @VitalikButerin @PoolTogether @opensea 6/ @MakerDAO Regains Top Spot on TVL Leaderboard]]></title>
-        <id>https://twitter.com/defipulse/status/1531266656240033795</id>
-        <link href="https://twitter.com/defipulse/status/1531266656240033795"/>
-        <updated>2022-05-30T13:29:55.000Z</updated>
-        <summary type="html"><![CDATA[Re @VitalikButerin @PoolTogether @opensea 6/ @MakerDAO Regains Top Spot on TVL Leaderboard https://thedefiant.io/makerdao-tops-tvl-charts/]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @VitalikButerin @PoolTogether 5/ @opensea Drops New Marketplace Protocol for #NFTs]]></title>
-        <id>https://twitter.com/defipulse/status/1531266653459054592</id>
-        <link href="https://twitter.com/defipulse/status/1531266653459054592"/>
-        <updated>2022-05-30T13:29:54.000Z</updated>
-        <summary type="html"><![CDATA[Re @VitalikButerin @PoolTogether 5/ @opensea Drops New Marketplace Protocol for #NFTs https://thedefiant.io/opensea-seaport/]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>

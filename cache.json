@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1539248919871373317",
+          "author": "DeFi Pulse 🍇",
+          "description": "BREAKING: Twitter's board unanimously approves Elon Musk’s $44B Twitter takeover bid",
+          "link": "https://twitter.com/defipulse/status/1539248919871373317",
+          "publishedOn": "2022-06-21T14:08:35.000Z",
+          "wordCount": 352,
+          "title": "BREAKING: Twitter's board unanimously approves Elon Musk’s $44B Twitter takeover bid",
+          "imageUrl": "http://pbs.twimg.com/profile_images/1488264628505305090/6WfIApy1_normal.png"
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1539245376032620544",
+          "author": "DeFi Pulse 🍇",
+          "description": "🎙️What #crypto podcasts are you currently listening to? \nDrop them below 👇",
+          "link": "https://twitter.com/defipulse/status/1539245376032620544",
+          "publishedOn": "2022-06-21T13:54:30.000Z",
+          "wordCount": 352,
+          "title": "🎙️What #crypto podcasts are you currently listening to? Drop them below 👇",
+          "imageUrl": "http://pbs.twimg.com/profile_images/1488264628505305090/6WfIApy1_normal.png"
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1538982669308010498",
           "author": "DeFi Pulse 🍇",
           "description": "Re @BigSky_7 @fallow8DeFi @Scalara_xyz 🤩🤩🤩",
@@ -183,26 +203,6 @@
           "publishedOn": "2022-05-30T13:29:56.000Z",
           "wordCount": 352,
           "title": "Re @VitalikButerin @PoolTogether @opensea @MakerDAO 7/ $DPI token, is based on the DeFi Pulse Index, a digital asset index designed to track the perfo...",
-          "imageUrl": "http://pbs.twimg.com/profile_images/1488264628505305090/6WfIApy1_normal.png"
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1531266656240033795",
-          "author": "DeFi Pulse 🍇",
-          "description": "Re @VitalikButerin @PoolTogether @opensea 6/ @MakerDAO Regains Top Spot on TVL Leaderboard https://thedefiant.io/makerdao-tops-tvl-charts/",
-          "link": "https://twitter.com/defipulse/status/1531266656240033795",
-          "publishedOn": "2022-05-30T13:29:55.000Z",
-          "wordCount": 352,
-          "title": "Re @VitalikButerin @PoolTogether @opensea 6/ @MakerDAO Regains Top Spot on TVL Leaderboard",
-          "imageUrl": "http://pbs.twimg.com/profile_images/1488264628505305090/6WfIApy1_normal.png"
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1531266653459054592",
-          "author": "DeFi Pulse 🍇",
-          "description": "Re @VitalikButerin @PoolTogether 5/ @opensea Drops New Marketplace Protocol for #NFTs https://thedefiant.io/opensea-seaport/",
-          "link": "https://twitter.com/defipulse/status/1531266653459054592",
-          "publishedOn": "2022-05-30T13:29:54.000Z",
-          "wordCount": 352,
-          "title": "Re @VitalikButerin @PoolTogether 5/ @opensea Drops New Marketplace Protocol for #NFTs",
           "imageUrl": "http://pbs.twimg.com/profile_images/1488264628505305090/6WfIApy1_normal.png"
         }
       ]
