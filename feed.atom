@@ -1,10 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-22T23:21:00.387Z</id>
+    <id>urn:2022-06-23T01:57:59.123Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-22T23:21:00.387Z</updated>
+    <updated>2022-06-23T01:57:59.123Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Read the whole newsletter below 👇]]></title>
+        <id>https://twitter.com/defipulse/status/1539764405763801088</id>
+        <link href="https://twitter.com/defipulse/status/1539764405763801088"/>
+        <updated>2022-06-23T00:16:56.000Z</updated>
+        <summary type="html"><![CDATA[Read the whole newsletter below 👇
+Aishwary.eth (In Singapore): The latest #PolyPulse is out. 
+Read more about:
+A thread (🧵)
+@0xPolygon @defipulse 
+(1/3)
+ https://yieldfarmer.substack.com/p/-polypulse-26-buidlit-is-back-with]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pony Index is a single, interest-bearing token designed to offer diversified, one-click exposure to secure stablecoin yields sourced from multiple vau...]]></title>
+        <id>https://twitter.com/defipulse/status/1539732506768990211</id>
+        <link href="https://twitter.com/defipulse/status/1539732506768990211"/>
+        <updated>2022-06-22T22:10:11.000Z</updated>
+        <summary type="html"><![CDATA[Pony Index is a single, interest-bearing token designed to offer diversified, one-click exposure to secure stablecoin yields sourced from multiple vault strategies.
+Interested in learning more about this new @Scalara_xyz managed index? 
+Join the launch event!
+Pony_Finance: 💫 Join us for the launch event!
+Meet the Pony Finance team and guests from @beefyfinance and @Scalara_xyz for details on the PONY Index, $PONY, and the liquidity mining program.
+📆 Tomorrow! Thursday, June 23 at 6pm UTC / 2pm ET.
+Save Your Spot👇
+ https://www.crowdcast.io/e/pony-finance-launch]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BREAKING: Twitter's board unanimously approves Elon Musk’s $44B Twitter takeover bid]]></title>
         <id>https://twitter.com/defipulse/status/1539248919871373317</id>
@@ -220,44 +253,6 @@ Learn more 👇 https://bit.ly/3McUVzt]]></summary>
         <link href="https://twitter.com/defipulse/status/1532376939297742848"/>
         <updated>2022-06-02T15:01:47.000Z</updated>
         <summary type="html"><![CDATA[OFFICIAL: Chipotle now accepts over 98 types of #cryptocurrencies as payment method 🌯]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[People that believe in crypto: Tesla CEO Uber CEO Apple CEO Nvidia CEO PayPal CEO Airbnb CEO Google CEO Microsoft CEO Mastercard CEO Meta Co-Founder A...]]></title>
-        <id>https://twitter.com/defipulse/status/1531541292802617346</id>
-        <link href="https://twitter.com/defipulse/status/1531541292802617346"/>
-        <updated>2022-05-31T07:41:13.000Z</updated>
-        <summary type="html"><![CDATA[People that believe in crypto:
-Tesla CEO
-Uber CEO
-Apple CEO
-Nvidia CEO
-PayPal CEO
-Airbnb CEO
-Google CEO
-Microsoft CEO
-Mastercard CEO
-Meta Co-Founder
-Apple Co-Founder
-Reddit Co-Founder
-Twitch Co-Founder
-Twitter Co-Founder
-Morgan Stanley CEO
-Goldman Sachs CEO
-Charles Schwab CEO]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @VitalikButerin @PoolTogether @opensea @MakerDAO 7/ $DPI token, is based on the DeFi Pulse Index, a digital asset index designed to track the perfo...]]></title>
-        <id>https://twitter.com/defipulse/status/1531266662225260554</id>
-        <link href="https://twitter.com/defipulse/status/1531266662225260554"/>
-        <updated>2022-05-30T13:29:56.000Z</updated>
-        <summary type="html"><![CDATA[Re @VitalikButerin @PoolTogether @opensea @MakerDAO 7/ $DPI token, is based on the DeFi Pulse Index, a digital asset index designed to track the performance of top protocols in #DeFi
-$NFTI is based on the @scalara_xyz NFT Index, an index designed to track the performance of the most well-known #NFT collections]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
