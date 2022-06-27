@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-27T11:18:37.585Z</id>
+    <id>urn:2022-06-27T12:43:30.320Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-27T11:18:37.585Z</updated>
+    <updated>2022-06-27T12:43:30.320Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Morgan Stanley's report: Moving to PoS will also not solve #Ethereum’s scaling problems]]></title>
+        <id>https://twitter.com/defipulse/status/1541391392563499009</id>
+        <link href="https://twitter.com/defipulse/status/1541391392563499009"/>
+        <updated>2022-06-27T12:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Morgan Stanley's report: Moving to PoS will also not solve #Ethereum’s scaling problems https://www.coindesk.com/business/2022/06/27/morgan-stanley-gpu-demand-likely-to-slow-if-ethereum-moves-to-proof-of-stake/]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[gm! Have a great week #DeFi!]]></title>
+        <id>https://twitter.com/defipulse/status/1541383540922875904</id>
+        <link href="https://twitter.com/defipulse/status/1541383540922875904"/>
+        <updated>2022-06-27T11:30:48.000Z</updated>
+        <summary type="html"><![CDATA[gm! Have a great week #DeFi!]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is slippage? 🧠 It is the difference between the expected price of an order and the price when the order actually executes Due to the volatilit...]]></title>
         <id>https://twitter.com/defipulse/status/1540104062120742913</id>
@@ -22,7 +42,13 @@ Due to the volatility of #cryptocurrency, the price of an asset can fluctuate of
         <id>https://twitter.com/defipulse/status/1539764405763801088</id>
         <link href="https://twitter.com/defipulse/status/1539764405763801088"/>
         <updated>2022-06-23T00:16:56.000Z</updated>
-        <summary type="html"><![CDATA[Read the whole newsletter below 👇 https://yieldfarmer.substack.com/p/-polypulse-26-buidlit-is-back-with]]></summary>
+        <summary type="html"><![CDATA[Read the whole newsletter below 👇
+Aishwary.eth/lens💜🦄: The latest #PolyPulse is out. 
+Read more about:
+A thread (🧵)
+@0xPolygon @defipulse 
+(1/3)
+ https://yieldfarmer.substack.com/p/-polypulse-26-buidlit-is-back-with]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -34,7 +60,12 @@ Due to the volatility of #cryptocurrency, the price of an asset can fluctuate of
         <updated>2022-06-22T22:10:11.000Z</updated>
         <summary type="html"><![CDATA[Pony Index is a single, interest-bearing token designed to offer diversified, one-click exposure to secure stablecoin yields sourced from multiple vault strategies.
 Interested in learning more about this new @Scalara_xyz managed index? 
-Join the launch event!]]></summary>
+Join the launch event!
+Pony_Finance: 💫 Join us for the launch event!
+Meet the Pony Finance team and guests from @beefyfinance and @Scalara_xyz for details on the PONY Index, $PONY, and the liquidity mining program.
+📆 Tomorrow! Thursday, June 23 at 6pm UTC / 2pm ET.
+Save Your Spot👇
+ https://www.crowdcast.io/e/pony-finance-launch]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -113,7 +144,10 @@ A thread (🧵)
         <summary type="html"><![CDATA[RT Stader Polygon
 Learn more about one of our popular APY multiplier strategies in this edition of @defipulse blog
 Read on to know how to get 29%+ APY with @stader_polygon !
-🌐 https://www.defipulse.com/blog/a-stepwise-guide-to-earn-high-returns-through-liquid-staking-on-polygon]]></summary>
+🌐
+Aishwary.eth/lens💜🦄: Have #MATIC. Put it to good use at @stader_polygon.
+@0xPolygon #LiquidStaking @defipulse
+ https://www.defipulse.com/blog/a-stepwise-guide-to-earn-high-returns-through-liquid-staking-on-polygon]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -149,7 +183,11 @@ Read and subscribe to our newsletter here 👇 https://bit.ly/3zAzxlf]]></summ
         <link href="https://twitter.com/defipulse/status/1534912951173500928"/>
         <updated>2022-06-09T14:58:59.000Z</updated>
         <summary type="html"><![CDATA[We are still #hiring for an experienced #DeFi writer! 👀
-Please share this post with someone you think can be a good fit for the position!]]></summary>
+Please share this post with someone you think can be a good fit for the position!
+DeFi Pulse 🍇: We are hiring!
+Are you a writer and experienced in DeFi?
+This position might be perfect for you 🤞
+More information on the 🧵 below]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -212,21 +250,6 @@ How does the DeFi Pulse Index select its constituents? https://www.scalara.xyz
 🎉Rewards on @stader_polygon 
 and much more!
 Read the full edition 👇 https://bit.ly/3xdqUvg]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The latest edition of our newsletter, #PulseFarmer is live! 🎉 This week we've covered: 🖼 @opensea's Code4rena live contest ⛓ Ethereum's Beacon ...]]></title>
-        <id>https://twitter.com/defipulse/status/1532632631640211457</id>
-        <link href="https://twitter.com/defipulse/status/1532632631640211457"/>
-        <updated>2022-06-03T07:57:48.000Z</updated>
-        <summary type="html"><![CDATA[The latest edition of our newsletter, #PulseFarmer is live! 🎉
-This week we've covered: 
-🖼 @opensea's Code4rena live contest
-⛓ Ethereum's Beacon Chain
-🧠 #ETH's scaling soultions
-Learn more 👇 https://bit.ly/3McUVzt]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
