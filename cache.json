@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1541873768234004480",
+          "author": "DeFi Pulse 🍇",
+          "description": "Ethereum's difficulty bomb is delayed for two months 😳\nDo you know what that means for the merge and how it can affect you? \nFind out more 👇 https://yieldfarmer.substack.com/i/59772299/the-difficulty-bomb-is-delayed-for-two-months-what-does-it-mean-for-the-merge",
+          "link": "https://twitter.com/defipulse/status/1541873768234004480",
+          "publishedOn": "2022-06-28T19:58:47.000Z",
+          "wordCount": 352,
+          "title": "Ethereum's difficulty bomb is delayed for two months 😳 Do you know what that means for the merge and how it can affect you? Find out more 👇",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/PonyFinance/status/1541482608932007936",
           "author": "DeFi Pulse 🍇",
           "description": "RT Pony Finance\n🚀 We're live, join us for the Pony Finance launch event! https://twitter.com/i/broadcasts/1jMKgepVazmJL",
@@ -193,16 +203,6 @@
           "publishedOn": "2022-06-07T08:48:50.000Z",
           "wordCount": 352,
           "title": "1 year ago today, #ETH was $2,500 - where will it be in 2023? 🤔",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/Scalara_xyz/status/1532790475530424321",
-          "author": "DeFi Pulse 🍇",
-          "description": "RT Scalara\nThe DeFi Pulse Index $DPI is designed to be a benchmark of the DeFi sector.\nHow does the DeFi Pulse Index select its constituents? https://www.scalara.xyz/blog/defi-pulse-index-a-methodology-deep-dive",
-          "link": "https://twitter.com/Scalara_xyz/status/1532790475530424321",
-          "publishedOn": "2022-06-03T18:25:01.000Z",
-          "wordCount": 352,
-          "title": "RT Scalara: The DeFi Pulse Index $DPI is designed to be a benchmark of the DeFi sector. How does the DeFi Pulse Index select its constituents?",
           "imageUrl": null
         }
       ]
