@@ -6,16 +6,6 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
-          "id": "https://twitter.com/PonyFinance/status/1543487234397151232",
-          "author": "DeFi Pulse 🍇",
-          "description": "RT Pony Finance\nThe PONY Index ($PONY):\n1️⃣ Simplifies stablecoin yield farming across multiple chains \n2️⃣ Brings attractive yields back to #Ethereum\n3️⃣ Allows users to benefit from full permissionless transparency regarding their investment.\nNow on @Uniswap V3: https://info.uniswap.org/#/pools/0xacde4dc80490bc3671bbf1e421ec78d43f24d899",
-          "link": "https://twitter.com/PonyFinance/status/1543487234397151232",
-          "publishedOn": "2022-07-03T06:50:07.000Z",
-          "wordCount": 352,
-          "title": "RT Pony Finance: The PONY Index ($PONY): 1️⃣ Simplifies stablecoin yield farming across multiple chains 2️⃣ Brings attractive yields back to #Ethe...",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/defipulse/status/1542698801282048001",
           "author": "DeFi Pulse 🍇",
           "description": "Have you checked our latest edition  of the Pulse Farmer?\nRead it now! https://yieldfarmer.substack.com/p/-no-limits-for-lido",
@@ -88,7 +78,7 @@
         {
           "id": "https://twitter.com/defipulse/status/1539764405763801088",
           "author": "DeFi Pulse 🍇",
-          "description": "Read the whole newsletter below 👇 https://yieldfarmer.substack.com/p/-polypulse-26-buidlit-is-back-with",
+          "description": "Read the whole newsletter below 👇\nAishwary.eth/lens💜🧠: The latest #PolyPulse is out. \nRead more about:\nA thread (🧵)\n@0xPolygon @defipulse \n(1/3)\n https://yieldfarmer.substack.com/p/-polypulse-26-buidlit-is-back-with",
           "link": "https://twitter.com/defipulse/status/1539764405763801088",
           "publishedOn": "2022-06-23T00:16:56.000Z",
           "wordCount": 352,
@@ -98,7 +88,7 @@
         {
           "id": "https://twitter.com/defipulse/status/1539732506768990211",
           "author": "DeFi Pulse 🍇",
-          "description": "Pony Index is a single, interest-bearing token designed to offer diversified, one-click exposure to secure stablecoin yields sourced from multiple vault strategies.\nInterested in learning more about this new @Scalara_xyz managed index? \nJoin the launch event!",
+          "description": "Pony Index is a single, interest-bearing token designed to offer diversified, one-click exposure to secure stablecoin yields sourced from multiple vault strategies.\nInterested in learning more about this new @Scalara_xyz managed index? \nJoin the launch event!\nPony Finance: 💫 Join us for the launch event!\nMeet the Pony Finance team and guests from @beefyfinance and @Scalara_xyz for details on the PONY Index, $PONY, and the liquidity mining program.\n📆 Tomorrow! Thursday, June 23 at 6pm UTC / 2pm ET.\nSave Your Spot👇\n https://www.crowdcast.io/e/pony-finance-launch",
           "link": "https://twitter.com/defipulse/status/1539732506768990211",
           "publishedOn": "2022-06-22T22:10:11.000Z",
           "wordCount": 352,
@@ -168,7 +158,7 @@
         {
           "id": "https://twitter.com/stader_polygon/status/1535844920530849792",
           "author": "DeFi Pulse 🍇",
-          "description": "RT Stader Polygon\nLearn more about one of our popular APY multiplier strategies in this edition of @defipulse blog\nRead on to know how to get 29%+ APY with @stader_polygon !\n🌐 https://www.defipulse.com/blog/a-stepwise-guide-to-earn-high-returns-through-liquid-staking-on-polygon",
+          "description": "RT Stader Polygon\nLearn more about one of our popular APY multiplier strategies in this edition of @defipulse blog\nRead on to know how to get 29%+ APY with @stader_polygon !\n🌐\nAishwary.eth/lens💜🧠: Have #MATIC. Put it to good use at @stader_polygon.\n@0xPolygon #LiquidStaking @defipulse\n https://www.defipulse.com/blog/a-stepwise-guide-to-earn-high-returns-through-liquid-staking-on-polygon",
           "link": "https://twitter.com/stader_polygon/status/1535844920530849792",
           "publishedOn": "2022-06-12T04:42:18.000Z",
           "wordCount": 352,
@@ -193,6 +183,26 @@
           "publishedOn": "2022-06-09T21:02:48.000Z",
           "wordCount": 352,
           "title": "Re @abhixh",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1534912951173500928",
+          "author": "DeFi Pulse 🍇",
+          "description": "We are still #hiring for an experienced #DeFi writer! 👀\nPlease share this post with someone you think can be a good fit for the position!\nDeFi Pulse 🍇: We are hiring!\nAre you a writer and experienced in DeFi?\nThis position might be perfect for you 🤞\nMore information on the 🧵 below",
+          "link": "https://twitter.com/defipulse/status/1534912951173500928",
+          "publishedOn": "2022-06-09T14:58:59.000Z",
+          "wordCount": 352,
+          "title": "We are still #hiring for an experienced #DeFi writer! 👀 Please share this post with someone you think can be a good fit for the position!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1534844264181649408",
+          "author": "DeFi Pulse 🍇",
+          "description": "🚨OFFICIAL: Ethereum's testnet Ropsten successfully transitions to PoS",
+          "link": "https://twitter.com/defipulse/status/1534844264181649408",
+          "publishedOn": "2022-06-09T10:26:03.000Z",
+          "wordCount": 352,
+          "title": "🚨OFFICIAL: Ethereum's testnet Ropsten successfully transitions to PoS",
           "imageUrl": null
         }
       ]
