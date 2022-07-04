@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-04T09:22:12.468Z</id>
+    <id>urn:2022-07-04T10:33:16.541Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-04T09:22:12.468Z</updated>
+    <updated>2022-07-04T10:33:16.541Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[gm! Happy 4th of July 🎉]]></title>
+        <id>https://twitter.com/defipulse/status/1543893565901836290</id>
+        <link href="https://twitter.com/defipulse/status/1543893565901836290"/>
+        <updated>2022-07-04T09:44:44.000Z</updated>
+        <summary type="html"><![CDATA[gm!
+Happy 4th of July 🎉]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT Pony Finance: The PONY Index ($PONY): 1️⃣ Simplifies stablecoin yield farming across multiple chains 2️⃣ Brings attractive yields back to #Ethe...]]></title>
         <id>https://twitter.com/PonyFinance/status/1543487234397151232</id>
@@ -235,21 +246,6 @@ Read and subscribe to our newsletter here 👇 https://bit.ly/3zAzxlf]]></summ
         <link href="https://twitter.com/defipulse/status/1535004509294014464"/>
         <updated>2022-06-09T21:02:48.000Z</updated>
         <summary type="html"><![CDATA[Re @abhixh https://docs.google.com/forms/d/e/1FAIpQLScStKu1wmw8l7RquX3VdBhOse4uYw-Z4HiyxRXAyjj0bsaCSg/viewform]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We are still #hiring for an experienced #DeFi writer! 👀 Please share this post with someone you think can be a good fit for the position!]]></title>
-        <id>https://twitter.com/defipulse/status/1534912951173500928</id>
-        <link href="https://twitter.com/defipulse/status/1534912951173500928"/>
-        <updated>2022-06-09T14:58:59.000Z</updated>
-        <summary type="html"><![CDATA[We are still #hiring for an experienced #DeFi writer! 👀
-Please share this post with someone you think can be a good fit for the position!
-DeFi Pulse 🍇: We are hiring!
-Are you a writer and experienced in DeFi?
-This position might be perfect for you 🤞
-More information on the 🧵 below]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>

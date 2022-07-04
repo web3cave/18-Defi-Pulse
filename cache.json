@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1543893565901836290",
+          "author": "DeFi Pulse 🍇",
+          "description": "gm!\nHappy 4th of July 🎉",
+          "link": "https://twitter.com/defipulse/status/1543893565901836290",
+          "publishedOn": "2022-07-04T09:44:44.000Z",
+          "wordCount": 352,
+          "title": "gm! Happy 4th of July 🎉",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/PonyFinance/status/1543487234397151232",
           "author": "DeFi Pulse 🍇",
           "description": "RT Pony Finance\nThe PONY Index ($PONY):\n1️⃣ Simplifies stablecoin yield farming across multiple chains \n2️⃣ Brings attractive yields back to #Ethereum\n3️⃣ Allows users to benefit from full permissionless transparency regarding their investment.\nNow on @Uniswap V3: https://info.uniswap.org/#/pools/0xacde4dc80490bc3671bbf1e421ec78d43f24d899",
@@ -193,16 +203,6 @@
           "publishedOn": "2022-06-09T21:02:48.000Z",
           "wordCount": 352,
           "title": "Re @abhixh",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1534912951173500928",
-          "author": "DeFi Pulse 🍇",
-          "description": "We are still #hiring for an experienced #DeFi writer! 👀\nPlease share this post with someone you think can be a good fit for the position!\nDeFi Pulse 🍇: We are hiring!\nAre you a writer and experienced in DeFi?\nThis position might be perfect for you 🤞\nMore information on the 🧵 below",
-          "link": "https://twitter.com/defipulse/status/1534912951173500928",
-          "publishedOn": "2022-06-09T14:58:59.000Z",
-          "wordCount": 352,
-          "title": "We are still #hiring for an experienced #DeFi writer! 👀 Please share this post with someone you think can be a good fit for the position!",
           "imageUrl": null
         }
       ]
