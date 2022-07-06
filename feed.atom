@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-06T15:24:45.021Z</id>
+    <id>urn:2022-07-06T16:34:21.454Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-06T15:24:45.021Z</updated>
+    <updated>2022-07-06T16:34:21.454Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @DeFi_Dad @DefiantNews]]></title>
+        <id>https://twitter.com/defipulse/status/1544697131243606016</id>
+        <link href="https://twitter.com/defipulse/status/1544697131243606016"/>
+        <updated>2022-07-06T14:57:49.000Z</updated>
+        <summary type="html"><![CDATA[Re @DeFi_Dad @DefiantNews]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum average gas fee falls down to $1.57, the lowest since 2020]]></title>
         <id>https://twitter.com/defipulse/status/1544472773279506432</id>
@@ -194,16 +204,6 @@ A thread (🧵)
         <link href="https://twitter.com/defipulse/status/1536268182796779520"/>
         <updated>2022-06-13T08:44:11.000Z</updated>
         <summary type="html"><![CDATA[🚨 BREAKING: @CelsiusNetwork pauses withdrawals due to "extreme market conditions"]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What are your thoughts on the $stETH situation? 🤔]]></title>
-        <id>https://twitter.com/defipulse/status/1535876544354299904</id>
-        <link href="https://twitter.com/defipulse/status/1535876544354299904"/>
-        <updated>2022-06-12T06:47:58.000Z</updated>
-        <summary type="html"><![CDATA[What are your thoughts on the $stETH situation? 🤔]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>

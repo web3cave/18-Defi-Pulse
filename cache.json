@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1544697131243606016",
+          "author": "DeFi Pulse 🍇",
+          "description": "Re @DeFi_Dad @DefiantNews",
+          "link": "https://twitter.com/defipulse/status/1544697131243606016",
+          "publishedOn": "2022-07-06T14:57:49.000Z",
+          "wordCount": 352,
+          "title": "Re @DeFi_Dad @DefiantNews",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1544472773279506432",
           "author": "DeFi Pulse 🍇",
           "description": "Ethereum average gas fee falls down to $1.57, the lowest since 2020",
@@ -173,16 +183,6 @@
           "publishedOn": "2022-06-13T08:44:11.000Z",
           "wordCount": 352,
           "title": "🚨 BREAKING: @CelsiusNetwork pauses withdrawals due to \"extreme market conditions\"",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1535876544354299904",
-          "author": "DeFi Pulse 🍇",
-          "description": "What are your thoughts on the $stETH situation? 🤔",
-          "link": "https://twitter.com/defipulse/status/1535876544354299904",
-          "publishedOn": "2022-06-12T06:47:58.000Z",
-          "wordCount": 352,
-          "title": "What are your thoughts on the $stETH situation? 🤔",
           "imageUrl": null
         },
         {
