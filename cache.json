@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1544472773279506432",
+          "author": "DeFi Pulse 🍇",
+          "description": "Ethereum average gas fee falls down to $1.57, the lowest since 2020",
+          "link": "https://twitter.com/defipulse/status/1544472773279506432",
+          "publishedOn": "2022-07-06T00:06:18.000Z",
+          "wordCount": 352,
+          "title": "Ethereum average gas fee falls down to $1.57, the lowest since 2020",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1543893565901836290",
           "author": "DeFi Pulse 🍇",
           "description": "gm!\nHappy 4th of July 🎉",
@@ -193,16 +203,6 @@
           "publishedOn": "2022-06-10T15:02:06.000Z",
           "wordCount": 352,
           "title": "🎉The latest edition of the Pulse Farmer is out! In this weeks newsletter, you'll find: 🤝 #ETH's Ropsten Merge 💰 20M OP tokens stolen 🧠 Ste...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1535004509294014464",
-          "author": "DeFi Pulse 🍇",
-          "description": "Re @abhixh https://docs.google.com/forms/d/e/1FAIpQLScStKu1wmw8l7RquX3VdBhOse4uYw-Z4HiyxRXAyjj0bsaCSg/viewform",
-          "link": "https://twitter.com/defipulse/status/1535004509294014464",
-          "publishedOn": "2022-06-09T21:02:48.000Z",
-          "wordCount": 352,
-          "title": "Re @abhixh",
           "imageUrl": null
         }
       ]

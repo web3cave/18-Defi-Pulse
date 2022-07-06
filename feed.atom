@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-05T23:21:24.748Z</id>
+    <id>urn:2022-07-06T02:18:26.272Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-05T23:21:24.748Z</updated>
+    <updated>2022-07-06T02:18:26.272Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethereum average gas fee falls down to $1.57, the lowest since 2020]]></title>
+        <id>https://twitter.com/defipulse/status/1544472773279506432</id>
+        <link href="https://twitter.com/defipulse/status/1544472773279506432"/>
+        <updated>2022-07-06T00:06:18.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum average gas fee falls down to $1.57, the lowest since 2020]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[gm! Happy 4th of July 🎉]]></title>
         <id>https://twitter.com/defipulse/status/1543893565901836290</id>
@@ -236,16 +246,6 @@ In this weeks newsletter, you'll find:
 💰 20M OP tokens stolen
 🧠 Step-by-step guide if you are an #Ethereum hodler
 Read and subscribe to our newsletter here 👇 https://bit.ly/3zAzxlf]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @abhixh]]></title>
-        <id>https://twitter.com/defipulse/status/1535004509294014464</id>
-        <link href="https://twitter.com/defipulse/status/1535004509294014464"/>
-        <updated>2022-06-09T21:02:48.000Z</updated>
-        <summary type="html"><![CDATA[Re @abhixh https://docs.google.com/forms/d/e/1FAIpQLScStKu1wmw8l7RquX3VdBhOse4uYw-Z4HiyxRXAyjj0bsaCSg/viewform]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
