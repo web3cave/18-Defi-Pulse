@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-07T12:44:03.655Z</id>
+    <id>urn:2022-07-07T13:42:32.227Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-07T12:44:03.655Z</updated>
+    <updated>2022-07-07T13:42:32.227Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -135,13 +135,7 @@ Due to the volatility of #cryptocurrency, the price of an asset can fluctuate of
         <id>https://twitter.com/defipulse/status/1539764405763801088</id>
         <link href="https://twitter.com/defipulse/status/1539764405763801088"/>
         <updated>2022-06-23T00:16:56.000Z</updated>
-        <summary type="html"><![CDATA[Read the whole newsletter below 👇
-Aishwary.eth/lens💜🧠: The latest #PolyPulse is out. 
-Read more about:
-A thread (🧵)
-@0xPolygon @defipulse 
-(1/3)
- https://yieldfarmer.substack.com/p/-polypulse-26-buidlit-is-back-with]]></summary>
+        <summary type="html"><![CDATA[Read the whole newsletter below 👇 https://yieldfarmer.substack.com/p/-polypulse-26-buidlit-is-back-with]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -153,12 +147,7 @@ A thread (🧵)
         <updated>2022-06-22T22:10:11.000Z</updated>
         <summary type="html"><![CDATA[Pony Index is a single, interest-bearing token designed to offer diversified, one-click exposure to secure stablecoin yields sourced from multiple vault strategies.
 Interested in learning more about this new @Scalara_xyz managed index? 
-Join the launch event!
-Pony Finance: 💫 Join us for the launch event!
-Meet the Pony Finance team and guests from @beefyfinance and @Scalara_xyz for details on the PONY Index, $PONY, and the liquidity mining program.
-📆 Tomorrow! Thursday, June 23 at 6pm UTC / 2pm ET.
-Save Your Spot👇
- https://www.crowdcast.io/e/pony-finance-launch]]></summary>
+Join the launch event!]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -220,16 +209,6 @@ A thread (🧵)
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What are your thoughts on the $stETH situation? 🤔]]></title>
-        <id>https://twitter.com/defipulse/status/1535876544354299904</id>
-        <link href="https://twitter.com/defipulse/status/1535876544354299904"/>
-        <updated>2022-06-12T06:47:58.000Z</updated>
-        <summary type="html"><![CDATA[What are your thoughts on the $stETH situation? 🤔]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Stader Polygon: Learn more about one of our popular APY multiplier strategies in this edition of @defipulse blog Read on to know how to get 29%+ AP...]]></title>
         <id>https://twitter.com/stader_polygon/status/1535844920530849792</id>
         <link href="https://twitter.com/stader_polygon/status/1535844920530849792"/>
@@ -237,10 +216,7 @@ A thread (🧵)
         <summary type="html"><![CDATA[RT Stader Polygon
 Learn more about one of our popular APY multiplier strategies in this edition of @defipulse blog
 Read on to know how to get 29%+ APY with @stader_polygon !
-🌐
-Aishwary.eth/lens💜🧠: Have #MATIC. Put it to good use at @stader_polygon.
-@0xPolygon #LiquidStaking @defipulse
- https://www.defipulse.com/blog/a-stepwise-guide-to-earn-high-returns-through-liquid-staking-on-polygon]]></summary>
+🌐 https://www.defipulse.com/blog/a-stepwise-guide-to-earn-high-returns-through-liquid-staking-on-polygon]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
