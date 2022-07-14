@@ -194,6 +194,16 @@
           "wordCount": 352,
           "title": "gm! Have a great week #DeFi!",
           "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1540104062120742913",
+          "author": "DeFi Pulse 🍇",
+          "description": "What is slippage? 🧠 \nIt is the difference between the expected price of an order and the price when the order actually executes\nDue to the volatility of #cryptocurrency, the price of an asset can fluctuate often depending on trade volume and activity",
+          "link": "https://twitter.com/defipulse/status/1540104062120742913",
+          "publishedOn": "2022-06-23T22:46:36.000Z",
+          "wordCount": 352,
+          "title": "What is slippage? 🧠 It is the difference between the expected price of an order and the price when the order actually executes Due to the volatilit...",
+          "imageUrl": null
         }
       ]
     }
