@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1547669417307152385",
+          "author": "DeFi Pulse 🍇",
+          "description": "Weeks after @MakerDAO stopped Aave's direct deposit module, @Aaveaave is making the move to enter the stablecoin market by launching its native $GHO decentralized stablecoin pegged to USD & backed by aToken collateral.\nRead more below 👇 https://yieldfarmer.substack.com/p/-aave-and-the-stable-wars",
+          "link": "https://twitter.com/defipulse/status/1547669417307152385",
+          "publishedOn": "2022-07-14T19:48:38.000Z",
+          "wordCount": 352,
+          "title": "Weeks after @MakerDAO stopped Aave's direct deposit module, @Aaveaave is making the move to enter the stablecoin market by launching its native $GHO d...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/indexcoop/status/1547240667541553152",
           "author": "DeFi Pulse 🍇",
           "description": "RT Index Coop 🦉\nDeFi Proves Resilient in the Bear Market \nWhile crypto prices plummeted and centralized lenders collapsed, these 3 major DeFi use cases proved their resilience\nRead the full guest blog from $DPI methodologist @Scalara_xyz's @fallow8DeFi below ⬇️",
@@ -183,26 +193,6 @@
           "publishedOn": "2022-06-27T11:30:48.000Z",
           "wordCount": 352,
           "title": "gm! Have a great week #DeFi!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1540104062120742913",
-          "author": "DeFi Pulse 🍇",
-          "description": "What is slippage? 🧠 \nIt is the difference between the expected price of an order and the price when the order actually executes\nDue to the volatility of #cryptocurrency, the price of an asset can fluctuate often depending on trade volume and activity",
-          "link": "https://twitter.com/defipulse/status/1540104062120742913",
-          "publishedOn": "2022-06-23T22:46:36.000Z",
-          "wordCount": 352,
-          "title": "What is slippage? 🧠 It is the difference between the expected price of an order and the price when the order actually executes Due to the volatilit...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1539764405763801088",
-          "author": "DeFi Pulse 🍇",
-          "description": "Read the whole newsletter below 👇\nAishwary.eth/lens💜🧠: The latest #PolyPulse is out. \nRead more about:\nA thread (🧵)\n@0xPolygon @defipulse \n(1/3)\n https://yieldfarmer.substack.com/p/-polypulse-26-buidlit-is-back-with",
-          "link": "https://twitter.com/defipulse/status/1539764405763801088",
-          "publishedOn": "2022-06-23T00:16:56.000Z",
-          "wordCount": 352,
-          "title": "Read the whole newsletter below 👇",
           "imageUrl": null
         }
       ]

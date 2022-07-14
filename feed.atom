@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-14T19:16:44.545Z</id>
+    <id>urn:2022-07-14T20:22:50.797Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-14T19:16:44.545Z</updated>
+    <updated>2022-07-14T20:22:50.797Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Weeks after @MakerDAO stopped Aave's direct deposit module, @Aaveaave is making the move to enter the stablecoin market by launching its native $GHO d...]]></title>
+        <id>https://twitter.com/defipulse/status/1547669417307152385</id>
+        <link href="https://twitter.com/defipulse/status/1547669417307152385"/>
+        <updated>2022-07-14T19:48:38.000Z</updated>
+        <summary type="html"><![CDATA[Weeks after @MakerDAO stopped Aave's direct deposit module, @Aaveaave is making the move to enter the stablecoin market by launching its native $GHO decentralized stablecoin pegged to USD & backed by aToken collateral.
+Read more below 👇 https://yieldfarmer.substack.com/p/-aave-and-the-stable-wars]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT Index Coop 🦉: DeFi Proves Resilient in the Bear Market While crypto prices plummeted and centralized lenders collapsed, these 3 major DeFi use c...]]></title>
         <id>https://twitter.com/indexcoop/status/1547240667541553152</id>
@@ -205,34 +216,6 @@ Find out more 👇 https://yieldfarmer.substack.com/i/59772299/the-difficulty-
         <link href="https://twitter.com/defipulse/status/1541383540922875904"/>
         <updated>2022-06-27T11:30:48.000Z</updated>
         <summary type="html"><![CDATA[gm! Have a great week #DeFi!]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is slippage? 🧠 It is the difference between the expected price of an order and the price when the order actually executes Due to the volatilit...]]></title>
-        <id>https://twitter.com/defipulse/status/1540104062120742913</id>
-        <link href="https://twitter.com/defipulse/status/1540104062120742913"/>
-        <updated>2022-06-23T22:46:36.000Z</updated>
-        <summary type="html"><![CDATA[What is slippage? 🧠 
-It is the difference between the expected price of an order and the price when the order actually executes
-Due to the volatility of #cryptocurrency, the price of an asset can fluctuate often depending on trade volume and activity]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Read the whole newsletter below 👇]]></title>
-        <id>https://twitter.com/defipulse/status/1539764405763801088</id>
-        <link href="https://twitter.com/defipulse/status/1539764405763801088"/>
-        <updated>2022-06-23T00:16:56.000Z</updated>
-        <summary type="html"><![CDATA[Read the whole newsletter below 👇
-Aishwary.eth/lens💜🧠: The latest #PolyPulse is out. 
-Read more about:
-A thread (🧵)
-@0xPolygon @defipulse 
-(1/3)
- https://yieldfarmer.substack.com/p/-polypulse-26-buidlit-is-back-with]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
