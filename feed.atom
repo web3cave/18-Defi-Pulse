@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-14T15:24:30.991Z</id>
+    <id>urn:2022-07-14T16:37:35.429Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-14T15:24:30.991Z</updated>
+    <updated>2022-07-14T16:37:35.429Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT Index Coop 🦉: DeFi Proves Resilient in the Bear Market While crypto prices plummeted and centralized lenders collapsed, these 3 major DeFi use c...]]></title>
+        <id>https://twitter.com/indexcoop/status/1547240667541553152</id>
+        <link href="https://twitter.com/indexcoop/status/1547240667541553152"/>
+        <updated>2022-07-13T15:24:56.000Z</updated>
+        <summary type="html"><![CDATA[RT Index Coop 🦉
+DeFi Proves Resilient in the Bear Market 
+While crypto prices plummeted and centralized lenders collapsed, these 3 major DeFi use cases proved their resilience
+Read the full guest blog from $DPI methodologist @Scalara_xyz's @fallow8DeFi below ⬇️]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re 3/3 Learn more on how to boost your yields through liquid staking on @0xPolygon in the article below 👇]]></title>
         <id>https://twitter.com/defipulse/status/1546985309476364288</id>
@@ -204,39 +217,6 @@ Find out more 👇 https://yieldfarmer.substack.com/i/59772299/the-difficulty-
         <summary type="html"><![CDATA[What is slippage? 🧠 
 It is the difference between the expected price of an order and the price when the order actually executes
 Due to the volatility of #cryptocurrency, the price of an asset can fluctuate often depending on trade volume and activity]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Read the whole newsletter below 👇]]></title>
-        <id>https://twitter.com/defipulse/status/1539764405763801088</id>
-        <link href="https://twitter.com/defipulse/status/1539764405763801088"/>
-        <updated>2022-06-23T00:16:56.000Z</updated>
-        <summary type="html"><![CDATA[Read the whole newsletter below 👇
-Aishwary.eth/lens💜🧠: The latest #PolyPulse is out. 
-Read more about:
-A thread (🧵)
-@0xPolygon @defipulse 
-(1/3)
- https://yieldfarmer.substack.com/p/-polypulse-26-buidlit-is-back-with]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pony Index is a single, interest-bearing token designed to offer diversified, one-click exposure to secure stablecoin yields sourced from multiple vau...]]></title>
-        <id>https://twitter.com/defipulse/status/1539732506768990211</id>
-        <link href="https://twitter.com/defipulse/status/1539732506768990211"/>
-        <updated>2022-06-22T22:10:11.000Z</updated>
-        <summary type="html"><![CDATA[Pony Index is a single, interest-bearing token designed to offer diversified, one-click exposure to secure stablecoin yields sourced from multiple vault strategies.
-Interested in learning more about this new @Scalara_xyz managed index? 
-Join the launch event!
-Pony Finance: 💫 Join us for the launch event!
-Meet the Pony Finance team and guests from @beefyfinance and @Scalara_xyz for details on the PONY Index, $PONY, and the liquidity mining program.
-📆 Tomorrow! Thursday, June 23 at 6pm UTC / 2pm ET.
-Save Your Spot👇
- https://www.crowdcast.io/e/pony-finance-launch]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
