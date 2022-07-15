@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-15T14:24:40.560Z</id>
+    <id>urn:2022-07-15T15:24:50.040Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-15T14:24:40.560Z</updated>
+    <updated>2022-07-15T15:24:50.040Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -216,18 +216,6 @@ Find out more 👇 https://yieldfarmer.substack.com/i/59772299/the-difficulty-
         <link href="https://twitter.com/defipulse/status/1541383540922875904"/>
         <updated>2022-06-27T11:30:48.000Z</updated>
         <summary type="html"><![CDATA[gm! Have a great week #DeFi!]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is slippage? 🧠 It is the difference between the expected price of an order and the price when the order actually executes Due to the volatilit...]]></title>
-        <id>https://twitter.com/defipulse/status/1540104062120742913</id>
-        <link href="https://twitter.com/defipulse/status/1540104062120742913"/>
-        <updated>2022-06-23T22:46:36.000Z</updated>
-        <summary type="html"><![CDATA[What is slippage? 🧠 
-It is the difference between the expected price of an order and the price when the order actually executes
-Due to the volatility of #cryptocurrency, the price of an asset can fluctuate often depending on trade volume and activity]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
