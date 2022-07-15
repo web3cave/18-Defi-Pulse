@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/Crypto_Wildwest/status/1548004948671025152",
+          "author": "DeFi Pulse 🍇",
+          "description": "RT Aishwary.eth/lens💜🧠\nThe latest #PolyPulse is out for you to enjoy. \nA dive into the green initiative with latest updates on “What’s up with DeFi and Ethereum Merge.”\nFeel free to subscribe: \nA thread (🧵)\n@0xPolygon @defipulse https://yieldfarmer.substack.com/p/-polypulse-30-polygon-is-going-carbon?sd=pf",
+          "link": "https://twitter.com/Crypto_Wildwest/status/1548004948671025152",
+          "publishedOn": "2022-07-15T18:01:54.000Z",
+          "wordCount": 352,
+          "title": "RT Aishwary.eth/lens💜🧠: The latest #PolyPulse is out for you to enjoy. A dive into the green initiative with latest updates on “What’s up with...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1547669417307152385",
           "author": "DeFi Pulse 🍇",
           "description": "Weeks after @MakerDAO stopped Aave's direct deposit module, @Aaveaave is making the move to enter the stablecoin market by launching its native $GHO decentralized stablecoin pegged to USD & backed by aToken collateral.\nRead more below 👇 https://yieldfarmer.substack.com/p/-aave-and-the-stable-wars",
@@ -183,26 +193,6 @@
           "publishedOn": "2022-06-27T12:02:00.000Z",
           "wordCount": 352,
           "title": "Morgan Stanley's report: Moving to PoS will also not solve #Ethereum’s scaling problems",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1541383540922875904",
-          "author": "DeFi Pulse 🍇",
-          "description": "gm! Have a great week #DeFi!",
-          "link": "https://twitter.com/defipulse/status/1541383540922875904",
-          "publishedOn": "2022-06-27T11:30:48.000Z",
-          "wordCount": 352,
-          "title": "gm! Have a great week #DeFi!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1540104062120742913",
-          "author": "DeFi Pulse 🍇",
-          "description": "What is slippage? 🧠 \nIt is the difference between the expected price of an order and the price when the order actually executes\nDue to the volatility of #cryptocurrency, the price of an asset can fluctuate often depending on trade volume and activity",
-          "link": "https://twitter.com/defipulse/status/1540104062120742913",
-          "publishedOn": "2022-06-23T22:46:36.000Z",
-          "wordCount": 352,
-          "title": "What is slippage? 🧠 It is the difference between the expected price of an order and the price when the order actually executes Due to the volatilit...",
           "imageUrl": null
         }
       ]

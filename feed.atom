@@ -1,10 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-15T19:16:42.960Z</id>
+    <id>urn:2022-07-15T20:22:32.061Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-15T19:16:42.960Z</updated>
+    <updated>2022-07-15T20:22:32.061Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT Aishwary.eth/lens💜🧠: The latest #PolyPulse is out for you to enjoy. A dive into the green initiative with latest updates on “What’s up with...]]></title>
+        <id>https://twitter.com/Crypto_Wildwest/status/1548004948671025152</id>
+        <link href="https://twitter.com/Crypto_Wildwest/status/1548004948671025152"/>
+        <updated>2022-07-15T18:01:54.000Z</updated>
+        <summary type="html"><![CDATA[RT Aishwary.eth/lens💜🧠
+The latest #PolyPulse is out for you to enjoy. 
+A dive into the green initiative with latest updates on “What’s up with DeFi and Ethereum Merge.”
+Feel free to subscribe: 
+A thread (🧵)
+@0xPolygon @defipulse https://yieldfarmer.substack.com/p/-polypulse-30-polygon-is-going-carbon?sd=pf]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weeks after @MakerDAO stopped Aave's direct deposit module, @Aaveaave is making the move to enter the stablecoin market by launching its native $GHO d...]]></title>
         <id>https://twitter.com/defipulse/status/1547669417307152385</id>
@@ -206,28 +221,6 @@ Find out more 👇 https://yieldfarmer.substack.com/i/59772299/the-difficulty-
         <link href="https://twitter.com/defipulse/status/1541391392563499009"/>
         <updated>2022-06-27T12:02:00.000Z</updated>
         <summary type="html"><![CDATA[Morgan Stanley's report: Moving to PoS will also not solve #Ethereum’s scaling problems https://www.coindesk.com/business/2022/06/27/morgan-stanley-gpu-demand-likely-to-slow-if-ethereum-moves-to-proof-of-stake/]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[gm! Have a great week #DeFi!]]></title>
-        <id>https://twitter.com/defipulse/status/1541383540922875904</id>
-        <link href="https://twitter.com/defipulse/status/1541383540922875904"/>
-        <updated>2022-06-27T11:30:48.000Z</updated>
-        <summary type="html"><![CDATA[gm! Have a great week #DeFi!]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is slippage? 🧠 It is the difference between the expected price of an order and the price when the order actually executes Due to the volatilit...]]></title>
-        <id>https://twitter.com/defipulse/status/1540104062120742913</id>
-        <link href="https://twitter.com/defipulse/status/1540104062120742913"/>
-        <updated>2022-06-23T22:46:36.000Z</updated>
-        <summary type="html"><![CDATA[What is slippage? 🧠 
-It is the difference between the expected price of an order and the price when the order actually executes
-Due to the volatility of #cryptocurrency, the price of an asset can fluctuate often depending on trade volume and activity]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
