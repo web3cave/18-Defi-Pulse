@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-17T11:16:46.637Z</id>
+    <id>urn:2022-07-17T12:36:38.338Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-17T11:16:46.637Z</updated>
+    <updated>2022-07-17T12:36:38.338Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -221,16 +221,6 @@ Find out more 👇 https://yieldfarmer.substack.com/i/59772299/the-difficulty-
         <link href="https://twitter.com/defipulse/status/1541391392563499009"/>
         <updated>2022-06-27T12:02:00.000Z</updated>
         <summary type="html"><![CDATA[Morgan Stanley's report: Moving to PoS will also not solve #Ethereum’s scaling problems https://www.coindesk.com/business/2022/06/27/morgan-stanley-gpu-demand-likely-to-slow-if-ethereum-moves-to-proof-of-stake/]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[gm! Have a great week #DeFi!]]></title>
-        <id>https://twitter.com/defipulse/status/1541383540922875904</id>
-        <link href="https://twitter.com/defipulse/status/1541383540922875904"/>
-        <updated>2022-06-27T11:30:48.000Z</updated>
-        <summary type="html"><![CDATA[gm! Have a great week #DeFi!]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
