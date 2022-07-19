@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-19T02:21:35.946Z</id>
+    <id>urn:2022-07-19T04:22:47.993Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-19T02:21:35.946Z</updated>
+    <updated>2022-07-19T04:22:47.993Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -223,6 +223,17 @@ Why is it time for PONY Index?🐎
         <summary type="html"><![CDATA[Ethereum's difficulty bomb is delayed for two months 😳
 Do you know what that means for the merge and how it can affect you? 
 Find out more 👇 https://yieldfarmer.substack.com/i/59772299/the-difficulty-bomb-is-delayed-for-two-months-what-does-it-mean-for-the-merge]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Pony Finance: 🚀 We're live, join us for the Pony Finance launch event!]]></title>
+        <id>https://twitter.com/PonyFinance/status/1541482608932007936</id>
+        <link href="https://twitter.com/PonyFinance/status/1541482608932007936"/>
+        <updated>2022-06-27T18:04:27.000Z</updated>
+        <summary type="html"><![CDATA[RT Pony Finance
+🚀 We're live, join us for the Pony Finance launch event! https://twitter.com/i/broadcasts/1jMKgepVazmJL]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
