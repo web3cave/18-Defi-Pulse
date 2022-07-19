@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1549191289090052100",
+          "author": "DeFi Pulse 🍇",
+          "description": "✨ Are you ready to Traverse the Merge? \nJoin host Nathan Howard of @Scalara_xyz & @indexcoop's Allen Gully for a discussion on how the Merge will change the ETH supply & the downstream effects on DeFi.\nJuly 21st at 6pm UTC\nSave a seat: https://www.crowdcast.io/e/traversingthemerge",
+          "link": "https://twitter.com/defipulse/status/1549191289090052100",
+          "publishedOn": "2022-07-19T00:36:00.000Z",
+          "wordCount": 352,
+          "title": "✨ Are you ready to Traverse the Merge? Join host Nathan Howard of @Scalara_xyz & @indexcoop's Allen Gully for a discussion on how the Merge will chan...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1548987485929234433",
           "author": "DeFi Pulse 🍇",
           "description": "gm everyone! hope you have a green week ahead 🙌",
@@ -183,26 +193,6 @@
           "publishedOn": "2022-06-28T19:58:47.000Z",
           "wordCount": 352,
           "title": "Ethereum's difficulty bomb is delayed for two months 😳 Do you know what that means for the merge and how it can affect you? Find out more 👇",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/PonyFinance/status/1541482608932007936",
-          "author": "DeFi Pulse 🍇",
-          "description": "RT Pony Finance\n🚀 We're live, join us for the Pony Finance launch event! https://twitter.com/i/broadcasts/1jMKgepVazmJL",
-          "link": "https://twitter.com/PonyFinance/status/1541482608932007936",
-          "publishedOn": "2022-06-27T18:04:27.000Z",
-          "wordCount": 352,
-          "title": "RT Pony Finance: 🚀 We're live, join us for the Pony Finance launch event!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1541391392563499009",
-          "author": "DeFi Pulse 🍇",
-          "description": "Morgan Stanley's report: Moving to PoS will also not solve #Ethereum’s scaling problems https://www.coindesk.com/business/2022/06/27/morgan-stanley-gpu-demand-likely-to-slow-if-ethereum-moves-to-proof-of-stake/",
-          "link": "https://twitter.com/defipulse/status/1541391392563499009",
-          "publishedOn": "2022-06-27T12:02:00.000Z",
-          "wordCount": 352,
-          "title": "Morgan Stanley's report: Moving to PoS will also not solve #Ethereum’s scaling problems",
           "imageUrl": null
         }
       ]

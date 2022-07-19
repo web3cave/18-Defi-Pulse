@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-18T23:20:23.430Z</id>
+    <id>urn:2022-07-19T02:21:35.946Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-18T23:20:23.430Z</updated>
+    <updated>2022-07-19T02:21:35.946Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[✨ Are you ready to Traverse the Merge? Join host Nathan Howard of @Scalara_xyz & @indexcoop's Allen Gully for a discussion on how the Merge will chan...]]></title>
+        <id>https://twitter.com/defipulse/status/1549191289090052100</id>
+        <link href="https://twitter.com/defipulse/status/1549191289090052100"/>
+        <updated>2022-07-19T00:36:00.000Z</updated>
+        <summary type="html"><![CDATA[✨ Are you ready to Traverse the Merge? 
+Join host Nathan Howard of @Scalara_xyz & @indexcoop's Allen Gully for a discussion on how the Merge will change the ETH supply & the downstream effects on DeFi.
+July 21st at 6pm UTC
+Save a seat: https://www.crowdcast.io/e/traversingthemerge]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[gm everyone! hope you have a green week ahead 🙌]]></title>
         <id>https://twitter.com/defipulse/status/1548987485929234433</id>
@@ -210,27 +223,6 @@ Why is it time for PONY Index?🐎
         <summary type="html"><![CDATA[Ethereum's difficulty bomb is delayed for two months 😳
 Do you know what that means for the merge and how it can affect you? 
 Find out more 👇 https://yieldfarmer.substack.com/i/59772299/the-difficulty-bomb-is-delayed-for-two-months-what-does-it-mean-for-the-merge]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Pony Finance: 🚀 We're live, join us for the Pony Finance launch event!]]></title>
-        <id>https://twitter.com/PonyFinance/status/1541482608932007936</id>
-        <link href="https://twitter.com/PonyFinance/status/1541482608932007936"/>
-        <updated>2022-06-27T18:04:27.000Z</updated>
-        <summary type="html"><![CDATA[RT Pony Finance
-🚀 We're live, join us for the Pony Finance launch event! https://twitter.com/i/broadcasts/1jMKgepVazmJL]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morgan Stanley's report: Moving to PoS will also not solve #Ethereum’s scaling problems]]></title>
-        <id>https://twitter.com/defipulse/status/1541391392563499009</id>
-        <link href="https://twitter.com/defipulse/status/1541391392563499009"/>
-        <updated>2022-06-27T12:02:00.000Z</updated>
-        <summary type="html"><![CDATA[Morgan Stanley's report: Moving to PoS will also not solve #Ethereum’s scaling problems https://www.coindesk.com/business/2022/06/27/morgan-stanley-gpu-demand-likely-to-slow-if-ethereum-moves-to-proof-of-stake/]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
