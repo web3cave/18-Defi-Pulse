@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-20T16:32:21.664Z</id>
+    <id>urn:2022-07-20T17:26:26.437Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-20T16:32:21.664Z</updated>
+    <updated>2022-07-20T17:26:26.437Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -221,19 +221,6 @@ Now on @Uniswap V3: https://info.uniswap.org/#/pools/0xacde4dc80490bc3671bbf1e
         <updated>2022-07-01T02:37:10.000Z</updated>
         <summary type="html"><![CDATA[Have you checked our latest edition  of the Pulse Farmer?
 Read it now! https://yieldfarmer.substack.com/p/-no-limits-for-lido]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Scalara: Why is it time for PONY Index?🐎 📈 Attractive yields on stablecoins from across the blockchain world brought to @ethereum. 🛡️ Rig...]]></title>
-        <id>https://twitter.com/Scalara_xyz/status/1541995887559426048</id>
-        <link href="https://twitter.com/Scalara_xyz/status/1541995887559426048"/>
-        <updated>2022-06-29T04:04:03.000Z</updated>
-        <summary type="html"><![CDATA[RT Scalara
-Why is it time for PONY Index?🐎
-📈 Attractive yields on stablecoins from across the blockchain world brought to @ethereum. 
-🛡️ Rigorous screening of yield opportunities, stablecoins, chains. /1]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
