@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-20T14:25:29.127Z</id>
+    <id>urn:2022-07-20T15:23:15.344Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-20T14:25:29.127Z</updated>
+    <updated>2022-07-20T15:23:15.344Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Do you hold liquid staking $ETH tokens? Curious to find out what will happen to them after the Merge? Join @Scalara_xyz & @indexcoop's discussion on h...]]></title>
+        <id>https://twitter.com/defipulse/status/1549754794272870400</id>
+        <link href="https://twitter.com/defipulse/status/1549754794272870400"/>
+        <updated>2022-07-20T13:55:10.000Z</updated>
+        <summary type="html"><![CDATA[Do you hold liquid staking $ETH tokens? Curious to find out what will happen to them after the Merge?
+Join @Scalara_xyz & @indexcoop's discussion on how ETH's supply will be affected & the downstream effects on DeFi.
+📌 July 21st, 6pm UTC
+Save a seat 👇 https://bit.ly/3yUxoPn]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From token inflation and lack of utility to the burst of the move2earn bubble: read our take on @Stepnofficial's failed economic model 👇]]></title>
         <id>https://twitter.com/defipulse/status/1549508915028807680</id>
@@ -221,18 +234,6 @@ Read it now! https://yieldfarmer.substack.com/p/-no-limits-for-lido]]></summar
 Why is it time for PONY Index?🐎
 📈 Attractive yields on stablecoins from across the blockchain world brought to @ethereum. 
 🛡️ Rigorous screening of yield opportunities, stablecoins, chains. /1]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum's difficulty bomb is delayed for two months 😳 Do you know what that means for the merge and how it can affect you? Find out more 👇]]></title>
-        <id>https://twitter.com/defipulse/status/1541873768234004480</id>
-        <link href="https://twitter.com/defipulse/status/1541873768234004480"/>
-        <updated>2022-06-28T19:58:47.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum's difficulty bomb is delayed for two months 😳
-Do you know what that means for the merge and how it can affect you? 
-Find out more 👇 https://yieldfarmer.substack.com/i/59772299/the-difficulty-bomb-is-delayed-for-two-months-what-does-it-mean-for-the-merge]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
