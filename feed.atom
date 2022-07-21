@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-20T23:21:44.481Z</id>
+    <id>urn:2022-07-21T02:08:36.596Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-20T23:21:44.481Z</updated>
+    <updated>2022-07-21T02:08:36.596Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @0xPolygon @zksync 4/4 @Scroll_ZKP also launched the first of its kind zkEVM-based zkRollup. In a collaboration between the @PrivacyScaling at Ethe...]]></title>
+        <id>https://twitter.com/defipulse/status/1549919987426476034</id>
+        <link href="https://twitter.com/defipulse/status/1549919987426476034"/>
+        <updated>2022-07-21T00:51:35.000Z</updated>
+        <summary type="html"><![CDATA[Re @0xPolygon @zksync 4/4 @Scroll_ZKP also launched the first of its kind zkEVM-based zkRollup.
+In a collaboration between the @PrivacyScaling at Ethereum's foundation.
+Scroll 📜: After over a year of building our zkEVM-based zkRollup in close collaboration with the @PrivacyScaling group at the Ethereum Foundation, we are releasing the pre-alpha version of Scroll for external testers! 📜
+ https://mirror.xyz/scroll.eth/XQyXDgyxoefag6hcBgGJFz8qrb10rmSU-zUBvY3Q9_A]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @0xPolygon 3/4 @zksync has also announced its native zkEVM rollup - called zkSync 2.0 which will be live on main net in the next 100 days]]></title>
+        <id>https://twitter.com/defipulse/status/1549919984612040704</id>
+        <link href="https://twitter.com/defipulse/status/1549919984612040704"/>
+        <updated>2022-07-21T00:51:35.000Z</updated>
+        <summary type="html"><![CDATA[Re @0xPolygon 3/4 @zksync has also announced its native zkEVM rollup - called zkSync 2.0 which will be live on main net in the next 100 days
+zkSync: Over the last year, we've been heads down working to scale Ethereum and accelerate its adoption.
+ Today, we’re happy to announce that zkSync 2.0 – the first zkEVM rollup – will be live on mainnet in 100 days.
+ Our public roadmap for the rest of the year:
+ https://matterlabs.medium.com/100-days-to-mainnet-6f230893bd73]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 2/4 @0xPolygon announced Polygon #zkEVM, an EVM-equivalent ZK L2 rollup.]]></title>
+        <id>https://twitter.com/defipulse/status/1549919981889916930</id>
+        <link href="https://twitter.com/defipulse/status/1549919981889916930"/>
+        <updated>2022-07-21T00:51:34.000Z</updated>
+        <summary type="html"><![CDATA[Re 2/4 @0xPolygon announced Polygon #zkEVM, an EVM-equivalent ZK L2 rollup.
+Polygon - MATIC 💜: We are proud to announce a giant leap forward for Ethereum scaling and ZK innovation.
+Introducing Polygon #zkEVM, the first EVM-equivalent ZK L2.
+Today we’re releasing a complete implementation, fully open-source, and we’re just getting started.
+[1/6]]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today Ethereum scaling made a big leap forward. 3 different #zkEVM rollups were announced, they all claim to be the first to do it. Learn more 👇]]></title>
+        <id>https://twitter.com/defipulse/status/1549919979327213568</id>
+        <link href="https://twitter.com/defipulse/status/1549919979327213568"/>
+        <updated>2022-07-21T00:51:33.000Z</updated>
+        <summary type="html"><![CDATA[Today Ethereum scaling made a big leap forward. 
+3 different #zkEVM rollups were announced, they 
+all claim to be the first to do it.
+Learn more 👇]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Do you hold liquid staking $ETH tokens? Curious to find out what will happen to them after the Merge? Join @Scalara_xyz & @indexcoop's discussion on h...]]></title>
         <id>https://twitter.com/defipulse/status/1549754794272870400</id>
@@ -184,56 +238,6 @@ Check out our latest newsletter for practical tips on how to emerge stronger on 
         <link href="https://twitter.com/defipulse/status/1544472773279506432"/>
         <updated>2022-07-06T00:06:18.000Z</updated>
         <summary type="html"><![CDATA[Ethereum average gas fee falls down to $1.57, the lowest since 2020]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[gm! Happy 4th of July 🎉]]></title>
-        <id>https://twitter.com/defipulse/status/1543893565901836290</id>
-        <link href="https://twitter.com/defipulse/status/1543893565901836290"/>
-        <updated>2022-07-04T09:44:44.000Z</updated>
-        <summary type="html"><![CDATA[gm!
-Happy 4th of July 🎉]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Pony Finance: The PONY Index ($PONY): 1️⃣ Simplifies stablecoin yield farming across multiple chains 2️⃣ Brings attractive yields back to #Ethe...]]></title>
-        <id>https://twitter.com/PonyFinance/status/1543487234397151232</id>
-        <link href="https://twitter.com/PonyFinance/status/1543487234397151232"/>
-        <updated>2022-07-03T06:50:07.000Z</updated>
-        <summary type="html"><![CDATA[RT Pony Finance
-The PONY Index ($PONY):
-1️⃣ Simplifies stablecoin yield farming across multiple chains 
-2️⃣ Brings attractive yields back to #Ethereum
-3️⃣ Allows users to benefit from full permissionless transparency regarding their investment.
-Now on @Uniswap V3: https://info.uniswap.org/#/pools/0xacde4dc80490bc3671bbf1e421ec78d43f24d899]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Have you checked our latest edition of the Pulse Farmer? Read it now!]]></title>
-        <id>https://twitter.com/defipulse/status/1542698801282048001</id>
-        <link href="https://twitter.com/defipulse/status/1542698801282048001"/>
-        <updated>2022-07-01T02:37:10.000Z</updated>
-        <summary type="html"><![CDATA[Have you checked our latest edition  of the Pulse Farmer?
-Read it now! https://yieldfarmer.substack.com/p/-no-limits-for-lido]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Scalara: Why is it time for PONY Index?🐎 📈 Attractive yields on stablecoins from across the blockchain world brought to @ethereum. 🛡️ Rig...]]></title>
-        <id>https://twitter.com/Scalara_xyz/status/1541995887559426048</id>
-        <link href="https://twitter.com/Scalara_xyz/status/1541995887559426048"/>
-        <updated>2022-06-29T04:04:03.000Z</updated>
-        <summary type="html"><![CDATA[RT Scalara
-Why is it time for PONY Index?🐎
-📈 Attractive yields on stablecoins from across the blockchain world brought to @ethereum. 
-🛡️ Rigorous screening of yield opportunities, stablecoins, chains. /1]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
