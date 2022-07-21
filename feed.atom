@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-21T18:28:04.652Z</id>
+    <id>urn:2022-07-21T19:18:02.779Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-21T18:28:04.652Z</updated>
+    <updated>2022-07-21T19:18:02.779Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[📹 Traversing the Merge is live! Tune in to watch @Scalara_xyz's Nathan Howard and @indexcoop's Allan Gulley discuss the upcoming Merge and the impa...]]></title>
+        <id>https://twitter.com/defipulse/status/1550179144553664513</id>
+        <link href="https://twitter.com/defipulse/status/1550179144553664513"/>
+        <updated>2022-07-21T18:01:23.000Z</updated>
+        <summary type="html"><![CDATA[📹 Traversing the Merge is live! 
+Tune in to watch @Scalara_xyz's Nathan Howard and @indexcoop's Allan Gulley discuss the upcoming Merge and the impacts on DeFi. 
+Join us here👇 https://twitter.com/i/broadcasts/1DXGyDvyMzZKM]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[📢 Make sure to join us for Traversing the Merge with @Scalara_xyz and @indexcoop. Learn more about the Merge, changes to the ETH supply, and the im...]]></title>
         <id>https://twitter.com/defipulse/status/1550076667057811456</id>
@@ -231,16 +243,6 @@ Learn how Neobanks & @0xPolygon are bringing DeFi to the masses. https://yield
         <updated>2022-07-07T20:06:29.000Z</updated>
         <summary type="html"><![CDATA[Crypto winters can be a time to reset your focus and hone your skillset.
 Check out our latest newsletter for practical tips on how to emerge stronger on the other side👇 https://yieldfarmer.substack.com/p/makerdao-vote-wars]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @DeFi_Dad @DefiantNews]]></title>
-        <id>https://twitter.com/defipulse/status/1544697131243606016</id>
-        <link href="https://twitter.com/defipulse/status/1544697131243606016"/>
-        <updated>2022-07-06T14:57:49.000Z</updated>
-        <summary type="html"><![CDATA[Re @DeFi_Dad @DefiantNews]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>

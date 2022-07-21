@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1550179144553664513",
+          "author": "DeFi Pulse 🍇",
+          "description": "📹 Traversing the Merge is live! \nTune in to watch @Scalara_xyz's Nathan Howard and @indexcoop's Allan Gulley discuss the upcoming Merge and the impacts on DeFi. \nJoin us here👇 https://twitter.com/i/broadcasts/1DXGyDvyMzZKM",
+          "link": "https://twitter.com/defipulse/status/1550179144553664513",
+          "publishedOn": "2022-07-21T18:01:23.000Z",
+          "wordCount": 352,
+          "title": "📹 Traversing the Merge is live! Tune in to watch @Scalara_xyz's Nathan Howard and @indexcoop's Allan Gulley discuss the upcoming Merge and the impa...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1550076667057811456",
           "author": "DeFi Pulse 🍇",
           "description": "📢 Make sure to join us for Traversing the Merge with @Scalara_xyz and @indexcoop.\nLearn more about the Merge, changes to the ETH supply, and the impact on DeFi from @fallow8DeFi and @csquared_eth.\n🗓️ TODAY ⏰ 6:00 pm UTC\nRegister now 👇 https://www.crowdcast.io/e/traversingthemerge",
@@ -193,16 +203,6 @@
           "publishedOn": "2022-07-07T20:06:29.000Z",
           "wordCount": 352,
           "title": "Crypto winters can be a time to reset your focus and hone your skillset. Check out our latest newsletter for practical tips on how to emerge stronger ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1544697131243606016",
-          "author": "DeFi Pulse 🍇",
-          "description": "Re @DeFi_Dad @DefiantNews",
-          "link": "https://twitter.com/defipulse/status/1544697131243606016",
-          "publishedOn": "2022-07-06T14:57:49.000Z",
-          "wordCount": 352,
-          "title": "Re @DeFi_Dad @DefiantNews",
           "imageUrl": null
         }
       ]
