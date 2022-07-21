@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-21T11:18:04.844Z</id>
+    <id>urn:2022-07-21T12:46:05.274Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-21T11:18:04.844Z</updated>
+    <updated>2022-07-21T12:46:05.274Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[📢 Make sure to join us for Traversing the Merge with @Scalara_xyz and @indexcoop. Learn more about the Merge, changes to the ETH supply, and the im...]]></title>
+        <id>https://twitter.com/defipulse/status/1550076667057811456</id>
+        <link href="https://twitter.com/defipulse/status/1550076667057811456"/>
+        <updated>2022-07-21T11:14:11.000Z</updated>
+        <summary type="html"><![CDATA[📢 Make sure to join us for Traversing the Merge with @Scalara_xyz and @indexcoop.
+Learn more about the Merge, changes to the ETH supply, and the impact on DeFi from @fallow8DeFi and @csquared_eth.
+🗓️ TODAY ⏰ 6:00 pm UTC
+Register now 👇 https://www.crowdcast.io/e/traversingthemerge]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @0xPolygon @zksync 4/4 @Scroll_ZKP also launched the first of its kind zkEVM-based zkRollup. In a collaboration between the @PrivacyScaling at Ethe...]]></title>
         <id>https://twitter.com/defipulse/status/1549919987426476034</id>
@@ -208,16 +221,6 @@ Learn how Neobanks & @0xPolygon are bringing DeFi to the masses. https://yield
         <updated>2022-07-07T20:06:29.000Z</updated>
         <summary type="html"><![CDATA[Crypto winters can be a time to reset your focus and hone your skillset.
 Check out our latest newsletter for practical tips on how to emerge stronger on the other side👇 https://yieldfarmer.substack.com/p/makerdao-vote-wars]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @DeFi_Dad @DefiantNews]]></title>
-        <id>https://twitter.com/defipulse/status/1544697131243606016</id>
-        <link href="https://twitter.com/defipulse/status/1544697131243606016"/>
-        <updated>2022-07-06T14:57:49.000Z</updated>
-        <summary type="html"><![CDATA[Re @DeFi_Dad @DefiantNews]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>

@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1550076667057811456",
+          "author": "DeFi Pulse 🍇",
+          "description": "📢 Make sure to join us for Traversing the Merge with @Scalara_xyz and @indexcoop.\nLearn more about the Merge, changes to the ETH supply, and the impact on DeFi from @fallow8DeFi and @csquared_eth.\n🗓️ TODAY ⏰ 6:00 pm UTC\nRegister now 👇 https://www.crowdcast.io/e/traversingthemerge",
+          "link": "https://twitter.com/defipulse/status/1550076667057811456",
+          "publishedOn": "2022-07-21T11:14:11.000Z",
+          "wordCount": 352,
+          "title": "📢 Make sure to join us for Traversing the Merge with @Scalara_xyz and @indexcoop. Learn more about the Merge, changes to the ETH supply, and the im...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1549919987426476034",
           "author": "DeFi Pulse 🍇",
           "description": "Re @0xPolygon @zksync 4/4 @Scroll_ZKP also launched the first of its kind zkEVM-based zkRollup.\nIn a collaboration between the @PrivacyScaling at Ethereum's foundation. https://twitter.com/Scroll_ZKP/status/1549268276152500225?s=20&t=f5dkRO0wUTenYlYeNLjuug",
@@ -183,16 +193,6 @@
           "publishedOn": "2022-07-07T20:06:29.000Z",
           "wordCount": 352,
           "title": "Crypto winters can be a time to reset your focus and hone your skillset. Check out our latest newsletter for practical tips on how to emerge stronger ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1544697131243606016",
-          "author": "DeFi Pulse 🍇",
-          "description": "Re @DeFi_Dad @DefiantNews",
-          "link": "https://twitter.com/defipulse/status/1544697131243606016",
-          "publishedOn": "2022-07-06T14:57:49.000Z",
-          "wordCount": 352,
-          "title": "Re @DeFi_Dad @DefiantNews",
           "imageUrl": null
         }
       ]
