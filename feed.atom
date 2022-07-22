@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-22T19:17:31.305Z</id>
+    <id>urn:2022-07-22T20:23:07.317Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-22T19:17:31.305Z</updated>
+    <updated>2022-07-22T20:23:07.317Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[⚡️@MakerDAO has been aiming to integrate Real World Assets collateral to back their stablecoin. Learn more about the 2 major proposals totaling arou...]]></title>
+        <id>https://twitter.com/defipulse/status/1550563179431960577</id>
+        <link href="https://twitter.com/defipulse/status/1550563179431960577"/>
+        <updated>2022-07-22T19:27:24.000Z</updated>
+        <summary type="html"><![CDATA[⚡️@MakerDAO has been aiming to integrate Real World Assets collateral to back their stablecoin.
+Learn more about the 2 major proposals totaling around $130M to back $DAI👇 https://yieldfarmer.substack.com/i/65083233/digitizing-real-world-analogue-assets]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[📹 Traversing the Merge is live! Tune in to watch @Scalara_xyz's Nathan Howard and @indexcoop's Allan Gulley discuss the upcoming Merge and the impa...]]></title>
         <id>https://twitter.com/defipulse/status/1550179144553664513</id>
@@ -232,17 +243,6 @@ Quick overview on the 4 major platforms that enabled @0xPolygon liquid staking w
         <updated>2022-07-09T15:35:29.000Z</updated>
         <summary type="html"><![CDATA[🏦 Bringing DeFi to the masses needs a catalyst. Neobanks, or digital banks, can serve as the solution by offering a seamless front-end to users while tapping into DeFi on the back-end. 
 Learn how Neobanks & @0xPolygon are bringing DeFi to the masses. https://yieldfarmer.substack.com/p/-polypulse-29-defi-and-fintech-crossover]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto winters can be a time to reset your focus and hone your skillset. Check out our latest newsletter for practical tips on how to emerge stronger ...]]></title>
-        <id>https://twitter.com/defipulse/status/1545137198147723265</id>
-        <link href="https://twitter.com/defipulse/status/1545137198147723265"/>
-        <updated>2022-07-07T20:06:29.000Z</updated>
-        <summary type="html"><![CDATA[Crypto winters can be a time to reset your focus and hone your skillset.
-Check out our latest newsletter for practical tips on how to emerge stronger on the other side👇 https://yieldfarmer.substack.com/p/makerdao-vote-wars]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>

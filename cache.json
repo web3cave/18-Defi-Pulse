@@ -6,12 +6,22 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1550563179431960577",
+          "author": "DeFi Pulse 🍇",
+          "description": "⚡️@MakerDAO has been aiming to integrate Real World Assets collateral to back their stablecoin.\nLearn more about the 2 major proposals totaling around $130M to back $DAI👇 https://yieldfarmer.substack.com/i/65083233/digitizing-real-world-analogue-assets",
+          "link": "https://twitter.com/defipulse/status/1550563179431960577",
+          "publishedOn": "2022-07-22T19:27:24.000Z",
+          "wordCount": 383,
+          "title": "⚡️@MakerDAO has been aiming to integrate Real World Assets collateral to back their stablecoin. Learn more about the 2 major proposals totaling arou...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1550179144553664513",
           "author": "DeFi Pulse 🍇",
           "description": "📹 Traversing the Merge is live! \nTune in to watch @Scalara_xyz's Nathan Howard and @indexcoop's Allan Gulley discuss the upcoming Merge and the impacts on DeFi. \nJoin us here👇 https://twitter.com/i/broadcasts/1DXGyDvyMzZKM",
           "link": "https://twitter.com/defipulse/status/1550179144553664513",
           "publishedOn": "2022-07-21T18:01:23.000Z",
-          "wordCount": 352,
+          "wordCount": 383,
           "title": "📹 Traversing the Merge is live! Tune in to watch @Scalara_xyz's Nathan Howard and @indexcoop's Allan Gulley discuss the upcoming Merge and the impa...",
           "imageUrl": null
         },
@@ -21,7 +31,7 @@
           "description": "📢 Make sure to join us for Traversing the Merge with @Scalara_xyz and @indexcoop.\nLearn more about the Merge, changes to the ETH supply, and the impact on DeFi from @fallow8DeFi and @csquared_eth.\n🗓️ TODAY ⏰ 6:00 pm UTC\nRegister now 👇 https://www.crowdcast.io/e/traversingthemerge",
           "link": "https://twitter.com/defipulse/status/1550076667057811456",
           "publishedOn": "2022-07-21T11:14:11.000Z",
-          "wordCount": 352,
+          "wordCount": 383,
           "title": "📢 Make sure to join us for Traversing the Merge with @Scalara_xyz and @indexcoop. Learn more about the Merge, changes to the ETH supply, and the im...",
           "imageUrl": null
         },
@@ -31,7 +41,7 @@
           "description": "Re @0xPolygon @zksync 4/4 @Scroll_ZKP also launched the first of its kind zkEVM-based zkRollup.\nIn a collaboration between the @PrivacyScaling at Ethereum's foundation.\nScroll 📜: After over a year of building our zkEVM-based zkRollup in close collaboration with the @PrivacyScaling group at the Ethereum Foundation, we are releasing the pre-alpha version of Scroll for external testers! 📜\n https://mirror.xyz/scroll.eth/XQyXDgyxoefag6hcBgGJFz8qrb10rmSU-zUBvY3Q9_A",
           "link": "https://twitter.com/defipulse/status/1549919987426476034",
           "publishedOn": "2022-07-21T00:51:35.000Z",
-          "wordCount": 352,
+          "wordCount": 383,
           "title": "Re @0xPolygon @zksync 4/4 @Scroll_ZKP also launched the first of its kind zkEVM-based zkRollup. In a collaboration between the @PrivacyScaling at Ethe...",
           "imageUrl": null
         },
@@ -41,7 +51,7 @@
           "description": "Re @0xPolygon 3/4 @zksync has also announced its native zkEVM rollup - called zkSync 2.0 which will be live on main net in the next 100 days\nzkSync: Over the last year, we've been heads down working to scale Ethereum and accelerate its adoption.\n Today, we’re happy to announce that zkSync 2.0 – the first zkEVM rollup – will be live on mainnet in 100 days.\n Our public roadmap for the rest of the year:\n https://matterlabs.medium.com/100-days-to-mainnet-6f230893bd73",
           "link": "https://twitter.com/defipulse/status/1549919984612040704",
           "publishedOn": "2022-07-21T00:51:35.000Z",
-          "wordCount": 352,
+          "wordCount": 383,
           "title": "Re @0xPolygon 3/4 @zksync has also announced its native zkEVM rollup - called zkSync 2.0 which will be live on main net in the next 100 days",
           "imageUrl": null
         },
@@ -51,7 +61,7 @@
           "description": "Re 2/4 @0xPolygon announced Polygon #zkEVM, an EVM-equivalent ZK L2 rollup.\nPolygon - MATIC 💜: We are proud to announce a giant leap forward for Ethereum scaling and ZK innovation.\nIntroducing Polygon #zkEVM, the first EVM-equivalent ZK L2.\nToday we’re releasing a complete implementation, fully open-source, and we’re just getting started.\n[1/6]",
           "link": "https://twitter.com/defipulse/status/1549919981889916930",
           "publishedOn": "2022-07-21T00:51:34.000Z",
-          "wordCount": 352,
+          "wordCount": 383,
           "title": "Re 2/4 @0xPolygon announced Polygon #zkEVM, an EVM-equivalent ZK L2 rollup.",
           "imageUrl": null
         },
@@ -61,7 +71,7 @@
           "description": "Today Ethereum scaling made a big leap forward. \n3 different #zkEVM rollups were announced, they \nall claim to be the first to do it.\nLearn more 👇",
           "link": "https://twitter.com/defipulse/status/1549919979327213568",
           "publishedOn": "2022-07-21T00:51:33.000Z",
-          "wordCount": 352,
+          "wordCount": 383,
           "title": "Today Ethereum scaling made a big leap forward. 3 different #zkEVM rollups were announced, they all claim to be the first to do it. Learn more 👇",
           "imageUrl": null
         },
@@ -71,7 +81,7 @@
           "description": "Do you hold liquid staking $ETH tokens? Curious to find out what will happen to them after the Merge?\nJoin @Scalara_xyz & @indexcoop's discussion on how ETH's supply will be affected & the downstream effects on DeFi.\n📌 July 21st, 6pm UTC\nSave a seat 👇 https://bit.ly/3yUxoPn",
           "link": "https://twitter.com/defipulse/status/1549754794272870400",
           "publishedOn": "2022-07-20T13:55:10.000Z",
-          "wordCount": 352,
+          "wordCount": 383,
           "title": "Do you hold liquid staking $ETH tokens? Curious to find out what will happen to them after the Merge? Join @Scalara_xyz & @indexcoop's discussion on h...",
           "imageUrl": null
         },
@@ -81,7 +91,7 @@
           "description": "From token inflation and lack of utility to the burst of the move2earn bubble: read our take on @Stepnofficial's failed economic model 👇 https://www.defipulse.com/blog/stepn-and-unsustainable-reward-mechanisms",
           "link": "https://twitter.com/defipulse/status/1549508915028807680",
           "publishedOn": "2022-07-19T21:38:08.000Z",
-          "wordCount": 352,
+          "wordCount": 383,
           "title": "From token inflation and lack of utility to the burst of the move2earn bubble: read our take on @Stepnofficial's failed economic model 👇",
           "imageUrl": null
         },
@@ -91,7 +101,7 @@
           "description": "✨ Are you ready to Traverse the Merge? \nJoin host Nathan Howard of @Scalara_xyz & @indexcoop's Allen Gully for a discussion on how the Merge will change the ETH supply & the downstream effects on DeFi.\nJuly 21st at 6pm UTC\nSave a seat: https://www.crowdcast.io/e/traversingthemerge",
           "link": "https://twitter.com/defipulse/status/1549191289090052100",
           "publishedOn": "2022-07-19T00:36:00.000Z",
-          "wordCount": 352,
+          "wordCount": 383,
           "title": "✨ Are you ready to Traverse the Merge? Join host Nathan Howard of @Scalara_xyz & @indexcoop's Allen Gully for a discussion on how the Merge will chan...",
           "imageUrl": null
         },
@@ -101,7 +111,7 @@
           "description": "gm everyone! hope you have a green week ahead 🙌",
           "link": "https://twitter.com/defipulse/status/1548987485929234433",
           "publishedOn": "2022-07-18T11:06:10.000Z",
-          "wordCount": 352,
+          "wordCount": 383,
           "title": "gm everyone! hope you have a green week ahead 🙌",
           "imageUrl": null
         },
@@ -111,7 +121,7 @@
           "description": "RT Aishwary.eth/lens💜🧠\nThe latest #PolyPulse is out for you to enjoy. \nA dive into the green initiative with latest updates on “What’s up with DeFi and Ethereum Merge.”\nFeel free to subscribe: \nA thread (🧵)\n@0xPolygon @defipulse https://yieldfarmer.substack.com/p/-polypulse-30-polygon-is-going-carbon?sd=pf",
           "link": "https://twitter.com/Crypto_Wildwest/status/1548004948671025152",
           "publishedOn": "2022-07-15T18:01:54.000Z",
-          "wordCount": 352,
+          "wordCount": 383,
           "title": "RT Aishwary.eth/lens💜🧠: The latest #PolyPulse is out for you to enjoy. A dive into the green initiative with latest updates on “What’s up with...",
           "imageUrl": null
         },
@@ -121,7 +131,7 @@
           "description": "Weeks after @MakerDAO stopped Aave's direct deposit module, @Aaveaave is making the move to enter the stablecoin market by launching its native $GHO decentralized stablecoin pegged to USD & backed by aToken collateral.\nRead more below 👇 https://yieldfarmer.substack.com/p/-aave-and-the-stable-wars",
           "link": "https://twitter.com/defipulse/status/1547669417307152385",
           "publishedOn": "2022-07-14T19:48:38.000Z",
-          "wordCount": 352,
+          "wordCount": 383,
           "title": "Weeks after @MakerDAO stopped Aave's direct deposit module, @Aaveaave is making the move to enter the stablecoin market by launching its native $GHO d...",
           "imageUrl": null
         },
@@ -131,7 +141,7 @@
           "description": "RT Index Coop 🦉\nDeFi Proves Resilient in the Bear Market \nWhile crypto prices plummeted and centralized lenders collapsed, these 3 major DeFi use cases proved their resilience\nRead the full guest blog from $DPI methodologist @Scalara_xyz's @fallow8DeFi below ⬇️",
           "link": "https://twitter.com/indexcoop/status/1547240667541553152",
           "publishedOn": "2022-07-13T15:24:56.000Z",
-          "wordCount": 352,
+          "wordCount": 383,
           "title": "RT Index Coop 🦉: DeFi Proves Resilient in the Bear Market While crypto prices plummeted and centralized lenders collapsed, these 3 major DeFi use c...",
           "imageUrl": null
         },
@@ -141,7 +151,7 @@
           "description": "Re 3/3 Learn more on how to boost your yields through liquid staking on @0xPolygon in the article below 👇 https://bit.ly/3yxC0L6",
           "link": "https://twitter.com/defipulse/status/1546985309476364288",
           "publishedOn": "2022-07-12T22:30:14.000Z",
-          "wordCount": 352,
+          "wordCount": 383,
           "title": "Re 3/3 Learn more on how to boost your yields through liquid staking on @0xPolygon in the article below 👇",
           "imageUrl": null
         },
@@ -151,7 +161,7 @@
           "description": "Re 2/3 Farming opportunities:\n@LidoFinance & @BalancerLabs - 12% APY\n@Stader_Polygon & @Meshswap_Fi - 13% APY\n@Claystack_HQ - 9% APY\n@ankrstaking  - 9% APY",
           "link": "https://twitter.com/defipulse/status/1546985307949699073",
           "publishedOn": "2022-07-12T22:30:13.000Z",
-          "wordCount": 352,
+          "wordCount": 383,
           "title": "Re 2/3 Farming opportunities: @LidoFinance & @BalancerLabs - 12% APY @Stader_Polygon & @Meshswap_Fi - 13% APY @Claystack_HQ - 9% APY @ankrstaking - 9%...",
           "imageUrl": null
         },
@@ -161,7 +171,7 @@
           "description": "Liquid staking solves the issue of capital that is locked across many Proof of Stake (PoS) chains.\nQuick overview on the 4 major platforms that enabled @0xPolygon liquid staking which help boosting your yield.\n👇🧵",
           "link": "https://twitter.com/defipulse/status/1546985306087366658",
           "publishedOn": "2022-07-12T22:30:13.000Z",
-          "wordCount": 352,
+          "wordCount": 383,
           "title": "Liquid staking solves the issue of capital that is locked across many Proof of Stake (PoS) chains. Quick overview on the 4 major platforms that enable...",
           "imageUrl": null
         },
@@ -171,7 +181,7 @@
           "description": "Did you know that DeFi hit $1B in TVL on February 7th 2020? 👀",
           "link": "https://twitter.com/defipulse/status/1546432019810471938",
           "publishedOn": "2022-07-11T09:51:39.000Z",
-          "wordCount": 352,
+          "wordCount": 383,
           "title": "Did you know that DeFi hit $1B in TVL on February 7th 2020? 👀",
           "imageUrl": null
         },
@@ -181,7 +191,7 @@
           "description": "Re To get news and updates directly to your inbox, sign up for our PolyPulse newsletter: https://yieldfarmer.substack.com/",
           "link": "https://twitter.com/defipulse/status/1545793775548731394",
           "publishedOn": "2022-07-09T15:35:30.000Z",
-          "wordCount": 352,
+          "wordCount": 383,
           "title": "Re To get news and updates directly to your inbox, sign up for our PolyPulse newsletter:",
           "imageUrl": null
         },
@@ -191,18 +201,8 @@
           "description": "🏦 Bringing DeFi to the masses needs a catalyst. Neobanks, or digital banks, can serve as the solution by offering a seamless front-end to users while tapping into DeFi on the back-end. \nLearn how Neobanks & @0xPolygon are bringing DeFi to the masses. https://yieldfarmer.substack.com/p/-polypulse-29-defi-and-fintech-crossover",
           "link": "https://twitter.com/defipulse/status/1545793773657067521",
           "publishedOn": "2022-07-09T15:35:29.000Z",
-          "wordCount": 352,
+          "wordCount": 383,
           "title": "🏦 Bringing DeFi to the masses needs a catalyst. Neobanks, or digital banks, can serve as the solution by offering a seamless front-end to users whi...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1545137198147723265",
-          "author": "DeFi Pulse 🍇",
-          "description": "Crypto winters can be a time to reset your focus and hone your skillset.\nCheck out our latest newsletter for practical tips on how to emerge stronger on the other side👇 https://yieldfarmer.substack.com/p/makerdao-vote-wars",
-          "link": "https://twitter.com/defipulse/status/1545137198147723265",
-          "publishedOn": "2022-07-07T20:06:29.000Z",
-          "wordCount": 352,
-          "title": "Crypto winters can be a time to reset your focus and hone your skillset. Check out our latest newsletter for practical tips on how to emerge stronger ...",
           "imageUrl": null
         }
       ]
