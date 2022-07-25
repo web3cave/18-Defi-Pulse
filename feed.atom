@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-25T12:46:04.449Z</id>
+    <id>urn:2022-07-25T13:44:11.052Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-25T12:46:04.449Z</updated>
+    <updated>2022-07-25T13:44:11.052Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Did you miss DeFi Pulse's Traversing the Merge last week? 📹 Watch @Scalara_xyz's Nathan Howard and @indexcoop's Allan Gulley break down the systemi...]]></title>
+        <id>https://twitter.com/defipulse/status/1551534646181208065</id>
+        <link href="https://twitter.com/defipulse/status/1551534646181208065"/>
+        <updated>2022-07-25T11:47:40.000Z</updated>
+        <summary type="html"><![CDATA[Did you miss DeFi Pulse's Traversing the Merge last week? 
+📹 Watch @Scalara_xyz's Nathan Howard and @indexcoop's Allan Gulley break down the systemic risk of liquid staking on the Ethereum ecosystem.👇
+For the full video: https://youtu.be/mot0kIftYa0]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[⚡️@MakerDAO has been aiming to integrate Real World Assets collateral to back their stablecoin. Learn more about the 2 major proposals totaling arou...]]></title>
         <id>https://twitter.com/defipulse/status/1550563179431960577</id>
@@ -232,17 +244,6 @@ Quick overview on the 4 major platforms that enabled @0xPolygon liquid staking w
         <link href="https://twitter.com/defipulse/status/1545793775548731394"/>
         <updated>2022-07-09T15:35:30.000Z</updated>
         <summary type="html"><![CDATA[Re To get news and updates directly to your inbox, sign up for our PolyPulse newsletter: https://yieldfarmer.substack.com/]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🏦 Bringing DeFi to the masses needs a catalyst. Neobanks, or digital banks, can serve as the solution by offering a seamless front-end to users whi...]]></title>
-        <id>https://twitter.com/defipulse/status/1545793773657067521</id>
-        <link href="https://twitter.com/defipulse/status/1545793773657067521"/>
-        <updated>2022-07-09T15:35:29.000Z</updated>
-        <summary type="html"><![CDATA[🏦 Bringing DeFi to the masses needs a catalyst. Neobanks, or digital banks, can serve as the solution by offering a seamless front-end to users while tapping into DeFi on the back-end. 
-Learn how Neobanks & @0xPolygon are bringing DeFi to the masses. https://yieldfarmer.substack.com/p/-polypulse-29-defi-and-fintech-crossover]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>

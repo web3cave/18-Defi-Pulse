@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1551534646181208065",
+          "author": "DeFi Pulse 🍇",
+          "description": "Did you miss DeFi Pulse's Traversing the Merge last week? \n📹 Watch @Scalara_xyz's Nathan Howard and @indexcoop's Allan Gulley break down the systemic risk of liquid staking on the Ethereum ecosystem.👇\nFor the full video: https://youtu.be/mot0kIftYa0",
+          "link": "https://twitter.com/defipulse/status/1551534646181208065",
+          "publishedOn": "2022-07-25T11:47:40.000Z",
+          "wordCount": 383,
+          "title": "Did you miss DeFi Pulse's Traversing the Merge last week? 📹 Watch @Scalara_xyz's Nathan Howard and @indexcoop's Allan Gulley break down the systemi...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1550563179431960577",
           "author": "DeFi Pulse 🍇",
           "description": "⚡️@MakerDAO has been aiming to integrate Real World Assets collateral to back their stablecoin.\nLearn more about the 2 major proposals totaling around $130M to back $DAI👇 https://yieldfarmer.substack.com/i/65083233/digitizing-real-world-analogue-assets",
@@ -193,16 +203,6 @@
           "publishedOn": "2022-07-09T15:35:30.000Z",
           "wordCount": 383,
           "title": "Re To get news and updates directly to your inbox, sign up for our PolyPulse newsletter:",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1545793773657067521",
-          "author": "DeFi Pulse 🍇",
-          "description": "🏦 Bringing DeFi to the masses needs a catalyst. Neobanks, or digital banks, can serve as the solution by offering a seamless front-end to users while tapping into DeFi on the back-end. \nLearn how Neobanks & @0xPolygon are bringing DeFi to the masses. https://yieldfarmer.substack.com/p/-polypulse-29-defi-and-fintech-crossover",
-          "link": "https://twitter.com/defipulse/status/1545793773657067521",
-          "publishedOn": "2022-07-09T15:35:29.000Z",
-          "wordCount": 383,
-          "title": "🏦 Bringing DeFi to the masses needs a catalyst. Neobanks, or digital banks, can serve as the solution by offering a seamless front-end to users whi...",
           "imageUrl": null
         }
       ]
