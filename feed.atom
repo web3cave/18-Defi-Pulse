@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-27T20:21:09.970Z</id>
+    <id>urn:2022-07-27T21:18:22.304Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-27T20:21:09.970Z</updated>
+    <updated>2022-07-27T21:18:22.304Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -59,9 +59,7 @@ Register now 👇 https://www.crowdcast.io/e/traversingthemerge]]></summary>
         <link href="https://twitter.com/defipulse/status/1549919987426476034"/>
         <updated>2022-07-21T00:51:35.000Z</updated>
         <summary type="html"><![CDATA[Re @0xPolygon @zksync 4/4 @Scroll_ZKP also launched the first of its kind zkEVM-based zkRollup.
-In a collaboration between the @PrivacyScaling at Ethereum's foundation.
-Scroll 📜: After over a year of building our zkEVM-based zkRollup in close collaboration with the @PrivacyScaling group at the Ethereum Foundation, we are releasing the pre-alpha version of Scroll for external testers! 📜
- https://mirror.xyz/scroll.eth/XQyXDgyxoefag6hcBgGJFz8qrb10rmSU-zUBvY3Q9_A]]></summary>
+In a collaboration between the @PrivacyScaling at Ethereum's foundation. https://twitter.com/Scroll_ZKP/status/1549268276152500225?s=20&t=f5dkRO0wUTenYlYeNLjuug]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -71,11 +69,7 @@ Scroll 📜: After over a year of building our zkEVM-based zkRollup in close c
         <id>https://twitter.com/defipulse/status/1549919984612040704</id>
         <link href="https://twitter.com/defipulse/status/1549919984612040704"/>
         <updated>2022-07-21T00:51:35.000Z</updated>
-        <summary type="html"><![CDATA[Re @0xPolygon 3/4 @zksync has also announced its native zkEVM rollup - called zkSync 2.0 which will be live on main net in the next 100 days
-zkSync: Over the last year, we've been heads down working to scale Ethereum and accelerate its adoption.
- Today, we’re happy to announce that zkSync 2.0 – the first zkEVM rollup – will be live on mainnet in 100 days.
- Our public roadmap for the rest of the year:
- https://matterlabs.medium.com/100-days-to-mainnet-6f230893bd73]]></summary>
+        <summary type="html"><![CDATA[Re @0xPolygon 3/4 @zksync has also announced its native zkEVM rollup - called zkSync 2.0 which will be live on main net in the next 100 days https://twitter.com/zksync/status/1549757888641437696?s=20&t=Nfzp86VluG11H5RAEAcDVw]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -85,11 +79,7 @@ zkSync: Over the last year, we've been heads down working to scale Ethereum an
         <id>https://twitter.com/defipulse/status/1549919981889916930</id>
         <link href="https://twitter.com/defipulse/status/1549919981889916930"/>
         <updated>2022-07-21T00:51:34.000Z</updated>
-        <summary type="html"><![CDATA[Re 2/4 @0xPolygon announced Polygon #zkEVM, an EVM-equivalent ZK L2 rollup.
-Polygon - MATIC 💜: We are proud to announce a giant leap forward for Ethereum scaling and ZK innovation.
-Introducing Polygon #zkEVM, the first EVM-equivalent ZK L2.
-Today we’re releasing a complete implementation, fully open-source, and we’re just getting started.
-[1/6]]]></summary>
+        <summary type="html"><![CDATA[Re 2/4 @0xPolygon announced Polygon #zkEVM, an EVM-equivalent ZK L2 rollup. https://twitter.com/0xPolygon/status/1549716947847479302?s=20&t=GZmCBJ9IDF142MM19ZWPLQ]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -234,16 +224,6 @@ Quick overview on the 4 major platforms that enabled @0xPolygon liquid staking w
         <link href="https://twitter.com/defipulse/status/1546432019810471938"/>
         <updated>2022-07-11T09:51:39.000Z</updated>
         <summary type="html"><![CDATA[Did you know that DeFi hit $1B in TVL on February 7th 2020? 👀]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re To get news and updates directly to your inbox, sign up for our PolyPulse newsletter:]]></title>
-        <id>https://twitter.com/defipulse/status/1545793775548731394</id>
-        <link href="https://twitter.com/defipulse/status/1545793775548731394"/>
-        <updated>2022-07-09T15:35:30.000Z</updated>
-        <summary type="html"><![CDATA[Re To get news and updates directly to your inbox, sign up for our PolyPulse newsletter: https://yieldfarmer.substack.com/]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
