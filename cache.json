@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1552381676113772544",
+          "author": "DeFi Pulse 🍇",
+          "description": "Re Read the full article here: https://www.defipulse.com/blog/ethereum-merge-supply-dynamics-primer",
+          "link": "https://twitter.com/defipulse/status/1552381676113772544",
+          "publishedOn": "2022-07-27T19:53:28.000Z",
+          "wordCount": 383,
+          "title": "Re Read the full article here:",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1552381674574553089",
+          "author": "DeFi Pulse 🍇",
+          "description": "The Merge will: \n1️⃣ Directly reduce the issuance of ETH \n2️⃣ Restructure ETH incentives for block production\nBut does this guarantee that ETH will become deflationary after the Merge?\n@Scalara_xyz's Nathan Howard gives his full take in this week's featured guest blog below. ⬇️",
+          "link": "https://twitter.com/defipulse/status/1552381674574553089",
+          "publishedOn": "2022-07-27T19:53:27.000Z",
+          "wordCount": 383,
+          "title": "The Merge will: 1️⃣ Directly reduce the issuance of ETH 2️⃣ Restructure ETH incentives for block production But does this guarantee that ETH will ...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1551534646181208065",
           "author": "DeFi Pulse 🍇",
           "description": "Did you miss DeFi Pulse's Traversing the Merge last week? \n📹 Watch @Scalara_xyz's Nathan Howard and @indexcoop's Allan Gulley break down the systemic risk of liquid staking on the Ethereum ecosystem.👇\nFor the full video: https://youtu.be/mot0kIftYa0",
@@ -173,26 +193,6 @@
           "publishedOn": "2022-07-12T22:30:13.000Z",
           "wordCount": 383,
           "title": "Re 2/3 Farming opportunities: @LidoFinance & @BalancerLabs - 12% APY @Stader_Polygon & @Meshswap_Fi - 13% APY @Claystack_HQ - 9% APY @ankrstaking - 9%...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1546985306087366658",
-          "author": "DeFi Pulse 🍇",
-          "description": "Liquid staking solves the issue of capital that is locked across many Proof of Stake (PoS) chains.\nQuick overview on the 4 major platforms that enabled @0xPolygon liquid staking which help boosting your yield.\n👇🧵",
-          "link": "https://twitter.com/defipulse/status/1546985306087366658",
-          "publishedOn": "2022-07-12T22:30:13.000Z",
-          "wordCount": 383,
-          "title": "Liquid staking solves the issue of capital that is locked across many Proof of Stake (PoS) chains. Quick overview on the 4 major platforms that enable...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1546432019810471938",
-          "author": "DeFi Pulse 🍇",
-          "description": "Did you know that DeFi hit $1B in TVL on February 7th 2020? 👀",
-          "link": "https://twitter.com/defipulse/status/1546432019810471938",
-          "publishedOn": "2022-07-11T09:51:39.000Z",
-          "wordCount": 383,
-          "title": "Did you know that DeFi hit $1B in TVL on February 7th 2020? 👀",
           "imageUrl": null
         }
       ]
