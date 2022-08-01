@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-01T08:27:57.197Z</id>
+    <id>urn:2022-08-01T09:23:46.319Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-01T08:27:57.197Z</updated>
+    <updated>2022-08-01T09:23:46.319Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -83,9 +83,7 @@ Register now 👇 https://www.crowdcast.io/e/traversingthemerge]]></summary>
         <link href="https://twitter.com/defipulse/status/1549919987426476034"/>
         <updated>2022-07-21T00:51:35.000Z</updated>
         <summary type="html"><![CDATA[Re @0xPolygon @zksync 4/4 @Scroll_ZKP also launched the first of its kind zkEVM-based zkRollup.
-In a collaboration between the @PrivacyScaling at Ethereum's foundation.
-Scroll 📜: After over a year of building our zkEVM-based zkRollup in close collaboration with the @PrivacyScaling group at the Ethereum Foundation, we are releasing the pre-alpha version of Scroll for external testers! 📜
- https://mirror.xyz/scroll.eth/XQyXDgyxoefag6hcBgGJFz8qrb10rmSU-zUBvY3Q9_A]]></summary>
+In a collaboration between the @PrivacyScaling at Ethereum's foundation. https://twitter.com/Scroll_ZKP/status/1549268276152500225?s=20&t=f5dkRO0wUTenYlYeNLjuug]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -95,11 +93,7 @@ Scroll 📜: After over a year of building our zkEVM-based zkRollup in close c
         <id>https://twitter.com/defipulse/status/1549919984612040704</id>
         <link href="https://twitter.com/defipulse/status/1549919984612040704"/>
         <updated>2022-07-21T00:51:35.000Z</updated>
-        <summary type="html"><![CDATA[Re @0xPolygon 3/4 @zksync has also announced its native zkEVM rollup - called zkSync 2.0 which will be live on main net in the next 100 days
-zkSync: Over the last year, we've been heads down working to scale Ethereum and accelerate its adoption.
- Today, we’re happy to announce that zkSync 2.0 – the first zkEVM rollup – will be live on mainnet in 100 days.
- Our public roadmap for the rest of the year:
- https://matterlabs.medium.com/100-days-to-mainnet-6f230893bd73]]></summary>
+        <summary type="html"><![CDATA[Re @0xPolygon 3/4 @zksync has also announced its native zkEVM rollup - called zkSync 2.0 which will be live on main net in the next 100 days https://twitter.com/zksync/status/1549757888641437696?s=20&t=Nfzp86VluG11H5RAEAcDVw]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -109,11 +103,7 @@ zkSync: Over the last year, we've been heads down working to scale Ethereum an
         <id>https://twitter.com/defipulse/status/1549919981889916930</id>
         <link href="https://twitter.com/defipulse/status/1549919981889916930"/>
         <updated>2022-07-21T00:51:34.000Z</updated>
-        <summary type="html"><![CDATA[Re 2/4 @0xPolygon announced Polygon #zkEVM, an EVM-equivalent ZK L2 rollup.
-Polygon - MATIC 💜: We are proud to announce a giant leap forward for Ethereum scaling and ZK innovation.
-Introducing Polygon #zkEVM, the first EVM-equivalent ZK L2.
-Today we’re releasing a complete implementation, fully open-source, and we’re just getting started.
-[1/6]]]></summary>
+        <summary type="html"><![CDATA[Re 2/4 @0xPolygon announced Polygon #zkEVM, an EVM-equivalent ZK L2 rollup. https://twitter.com/0xPolygon/status/1549716947847479302?s=20&t=GZmCBJ9IDF142MM19ZWPLQ]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -236,18 +226,6 @@ Read the full guest blog from $DPI methodologist @Scalara_xyz's @fallow8DeFi bel
 @Stader_Polygon & @Meshswap_Fi - 13% APY
 @Claystack_HQ - 9% APY
 @ankrstaking  - 9% APY]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liquid staking solves the issue of capital that is locked across many Proof of Stake (PoS) chains. Quick overview on the 4 major platforms that enable...]]></title>
-        <id>https://twitter.com/defipulse/status/1546985306087366658</id>
-        <link href="https://twitter.com/defipulse/status/1546985306087366658"/>
-        <updated>2022-07-12T22:30:13.000Z</updated>
-        <summary type="html"><![CDATA[Liquid staking solves the issue of capital that is locked across many Proof of Stake (PoS) chains.
-Quick overview on the 4 major platforms that enabled @0xPolygon liquid staking which help boosting your yield.
-👇🧵]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
