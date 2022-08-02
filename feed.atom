@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-02T18:26:25.311Z</id>
+    <id>urn:2022-08-02T19:16:51.025Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-02T18:26:25.311Z</updated>
+    <updated>2022-08-02T19:16:51.025Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -234,20 +234,6 @@ Read the full guest blog from $DPI methodologist @Scalara_xyz's @fallow8DeFi bel
         <link href="https://twitter.com/defipulse/status/1546985309476364288"/>
         <updated>2022-07-12T22:30:14.000Z</updated>
         <summary type="html"><![CDATA[Re 3/3 Learn more on how to boost your yields through liquid staking on @0xPolygon in the article below 👇 https://bit.ly/3yxC0L6]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 2/3 Farming opportunities: @LidoFinance & @BalancerLabs - 12% APY @Stader_Polygon & @Meshswap_Fi - 13% APY @Claystack_HQ - 9% APY @ankrstaking - 9%...]]></title>
-        <id>https://twitter.com/defipulse/status/1546985307949699073</id>
-        <link href="https://twitter.com/defipulse/status/1546985307949699073"/>
-        <updated>2022-07-12T22:30:13.000Z</updated>
-        <summary type="html"><![CDATA[Re 2/3 Farming opportunities:
-@LidoFinance & @BalancerLabs - 12% APY
-@Stader_Polygon & @Meshswap_Fi - 13% APY
-@Claystack_HQ - 9% APY
-@ankrstaking  - 9% APY]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
