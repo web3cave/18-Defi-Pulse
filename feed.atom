@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-02T09:20:23.795Z</id>
+    <id>urn:2022-08-02T10:28:03.277Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-02T09:20:23.795Z</updated>
+    <updated>2022-08-02T10:28:03.277Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Sharding was once ahead of the Proof of Stake transition on Ethereum's scalability roadmap. Listen to Nathan Howard from @Scalara_xyz and Allan Gulley...]]></title>
+        <id>https://twitter.com/defipulse/status/1554385305079320577</id>
+        <link href="https://twitter.com/defipulse/status/1554385305079320577"/>
+        <updated>2022-08-02T08:35:10.000Z</updated>
+        <summary type="html"><![CDATA[Sharding was once ahead of the Proof of Stake transition on Ethereum's scalability roadmap. 
+Listen to Nathan Howard from @Scalara_xyz and Allan Gulley from @indexcoop share how the growth of L2s changed that. 👇
+Watch the full video: https://youtu.be/mot0kIftYa0]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re Read the full article here:]]></title>
         <id>https://twitter.com/defipulse/status/1552381676113772544</id>
