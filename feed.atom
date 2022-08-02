@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-02T19:16:51.025Z</id>
+    <id>urn:2022-08-02T20:23:37.178Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-02T19:16:51.025Z</updated>
+    <updated>2022-08-02T20:23:37.178Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT bgdlabs: A multi-chain strategy like Aave's needs as much security assurance as possible regarding cross-chain assets. Time to move on Aave <> Proo...]]></title>
+        <id>https://twitter.com/bgdlabs/status/1554450972352593920</id>
+        <link href="https://twitter.com/bgdlabs/status/1554450972352593920"/>
+        <updated>2022-08-02T12:56:06.000Z</updated>
+        <summary type="html"><![CDATA[RT bgdlabs
+A multi-chain strategy like Aave's needs as much security assurance as possible regarding cross-chain assets.
+Time to move on Aave <> Proof-of-Reserve https://governance.aave.com/t/bgd-aave-chainlink-proof-of-reserve-phase-1/9168]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sharding was once ahead of the Proof of Stake transition on Ethereum's scalability roadmap. Listen to Nathan Howard from @Scalara_xyz and Allan Gulley...]]></title>
         <id>https://twitter.com/defipulse/status/1554385305079320577</id>
