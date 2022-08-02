@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-02T07:21:32.519Z</id>
+    <id>urn:2022-08-02T08:28:55.650Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-02T07:21:32.519Z</updated>
+    <updated>2022-08-02T08:28:55.650Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -236,18 +236,6 @@ Read the full guest blog from $DPI methodologist @Scalara_xyz's @fallow8DeFi bel
 @Stader_Polygon & @Meshswap_Fi - 13% APY
 @Claystack_HQ - 9% APY
 @ankrstaking  - 9% APY]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liquid staking solves the issue of capital that is locked across many Proof of Stake (PoS) chains. Quick overview on the 4 major platforms that enable...]]></title>
-        <id>https://twitter.com/defipulse/status/1546985306087366658</id>
-        <link href="https://twitter.com/defipulse/status/1546985306087366658"/>
-        <updated>2022-07-12T22:30:13.000Z</updated>
-        <summary type="html"><![CDATA[Liquid staking solves the issue of capital that is locked across many Proof of Stake (PoS) chains.
-Quick overview on the 4 major platforms that enabled @0xPolygon liquid staking which help boosting your yield.
-👇🧵]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
