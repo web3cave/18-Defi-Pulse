@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-03T17:22:06.752Z</id>
+    <id>urn:2022-08-03T18:26:47.937Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-03T17:22:06.752Z</updated>
+    <updated>2022-08-03T18:26:47.937Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -240,17 +240,6 @@ A dive into the green initiative with latest updates on “What’s up with DeFi
 Feel free to subscribe: 
 A thread (🧵)
 @0xPolygon @defipulse https://yieldfarmer.substack.com/p/-polypulse-30-polygon-is-going-carbon?sd=pf]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weeks after @MakerDAO stopped Aave's direct deposit module, @Aaveaave is making the move to enter the stablecoin market by launching its native $GHO d...]]></title>
-        <id>https://twitter.com/defipulse/status/1547669417307152385</id>
-        <link href="https://twitter.com/defipulse/status/1547669417307152385"/>
-        <updated>2022-07-14T19:48:38.000Z</updated>
-        <summary type="html"><![CDATA[Weeks after @MakerDAO stopped Aave's direct deposit module, @Aaveaave is making the move to enter the stablecoin market by launching its native $GHO decentralized stablecoin pegged to USD & backed by aToken collateral.
-Read more below 👇 https://yieldfarmer.substack.com/p/-aave-and-the-stable-wars]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
