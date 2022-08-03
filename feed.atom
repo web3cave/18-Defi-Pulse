@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-03T15:25:57.975Z</id>
+    <id>urn:2022-08-03T16:30:55.613Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-03T15:25:57.975Z</updated>
+    <updated>2022-08-03T16:30:55.613Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[🏦A Senate bill, the Digital Commodities Consumer Protection Act of 2022, is being introduced today. TL;DR — the proposal is net positive, but it n...]]></title>
+        <id>https://twitter.com/defipulse/status/1554842008447074307</id>
+        <link href="https://twitter.com/defipulse/status/1554842008447074307"/>
+        <updated>2022-08-03T14:49:57.000Z</updated>
+        <summary type="html"><![CDATA[🏦A Senate bill, the Digital Commodities Consumer Protection Act of 2022, is being introduced today.
+TL;DR — the proposal is net positive, but it needs more definition clarity for devs, node operators, & individual traders to prevent overreach.
+See @valkenburgh's breakdown👇
+Peter Van Valkenburgh: 1/ New Crypto Bill in Senate: read this thread or our post for the full download on what it does and what risks it poses to software developers and individual crypto users.
+ https://www.coincenter.org/a-new-senate-bill-focuses-on-cryptocurrency-exchanges-heres-what-developers-and-users-should-keep-an-eye-on/]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[📢The July rebalancing of the DeFi Pulse Index has been announced! For all the details, check out the update from @Scalara_xyz. 👇]]></title>
         <id>https://twitter.com/defipulse/status/1554827243037380609</id>
@@ -237,19 +251,6 @@ A thread (🧵)
         <updated>2022-07-14T19:48:38.000Z</updated>
         <summary type="html"><![CDATA[Weeks after @MakerDAO stopped Aave's direct deposit module, @Aaveaave is making the move to enter the stablecoin market by launching its native $GHO decentralized stablecoin pegged to USD & backed by aToken collateral.
 Read more below 👇 https://yieldfarmer.substack.com/p/-aave-and-the-stable-wars]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Index Coop 🦉: DeFi Proves Resilient in the Bear Market While crypto prices plummeted and centralized lenders collapsed, these 3 major DeFi use c...]]></title>
-        <id>https://twitter.com/indexcoop/status/1547240667541553152</id>
-        <link href="https://twitter.com/indexcoop/status/1547240667541553152"/>
-        <updated>2022-07-13T15:24:56.000Z</updated>
-        <summary type="html"><![CDATA[RT Index Coop 🦉
-DeFi Proves Resilient in the Bear Market 
-While crypto prices plummeted and centralized lenders collapsed, these 3 major DeFi use cases proved their resilience
-Read the full guest blog from $DPI methodologist @Scalara_xyz's @fallow8DeFi below ⬇️]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
