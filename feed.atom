@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-03T22:21:12.539Z</id>
+    <id>urn:2022-08-03T23:22:03.352Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-03T22:21:12.539Z</updated>
+    <updated>2022-08-03T23:22:03.352Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Get ready for the next Traversing the Merge! 🦇🔊 Tune in to hear Scalara's @fallow8DeFi & Ethereum researcher @drakefjustin discuss how the Merge...]]></title>
+        <id>https://twitter.com/defipulse/status/1554938413148782592</id>
+        <link href="https://twitter.com/defipulse/status/1554938413148782592"/>
+        <updated>2022-08-03T21:13:01.000Z</updated>
+        <summary type="html"><![CDATA[Get ready for the next Traversing the Merge! 🦇🔊
+Tune in to hear Scalara's @fallow8DeFi & Ethereum researcher @drakefjustin discuss how the Merge completes ETH as "ultrasound money" & Ethereum's security outlook.
+🗓️ August 9th ⏰ 2:30 pm UTC
+Register: https://www.crowdcast.io/c/traversingthemerge-justindrake]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🏦A Senate bill, the Digital Commodities Consumer Protection Act of 2022, is being introduced today. TL;DR — the proposal is net positive, but it n...]]></title>
         <id>https://twitter.com/defipulse/status/1554842008447074307</id>
