@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1554827243037380609",
+          "author": "DeFi Pulse 🍇",
+          "description": "📢The July rebalancing of the DeFi Pulse Index has been announced! \nFor all the details, check out the update from @Scalara_xyz. 👇\nScalara: 🔁Scalara announces the results of the July rebalancing of the DeFi Pulse Index.\nThe DeFi Pulse Index is the leading benchmark of the DeFi sector and available as a single token $DPI by @indexcoop and @SetProtocol.\n https://www.scalara.xyz/blog/july-2022-rebalance-defi-pulse-index",
+          "link": "https://twitter.com/defipulse/status/1554827243037380609",
+          "publishedOn": "2022-08-03T13:51:16.000Z",
+          "wordCount": 382,
+          "title": "📢The July rebalancing of the DeFi Pulse Index has been announced! For all the details, check out the update from @Scalara_xyz. 👇",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/bgdlabs/status/1554450972352593920",
           "author": "DeFi Pulse 🍇",
           "description": "RT bgdlabs\nA multi-chain strategy like Aave's needs as much security assurance as possible regarding cross-chain assets.\nTime to move on Aave <> Proof-of-Reserve https://governance.aave.com/t/bgd-aave-chainlink-proof-of-reserve-phase-1/9168",
@@ -193,16 +203,6 @@
           "publishedOn": "2022-07-13T15:24:56.000Z",
           "wordCount": 382,
           "title": "RT Index Coop 🦉: DeFi Proves Resilient in the Bear Market While crypto prices plummeted and centralized lenders collapsed, these 3 major DeFi use c...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1546985309476364288",
-          "author": "DeFi Pulse 🍇",
-          "description": "Re 3/3 Learn more on how to boost your yields through liquid staking on @0xPolygon in the article below 👇 https://bit.ly/3yxC0L6",
-          "link": "https://twitter.com/defipulse/status/1546985309476364288",
-          "publishedOn": "2022-07-12T22:30:14.000Z",
-          "wordCount": 382,
-          "title": "Re 3/3 Learn more on how to boost your yields through liquid staking on @0xPolygon in the article below 👇",
           "imageUrl": null
         }
       ]
