@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-04T02:01:37.047Z</id>
+    <id>urn:2022-08-04T03:57:03.119Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-04T02:01:37.047Z</updated>
+    <updated>2022-08-04T03:57:03.119Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -238,6 +238,21 @@ Save a seat: https://www.crowdcast.io/e/traversingthemerge]]></summary>
         <link href="https://twitter.com/defipulse/status/1548987485929234433"/>
         <updated>2022-07-18T11:06:10.000Z</updated>
         <summary type="html"><![CDATA[gm everyone! hope you have a green week ahead 🙌]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Aishwary.eth/lens💜🧠: The latest #PolyPulse is out for you to enjoy. A dive into the green initiative with latest updates on “What’s up with...]]></title>
+        <id>https://twitter.com/Crypto_Wildwest/status/1548004948671025152</id>
+        <link href="https://twitter.com/Crypto_Wildwest/status/1548004948671025152"/>
+        <updated>2022-07-15T18:01:54.000Z</updated>
+        <summary type="html"><![CDATA[RT Aishwary.eth/lens💜🧠
+The latest #PolyPulse is out for you to enjoy. 
+A dive into the green initiative with latest updates on “What’s up with DeFi and Ethereum Merge.”
+Feel free to subscribe: 
+A thread (🧵)
+@0xPolygon @defipulse https://yieldfarmer.substack.com/p/-polypulse-30-polygon-is-going-carbon?sd=pf]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
