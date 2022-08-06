@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1555930198184722432",
+          "author": "DeFi Pulse 🍇",
+          "description": "Ethereum's upgrade is coming & rumors of a \"miners\" PoW fork are starting to emerge!\nJoin Scalara's @fallow8DeFi & Ethereum researcher @drakefjustin as they unpack \"ultra-sound\" Ethereum & the possible PoW fork.\n🗓️ August 9th ⏰ 2:30 pm UTC\nRegister: https://www.crowdcast.io/c/traversingthemerge-justindrake",
+          "link": "https://twitter.com/defipulse/status/1555930198184722432",
+          "publishedOn": "2022-08-06T14:54:01.000Z",
+          "wordCount": 382,
+          "title": "Ethereum's upgrade is coming & rumors of a \"miners\" PoW fork are starting to emerge! Join Scalara's @fallow8DeFi & Ethereum researcher @drakefjustin a...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1555563483915321345",
           "author": "DeFi Pulse 🍇",
           "description": "In early July, Maker passed the RWA-009 proposal, which approved HV Bank as a new vault type with a $100M initial debt ceiling & targeting $1B in 12 months. \nAre we starting to see Maker actually lending to HV Bank? 👀👇\nLearn more about RWA-009 here:\nSébastien Derivaux: Is that @MakerDAO lending to a regulated US bank?\n👀👀👀👀👀",
@@ -193,16 +203,6 @@
           "publishedOn": "2022-07-19T21:38:08.000Z",
           "wordCount": 382,
           "title": "From token inflation and lack of utility to the burst of the move2earn bubble: read our take on @Stepnofficial's failed economic model 👇",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1549191289090052100",
-          "author": "DeFi Pulse 🍇",
-          "description": "✨ Are you ready to Traverse the Merge? \nJoin host Nathan Howard of @Scalara_xyz & @indexcoop's Allen Gully for a discussion on how the Merge will change the ETH supply & the downstream effects on DeFi.\nJuly 21st at 6pm UTC\nSave a seat: https://www.crowdcast.io/e/traversingthemerge",
-          "link": "https://twitter.com/defipulse/status/1549191289090052100",
-          "publishedOn": "2022-07-19T00:36:00.000Z",
-          "wordCount": 382,
-          "title": "✨ Are you ready to Traverse the Merge? Join host Nathan Howard of @Scalara_xyz & @indexcoop's Allen Gully for a discussion on how the Merge will chan...",
           "imageUrl": null
         }
       ]
