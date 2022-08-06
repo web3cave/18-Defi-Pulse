@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-06T05:19:05.277Z</id>
+    <id>urn:2022-08-06T06:25:32.730Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-06T05:19:05.277Z</updated>
+    <updated>2022-08-06T06:25:32.730Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[In early July, Maker passed the RWA-009 proposal, which approved HV Bank as a new vault type with a $100M initial debt ceiling & targeting $1B in 12 m...]]></title>
+        <id>https://twitter.com/defipulse/status/1555563483915321345</id>
+        <link href="https://twitter.com/defipulse/status/1555563483915321345"/>
+        <updated>2022-08-05T14:36:50.000Z</updated>
+        <summary type="html"><![CDATA[In early July, Maker passed the RWA-009 proposal, which approved HV Bank as a new vault type with a $100M initial debt ceiling & targeting $1B in 12 months. 
+Are we starting to see Maker actually lending to HV Bank? 👀👇
+Learn more about RWA-009 here:
+Sébastien Derivaux: Is that @MakerDAO lending to a regulated US bank?
+👀👀👀👀👀]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Nathan Howard: Really excited about this conversation with @drakefjustin next week. He's the leading voice on ETH economic security and we're aimin...]]></title>
+        <id>https://twitter.com/fallow8DeFi/status/1555560829273137154</id>
+        <link href="https://twitter.com/fallow8DeFi/status/1555560829273137154"/>
+        <updated>2022-08-05T14:26:17.000Z</updated>
+        <summary type="html"><![CDATA[RT Nathan Howard
+Really excited about this conversation with @drakefjustin next week. He's the leading voice on ETH economic security and we're aiming to help everyone (including myself) better understand what the Merge means for the future.
+DeFi Pulse 🍇: Get ready for the next Traversing the Merge! 🦇🔊
+Tune in to hear Scalara's @fallow8DeFi & Ethereum researcher @drakefjustin discuss how the Merge completes ETH as "ultrasound money" & Ethereum's security outlook.
+🗓️ August 9th ⏰ 2:30 pm UTC
+Register:
+ https://www.crowdcast.io/c/traversingthemerge-justindrake]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Get ready for the next Traversing the Merge! 🦇🔊 Tune in to hear Scalara's @fallow8DeFi & Ethereum researcher @drakefjustin discuss how the Merge...]]></title>
         <id>https://twitter.com/defipulse/status/1554938413148782592</id>
@@ -228,16 +258,6 @@ Save a seat 👇 https://bit.ly/3yUxoPn]]></summary>
 Join host Nathan Howard of @Scalara_xyz & @indexcoop's Allen Gully for a discussion on how the Merge will change the ETH supply & the downstream effects on DeFi.
 July 21st at 6pm UTC
 Save a seat: https://www.crowdcast.io/e/traversingthemerge]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[gm everyone! hope you have a green week ahead 🙌]]></title>
-        <id>https://twitter.com/defipulse/status/1548987485929234433</id>
-        <link href="https://twitter.com/defipulse/status/1548987485929234433"/>
-        <updated>2022-07-18T11:06:10.000Z</updated>
-        <summary type="html"><![CDATA[gm everyone! hope you have a green week ahead 🙌]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
