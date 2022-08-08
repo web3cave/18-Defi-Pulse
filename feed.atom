@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-08T20:23:17.548Z</id>
+    <id>urn:2022-08-08T21:18:33.645Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-08T20:23:17.548Z</updated>
+    <updated>2022-08-08T21:18:33.645Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Don't miss the next Traversing the Merge w/ Ethereum Researcher Justin Drake.🦇 🔊 Join host @fallow8DeFi & @drakefjustin as they discuss how the ...]]></title>
+        <id>https://twitter.com/defipulse/status/1556734234118823943</id>
+        <link href="https://twitter.com/defipulse/status/1556734234118823943"/>
+        <updated>2022-08-08T20:08:58.000Z</updated>
+        <summary type="html"><![CDATA[Don't miss the next Traversing the Merge w/ Ethereum Researcher Justin Drake.🦇 🔊
+Join host @fallow8DeFi & @drakefjustin as they discuss how the Merge completes ETH as "Ultrasound Money" & the possible PoW fork.
+⏰ August 9th at 2:30pm UTC
+Save a seat: https://www.crowdcast.io/c/traversingthemerge-justindrake]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum's upgrade is coming & rumors of a "miners" PoW fork are starting to emerge! Join Scalara's @fallow8DeFi & Ethereum researcher @drakefjustin a...]]></title>
         <id>https://twitter.com/defipulse/status/1555930198184722432</id>
@@ -235,29 +248,6 @@ Today we’re releasing a complete implementation, fully open-source, and we’r
 3 different #zkEVM rollups were announced, they 
 all claim to be the first to do it.
 Learn more 👇]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do you hold liquid staking $ETH tokens? Curious to find out what will happen to them after the Merge? Join @Scalara_xyz & @indexcoop's discussion on h...]]></title>
-        <id>https://twitter.com/defipulse/status/1549754794272870400</id>
-        <link href="https://twitter.com/defipulse/status/1549754794272870400"/>
-        <updated>2022-07-20T13:55:10.000Z</updated>
-        <summary type="html"><![CDATA[Do you hold liquid staking $ETH tokens? Curious to find out what will happen to them after the Merge?
-Join @Scalara_xyz & @indexcoop's discussion on how ETH's supply will be affected & the downstream effects on DeFi.
-📌 July 21st, 6pm UTC
-Save a seat 👇 https://bit.ly/3yUxoPn]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From token inflation and lack of utility to the burst of the move2earn bubble: read our take on @Stepnofficial's failed economic model 👇]]></title>
-        <id>https://twitter.com/defipulse/status/1549508915028807680</id>
-        <link href="https://twitter.com/defipulse/status/1549508915028807680"/>
-        <updated>2022-07-19T21:38:08.000Z</updated>
-        <summary type="html"><![CDATA[From token inflation and lack of utility to the burst of the move2earn bubble: read our take on @Stepnofficial's failed economic model 👇 https://www.defipulse.com/blog/stepn-and-unsustainable-reward-mechanisms]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>

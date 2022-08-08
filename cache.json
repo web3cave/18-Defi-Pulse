@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1556734234118823943",
+          "author": "DeFi Pulse 🍇",
+          "description": "Don't miss the next Traversing the Merge w/ Ethereum Researcher Justin Drake.🦇 🔊\nJoin host @fallow8DeFi & @drakefjustin as they discuss how the Merge completes ETH as \"Ultrasound Money\" & the possible PoW fork.\n⏰ August 9th at 2:30pm UTC\nSave a seat: https://www.crowdcast.io/c/traversingthemerge-justindrake",
+          "link": "https://twitter.com/defipulse/status/1556734234118823943",
+          "publishedOn": "2022-08-08T20:08:58.000Z",
+          "wordCount": 382,
+          "title": "Don't miss the next Traversing the Merge w/ Ethereum Researcher Justin Drake.🦇 🔊 Join host @fallow8DeFi & @drakefjustin as they discuss how the ...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1555930198184722432",
           "author": "DeFi Pulse 🍇",
           "description": "Ethereum's upgrade is coming & rumors of a \"miners\" PoW fork are starting to emerge!\nJoin Scalara's @fallow8DeFi & Ethereum researcher @drakefjustin as they unpack \"ultra-sound\" Ethereum & the possible PoW fork.\n🗓️ August 9th ⏰ 2:30 pm UTC\nRegister: https://www.crowdcast.io/c/traversingthemerge-justindrake",
@@ -183,26 +193,6 @@
           "publishedOn": "2022-07-21T00:51:33.000Z",
           "wordCount": 382,
           "title": "Today Ethereum scaling made a big leap forward. 3 different #zkEVM rollups were announced, they all claim to be the first to do it. Learn more 👇",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1549754794272870400",
-          "author": "DeFi Pulse 🍇",
-          "description": "Do you hold liquid staking $ETH tokens? Curious to find out what will happen to them after the Merge?\nJoin @Scalara_xyz & @indexcoop's discussion on how ETH's supply will be affected & the downstream effects on DeFi.\n📌 July 21st, 6pm UTC\nSave a seat 👇 https://bit.ly/3yUxoPn",
-          "link": "https://twitter.com/defipulse/status/1549754794272870400",
-          "publishedOn": "2022-07-20T13:55:10.000Z",
-          "wordCount": 382,
-          "title": "Do you hold liquid staking $ETH tokens? Curious to find out what will happen to them after the Merge? Join @Scalara_xyz & @indexcoop's discussion on h...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1549508915028807680",
-          "author": "DeFi Pulse 🍇",
-          "description": "From token inflation and lack of utility to the burst of the move2earn bubble: read our take on @Stepnofficial's failed economic model 👇 https://www.defipulse.com/blog/stepn-and-unsustainable-reward-mechanisms",
-          "link": "https://twitter.com/defipulse/status/1549508915028807680",
-          "publishedOn": "2022-07-19T21:38:08.000Z",
-          "wordCount": 382,
-          "title": "From token inflation and lack of utility to the burst of the move2earn bubble: read our take on @Stepnofficial's failed economic model 👇",
           "imageUrl": null
         }
       ]
