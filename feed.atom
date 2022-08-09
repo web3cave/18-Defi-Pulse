@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-09T13:51:01.516Z</id>
+    <id>urn:2022-08-09T14:22:54.172Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-09T13:51:01.516Z</updated>
+    <updated>2022-08-09T14:22:54.172Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[🚨 Starting in 15 minutes — Traversing the Merge with host @fallow8DeFi and special guest Ethereum Researcher @drakefjustin! Join us here👇]]></title>
+        <id>https://twitter.com/defipulse/status/1557008650216013824</id>
+        <link href="https://twitter.com/defipulse/status/1557008650216013824"/>
+        <updated>2022-08-09T14:19:24.000Z</updated>
+        <summary type="html"><![CDATA[🚨 Starting in 15 minutes — Traversing the Merge with host @fallow8DeFi and special guest Ethereum Researcher @drakefjustin! 
+Join us here👇 https://twitter.com/i/broadcasts/1ynJOZDeBDWGR]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Don't miss the next Traversing the Merge w/ Ethereum Researcher Justin Drake.🦇 🔊 Join host @fallow8DeFi & @drakefjustin as they discuss how the ...]]></title>
         <id>https://twitter.com/defipulse/status/1556734234118823943</id>
@@ -248,19 +259,6 @@ Today we’re releasing a complete implementation, fully open-source, and we’r
 3 different #zkEVM rollups were announced, they 
 all claim to be the first to do it.
 Learn more 👇]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do you hold liquid staking $ETH tokens? Curious to find out what will happen to them after the Merge? Join @Scalara_xyz & @indexcoop's discussion on h...]]></title>
-        <id>https://twitter.com/defipulse/status/1549754794272870400</id>
-        <link href="https://twitter.com/defipulse/status/1549754794272870400"/>
-        <updated>2022-07-20T13:55:10.000Z</updated>
-        <summary type="html"><![CDATA[Do you hold liquid staking $ETH tokens? Curious to find out what will happen to them after the Merge?
-Join @Scalara_xyz & @indexcoop's discussion on how ETH's supply will be affected & the downstream effects on DeFi.
-📌 July 21st, 6pm UTC
-Save a seat 👇 https://bit.ly/3yUxoPn]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
