@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-10T18:26:03.838Z</id>
+    <id>urn:2022-08-10T19:17:29.085Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-10T18:26:03.838Z</updated>
+    <updated>2022-08-10T19:17:29.085Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[🎥 Did you miss the Traversing the Merge with @drakefjustin? Watch as he breaks down: ➡️ How the Merge completes Ethereum as "Ultrasound Money" ➡...]]></title>
+        <id>https://twitter.com/defipulse/status/1557438473493422080</id>
+        <link href="https://twitter.com/defipulse/status/1557438473493422080"/>
+        <updated>2022-08-10T18:47:22.000Z</updated>
+        <summary type="html"><![CDATA[🎥 Did you miss the Traversing the Merge with @drakefjustin? Watch as he breaks down: 
+➡️ How the Merge completes Ethereum as "Ultrasound Money"
+➡️  Economic security & why it's important
+➡️  The possibility of a PoW fork
+Check out the whole discussion 👇 https://twitter.com/i/broadcasts/1ynJOZDeBDWGR]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🚨 Starting in 15 minutes — Traversing the Merge with host @fallow8DeFi and special guest Ethereum Researcher @drakefjustin! Join us here👇]]></title>
         <id>https://twitter.com/defipulse/status/1557008650216013824</id>
@@ -246,19 +260,6 @@ Polygon - MATIC 💜: We are proud to announce a giant leap forward for Ethere
 Introducing Polygon #zkEVM, the first EVM-equivalent ZK L2.
 Today we’re releasing a complete implementation, fully open-source, and we’re just getting started.
 [1/6]]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today Ethereum scaling made a big leap forward. 3 different #zkEVM rollups were announced, they all claim to be the first to do it. Learn more 👇]]></title>
-        <id>https://twitter.com/defipulse/status/1549919979327213568</id>
-        <link href="https://twitter.com/defipulse/status/1549919979327213568"/>
-        <updated>2022-07-21T00:51:33.000Z</updated>
-        <summary type="html"><![CDATA[Today Ethereum scaling made a big leap forward. 
-3 different #zkEVM rollups were announced, they 
-all claim to be the first to do it.
-Learn more 👇]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
