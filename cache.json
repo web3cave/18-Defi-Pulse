@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1557754848044584963",
+          "author": "DeFi Pulse 🍇",
+          "description": "It's getting real. 👀\nTim Beiko | timbeiko.eth 🐼: 58750000000000000000000",
+          "link": "https://twitter.com/defipulse/status/1557754848044584963",
+          "publishedOn": "2022-08-11T15:44:32.000Z",
+          "wordCount": 383,
+          "title": "It's getting real. 👀",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1557438473493422080",
           "author": "DeFi Pulse 🍇",
           "description": "🎥 Did you miss the Traversing the Merge with @drakefjustin? Watch as he breaks down: \n➡️ How the Merge completes Ethereum as \"Ultrasound Money\"\n➡️  Economic security & why it's important\n➡️  The possibility of a PoW fork\nCheck out the whole discussion 👇 https://twitter.com/i/broadcasts/1ynJOZDeBDWGR",
@@ -193,16 +203,6 @@
           "publishedOn": "2022-07-21T00:51:35.000Z",
           "wordCount": 383,
           "title": "Re @0xPolygon 3/4 @zksync has also announced its native zkEVM rollup - called zkSync 2.0 which will be live on main net in the next 100 days",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1549919981889916930",
-          "author": "DeFi Pulse 🍇",
-          "description": "Re 2/4 @0xPolygon announced Polygon #zkEVM, an EVM-equivalent ZK L2 rollup.\nPolygon - MATIC 💜: We are proud to announce a giant leap forward for Ethereum scaling and ZK innovation.\nIntroducing Polygon #zkEVM, the first EVM-equivalent ZK L2.\nToday we’re releasing a complete implementation, fully open-source, and we’re just getting started.\n[1/6]",
-          "link": "https://twitter.com/defipulse/status/1549919981889916930",
-          "publishedOn": "2022-07-21T00:51:34.000Z",
-          "wordCount": 383,
-          "title": "Re 2/4 @0xPolygon announced Polygon #zkEVM, an EVM-equivalent ZK L2 rollup.",
           "imageUrl": null
         }
       ]

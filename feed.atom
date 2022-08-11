@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-11T15:22:46.998Z</id>
+    <id>urn:2022-08-11T16:29:28.568Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-11T15:22:46.998Z</updated>
+    <updated>2022-08-11T16:29:28.568Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[It's getting real. 👀]]></title>
+        <id>https://twitter.com/defipulse/status/1557754848044584963</id>
+        <link href="https://twitter.com/defipulse/status/1557754848044584963"/>
+        <updated>2022-08-11T15:44:32.000Z</updated>
+        <summary type="html"><![CDATA[It's getting real. 👀
+Tim Beiko | timbeiko.eth 🐼: 58750000000000000000000]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🎥 Did you miss the Traversing the Merge with @drakefjustin? Watch as he breaks down: ➡️ How the Merge completes Ethereum as "Ultrasound Money" ➡...]]></title>
         <id>https://twitter.com/defipulse/status/1557438473493422080</id>
@@ -246,20 +257,6 @@ zkSync: Over the last year, we've been heads down working to scale Ethereum an
  Today, we’re happy to announce that zkSync 2.0 – the first zkEVM rollup – will be live on mainnet in 100 days.
  Our public roadmap for the rest of the year:
  https://matterlabs.medium.com/100-days-to-mainnet-6f230893bd73]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 2/4 @0xPolygon announced Polygon #zkEVM, an EVM-equivalent ZK L2 rollup.]]></title>
-        <id>https://twitter.com/defipulse/status/1549919981889916930</id>
-        <link href="https://twitter.com/defipulse/status/1549919981889916930"/>
-        <updated>2022-07-21T00:51:34.000Z</updated>
-        <summary type="html"><![CDATA[Re 2/4 @0xPolygon announced Polygon #zkEVM, an EVM-equivalent ZK L2 rollup.
-Polygon - MATIC 💜: We are proud to announce a giant leap forward for Ethereum scaling and ZK innovation.
-Introducing Polygon #zkEVM, the first EVM-equivalent ZK L2.
-Today we’re releasing a complete implementation, fully open-source, and we’re just getting started.
-[1/6]]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
