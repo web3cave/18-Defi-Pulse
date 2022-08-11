@@ -194,6 +194,16 @@
           "wordCount": 383,
           "title": "Re @0xPolygon 3/4 @zksync has also announced its native zkEVM rollup - called zkSync 2.0 which will be live on main net in the next 100 days",
           "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1549919981889916930",
+          "author": "DeFi Pulse 🍇",
+          "description": "Re 2/4 @0xPolygon announced Polygon #zkEVM, an EVM-equivalent ZK L2 rollup.\nPolygon - MATIC 💜: We are proud to announce a giant leap forward for Ethereum scaling and ZK innovation.\nIntroducing Polygon #zkEVM, the first EVM-equivalent ZK L2.\nToday we’re releasing a complete implementation, fully open-source, and we’re just getting started.\n[1/6]",
+          "link": "https://twitter.com/defipulse/status/1549919981889916930",
+          "publishedOn": "2022-07-21T00:51:34.000Z",
+          "wordCount": 383,
+          "title": "Re 2/4 @0xPolygon announced Polygon #zkEVM, an EVM-equivalent ZK L2 rollup.",
+          "imageUrl": null
         }
       ]
     }
