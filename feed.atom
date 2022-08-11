@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-11T20:21:47.651Z</id>
+    <id>urn:2022-08-11T21:19:25.283Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-11T20:21:47.651Z</updated>
+    <updated>2022-08-11T21:19:25.283Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -243,6 +243,20 @@ Register now 👇 https://www.crowdcast.io/e/traversingthemerge]]></summary>
 In a collaboration between the @PrivacyScaling at Ethereum's foundation.
 Scroll 📜: After over a year of building our zkEVM-based zkRollup in close collaboration with the @PrivacyScaling group at the Ethereum Foundation, we are releasing the pre-alpha version of Scroll for external testers! 📜
  https://mirror.xyz/scroll.eth/XQyXDgyxoefag6hcBgGJFz8qrb10rmSU-zUBvY3Q9_A]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @0xPolygon 3/4 @zksync has also announced its native zkEVM rollup - called zkSync 2.0 which will be live on main net in the next 100 days]]></title>
+        <id>https://twitter.com/defipulse/status/1549919984612040704</id>
+        <link href="https://twitter.com/defipulse/status/1549919984612040704"/>
+        <updated>2022-07-21T00:51:35.000Z</updated>
+        <summary type="html"><![CDATA[Re @0xPolygon 3/4 @zksync has also announced its native zkEVM rollup - called zkSync 2.0 which will be live on main net in the next 100 days
+zkSync: Over the last year, we've been heads down working to scale Ethereum and accelerate its adoption.
+ Today, we’re happy to announce that zkSync 2.0 – the first zkEVM rollup – will be live on mainnet in 100 days.
+ Our public roadmap for the rest of the year:
+ https://matterlabs.medium.com/100-days-to-mainnet-6f230893bd73]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
