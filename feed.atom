@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-12T21:18:53.002Z</id>
+    <id>urn:2022-08-12T22:23:11.553Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-12T21:18:53.002Z</updated>
+    <updated>2022-08-12T22:23:11.553Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[🐼 With the Merge just around the corner, watch @drakefjustin discuss how the Merge completes Ethereum as "Ultrasound Money" and sets ETH up as the ...]]></title>
+        <id>https://twitter.com/defipulse/status/1558215317108686852</id>
+        <link href="https://twitter.com/defipulse/status/1558215317108686852"/>
+        <updated>2022-08-12T22:14:16.000Z</updated>
+        <summary type="html"><![CDATA[🐼 With the Merge just around the corner, watch @drakefjustin discuss how the Merge completes Ethereum as "Ultrasound Money" and sets ETH up as the next monetary premium. 
+📹 Watch the full discussion here: https://youtu.be/ns4A_00A04g]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[It's getting real. 👀]]></title>
         <id>https://twitter.com/defipulse/status/1557754848044584963</id>
@@ -230,19 +241,6 @@ Join us here👇 https://twitter.com/i/broadcasts/1DXGyDvyMzZKM]]></summary>
 Learn more about the Merge, changes to the ETH supply, and the impact on DeFi from @fallow8DeFi and @csquared_eth.
 🗓️ TODAY ⏰ 6:00 pm UTC
 Register now 👇 https://www.crowdcast.io/e/traversingthemerge]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @0xPolygon @zksync 4/4 @Scroll_ZKP also launched the first of its kind zkEVM-based zkRollup. In a collaboration between the @PrivacyScaling at Ethe...]]></title>
-        <id>https://twitter.com/defipulse/status/1549919987426476034</id>
-        <link href="https://twitter.com/defipulse/status/1549919987426476034"/>
-        <updated>2022-07-21T00:51:35.000Z</updated>
-        <summary type="html"><![CDATA[Re @0xPolygon @zksync 4/4 @Scroll_ZKP also launched the first of its kind zkEVM-based zkRollup.
-In a collaboration between the @PrivacyScaling at Ethereum's foundation.
-Scroll 📜: After over a year of building our zkEVM-based zkRollup in close collaboration with the @PrivacyScaling group at the Ethereum Foundation, we are releasing the pre-alpha version of Scroll for external testers! 📜
- https://mirror.xyz/scroll.eth/XQyXDgyxoefag6hcBgGJFz8qrb10rmSU-zUBvY3Q9_A]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
