@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-14T09:19:50.099Z</id>
+    <id>urn:2022-08-14T10:22:18.418Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-14T09:19:50.099Z</updated>
+    <updated>2022-08-14T10:22:18.418Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -241,6 +241,19 @@ Join us here👇 https://twitter.com/i/broadcasts/1DXGyDvyMzZKM]]></summary>
 Learn more about the Merge, changes to the ETH supply, and the impact on DeFi from @fallow8DeFi and @csquared_eth.
 🗓️ TODAY ⏰ 6:00 pm UTC
 Register now 👇 https://www.crowdcast.io/e/traversingthemerge]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @0xPolygon @zksync 4/4 @Scroll_ZKP also launched the first of its kind zkEVM-based zkRollup. In a collaboration between the @PrivacyScaling at Ethe...]]></title>
+        <id>https://twitter.com/defipulse/status/1549919987426476034</id>
+        <link href="https://twitter.com/defipulse/status/1549919987426476034"/>
+        <updated>2022-07-21T00:51:35.000Z</updated>
+        <summary type="html"><![CDATA[Re @0xPolygon @zksync 4/4 @Scroll_ZKP also launched the first of its kind zkEVM-based zkRollup.
+In a collaboration between the @PrivacyScaling at Ethereum's foundation.
+Scroll 📜: After over a year of building our zkEVM-based zkRollup in close collaboration with the @PrivacyScaling group at the Ethereum Foundation, we are releasing the pre-alpha version of Scroll for external testers! 📜
+ https://mirror.xyz/scroll.eth/XQyXDgyxoefag6hcBgGJFz8qrb10rmSU-zUBvY3Q9_A]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
