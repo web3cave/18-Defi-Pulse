@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-15T18:27:28.113Z</id>
+    <id>urn:2022-08-15T19:17:09.833Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-15T18:27:28.113Z</updated>
+    <updated>2022-08-15T19:17:09.833Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -241,6 +241,19 @@ Learn more about the 2 major proposals totaling around $130M to back $DAI👇 
         <summary type="html"><![CDATA[📹 Traversing the Merge is live! 
 Tune in to watch @Scalara_xyz's Nathan Howard and @indexcoop's Allan Gulley discuss the upcoming Merge and the impacts on DeFi. 
 Join us here👇 https://twitter.com/i/broadcasts/1DXGyDvyMzZKM]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[📢 Make sure to join us for Traversing the Merge with @Scalara_xyz and @indexcoop. Learn more about the Merge, changes to the ETH supply, and the im...]]></title>
+        <id>https://twitter.com/defipulse/status/1550076667057811456</id>
+        <link href="https://twitter.com/defipulse/status/1550076667057811456"/>
+        <updated>2022-07-21T11:14:11.000Z</updated>
+        <summary type="html"><![CDATA[📢 Make sure to join us for Traversing the Merge with @Scalara_xyz and @indexcoop.
+Learn more about the Merge, changes to the ETH supply, and the impact on DeFi from @fallow8DeFi and @csquared_eth.
+🗓️ TODAY ⏰ 6:00 pm UTC
+Register now 👇 https://www.crowdcast.io/e/traversingthemerge]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
