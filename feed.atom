@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-15T15:24:46.375Z</id>
+    <id>urn:2022-08-15T16:32:00.563Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-15T15:24:46.375Z</updated>
+    <updated>2022-08-15T16:32:00.563Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Coin Center is exploring a “court challenge” regarding the Tornado Cash OFAC designation. Read the full breakdown 👇]]></title>
+        <id>https://twitter.com/defipulse/status/1559188151863844864</id>
+        <link href="https://twitter.com/defipulse/status/1559188151863844864"/>
+        <updated>2022-08-15T14:39:58.000Z</updated>
+        <summary type="html"><![CDATA[Coin Center is exploring a “court challenge” regarding the Tornado Cash OFAC designation. 
+Read the full breakdown 👇
+Jerry Brito: Here is Coin Center's new, full analysis of the Tornado Cash action by OFAC. Bottom line: We believe that OFAC has overstepped its legal authority and are exploring a court challenge.
+ https://www.coincenter.org/analysis-what-is-and-what-is-not-a-sanctionable-entity-in-the-tornado-cash-case/]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🐼 With the Merge just around the corner, watch @drakefjustin discuss how the Merge completes Ethereum as "Ultrasound Money" and sets ETH up as the ...]]></title>
         <id>https://twitter.com/defipulse/status/1558215317108686852</id>
@@ -228,32 +241,6 @@ Learn more about the 2 major proposals totaling around $130M to back $DAI👇 
         <summary type="html"><![CDATA[📹 Traversing the Merge is live! 
 Tune in to watch @Scalara_xyz's Nathan Howard and @indexcoop's Allan Gulley discuss the upcoming Merge and the impacts on DeFi. 
 Join us here👇 https://twitter.com/i/broadcasts/1DXGyDvyMzZKM]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[📢 Make sure to join us for Traversing the Merge with @Scalara_xyz and @indexcoop. Learn more about the Merge, changes to the ETH supply, and the im...]]></title>
-        <id>https://twitter.com/defipulse/status/1550076667057811456</id>
-        <link href="https://twitter.com/defipulse/status/1550076667057811456"/>
-        <updated>2022-07-21T11:14:11.000Z</updated>
-        <summary type="html"><![CDATA[📢 Make sure to join us for Traversing the Merge with @Scalara_xyz and @indexcoop.
-Learn more about the Merge, changes to the ETH supply, and the impact on DeFi from @fallow8DeFi and @csquared_eth.
-🗓️ TODAY ⏰ 6:00 pm UTC
-Register now 👇 https://www.crowdcast.io/e/traversingthemerge]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @0xPolygon @zksync 4/4 @Scroll_ZKP also launched the first of its kind zkEVM-based zkRollup. In a collaboration between the @PrivacyScaling at Ethe...]]></title>
-        <id>https://twitter.com/defipulse/status/1549919987426476034</id>
-        <link href="https://twitter.com/defipulse/status/1549919987426476034"/>
-        <updated>2022-07-21T00:51:35.000Z</updated>
-        <summary type="html"><![CDATA[Re @0xPolygon @zksync 4/4 @Scroll_ZKP also launched the first of its kind zkEVM-based zkRollup.
-In a collaboration between the @PrivacyScaling at Ethereum's foundation.
-Scroll 📜: After over a year of building our zkEVM-based zkRollup in close collaboration with the @PrivacyScaling group at the Ethereum Foundation, we are releasing the pre-alpha version of Scroll for external testers! 📜
- https://mirror.xyz/scroll.eth/XQyXDgyxoefag6hcBgGJFz8qrb10rmSU-zUBvY3Q9_A]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>

@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1559188151863844864",
+          "author": "DeFi Pulse 🍇",
+          "description": "Coin Center is exploring a “court challenge” regarding the Tornado Cash OFAC designation. \nRead the full breakdown 👇\nJerry Brito: Here is Coin Center's new, full analysis of the Tornado Cash action by OFAC. Bottom line: We believe that OFAC has overstepped its legal authority and are exploring a court challenge.\n https://www.coincenter.org/analysis-what-is-and-what-is-not-a-sanctionable-entity-in-the-tornado-cash-case/",
+          "link": "https://twitter.com/defipulse/status/1559188151863844864",
+          "publishedOn": "2022-08-15T14:39:58.000Z",
+          "wordCount": 383,
+          "title": "Coin Center is exploring a “court challenge” regarding the Tornado Cash OFAC designation. Read the full breakdown 👇",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1558215317108686852",
           "author": "DeFi Pulse 🍇",
           "description": "🐼 With the Merge just around the corner, watch @drakefjustin discuss how the Merge completes Ethereum as \"Ultrasound Money\" and sets ETH up as the next monetary premium. \n📹 Watch the full discussion here: https://youtu.be/ns4A_00A04g",
@@ -183,26 +193,6 @@
           "publishedOn": "2022-07-21T18:01:23.000Z",
           "wordCount": 383,
           "title": "📹 Traversing the Merge is live! Tune in to watch @Scalara_xyz's Nathan Howard and @indexcoop's Allan Gulley discuss the upcoming Merge and the impa...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1550076667057811456",
-          "author": "DeFi Pulse 🍇",
-          "description": "📢 Make sure to join us for Traversing the Merge with @Scalara_xyz and @indexcoop.\nLearn more about the Merge, changes to the ETH supply, and the impact on DeFi from @fallow8DeFi and @csquared_eth.\n🗓️ TODAY ⏰ 6:00 pm UTC\nRegister now 👇 https://www.crowdcast.io/e/traversingthemerge",
-          "link": "https://twitter.com/defipulse/status/1550076667057811456",
-          "publishedOn": "2022-07-21T11:14:11.000Z",
-          "wordCount": 383,
-          "title": "📢 Make sure to join us for Traversing the Merge with @Scalara_xyz and @indexcoop. Learn more about the Merge, changes to the ETH supply, and the im...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1549919987426476034",
-          "author": "DeFi Pulse 🍇",
-          "description": "Re @0xPolygon @zksync 4/4 @Scroll_ZKP also launched the first of its kind zkEVM-based zkRollup.\nIn a collaboration between the @PrivacyScaling at Ethereum's foundation.\nScroll 📜: After over a year of building our zkEVM-based zkRollup in close collaboration with the @PrivacyScaling group at the Ethereum Foundation, we are releasing the pre-alpha version of Scroll for external testers! 📜\n https://mirror.xyz/scroll.eth/XQyXDgyxoefag6hcBgGJFz8qrb10rmSU-zUBvY3Q9_A",
-          "link": "https://twitter.com/defipulse/status/1549919987426476034",
-          "publishedOn": "2022-07-21T00:51:35.000Z",
-          "wordCount": 383,
-          "title": "Re @0xPolygon @zksync 4/4 @Scroll_ZKP also launched the first of its kind zkEVM-based zkRollup. In a collaboration between the @PrivacyScaling at Ethe...",
           "imageUrl": null
         }
       ]
