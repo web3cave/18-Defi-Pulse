@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-15T22:22:47.927Z</id>
+    <id>urn:2022-08-15T23:21:39.426Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-15T22:22:47.927Z</updated>
+    <updated>2022-08-15T23:21:39.426Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[💫 Interested in the future of staking post Merge? Join host @fallow8DeFi of @Scalara_xyz with special guest @langerstwit of @Rocket_Pool for a disc...]]></title>
+        <id>https://twitter.com/defipulse/status/1559300402201378818</id>
+        <link href="https://twitter.com/defipulse/status/1559300402201378818"/>
+        <updated>2022-08-15T22:06:00.000Z</updated>
+        <summary type="html"><![CDATA[💫 Interested in the future of staking post Merge?
+Join host @fallow8DeFi of @Scalara_xyz  with special guest @langerstwit of @Rocket_Pool for a discussion on the importance of decentralized staking for the health of the Ethereum network.
+🎟️ Save a seat: https://www.crowdcast.io/c/traversing-the-merge-rocket-pool]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT EFF: EFF is deeply concerned that the U.S. Treasury Department has included an open source computer project, Tornado Cash, on its list of sanctione...]]></title>
+        <id>https://twitter.com/EFF/status/1559224086491934720</id>
+        <link href="https://twitter.com/EFF/status/1559224086491934720"/>
+        <updated>2022-08-15T17:02:45.000Z</updated>
+        <summary type="html"><![CDATA[RT EFF
+EFF is deeply concerned that the U.S. Treasury Department has included an open source computer project, Tornado Cash, on its list of sanctioned individuals. Tornado Cash is an open source software project and website that published a decentralized cryptocurrency mixer.]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coin Center is exploring a “court challenge” regarding the Tornado Cash OFAC designation. Read the full breakdown 👇]]></title>
         <id>https://twitter.com/defipulse/status/1559188151863844864</id>
@@ -218,42 +241,6 @@ But does this guarantee that ETH will become deflationary after the Merge?
         <summary type="html"><![CDATA[Did you miss DeFi Pulse's Traversing the Merge last week? 
 📹 Watch @Scalara_xyz's Nathan Howard and @indexcoop's Allan Gulley break down the systemic risk of liquid staking on the Ethereum ecosystem.👇
 For the full video: https://youtu.be/mot0kIftYa0]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[⚡️@MakerDAO has been aiming to integrate Real World Assets collateral to back their stablecoin. Learn more about the 2 major proposals totaling arou...]]></title>
-        <id>https://twitter.com/defipulse/status/1550563179431960577</id>
-        <link href="https://twitter.com/defipulse/status/1550563179431960577"/>
-        <updated>2022-07-22T19:27:24.000Z</updated>
-        <summary type="html"><![CDATA[⚡️@MakerDAO has been aiming to integrate Real World Assets collateral to back their stablecoin.
-Learn more about the 2 major proposals totaling around $130M to back $DAI👇 https://yieldfarmer.substack.com/i/65083233/digitizing-real-world-analogue-assets]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[📹 Traversing the Merge is live! Tune in to watch @Scalara_xyz's Nathan Howard and @indexcoop's Allan Gulley discuss the upcoming Merge and the impa...]]></title>
-        <id>https://twitter.com/defipulse/status/1550179144553664513</id>
-        <link href="https://twitter.com/defipulse/status/1550179144553664513"/>
-        <updated>2022-07-21T18:01:23.000Z</updated>
-        <summary type="html"><![CDATA[📹 Traversing the Merge is live! 
-Tune in to watch @Scalara_xyz's Nathan Howard and @indexcoop's Allan Gulley discuss the upcoming Merge and the impacts on DeFi. 
-Join us here👇 https://twitter.com/i/broadcasts/1DXGyDvyMzZKM]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[📢 Make sure to join us for Traversing the Merge with @Scalara_xyz and @indexcoop. Learn more about the Merge, changes to the ETH supply, and the im...]]></title>
-        <id>https://twitter.com/defipulse/status/1550076667057811456</id>
-        <link href="https://twitter.com/defipulse/status/1550076667057811456"/>
-        <updated>2022-07-21T11:14:11.000Z</updated>
-        <summary type="html"><![CDATA[📢 Make sure to join us for Traversing the Merge with @Scalara_xyz and @indexcoop.
-Learn more about the Merge, changes to the ETH supply, and the impact on DeFi from @fallow8DeFi and @csquared_eth.
-🗓️ TODAY ⏰ 6:00 pm UTC
-Register now 👇 https://www.crowdcast.io/e/traversingthemerge]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>

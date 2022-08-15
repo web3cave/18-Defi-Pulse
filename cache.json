@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1559300402201378818",
+          "author": "DeFi Pulse 🍇",
+          "description": "💫 Interested in the future of staking post Merge?\nJoin host @fallow8DeFi of @Scalara_xyz  with special guest @langerstwit of @Rocket_Pool for a discussion on the importance of decentralized staking for the health of the Ethereum network.\n🎟️ Save a seat: https://www.crowdcast.io/c/traversing-the-merge-rocket-pool",
+          "link": "https://twitter.com/defipulse/status/1559300402201378818",
+          "publishedOn": "2022-08-15T22:06:00.000Z",
+          "wordCount": 383,
+          "title": "💫 Interested in the future of staking post Merge? Join host @fallow8DeFi of @Scalara_xyz with special guest @langerstwit of @Rocket_Pool for a disc...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/EFF/status/1559224086491934720",
+          "author": "DeFi Pulse 🍇",
+          "description": "RT EFF\nEFF is deeply concerned that the U.S. Treasury Department has included an open source computer project, Tornado Cash, on its list of sanctioned individuals. Tornado Cash is an open source software project and website that published a decentralized cryptocurrency mixer.",
+          "link": "https://twitter.com/EFF/status/1559224086491934720",
+          "publishedOn": "2022-08-15T17:02:45.000Z",
+          "wordCount": 383,
+          "title": "RT EFF: EFF is deeply concerned that the U.S. Treasury Department has included an open source computer project, Tornado Cash, on its list of sanctione...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1559188151863844864",
           "author": "DeFi Pulse 🍇",
           "description": "Coin Center is exploring a “court challenge” regarding the Tornado Cash OFAC designation. \nRead the full breakdown 👇\nJerry Brito: Here is Coin Center's new, full analysis of the Tornado Cash action by OFAC. Bottom line: We believe that OFAC has overstepped its legal authority and are exploring a court challenge.\n https://www.coincenter.org/analysis-what-is-and-what-is-not-a-sanctionable-entity-in-the-tornado-cash-case/",
@@ -173,36 +193,6 @@
           "publishedOn": "2022-07-25T11:47:40.000Z",
           "wordCount": 383,
           "title": "Did you miss DeFi Pulse's Traversing the Merge last week? 📹 Watch @Scalara_xyz's Nathan Howard and @indexcoop's Allan Gulley break down the systemi...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1550563179431960577",
-          "author": "DeFi Pulse 🍇",
-          "description": "⚡️@MakerDAO has been aiming to integrate Real World Assets collateral to back their stablecoin.\nLearn more about the 2 major proposals totaling around $130M to back $DAI👇 https://yieldfarmer.substack.com/i/65083233/digitizing-real-world-analogue-assets",
-          "link": "https://twitter.com/defipulse/status/1550563179431960577",
-          "publishedOn": "2022-07-22T19:27:24.000Z",
-          "wordCount": 383,
-          "title": "⚡️@MakerDAO has been aiming to integrate Real World Assets collateral to back their stablecoin. Learn more about the 2 major proposals totaling arou...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1550179144553664513",
-          "author": "DeFi Pulse 🍇",
-          "description": "📹 Traversing the Merge is live! \nTune in to watch @Scalara_xyz's Nathan Howard and @indexcoop's Allan Gulley discuss the upcoming Merge and the impacts on DeFi. \nJoin us here👇 https://twitter.com/i/broadcasts/1DXGyDvyMzZKM",
-          "link": "https://twitter.com/defipulse/status/1550179144553664513",
-          "publishedOn": "2022-07-21T18:01:23.000Z",
-          "wordCount": 383,
-          "title": "📹 Traversing the Merge is live! Tune in to watch @Scalara_xyz's Nathan Howard and @indexcoop's Allan Gulley discuss the upcoming Merge and the impa...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1550076667057811456",
-          "author": "DeFi Pulse 🍇",
-          "description": "📢 Make sure to join us for Traversing the Merge with @Scalara_xyz and @indexcoop.\nLearn more about the Merge, changes to the ETH supply, and the impact on DeFi from @fallow8DeFi and @csquared_eth.\n🗓️ TODAY ⏰ 6:00 pm UTC\nRegister now 👇 https://www.crowdcast.io/e/traversingthemerge",
-          "link": "https://twitter.com/defipulse/status/1550076667057811456",
-          "publishedOn": "2022-07-21T11:14:11.000Z",
-          "wordCount": 383,
-          "title": "📢 Make sure to join us for Traversing the Merge with @Scalara_xyz and @indexcoop. Learn more about the Merge, changes to the ETH supply, and the im...",
           "imageUrl": null
         }
       ]
