@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-17T13:50:46.241Z</id>
+    <id>urn:2022-08-17T14:25:35.011Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-17T13:50:46.241Z</updated>
+    <updated>2022-08-17T14:25:35.011Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Join us tomorrow for Traversing the Merge ft. @Rocket_Pool. 🚀 Watch @fallow8DeFi & @langerstwit explore the fragmentation of staking derivatives, l...]]></title>
+        <id>https://twitter.com/defipulse/status/1559904888922017800</id>
+        <link href="https://twitter.com/defipulse/status/1559904888922017800"/>
+        <updated>2022-08-17T14:08:01.000Z</updated>
+        <summary type="html"><![CDATA[Join us tomorrow for Traversing the Merge ft. @Rocket_Pool. 🚀
+Watch @fallow8DeFi & @langerstwit explore the fragmentation of staking derivatives, lessons learned from liquid staking tokens in lending markets, & more.
+🗓️Thursday at 11 pm UTC
+Register: https://www.crowdcast.io/c/traversing-the-merge-rocket-pool]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[💫 Interested in the future of staking post Merge? Join host @fallow8DeFi of @Scalara_xyz with special guest @langerstwit of @Rocket_Pool for a disc...]]></title>
         <id>https://twitter.com/defipulse/status/1559300402201378818</id>
@@ -229,29 +242,6 @@ Watch the full video: https://youtu.be/mot0kIftYa0]]></summary>
 2️⃣ Restructure ETH incentives for block production
 But does this guarantee that ETH will become deflationary after the Merge?
 @Scalara_xyz's Nathan Howard gives his full take in this week's featured guest blog below. ⬇️]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Did you miss DeFi Pulse's Traversing the Merge last week? 📹 Watch @Scalara_xyz's Nathan Howard and @indexcoop's Allan Gulley break down the systemi...]]></title>
-        <id>https://twitter.com/defipulse/status/1551534646181208065</id>
-        <link href="https://twitter.com/defipulse/status/1551534646181208065"/>
-        <updated>2022-07-25T11:47:40.000Z</updated>
-        <summary type="html"><![CDATA[Did you miss DeFi Pulse's Traversing the Merge last week? 
-📹 Watch @Scalara_xyz's Nathan Howard and @indexcoop's Allan Gulley break down the systemic risk of liquid staking on the Ethereum ecosystem.👇
-For the full video: https://youtu.be/mot0kIftYa0]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[⚡️@MakerDAO has been aiming to integrate Real World Assets collateral to back their stablecoin. Learn more about the 2 major proposals totaling arou...]]></title>
-        <id>https://twitter.com/defipulse/status/1550563179431960577</id>
-        <link href="https://twitter.com/defipulse/status/1550563179431960577"/>
-        <updated>2022-07-22T19:27:24.000Z</updated>
-        <summary type="html"><![CDATA[⚡️@MakerDAO has been aiming to integrate Real World Assets collateral to back their stablecoin.
-Learn more about the 2 major proposals totaling around $130M to back $DAI👇 https://yieldfarmer.substack.com/i/65083233/digitizing-real-world-analogue-assets]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>

@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1559904888922017800",
+          "author": "DeFi Pulse 🍇",
+          "description": "Join us tomorrow for Traversing the Merge ft. @Rocket_Pool. 🚀\nWatch @fallow8DeFi & @langerstwit explore the fragmentation of staking derivatives, lessons learned from liquid staking tokens in lending markets, & more.\n🗓️Thursday at 11 pm UTC\nRegister: https://www.crowdcast.io/c/traversing-the-merge-rocket-pool",
+          "link": "https://twitter.com/defipulse/status/1559904888922017800",
+          "publishedOn": "2022-08-17T14:08:01.000Z",
+          "wordCount": 383,
+          "title": "Join us tomorrow for Traversing the Merge ft. @Rocket_Pool. 🚀 Watch @fallow8DeFi & @langerstwit explore the fragmentation of staking derivatives, l...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1559300402201378818",
           "author": "DeFi Pulse 🍇",
           "description": "💫 Interested in the future of staking post Merge?\nJoin host @fallow8DeFi of @Scalara_xyz  with special guest @langerstwit of @Rocket_Pool for a discussion on the importance of decentralized staking for the health of the Ethereum network.\n🎟️ Save a seat: https://www.crowdcast.io/c/traversing-the-merge-rocket-pool",
@@ -183,26 +193,6 @@
           "publishedOn": "2022-07-27T19:53:27.000Z",
           "wordCount": 383,
           "title": "The Merge will: 1️⃣ Directly reduce the issuance of ETH 2️⃣ Restructure ETH incentives for block production But does this guarantee that ETH will ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1551534646181208065",
-          "author": "DeFi Pulse 🍇",
-          "description": "Did you miss DeFi Pulse's Traversing the Merge last week? \n📹 Watch @Scalara_xyz's Nathan Howard and @indexcoop's Allan Gulley break down the systemic risk of liquid staking on the Ethereum ecosystem.👇\nFor the full video: https://youtu.be/mot0kIftYa0",
-          "link": "https://twitter.com/defipulse/status/1551534646181208065",
-          "publishedOn": "2022-07-25T11:47:40.000Z",
-          "wordCount": 383,
-          "title": "Did you miss DeFi Pulse's Traversing the Merge last week? 📹 Watch @Scalara_xyz's Nathan Howard and @indexcoop's Allan Gulley break down the systemi...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1550563179431960577",
-          "author": "DeFi Pulse 🍇",
-          "description": "⚡️@MakerDAO has been aiming to integrate Real World Assets collateral to back their stablecoin.\nLearn more about the 2 major proposals totaling around $130M to back $DAI👇 https://yieldfarmer.substack.com/i/65083233/digitizing-real-world-analogue-assets",
-          "link": "https://twitter.com/defipulse/status/1550563179431960577",
-          "publishedOn": "2022-07-22T19:27:24.000Z",
-          "wordCount": 383,
-          "title": "⚡️@MakerDAO has been aiming to integrate Real World Assets collateral to back their stablecoin. Learn more about the 2 major proposals totaling arou...",
           "imageUrl": null
         }
       ]
