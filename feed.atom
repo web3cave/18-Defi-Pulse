@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-18T02:24:09.008Z</id>
+    <id>urn:2022-08-18T04:21:22.640Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-18T02:24:09.008Z</updated>
+    <updated>2022-08-18T04:21:22.640Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -242,16 +242,6 @@ Time to move on Aave <> Proof-of-Reserve https://governance.aave.com/t/bgd-aav
         <summary type="html"><![CDATA[Sharding was once ahead of the Proof of Stake transition on Ethereum's scalability roadmap. 
 Listen to Nathan Howard from @Scalara_xyz and Allan Gulley from @indexcoop share how the growth of L2s changed that. 👇
 Watch the full video: https://youtu.be/mot0kIftYa0]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Read the full article here:]]></title>
-        <id>https://twitter.com/defipulse/status/1552381676113772544</id>
-        <link href="https://twitter.com/defipulse/status/1552381676113772544"/>
-        <updated>2022-07-27T19:53:28.000Z</updated>
-        <summary type="html"><![CDATA[Re Read the full article here: https://www.defipulse.com/blog/ethereum-merge-supply-dynamics-primer]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
