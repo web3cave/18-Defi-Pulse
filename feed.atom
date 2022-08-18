@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-18T22:21:48.601Z</id>
+    <id>urn:2022-08-18T23:21:48.461Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-18T22:21:48.601Z</updated>
+    <updated>2022-08-18T23:21:48.461Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[⚡️We are live! Join us now for Traversing the Merge with special guest @langerstwit of @Rocket_Pool.]]></title>
+        <id>https://twitter.com/defipulse/status/1560401161202683905</id>
+        <link href="https://twitter.com/defipulse/status/1560401161202683905"/>
+        <updated>2022-08-18T23:00:02.000Z</updated>
+        <summary type="html"><![CDATA[⚡️We are live! 
+Join us now for Traversing the Merge with special guest @langerstwit of @Rocket_Pool. https://twitter.com/i/broadcasts/1jMJgekdvvyKL]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[⌛️Let the countdown begin! Starting in 2 hours, we will kick off our next Traversing the Merge with host @fallow8DeFi and special guest @langerstwit...]]></title>
+        <id>https://twitter.com/defipulse/status/1560371304058036229</id>
+        <link href="https://twitter.com/defipulse/status/1560371304058036229"/>
+        <updated>2022-08-18T21:01:23.000Z</updated>
+        <summary type="html"><![CDATA[⌛️Let the countdown begin! 
+Starting in 2 hours, we will kick off our next Traversing the Merge with host @fallow8DeFi and special guest @langerstwit from @Rocket_Pool. 
+See you there! https://www.crowdcast.io/c/traversing-the-merge-rocket-pool]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @drakefjustin Tomorrow at 11 pm UTC, we are live with @Rocket_Pool for the next Traversing the Merge. Join us for a discussion on decentralized sta...]]></title>
         <id>https://twitter.com/defipulse/status/1559994231749574658</id>
@@ -218,40 +241,6 @@ For all the details, check out the update from @Scalara_xyz. 👇
 Scalara: 🔁Scalara announces the results of the July rebalancing of the DeFi Pulse Index.
 The DeFi Pulse Index is the leading benchmark of the DeFi sector and available as a single token $DPI by @indexcoop and @SetProtocol.
  https://www.scalara.xyz/blog/july-2022-rebalance-defi-pulse-index]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT bgdlabs: A multi-chain strategy like Aave's needs as much security assurance as possible regarding cross-chain assets. Time to move on Aave <> Proo...]]></title>
-        <id>https://twitter.com/bgdlabs/status/1554450972352593920</id>
-        <link href="https://twitter.com/bgdlabs/status/1554450972352593920"/>
-        <updated>2022-08-02T12:56:06.000Z</updated>
-        <summary type="html"><![CDATA[RT bgdlabs
-A multi-chain strategy like Aave's needs as much security assurance as possible regarding cross-chain assets.
-Time to move on Aave <> Proof-of-Reserve https://governance.aave.com/t/bgd-aave-chainlink-proof-of-reserve-phase-1/9168]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sharding was once ahead of the Proof of Stake transition on Ethereum's scalability roadmap. Listen to Nathan Howard from @Scalara_xyz and Allan Gulley...]]></title>
-        <id>https://twitter.com/defipulse/status/1554385305079320577</id>
-        <link href="https://twitter.com/defipulse/status/1554385305079320577"/>
-        <updated>2022-08-02T08:35:10.000Z</updated>
-        <summary type="html"><![CDATA[Sharding was once ahead of the Proof of Stake transition on Ethereum's scalability roadmap. 
-Listen to Nathan Howard from @Scalara_xyz and Allan Gulley from @indexcoop share how the growth of L2s changed that. 👇
-Watch the full video: https://youtu.be/mot0kIftYa0]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Read the full article here:]]></title>
-        <id>https://twitter.com/defipulse/status/1552381676113772544</id>
-        <link href="https://twitter.com/defipulse/status/1552381676113772544"/>
-        <updated>2022-07-27T19:53:28.000Z</updated>
-        <summary type="html"><![CDATA[Re Read the full article here: https://www.defipulse.com/blog/ethereum-merge-supply-dynamics-primer]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>

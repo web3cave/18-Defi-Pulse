@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1560401161202683905",
+          "author": "DeFi Pulse 🍇",
+          "description": "⚡️We are live! \nJoin us now for Traversing the Merge with special guest @langerstwit of @Rocket_Pool. https://twitter.com/i/broadcasts/1jMJgekdvvyKL",
+          "link": "https://twitter.com/defipulse/status/1560401161202683905",
+          "publishedOn": "2022-08-18T23:00:02.000Z",
+          "wordCount": 383,
+          "title": "⚡️We are live! Join us now for Traversing the Merge with special guest @langerstwit of @Rocket_Pool.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1560371304058036229",
+          "author": "DeFi Pulse 🍇",
+          "description": "⌛️Let the countdown begin! \nStarting in 2 hours, we will kick off our next Traversing the Merge with host @fallow8DeFi and special guest @langerstwit from @Rocket_Pool. \nSee you there! https://www.crowdcast.io/c/traversing-the-merge-rocket-pool",
+          "link": "https://twitter.com/defipulse/status/1560371304058036229",
+          "publishedOn": "2022-08-18T21:01:23.000Z",
+          "wordCount": 383,
+          "title": "⌛️Let the countdown begin! Starting in 2 hours, we will kick off our next Traversing the Merge with host @fallow8DeFi and special guest @langerstwit...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1559994231749574658",
           "author": "DeFi Pulse 🍇",
           "description": "Re @drakefjustin Tomorrow at 11 pm UTC, we are live with @Rocket_Pool for the next Traversing the Merge. \nJoin us for a discussion on decentralized staking and how their team is preparing for the Merge. \nGrab a spot: https://www.crowdcast.io/c/traversing-the-merge-rocket-pool",
@@ -173,36 +193,6 @@
           "publishedOn": "2022-08-03T13:51:16.000Z",
           "wordCount": 383,
           "title": "📢The July rebalancing of the DeFi Pulse Index has been announced! For all the details, check out the update from @Scalara_xyz. 👇",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/bgdlabs/status/1554450972352593920",
-          "author": "DeFi Pulse 🍇",
-          "description": "RT bgdlabs\nA multi-chain strategy like Aave's needs as much security assurance as possible regarding cross-chain assets.\nTime to move on Aave <> Proof-of-Reserve https://governance.aave.com/t/bgd-aave-chainlink-proof-of-reserve-phase-1/9168",
-          "link": "https://twitter.com/bgdlabs/status/1554450972352593920",
-          "publishedOn": "2022-08-02T12:56:06.000Z",
-          "wordCount": 383,
-          "title": "RT bgdlabs: A multi-chain strategy like Aave's needs as much security assurance as possible regarding cross-chain assets. Time to move on Aave <> Proo...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1554385305079320577",
-          "author": "DeFi Pulse 🍇",
-          "description": "Sharding was once ahead of the Proof of Stake transition on Ethereum's scalability roadmap. \nListen to Nathan Howard from @Scalara_xyz and Allan Gulley from @indexcoop share how the growth of L2s changed that. 👇\nWatch the full video: https://youtu.be/mot0kIftYa0",
-          "link": "https://twitter.com/defipulse/status/1554385305079320577",
-          "publishedOn": "2022-08-02T08:35:10.000Z",
-          "wordCount": 383,
-          "title": "Sharding was once ahead of the Proof of Stake transition on Ethereum's scalability roadmap. Listen to Nathan Howard from @Scalara_xyz and Allan Gulley...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1552381676113772544",
-          "author": "DeFi Pulse 🍇",
-          "description": "Re Read the full article here: https://www.defipulse.com/blog/ethereum-merge-supply-dynamics-primer",
-          "link": "https://twitter.com/defipulse/status/1552381676113772544",
-          "publishedOn": "2022-07-27T19:53:28.000Z",
-          "wordCount": 383,
-          "title": "Re Read the full article here:",
           "imageUrl": null
         }
       ]
