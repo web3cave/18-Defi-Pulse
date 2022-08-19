@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-18T23:21:48.461Z</id>
+    <id>urn:2022-08-19T02:13:08.234Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-18T23:21:48.461Z</updated>
+    <updated>2022-08-19T02:13:08.234Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -241,6 +241,18 @@ For all the details, check out the update from @Scalara_xyz. 👇
 Scalara: 🔁Scalara announces the results of the July rebalancing of the DeFi Pulse Index.
 The DeFi Pulse Index is the leading benchmark of the DeFi sector and available as a single token $DPI by @indexcoop and @SetProtocol.
  https://www.scalara.xyz/blog/july-2022-rebalance-defi-pulse-index]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT bgdlabs: A multi-chain strategy like Aave's needs as much security assurance as possible regarding cross-chain assets. Time to move on Aave <> Proo...]]></title>
+        <id>https://twitter.com/bgdlabs/status/1554450972352593920</id>
+        <link href="https://twitter.com/bgdlabs/status/1554450972352593920"/>
+        <updated>2022-08-02T12:56:06.000Z</updated>
+        <summary type="html"><![CDATA[RT bgdlabs
+A multi-chain strategy like Aave's needs as much security assurance as possible regarding cross-chain assets.
+Time to move on Aave <> Proof-of-Reserve https://governance.aave.com/t/bgd-aave-chainlink-proof-of-reserve-phase-1/9168]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
