@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-20T15:21:31.506Z</id>
+    <id>urn:2022-08-20T16:28:06.738Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-20T15:21:31.506Z</updated>
+    <updated>2022-08-20T16:28:06.738Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -238,20 +238,6 @@ TL;DR — the proposal is net positive, but it needs more definition clarity for
 See @valkenburgh's breakdown👇
 Peter Van Valkenburgh: 1/ New Crypto Bill in Senate: read this thread or our post for the full download on what it does and what risks it poses to software developers and individual crypto users.
  https://www.coincenter.org/a-new-senate-bill-focuses-on-cryptocurrency-exchanges-heres-what-developers-and-users-should-keep-an-eye-on/]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[📢The July rebalancing of the DeFi Pulse Index has been announced! For all the details, check out the update from @Scalara_xyz. 👇]]></title>
-        <id>https://twitter.com/defipulse/status/1554827243037380609</id>
-        <link href="https://twitter.com/defipulse/status/1554827243037380609"/>
-        <updated>2022-08-03T13:51:16.000Z</updated>
-        <summary type="html"><![CDATA[📢The July rebalancing of the DeFi Pulse Index has been announced! 
-For all the details, check out the update from @Scalara_xyz. 👇
-Scalara: 🔁Scalara announces the results of the July rebalancing of the DeFi Pulse Index.
-The DeFi Pulse Index is the leading benchmark of the DeFi sector and available as a single token $DPI by @indexcoop and @SetProtocol.
- https://www.scalara.xyz/blog/july-2022-rebalance-defi-pulse-index]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
