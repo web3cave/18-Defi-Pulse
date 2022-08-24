@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-24T17:21:56.887Z</id>
+    <id>urn:2022-08-24T18:35:36.258Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-24T17:21:56.887Z</updated>
+    <updated>2022-08-24T18:35:36.258Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -239,20 +239,6 @@ Register:
 Tune in to hear Scalara's @fallow8DeFi & Ethereum researcher @drakefjustin discuss how the Merge completes ETH as "ultrasound money" & Ethereum's security outlook.
 🗓️ August 9th ⏰ 2:30 pm UTC
 Register: https://www.crowdcast.io/c/traversingthemerge-justindrake]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🏦A Senate bill, the Digital Commodities Consumer Protection Act of 2022, is being introduced today. TL;DR — the proposal is net positive, but it n...]]></title>
-        <id>https://twitter.com/defipulse/status/1554842008447074307</id>
-        <link href="https://twitter.com/defipulse/status/1554842008447074307"/>
-        <updated>2022-08-03T14:49:57.000Z</updated>
-        <summary type="html"><![CDATA[🏦A Senate bill, the Digital Commodities Consumer Protection Act of 2022, is being introduced today.
-TL;DR — the proposal is net positive, but it needs more definition clarity for devs, node operators, & individual traders to prevent overreach.
-See @valkenburgh's breakdown👇
-Peter Van Valkenburgh: 1/ New Crypto Bill in Senate: read this thread or our post for the full download on what it does and what risks it poses to software developers and individual crypto users.
- https://www.coincenter.org/a-new-senate-bill-focuses-on-cryptocurrency-exchanges-heres-what-developers-and-users-should-keep-an-eye-on/]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
