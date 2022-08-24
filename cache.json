@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1562466769196814336",
+          "author": "DeFi Pulse 🍇",
+          "description": "💫The Merge is coming! Make sure to update your nodes, sit back, & enjoy the transition to PoS.\nJoseph Schweitzer | 🐼: This is it: The Merge is coming.\nUPGRADE 👏YOUR 👏 CLIENTS! \n\n+ More👇\n https://blog.ethereum.org/2022/08/24/mainnet-merge-announcement/",
+          "link": "https://twitter.com/defipulse/status/1562466769196814336",
+          "publishedOn": "2022-08-24T15:48:01.000Z",
+          "wordCount": 390,
+          "title": "💫The Merge is coming! Make sure to update your nodes, sit back, & enjoy the transition to PoS.",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1561008450502524931",
           "author": "DeFi Pulse 🍇",
           "description": "Decentralization is important to the health of Ethereum. But why? @Rocket_Pool 's @langerstwit shares  4️⃣ reasons why it matters. \n📹 Miss the full discussion on decentralized staking? Watch it here: https://youtu.be/lGsVDzj3a_o",
@@ -81,7 +91,7 @@
           "description": "RT EFF\nEFF is deeply concerned that the U.S. Treasury Department has included an open source computer project, Tornado Cash, on its list of sanctioned individuals. Tornado Cash is an open source software project and website that published a decentralized cryptocurrency mixer.",
           "link": "https://twitter.com/EFF/status/1559224086491934720",
           "publishedOn": "2022-08-15T17:02:45.000Z",
-          "wordCount": 384,
+          "wordCount": 390,
           "title": "RT EFF: EFF is deeply concerned that the U.S. Treasury Department has included an open source computer project, Tornado Cash, on its list of sanctione...",
           "imageUrl": null
         },

@@ -1,10 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-24T15:23:06.864Z</id>
+    <id>urn:2022-08-24T16:30:22.131Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-24T15:23:06.864Z</updated>
+    <updated>2022-08-24T16:30:22.131Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[💫The Merge is coming! Make sure to update your nodes, sit back, & enjoy the transition to PoS.]]></title>
+        <id>https://twitter.com/defipulse/status/1562466769196814336</id>
+        <link href="https://twitter.com/defipulse/status/1562466769196814336"/>
+        <updated>2022-08-24T15:48:01.000Z</updated>
+        <summary type="html"><![CDATA[💫The Merge is coming! Make sure to update your nodes, sit back, & enjoy the transition to PoS.
+Joseph Schweitzer | 🐼: This is it: The Merge is coming.
+UPGRADE 👏YOUR 👏 CLIENTS! 
+
++ More👇
+ https://blog.ethereum.org/2022/08/24/mainnet-merge-announcement/]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Decentralization is important to the health of Ethereum. But why? @Rocket_Pool 's @langerstwit shares 4️⃣ reasons why it matters. 📹 Miss the full...]]></title>
         <id>https://twitter.com/defipulse/status/1561008450502524931</id>
