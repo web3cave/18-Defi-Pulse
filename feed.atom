@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-25T14:19:45.462Z</id>
+    <id>urn:2022-08-25T15:23:12.604Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-25T14:19:45.462Z</updated>
+    <updated>2022-08-25T15:23:12.605Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Looks like @coinbase is entering the liquid staking business.💦 For more info👇]]></title>
+        <id>https://twitter.com/defipulse/status/1562801467337035782</id>
+        <link href="https://twitter.com/defipulse/status/1562801467337035782"/>
+        <updated>2022-08-25T13:57:59.000Z</updated>
+        <summary type="html"><![CDATA[Looks like @coinbase is entering the liquid staking business.💦
+For more info👇
+Coinbase Assets: Coinbase will add support for Coinbase Wrapped Staked ETH (cbETH) on the Ethereum network (ERC-20 token). Do not send this asset over other networks or your funds will be lost.
+What is cbETH? Let’s dive in 🧵👇]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🚀 @Rocket_Pool's staking protocol utilizes three vectors of decentralization: 1️⃣ Operational 2️⃣ Jurisdictional 3️⃣ Political Watch as @lang...]]></title>
         <id>https://twitter.com/defipulse/status/1562527456183332864</id>
@@ -241,19 +254,6 @@ Tune in to hear Scalara's @fallow8DeFi & Ethereum researcher @drakefjustin discu
 🗓️ August 9th ⏰ 2:30 pm UTC
 Register:
  https://www.crowdcast.io/c/traversingthemerge-justindrake]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get ready for the next Traversing the Merge! 🦇🔊 Tune in to hear Scalara's @fallow8DeFi & Ethereum researcher @drakefjustin discuss how the Merge...]]></title>
-        <id>https://twitter.com/defipulse/status/1554938413148782592</id>
-        <link href="https://twitter.com/defipulse/status/1554938413148782592"/>
-        <updated>2022-08-03T21:13:01.000Z</updated>
-        <summary type="html"><![CDATA[Get ready for the next Traversing the Merge! 🦇🔊
-Tune in to hear Scalara's @fallow8DeFi & Ethereum researcher @drakefjustin discuss how the Merge completes ETH as "ultrasound money" & Ethereum's security outlook.
-🗓️ August 9th ⏰ 2:30 pm UTC
-Register: https://www.crowdcast.io/c/traversingthemerge-justindrake]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
