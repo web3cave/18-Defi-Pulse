@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-25T22:22:03.204Z</id>
+    <id>urn:2022-08-25T23:29:54.276Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-25T22:22:03.204Z</updated>
+    <updated>2022-08-25T23:29:54.276Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -224,20 +224,6 @@ Save a seat: https://www.crowdcast.io/c/traversingthemerge-justindrake]]></sum
 Join Scalara's @fallow8DeFi & Ethereum researcher @drakefjustin as they unpack "ultra-sound" Ethereum & the possible PoW fork.
 🗓️ August 9th ⏰ 2:30 pm UTC
 Register: https://www.crowdcast.io/c/traversingthemerge-justindrake]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In early July, Maker passed the RWA-009 proposal, which approved HV Bank as a new vault type with a $100M initial debt ceiling & targeting $1B in 12 m...]]></title>
-        <id>https://twitter.com/defipulse/status/1555563483915321345</id>
-        <link href="https://twitter.com/defipulse/status/1555563483915321345"/>
-        <updated>2022-08-05T14:36:50.000Z</updated>
-        <summary type="html"><![CDATA[In early July, Maker passed the RWA-009 proposal, which approved HV Bank as a new vault type with a $100M initial debt ceiling & targeting $1B in 12 months. 
-Are we starting to see Maker actually lending to HV Bank? 👀👇
-Learn more about RWA-009 here:
-Sébastien Derivaux: Is that @MakerDAO lending to a regulated US bank?
-👀👀👀👀👀]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
