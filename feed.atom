@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-27T15:21:50.409Z</id>
+    <id>urn:2022-08-27T16:28:29.588Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-27T15:21:50.409Z</updated>
+    <updated>2022-08-27T16:28:29.588Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[🗺Traversing the Merge continues! Next week @fallow8DeFi is joined by @MikeTaormina to discuss the importance of decentralized enterprise-grade liqu...]]></title>
+        <id>https://twitter.com/defipulse/status/1563554181818236929</id>
+        <link href="https://twitter.com/defipulse/status/1563554181818236929"/>
+        <updated>2022-08-27T15:49:01.000Z</updated>
+        <summary type="html"><![CDATA[🗺Traversing the Merge continues! Next week @fallow8DeFi is joined by @MikeTaormina to discuss the importance of decentralized enterprise-grade liquid staking & how @alluvialfinance is building this model.
+🗓️ Sept. 1st ⏰ 7pm UTC
+Save a seat: https://www.crowdcast.io/c/traverse-the-merge-alluvial]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Looks like @coinbase is entering the liquid staking business.💦 For more info👇]]></title>
         <id>https://twitter.com/defipulse/status/1562801467337035782</id>
