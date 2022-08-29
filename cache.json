@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1564326014179844098",
+          "author": "DeFi Pulse 🍇",
+          "description": "Ethereum staking services are getting ready for the merge. Are you anon? \nRead more about how @Rocket_Pool is preparing for The Merge with their Redstone update. 👇\nRocket Pool: 🚀Redstone is live on mainnet!\n🎉Rocket Pool is Merge-ready!\n https://medium.com/rocket-pool/rocket-pool-the-merge-redstone-601d9efd6b4",
+          "link": "https://twitter.com/defipulse/status/1564326014179844098",
+          "publishedOn": "2022-08-29T18:56:00.000Z",
+          "wordCount": 390,
+          "title": "Ethereum staking services are getting ready for the merge. Are you anon? Read more about how @Rocket_Pool is preparing for The Merge with their Redsto...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1564304840855113736",
+          "author": "DeFi Pulse 🍇",
+          "description": "📢Folks, please upgrade your nodes.\nEthereum: The Merge is coming: UPGRADE YOUR CLIENTS!\n• The Bellatrix upgrade is scheduled for epoch 144896 on the Beacon Chain – 11:34:47am UTC on Sept 6, 2022\n• The TTD value triggering The Merge is 58750000000000000000000, expected between 10-20 Sep 2022\nMORE:\n https://blog.ethereum.org/2022/08/24/mainnet-merge-announcement/",
+          "link": "https://twitter.com/defipulse/status/1564304840855113736",
+          "publishedOn": "2022-08-29T17:31:52.000Z",
+          "wordCount": 390,
+          "title": "📢Folks, please upgrade your nodes.",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1563554181818236929",
           "author": "DeFi Pulse 🍇",
           "description": "🗺Traversing the Merge continues! Next week @fallow8DeFi is joined by @MikeTaormina to discuss the importance of decentralized enterprise-grade liquid staking & how @alluvialfinance is building this model.\n🗓️ Sept. 1st ⏰ 7pm UTC\nSave a seat: https://www.crowdcast.io/c/traverse-the-merge-alluvial",
@@ -183,16 +203,6 @@
           "publishedOn": "2022-08-08T20:08:58.000Z",
           "wordCount": 390,
           "title": "Don't miss the next Traversing the Merge w/ Ethereum Researcher Justin Drake.🦇 🔊 Join host @fallow8DeFi & @drakefjustin as they discuss how the ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1555930198184722432",
-          "author": "DeFi Pulse 🍇",
-          "description": "Ethereum's upgrade is coming & rumors of a \"miners\" PoW fork are starting to emerge!\nJoin Scalara's @fallow8DeFi & Ethereum researcher @drakefjustin as they unpack \"ultra-sound\" Ethereum & the possible PoW fork.\n🗓️ August 9th ⏰ 2:30 pm UTC\nRegister: https://www.crowdcast.io/c/traversingthemerge-justindrake",
-          "link": "https://twitter.com/defipulse/status/1555930198184722432",
-          "publishedOn": "2022-08-06T14:54:01.000Z",
-          "wordCount": 390,
-          "title": "Ethereum's upgrade is coming & rumors of a \"miners\" PoW fork are starting to emerge! Join Scalara's @fallow8DeFi & Ethereum researcher @drakefjustin a...",
           "imageUrl": null
         }
       ]
