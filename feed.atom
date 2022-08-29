@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-29T09:21:55.197Z</id>
+    <id>urn:2022-08-29T10:25:30.299Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-29T09:21:55.197Z</updated>
+    <updated>2022-08-29T10:25:30.299Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -236,6 +236,22 @@ Save a seat: https://www.crowdcast.io/c/traversingthemerge-justindrake]]></sum
 Join Scalara's @fallow8DeFi & Ethereum researcher @drakefjustin as they unpack "ultra-sound" Ethereum & the possible PoW fork.
 🗓️ August 9th ⏰ 2:30 pm UTC
 Register: https://www.crowdcast.io/c/traversingthemerge-justindrake]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Nathan Howard: Really excited about this conversation with @drakefjustin next week. He's the leading voice on ETH economic security and we're aimin...]]></title>
+        <id>https://twitter.com/fallow8DeFi/status/1555560829273137154</id>
+        <link href="https://twitter.com/fallow8DeFi/status/1555560829273137154"/>
+        <updated>2022-08-05T14:26:17.000Z</updated>
+        <summary type="html"><![CDATA[RT Nathan Howard
+Really excited about this conversation with @drakefjustin next week. He's the leading voice on ETH economic security and we're aiming to help everyone (including myself) better understand what the Merge means for the future.
+DeFi Pulse 🍇: Get ready for the next Traversing the Merge! 🦇🔊
+Tune in to hear Scalara's @fallow8DeFi & Ethereum researcher @drakefjustin discuss how the Merge completes ETH as "ultrasound money" & Ethereum's security outlook.
+🗓️ August 9th ⏰ 2:30 pm UTC
+Register:
+ https://www.crowdcast.io/c/traversingthemerge-justindrake]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
