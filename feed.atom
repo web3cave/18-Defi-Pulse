@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-29T22:21:35.867Z</id>
+    <id>urn:2022-08-29T23:23:07.170Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-29T22:21:35.867Z</updated>
+    <updated>2022-08-29T23:23:07.170Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[🔭@Scalara_xyz's @fallow8DeFi hosts our next chapter of Traversing the Merge: Enterprise-Grade Liquid Staking with special guest @MikeTaormina of @a...]]></title>
+        <id>https://twitter.com/defipulse/status/1564363262300487680</id>
+        <link href="https://twitter.com/defipulse/status/1564363262300487680"/>
+        <updated>2022-08-29T21:24:00.000Z</updated>
+        <summary type="html"><![CDATA[🔭@Scalara_xyz's @fallow8DeFi hosts our next chapter of Traversing the Merge: Enterprise-Grade Liquid Staking with special guest @MikeTaormina of @alluvialfinance.
+🗓️ Thurs, Sept. 1st ⏰ 7pm UTC/ 3pm EST
+Comment questions for our speakers below.💭
+RSVP: https://www.crowdcast.io/c/traverse-the-merge-alluvial]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum staking services are getting ready for the merge. Are you anon? Read more about how @Rocket_Pool is preparing for The Merge with their Redsto...]]></title>
         <id>https://twitter.com/defipulse/status/1564326014179844098</id>
@@ -239,19 +252,6 @@ Check out the whole discussion 👇 https://twitter.com/i/broadcasts/1ynJOZDeB
         <updated>2022-08-09T14:19:24.000Z</updated>
         <summary type="html"><![CDATA[🚨 Starting in 15 minutes — Traversing the Merge with host @fallow8DeFi and special guest Ethereum Researcher @drakefjustin! 
 Join us here👇 https://twitter.com/i/broadcasts/1ynJOZDeBDWGR]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don't miss the next Traversing the Merge w/ Ethereum Researcher Justin Drake.🦇 🔊 Join host @fallow8DeFi & @drakefjustin as they discuss how the ...]]></title>
-        <id>https://twitter.com/defipulse/status/1556734234118823943</id>
-        <link href="https://twitter.com/defipulse/status/1556734234118823943"/>
-        <updated>2022-08-08T20:08:58.000Z</updated>
-        <summary type="html"><![CDATA[Don't miss the next Traversing the Merge w/ Ethereum Researcher Justin Drake.🦇 🔊
-Join host @fallow8DeFi & @drakefjustin as they discuss how the Merge completes ETH as "Ultrasound Money" & the possible PoW fork.
-⏰ August 9th at 2:30pm UTC
-Save a seat: https://www.crowdcast.io/c/traversingthemerge-justindrake]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>

@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1564363262300487680",
+          "author": "DeFi Pulse 🍇",
+          "description": "🔭@Scalara_xyz's @fallow8DeFi hosts our next chapter of Traversing the Merge: Enterprise-Grade Liquid Staking with special guest @MikeTaormina of @alluvialfinance.\n🗓️ Thurs, Sept. 1st ⏰ 7pm UTC/ 3pm EST\nComment questions for our speakers below.💭\nRSVP: https://www.crowdcast.io/c/traverse-the-merge-alluvial",
+          "link": "https://twitter.com/defipulse/status/1564363262300487680",
+          "publishedOn": "2022-08-29T21:24:00.000Z",
+          "wordCount": 390,
+          "title": "🔭@Scalara_xyz's @fallow8DeFi hosts our next chapter of Traversing the Merge: Enterprise-Grade Liquid Staking with special guest @MikeTaormina of @a...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1564326014179844098",
           "author": "DeFi Pulse 🍇",
           "description": "Ethereum staking services are getting ready for the merge. Are you anon? \nRead more about how @Rocket_Pool is preparing for The Merge with their Redstone update. 👇\nRocket Pool: 🚀Redstone is live on mainnet!\n🎉Rocket Pool is Merge-ready!\n https://medium.com/rocket-pool/rocket-pool-the-merge-redstone-601d9efd6b4",
@@ -193,16 +203,6 @@
           "publishedOn": "2022-08-09T14:19:24.000Z",
           "wordCount": 390,
           "title": "🚨 Starting in 15 minutes — Traversing the Merge with host @fallow8DeFi and special guest Ethereum Researcher @drakefjustin! Join us here👇",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1556734234118823943",
-          "author": "DeFi Pulse 🍇",
-          "description": "Don't miss the next Traversing the Merge w/ Ethereum Researcher Justin Drake.🦇 🔊\nJoin host @fallow8DeFi & @drakefjustin as they discuss how the Merge completes ETH as \"Ultrasound Money\" & the possible PoW fork.\n⏰ August 9th at 2:30pm UTC\nSave a seat: https://www.crowdcast.io/c/traversingthemerge-justindrake",
-          "link": "https://twitter.com/defipulse/status/1556734234118823943",
-          "publishedOn": "2022-08-08T20:08:58.000Z",
-          "wordCount": 390,
-          "title": "Don't miss the next Traversing the Merge w/ Ethereum Researcher Justin Drake.🦇 🔊 Join host @fallow8DeFi & @drakefjustin as they discuss how the ...",
           "imageUrl": null
         }
       ]
