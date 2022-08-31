@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-30T23:24:20.466Z</id>
+    <id>urn:2022-08-31T02:39:24.771Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-30T23:24:20.466Z</updated>
+    <updated>2022-08-31T02:39:24.771Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -241,17 +241,6 @@ Tim Beiko | timbeiko.eth 🐼: 58750000000000000000000]]></summary>
 ➡️  Economic security & why it's important
 ➡️  The possibility of a PoW fork
 Check out the whole discussion 👇 https://twitter.com/i/broadcasts/1ynJOZDeBDWGR]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🚨 Starting in 15 minutes — Traversing the Merge with host @fallow8DeFi and special guest Ethereum Researcher @drakefjustin! Join us here👇]]></title>
-        <id>https://twitter.com/defipulse/status/1557008650216013824</id>
-        <link href="https://twitter.com/defipulse/status/1557008650216013824"/>
-        <updated>2022-08-09T14:19:24.000Z</updated>
-        <summary type="html"><![CDATA[🚨 Starting in 15 minutes — Traversing the Merge with host @fallow8DeFi and special guest Ethereum Researcher @drakefjustin! 
-Join us here👇 https://twitter.com/i/broadcasts/1ynJOZDeBDWGR]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
