@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-01T02:19:45.088Z</id>
+    <id>urn:2022-09-01T04:34:47.155Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-01T02:19:45.088Z</updated>
+    <updated>2022-09-01T04:34:47.155Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -240,17 +240,6 @@ Jerry Brito: Here is Coin Center's new, full analysis of the Tornado Cash acti
         <updated>2022-08-12T22:14:16.000Z</updated>
         <summary type="html"><![CDATA[🐼 With the Merge just around the corner, watch @drakefjustin discuss how the Merge completes Ethereum as "Ultrasound Money" and sets ETH up as the next monetary premium. 
 📹 Watch the full discussion here: https://youtu.be/ns4A_00A04g]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It's getting real. 👀]]></title>
-        <id>https://twitter.com/defipulse/status/1557754848044584963</id>
-        <link href="https://twitter.com/defipulse/status/1557754848044584963"/>
-        <updated>2022-08-11T15:44:32.000Z</updated>
-        <summary type="html"><![CDATA[It's getting real. 👀
-Tim Beiko | timbeiko.eth 🐼: 58750000000000000000000]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
