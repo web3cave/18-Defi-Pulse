@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-01T14:20:29.958Z</id>
+    <id>urn:2022-09-01T15:25:01.097Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-01T14:20:29.958Z</updated>
+    <updated>2022-09-01T15:25:01.097Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethereum is scaling through L2s like @arbitrum with its latest upgrade to Nitro!🚀 For more info on the upgrade and what users can expect.👇]]></title>
+        <id>https://twitter.com/defipulse/status/1565339964136574984</id>
+        <link href="https://twitter.com/defipulse/status/1565339964136574984"/>
+        <updated>2022-09-01T14:05:04.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum is scaling through L2s like @arbitrum with its latest upgrade to Nitro!🚀
+For more info on the upgrade and what users can expect.👇
+Arbitrum: The future is brighter, faster and cheaper, now that Arbitrum One is fully upgraded to the Nitro stack. 💙x🚀
+This includes… 🧵
+ https://medium.com/offchainlabs/arbitrum-nitro-one-small-step-for-l2-one-giant-leap-for-ethereum-bc9108047450]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Most liquid staking protocols don't cater to institutions. Hear from @MikeTaormina on how @alluvialfinance is building the enterprise-grade staking st...]]></title>
         <id>https://twitter.com/defipulse/status/1565161773073924097</id>
@@ -229,17 +243,6 @@ EFF is deeply concerned that the U.S. Treasury Department has included an open s
 Read the full breakdown 👇
 Jerry Brito: Here is Coin Center's new, full analysis of the Tornado Cash action by OFAC. Bottom line: We believe that OFAC has overstepped its legal authority and are exploring a court challenge.
  https://www.coincenter.org/analysis-what-is-and-what-is-not-a-sanctionable-entity-in-the-tornado-cash-case/]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🐼 With the Merge just around the corner, watch @drakefjustin discuss how the Merge completes Ethereum as "Ultrasound Money" and sets ETH up as the ...]]></title>
-        <id>https://twitter.com/defipulse/status/1558215317108686852</id>
-        <link href="https://twitter.com/defipulse/status/1558215317108686852"/>
-        <updated>2022-08-12T22:14:16.000Z</updated>
-        <summary type="html"><![CDATA[🐼 With the Merge just around the corner, watch @drakefjustin discuss how the Merge completes Ethereum as "Ultrasound Money" and sets ETH up as the next monetary premium. 
-📹 Watch the full discussion here: https://youtu.be/ns4A_00A04g]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>

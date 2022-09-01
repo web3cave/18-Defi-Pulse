@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1565339964136574984",
+          "author": "DeFi Pulse 🍇",
+          "description": "Ethereum is scaling through L2s like @arbitrum with its latest upgrade to Nitro!🚀\nFor more info on the upgrade and what users can expect.👇\nArbitrum: The future is brighter, faster and cheaper, now that Arbitrum One is fully upgraded to the Nitro stack. 💙x🚀\nThis includes… 🧵\n https://medium.com/offchainlabs/arbitrum-nitro-one-small-step-for-l2-one-giant-leap-for-ethereum-bc9108047450",
+          "link": "https://twitter.com/defipulse/status/1565339964136574984",
+          "publishedOn": "2022-09-01T14:05:04.000Z",
+          "wordCount": 390,
+          "title": "Ethereum is scaling through L2s like @arbitrum with its latest upgrade to Nitro!🚀 For more info on the upgrade and what users can expect.👇",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1565161773073924097",
           "author": "DeFi Pulse 🍇",
           "description": "Most liquid staking protocols don't cater to institutions. Hear from @MikeTaormina on how @alluvialfinance is building the enterprise-grade staking standard & how the Merge will impact how institutions view liquid staking.\n🗓️ Sept 1  ⏰ 7 pm UTC\nRSVP: https://www.crowdcast.io/c/traverse-the-merge-alluvial",
@@ -183,16 +193,6 @@
           "publishedOn": "2022-08-15T14:39:58.000Z",
           "wordCount": 390,
           "title": "Coin Center is exploring a “court challenge” regarding the Tornado Cash OFAC designation. Read the full breakdown 👇",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1558215317108686852",
-          "author": "DeFi Pulse 🍇",
-          "description": "🐼 With the Merge just around the corner, watch @drakefjustin discuss how the Merge completes Ethereum as \"Ultrasound Money\" and sets ETH up as the next monetary premium. \n📹 Watch the full discussion here: https://youtu.be/ns4A_00A04g",
-          "link": "https://twitter.com/defipulse/status/1558215317108686852",
-          "publishedOn": "2022-08-12T22:14:16.000Z",
-          "wordCount": 390,
-          "title": "🐼 With the Merge just around the corner, watch @drakefjustin discuss how the Merge completes Ethereum as \"Ultrasound Money\" and sets ETH up as the ...",
           "imageUrl": null
         }
       ]
