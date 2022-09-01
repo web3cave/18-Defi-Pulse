@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-01T18:28:43.102Z</id>
+    <id>urn:2022-09-01T19:17:30.148Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-01T18:28:43.102Z</updated>
+    <updated>2022-09-01T19:17:30.148Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[🚨Happening now! Join @defipulse for Traversing the Merge with @MikeTaormina from @alluvialfinance!]]></title>
+        <id>https://twitter.com/defipulse/status/1565414436608827393</id>
+        <link href="https://twitter.com/defipulse/status/1565414436608827393"/>
+        <updated>2022-09-01T19:01:00.000Z</updated>
+        <summary type="html"><![CDATA[🚨Happening now! Join @defipulse for Traversing the Merge with @MikeTaormina from @alluvialfinance! https://twitter.com/i/broadcasts/1kvJpAMeENaxE https://twitter.com/i/broadcasts/1kvJpAMeENaxE]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[❗️The next Traversing the Merge is live in 45 minutes! Join host @fallow8DeFi of @Scalara_xyz and @MikeTaormina of @alluvialfinance as they discuss ...]]></title>
+        <id>https://twitter.com/defipulse/status/1565404439204483072</id>
+        <link href="https://twitter.com/defipulse/status/1565404439204483072"/>
+        <updated>2022-09-01T18:21:16.000Z</updated>
+        <summary type="html"><![CDATA[❗️The next Traversing the Merge is live in 45 minutes!
+Join host @fallow8DeFi of @Scalara_xyz and  @MikeTaormina of @alluvialfinance as they discuss how the merge impacts institutions' interest in liquid staking.
+Come join: https://www.crowdcast.io/c/traverse-the-merge-alluvial]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum is scaling through L2s like @arbitrum with its latest upgrade to Nitro!🚀 For more info on the upgrade and what users can expect.👇]]></title>
         <id>https://twitter.com/defipulse/status/1565339964136574984</id>
@@ -230,19 +252,6 @@ Join host @fallow8DeFi of @Scalara_xyz  with special guest @langerstwit of @Rock
         <updated>2022-08-15T17:02:45.000Z</updated>
         <summary type="html"><![CDATA[RT EFF
 EFF is deeply concerned that the U.S. Treasury Department has included an open source computer project, Tornado Cash, on its list of sanctioned individuals. Tornado Cash is an open source software project and website that published a decentralized cryptocurrency mixer.]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coin Center is exploring a “court challenge” regarding the Tornado Cash OFAC designation. Read the full breakdown 👇]]></title>
-        <id>https://twitter.com/defipulse/status/1559188151863844864</id>
-        <link href="https://twitter.com/defipulse/status/1559188151863844864"/>
-        <updated>2022-08-15T14:39:58.000Z</updated>
-        <summary type="html"><![CDATA[Coin Center is exploring a “court challenge” regarding the Tornado Cash OFAC designation. 
-Read the full breakdown 👇
-Jerry Brito: Here is Coin Center's new, full analysis of the Tornado Cash action by OFAC. Bottom line: We believe that OFAC has overstepped its legal authority and are exploring a court challenge.
- https://www.coincenter.org/analysis-what-is-and-what-is-not-a-sanctionable-entity-in-the-tornado-cash-case/]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
