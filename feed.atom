@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-01T20:23:27.096Z</id>
+    <id>urn:2022-09-01T21:20:12.757Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-01T20:23:27.096Z</updated>
+    <updated>2022-09-01T21:20:12.757Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT Alluvial: Don't miss @defipulse x @MikeTaormina, @alluvialfinance's COO 👇]]></title>
+        <id>https://twitter.com/alluvialfinance/status/1565415613161504769</id>
+        <link href="https://twitter.com/alluvialfinance/status/1565415613161504769"/>
+        <updated>2022-09-01T19:05:40.000Z</updated>
+        <summary type="html"><![CDATA[RT Alluvial
+Don't miss @defipulse x @MikeTaormina, @alluvialfinance's COO 👇
+DeFi Pulse 🍇: 🚨Happening now! Join @defipulse for Traversing the Merge with @MikeTaormina from @alluvialfinance!
+ https://twitter.com/i/broadcasts/1kvJpAMeENaxE https://twitter.com/i/broadcasts/1kvJpAMeENaxE]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🚨Happening now! Join @defipulse for Traversing the Merge with @MikeTaormina from @alluvialfinance!]]></title>
         <id>https://twitter.com/defipulse/status/1565414436608827393</id>
@@ -229,29 +242,6 @@ Watch as he walks through the impacts a PoW fork could have on Ethereum's securi
 Watch @fallow8DeFi & @langerstwit explore the fragmentation of staking derivatives, lessons learned from liquid staking tokens in lending markets, & more.
 🗓️Thursday at 11 pm UTC
 Register: https://www.crowdcast.io/c/traversing-the-merge-rocket-pool]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[💫 Interested in the future of staking post Merge? Join host @fallow8DeFi of @Scalara_xyz with special guest @langerstwit of @Rocket_Pool for a disc...]]></title>
-        <id>https://twitter.com/defipulse/status/1559300402201378818</id>
-        <link href="https://twitter.com/defipulse/status/1559300402201378818"/>
-        <updated>2022-08-15T22:06:00.000Z</updated>
-        <summary type="html"><![CDATA[💫 Interested in the future of staking post Merge?
-Join host @fallow8DeFi of @Scalara_xyz  with special guest @langerstwit of @Rocket_Pool for a discussion on the importance of decentralized staking for the health of the Ethereum network.
-🎟️ Save a seat: https://www.crowdcast.io/c/traversing-the-merge-rocket-pool]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT EFF: EFF is deeply concerned that the U.S. Treasury Department has included an open source computer project, Tornado Cash, on its list of sanctione...]]></title>
-        <id>https://twitter.com/EFF/status/1559224086491934720</id>
-        <link href="https://twitter.com/EFF/status/1559224086491934720"/>
-        <updated>2022-08-15T17:02:45.000Z</updated>
-        <summary type="html"><![CDATA[RT EFF
-EFF is deeply concerned that the U.S. Treasury Department has included an open source computer project, Tornado Cash, on its list of sanctioned individuals. Tornado Cash is an open source software project and website that published a decentralized cryptocurrency mixer.]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>

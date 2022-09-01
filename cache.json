@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/alluvialfinance/status/1565415613161504769",
+          "author": "DeFi Pulse 🍇",
+          "description": "RT Alluvial\nDon't miss @defipulse x @MikeTaormina, @alluvialfinance's COO 👇\nDeFi Pulse 🍇: 🚨Happening now! Join @defipulse for Traversing the Merge with @MikeTaormina from @alluvialfinance!\n https://twitter.com/i/broadcasts/1kvJpAMeENaxE https://twitter.com/i/broadcasts/1kvJpAMeENaxE",
+          "link": "https://twitter.com/alluvialfinance/status/1565415613161504769",
+          "publishedOn": "2022-09-01T19:05:40.000Z",
+          "wordCount": 390,
+          "title": "RT Alluvial: Don't miss @defipulse x @MikeTaormina, @alluvialfinance's COO 👇",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1565414436608827393",
           "author": "DeFi Pulse 🍇",
           "description": "🚨Happening now! Join @defipulse for Traversing the Merge with @MikeTaormina from @alluvialfinance! https://twitter.com/i/broadcasts/1kvJpAMeENaxE https://twitter.com/i/broadcasts/1kvJpAMeENaxE",
@@ -183,26 +193,6 @@
           "publishedOn": "2022-08-17T14:08:01.000Z",
           "wordCount": 390,
           "title": "Join us tomorrow for Traversing the Merge ft. @Rocket_Pool. 🚀 Watch @fallow8DeFi & @langerstwit explore the fragmentation of staking derivatives, l...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1559300402201378818",
-          "author": "DeFi Pulse 🍇",
-          "description": "💫 Interested in the future of staking post Merge?\nJoin host @fallow8DeFi of @Scalara_xyz  with special guest @langerstwit of @Rocket_Pool for a discussion on the importance of decentralized staking for the health of the Ethereum network.\n🎟️ Save a seat: https://www.crowdcast.io/c/traversing-the-merge-rocket-pool",
-          "link": "https://twitter.com/defipulse/status/1559300402201378818",
-          "publishedOn": "2022-08-15T22:06:00.000Z",
-          "wordCount": 390,
-          "title": "💫 Interested in the future of staking post Merge? Join host @fallow8DeFi of @Scalara_xyz with special guest @langerstwit of @Rocket_Pool for a disc...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/EFF/status/1559224086491934720",
-          "author": "DeFi Pulse 🍇",
-          "description": "RT EFF\nEFF is deeply concerned that the U.S. Treasury Department has included an open source computer project, Tornado Cash, on its list of sanctioned individuals. Tornado Cash is an open source software project and website that published a decentralized cryptocurrency mixer.",
-          "link": "https://twitter.com/EFF/status/1559224086491934720",
-          "publishedOn": "2022-08-15T17:02:45.000Z",
-          "wordCount": 390,
-          "title": "RT EFF: EFF is deeply concerned that the U.S. Treasury Department has included an open source computer project, Tornado Cash, on its list of sanctione...",
           "imageUrl": null
         }
       ]
