@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-31T23:22:24.470Z</id>
+    <id>urn:2022-09-01T02:19:45.088Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-31T23:22:24.470Z</updated>
+    <updated>2022-09-01T02:19:45.088Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Most liquid staking protocols don't cater to institutions. Hear from @MikeTaormina on how @alluvialfinance is building the enterprise-grade staking st...]]></title>
+        <id>https://twitter.com/defipulse/status/1565161773073924097</id>
+        <link href="https://twitter.com/defipulse/status/1565161773073924097"/>
+        <updated>2022-09-01T02:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Most liquid staking protocols don't cater to institutions. Hear from @MikeTaormina on how @alluvialfinance is building the enterprise-grade staking standard & how the Merge will impact how institutions view liquid staking.
+🗓️ Sept 1  ⏰ 7 pm UTC
+RSVP: https://www.crowdcast.io/c/traverse-the-merge-alluvial]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🤔 What happens if staking demand coalesces with centralized providers? "This gives them a great deal of power over what transactions are included a...]]></title>
         <id>https://twitter.com/defipulse/status/1565067906899230730</id>
