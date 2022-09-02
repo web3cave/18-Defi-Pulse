@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-02T06:02:43.980Z</id>
+    <id>urn:2022-09-02T07:26:38.924Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-02T06:02:43.980Z</updated>
+    <updated>2022-09-02T07:26:38.924Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -242,6 +242,17 @@ Watch as he walks through the impacts a PoW fork could have on Ethereum's securi
 Watch @fallow8DeFi & @langerstwit explore the fragmentation of staking derivatives, lessons learned from liquid staking tokens in lending markets, & more.
 🗓️Thursday at 11 pm UTC
 Register: https://www.crowdcast.io/c/traversing-the-merge-rocket-pool]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT EFF: EFF is deeply concerned that the U.S. Treasury Department has included an open source computer project, Tornado Cash, on its list of sanctione...]]></title>
+        <id>https://twitter.com/EFF/status/1559224086491934720</id>
+        <link href="https://twitter.com/EFF/status/1559224086491934720"/>
+        <updated>2022-08-15T17:02:45.000Z</updated>
+        <summary type="html"><![CDATA[RT EFF
+EFF is deeply concerned that the U.S. Treasury Department has included an open source computer project, Tornado Cash, on its list of sanctioned individuals. Tornado Cash is an open source software project and website that published a decentralized cryptocurrency mixer.]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
