@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-03T14:19:44.113Z</id>
+    <id>urn:2022-09-03T15:22:32.777Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-03T14:19:44.113Z</updated>
+    <updated>2022-09-03T15:22:32.777Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Miss Traversing the Merge with @MikeTaormina, @alluvialfinance's COO? Watch as he covers: 🏢 Institutional interest in staking 🛠Alluvial's enterp...]]></title>
+        <id>https://twitter.com/defipulse/status/1566079820982730752</id>
+        <link href="https://twitter.com/defipulse/status/1566079820982730752"/>
+        <updated>2022-09-03T15:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Miss Traversing the Merge with @MikeTaormina, @alluvialfinance's COO? Watch as he covers: 
+🏢 Institutional interest in staking
+🛠Alluvial's enterprise-grade staking standard
+💧 Liquid staking token designs
+⏯ https://twitter.com/i/broadcasts/1kvJpAMeENaxE https://twitter.com/i/broadcasts/1kvJpAMeENaxE]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is @RuneKek's vision for @MakerDAO? The Endgame Plan is a roadmap for how Maker aims to create an Unbiased World Currency by making $DAI "bitcoin...]]></title>
         <id>https://twitter.com/defipulse/status/1565861129485697026</id>
