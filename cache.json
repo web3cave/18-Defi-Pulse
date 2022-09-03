@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1565861129485697026",
+          "author": "DeFi Pulse 🍇",
+          "description": "What is @RuneKek's vision for @MakerDAO?\nThe Endgame Plan is a roadmap for how Maker aims to create an Unbiased World Currency by making $DAI \"bitcoin-like\":\n▶️ Decentralized\n▶️ Intrinsically resilient\n▶️ No changes to core system scope & complexity\nFor more insight 👇\nIgnas | DeFi Research: 1/ Maker's mission is to create an Unbiased World Currency.\nHow?\nMakerDAO has an Endgame Plan for it 🧵",
+          "link": "https://twitter.com/defipulse/status/1565861129485697026",
+          "publishedOn": "2022-09-03T00:36:00.000Z",
+          "wordCount": 390,
+          "title": "What is @RuneKek's vision for @MakerDAO? The Endgame Plan is a roadmap for how Maker aims to create an Unbiased World Currency by making $DAI \"bitcoin...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1565709391520727047",
           "author": "DeFi Pulse 🍇",
           "description": "🏎A fast track for becoming an Ethereum core developer and researcher is now available through the @ethereum Protocol Fellowship (EPF). \nEPF is now accepting applications for its 3rd cohort through September 16th.✨\nFor more details👇\nMario Havel: Welcome to the Ethereum Protocol Fellowship.\nThe fast track to becoming an Ethereum core dev is now open! \nA fellowship program for anyone who is interested in diving deeply into core protocol research and development. EPF is now accepting applications:\n https://blog.ethereum.org/2022/09/01/ethereum-protocol-fellowship-third",
@@ -183,16 +193,6 @@
           "publishedOn": "2022-08-17T20:03:02.000Z",
           "wordCount": 390,
           "title": "Re @drakefjustin Tomorrow at 11 pm UTC, we are live with @Rocket_Pool for the next Traversing the Merge. Join us for a discussion on decentralized sta...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1559993583108751360",
-          "author": "DeFi Pulse 🍇",
-          "description": "🗣️ @drakefjustin addressed the rumors about a \"miners\" PoW fork. \nWatch as he walks through the impacts a PoW fork could have on Ethereum's security and why it will be a tough sell for miners. ⛏️ \n📹 For the full video: https://youtu.be/ns4A_00A04g",
-          "link": "https://twitter.com/defipulse/status/1559993583108751360",
-          "publishedOn": "2022-08-17T20:00:28.000Z",
-          "wordCount": 390,
-          "title": "🗣️ @drakefjustin addressed the rumors about a \"miners\" PoW fork. Watch as he walks through the impacts a PoW fork could have on Ethereum's securit...",
           "imageUrl": null
         }
       ]
