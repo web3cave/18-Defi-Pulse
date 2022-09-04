@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1566335505645674496",
+          "author": "DeFi Pulse 🍇",
+          "description": "💭Did you know that DeFi Pulse’s index division, @Scalara_xyz, created the DeFi Pulse Index which is designed to track the performance of some of the largest protocols in the DeFi space?  \nLearn more about the methodology behind the index 🔽\nScalara: The DeFi Pulse Index is a digital asset index designed to track the performance of some of the largest protocols in the DeFi space.  Curious about how we curate the DeFi Pulse Index? Understand the methodology and rationale here:\n https://bit.ly/3T5aAWe",
+          "link": "https://twitter.com/defipulse/status/1566335505645674496",
+          "publishedOn": "2022-09-04T08:01:00.000Z",
+          "wordCount": 390,
+          "title": "💭Did you know that DeFi Pulse’s index division, @Scalara_xyz, created the DeFi Pulse Index which is designed to track the performance of some of t...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1566079820982730752",
           "author": "DeFi Pulse 🍇",
           "description": "Miss Traversing the Merge with @MikeTaormina, @alluvialfinance's COO? Watch as he covers: \n🏢 Institutional interest in staking\n🛠Alluvial's enterprise-grade staking standard\n💧 Liquid staking token designs\n⏯ https://twitter.com/i/broadcasts/1kvJpAMeENaxE https://twitter.com/i/broadcasts/1kvJpAMeENaxE",
@@ -183,16 +193,6 @@
           "publishedOn": "2022-08-18T23:00:02.000Z",
           "wordCount": 390,
           "title": "⚡️We are live! Join us now for Traversing the Merge with special guest @langerstwit of @Rocket_Pool.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1560371304058036229",
-          "author": "DeFi Pulse 🍇",
-          "description": "⌛️Let the countdown begin! \nStarting in 2 hours, we will kick off our next Traversing the Merge with host @fallow8DeFi and special guest @langerstwit from @Rocket_Pool. \nSee you there! https://www.crowdcast.io/c/traversing-the-merge-rocket-pool",
-          "link": "https://twitter.com/defipulse/status/1560371304058036229",
-          "publishedOn": "2022-08-18T21:01:23.000Z",
-          "wordCount": 390,
-          "title": "⌛️Let the countdown begin! Starting in 2 hours, we will kick off our next Traversing the Merge with host @fallow8DeFi and special guest @langerstwit...",
           "imageUrl": null
         }
       ]
