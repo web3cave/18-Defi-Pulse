@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-06T14:23:23.138Z</id>
+    <id>urn:2022-09-06T15:23:44.249Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-06T14:23:23.138Z</updated>
+    <updated>2022-09-06T15:23:44.249Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bellatrix is online⚡️]]></title>
+        <id>https://twitter.com/defipulse/status/1567138339907682304</id>
+        <link href="https://twitter.com/defipulse/status/1567138339907682304"/>
+        <updated>2022-09-06T13:11:10.000Z</updated>
+        <summary type="html"><![CDATA[Bellatrix is online⚡️
+terence.eth: Bellatrix activated! 🎉
+Next stop: the merge
+See you on the other side💫]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[💭Did you know that DeFi Pulse’s index division, @Scalara_xyz, created the DeFi Pulse Index which is designed to track the performance of some of t...]]></title>
         <id>https://twitter.com/defipulse/status/1566335505645674496</id>
