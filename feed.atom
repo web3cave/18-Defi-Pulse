@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-06T16:32:25.773Z</id>
+    <id>urn:2022-09-06T17:27:41.112Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-06T16:32:25.773Z</updated>
+    <updated>2022-09-06T17:27:41.112Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -256,17 +256,6 @@ UPGRADE 👏YOUR 👏 CLIENTS!
         <updated>2022-08-20T15:13:11.000Z</updated>
         <summary type="html"><![CDATA[Decentralization is important to the health of Ethereum. But why? @Rocket_Pool 's @langerstwit shares  4️⃣ reasons why it matters. 
 📹 Miss the full discussion on decentralized staking? Watch it here: https://youtu.be/lGsVDzj3a_o]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[⚡️We are live! Join us now for Traversing the Merge with special guest @langerstwit of @Rocket_Pool.]]></title>
-        <id>https://twitter.com/defipulse/status/1560401161202683905</id>
-        <link href="https://twitter.com/defipulse/status/1560401161202683905"/>
-        <updated>2022-08-18T23:00:02.000Z</updated>
-        <summary type="html"><![CDATA[⚡️We are live! 
-Join us now for Traversing the Merge with special guest @langerstwit of @Rocket_Pool. https://twitter.com/i/broadcasts/1jMJgekdvvyKL]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
