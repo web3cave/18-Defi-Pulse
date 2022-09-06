@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-06T04:53:11.388Z</id>
+    <id>urn:2022-09-06T06:18:16.039Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-06T04:53:11.388Z</updated>
+    <updated>2022-09-06T06:18:16.039Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -254,18 +254,6 @@ UPGRADE 👏YOUR 👏 CLIENTS!
         <updated>2022-08-18T23:00:02.000Z</updated>
         <summary type="html"><![CDATA[⚡️We are live! 
 Join us now for Traversing the Merge with special guest @langerstwit of @Rocket_Pool. https://twitter.com/i/broadcasts/1jMJgekdvvyKL]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[⌛️Let the countdown begin! Starting in 2 hours, we will kick off our next Traversing the Merge with host @fallow8DeFi and special guest @langerstwit...]]></title>
-        <id>https://twitter.com/defipulse/status/1560371304058036229</id>
-        <link href="https://twitter.com/defipulse/status/1560371304058036229"/>
-        <updated>2022-08-18T21:01:23.000Z</updated>
-        <summary type="html"><![CDATA[⌛️Let the countdown begin! 
-Starting in 2 hours, we will kick off our next Traversing the Merge with host @fallow8DeFi and special guest @langerstwit from @Rocket_Pool. 
-See you there! https://www.crowdcast.io/c/traversing-the-merge-rocket-pool]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
