@@ -1,10 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-06T22:22:42.058Z</id>
+    <id>urn:2022-09-06T23:24:35.150Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-06T22:22:42.058Z</updated>
+    <updated>2022-09-06T23:24:35.150Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[🔥The Merge is coming in hot! Catch the next Traversing the Merge with @LidoFinance, where we will get their take on: ▶️ Risks associated w/ the M...]]></title>
+        <id>https://twitter.com/defipulse/status/1567273945518186502</id>
+        <link href="https://twitter.com/defipulse/status/1567273945518186502"/>
+        <updated>2022-09-06T22:10:01.000Z</updated>
+        <summary type="html"><![CDATA[🔥The Merge is coming in hot! Catch the next Traversing the Merge with @LidoFinance, where we will get their take on:
+▶️  Risks associated w/ the Merge
+▶️ Simplified staking
+▶️ Lido's Growth Strategy
+🗓️ Thurs, Sept 8th ⏰ 7:00 pm UTC
+Set a reminder: https://youtu.be/7RZspkccdIk]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bellatrix is online⚡️]]></title>
         <id>https://twitter.com/defipulse/status/1567138339907682304</id>
@@ -231,17 +246,6 @@ UPGRADE 👏YOUR 👏 CLIENTS!
 
 + More👇
  https://blog.ethereum.org/2022/08/24/mainnet-merge-announcement/]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Decentralization is important to the health of Ethereum. But why? @Rocket_Pool 's @langerstwit shares 4️⃣ reasons why it matters. 📹 Miss the full...]]></title>
-        <id>https://twitter.com/defipulse/status/1561008450502524931</id>
-        <link href="https://twitter.com/defipulse/status/1561008450502524931"/>
-        <updated>2022-08-20T15:13:11.000Z</updated>
-        <summary type="html"><![CDATA[Decentralization is important to the health of Ethereum. But why? @Rocket_Pool 's @langerstwit shares  4️⃣ reasons why it matters. 
-📹 Miss the full discussion on decentralized staking? Watch it here: https://youtu.be/lGsVDzj3a_o]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
