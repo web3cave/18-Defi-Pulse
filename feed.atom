@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-07T04:58:56.739Z</id>
+    <id>urn:2022-09-07T06:19:10.894Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-07T04:58:56.740Z</updated>
+    <updated>2022-09-07T06:19:10.894Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -42,6 +42,20 @@ See you on the other side💫]]></summary>
 Learn more about the methodology behind the index 🔽
 Scalara: The DeFi Pulse Index is a digital asset index designed to track the performance of some of the largest protocols in the DeFi space.  Curious about how we curate the DeFi Pulse Index? Understand the methodology and rationale here:
  https://bit.ly/3T5aAWe]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Miss Traversing the Merge with @MikeTaormina, @alluvialfinance's COO? Watch as he covers: 🏢 Institutional interest in staking 🛠Alluvial's enterp...]]></title>
+        <id>https://twitter.com/defipulse/status/1566079820982730752</id>
+        <link href="https://twitter.com/defipulse/status/1566079820982730752"/>
+        <updated>2022-09-03T15:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Miss Traversing the Merge with @MikeTaormina, @alluvialfinance's COO? Watch as he covers: 
+🏢 Institutional interest in staking
+🛠Alluvial's enterprise-grade staking standard
+💧 Liquid staking token designs
+⏯ https://twitter.com/i/broadcasts/1kvJpAMeENaxE https://twitter.com/i/broadcasts/1kvJpAMeENaxE]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -246,6 +260,17 @@ UPGRADE 👏YOUR 👏 CLIENTS!
 
 + More👇
  https://blog.ethereum.org/2022/08/24/mainnet-merge-announcement/]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Decentralization is important to the health of Ethereum. But why? @Rocket_Pool 's @langerstwit shares 4️⃣ reasons why it matters. 📹 Miss the full...]]></title>
+        <id>https://twitter.com/defipulse/status/1561008450502524931</id>
+        <link href="https://twitter.com/defipulse/status/1561008450502524931"/>
+        <updated>2022-08-20T15:13:11.000Z</updated>
+        <summary type="html"><![CDATA[Decentralization is important to the health of Ethereum. But why? @Rocket_Pool 's @langerstwit shares  4️⃣ reasons why it matters. 
+📹 Miss the full discussion on decentralized staking? Watch it here: https://youtu.be/lGsVDzj3a_o]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
