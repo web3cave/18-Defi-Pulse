@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1567540151185801218",
+          "author": "DeFi Pulse 🍇",
+          "description": "📰 @CoinbaseInsto submitted a Maker Improvement Proposal (MIP) for @MakerDAO to deposit ~1.6B USDC from the PSM into a yield-bearing account to earn 1.5% APY as a part of Coinbase's Institutional Rewards Program.\nFor more⬇️\nMakerDAO Growth: .@CoinbaseInsto submitted a Maker Improvement Proposal (MIP) to transfer ~1.6B USDC from the PSM into a yield-bearing account in Coinbase Prime that will provide up to 1.5% APY on @MakerDAO's USDC holdings.\n➡️\n https://forum.makerdao.com/t/mipxx-coinbase-usdc-institutional-rewards/17703",
+          "link": "https://twitter.com/defipulse/status/1567540151185801218",
+          "publishedOn": "2022-09-07T15:47:50.000Z",
+          "wordCount": 390,
+          "title": "📰 @CoinbaseInsto submitted a Maker Improvement Proposal (MIP) for @MakerDAO to deposit ~1.6B USDC from the PSM into a yield-bearing account to earn...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1567273945518186502",
           "author": "DeFi Pulse 🍇",
           "description": "🔥The Merge is coming in hot! Catch the next Traversing the Merge with @LidoFinance, where we will get their take on:\n▶️  Risks associated w/ the Merge\n▶️ Simplified staking\n▶️ Lido's Growth Strategy\n🗓️ Thurs, Sept 8th ⏰ 7:00 pm UTC\nSet a reminder: https://youtu.be/7RZspkccdIk",
@@ -193,16 +203,6 @@
           "publishedOn": "2022-08-24T15:48:01.000Z",
           "wordCount": 390,
           "title": "💫The Merge is coming! Make sure to update your nodes, sit back, & enjoy the transition to PoS.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1561008450502524931",
-          "author": "DeFi Pulse 🍇",
-          "description": "Decentralization is important to the health of Ethereum. But why? @Rocket_Pool 's @langerstwit shares  4️⃣ reasons why it matters. \n📹 Miss the full discussion on decentralized staking? Watch it here: https://youtu.be/lGsVDzj3a_o",
-          "link": "https://twitter.com/defipulse/status/1561008450502524931",
-          "publishedOn": "2022-08-20T15:13:11.000Z",
-          "wordCount": 390,
-          "title": "Decentralization is important to the health of Ethereum. But why? @Rocket_Pool 's @langerstwit shares 4️⃣ reasons why it matters. 📹 Miss the full...",
           "imageUrl": null
         }
       ]

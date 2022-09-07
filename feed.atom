@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-07T15:25:09.467Z</id>
+    <id>urn:2022-09-07T16:33:31.665Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-07T15:25:09.467Z</updated>
+    <updated>2022-09-07T16:33:31.665Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[📰 @CoinbaseInsto submitted a Maker Improvement Proposal (MIP) for @MakerDAO to deposit ~1.6B USDC from the PSM into a yield-bearing account to earn...]]></title>
+        <id>https://twitter.com/defipulse/status/1567540151185801218</id>
+        <link href="https://twitter.com/defipulse/status/1567540151185801218"/>
+        <updated>2022-09-07T15:47:50.000Z</updated>
+        <summary type="html"><![CDATA[📰 @CoinbaseInsto submitted a Maker Improvement Proposal (MIP) for @MakerDAO to deposit ~1.6B USDC from the PSM into a yield-bearing account to earn 1.5% APY as a part of Coinbase's Institutional Rewards Program.
+For more⬇️
+MakerDAO Growth: .@CoinbaseInsto submitted a Maker Improvement Proposal (MIP) to transfer ~1.6B USDC from the PSM into a yield-bearing account in Coinbase Prime that will provide up to 1.5% APY on @MakerDAO's USDC holdings.
+➡️
+ https://forum.makerdao.com/t/mipxx-coinbase-usdc-institutional-rewards/17703]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🔥The Merge is coming in hot! Catch the next Traversing the Merge with @LidoFinance, where we will get their take on: ▶️ Risks associated w/ the M...]]></title>
         <id>https://twitter.com/defipulse/status/1567273945518186502</id>
@@ -260,17 +274,6 @@ UPGRADE 👏YOUR 👏 CLIENTS!
 
 + More👇
  https://blog.ethereum.org/2022/08/24/mainnet-merge-announcement/]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Decentralization is important to the health of Ethereum. But why? @Rocket_Pool 's @langerstwit shares 4️⃣ reasons why it matters. 📹 Miss the full...]]></title>
-        <id>https://twitter.com/defipulse/status/1561008450502524931</id>
-        <link href="https://twitter.com/defipulse/status/1561008450502524931"/>
-        <updated>2022-08-20T15:13:11.000Z</updated>
-        <summary type="html"><![CDATA[Decentralization is important to the health of Ethereum. But why? @Rocket_Pool 's @langerstwit shares  4️⃣ reasons why it matters. 
-📹 Miss the full discussion on decentralized staking? Watch it here: https://youtu.be/lGsVDzj3a_o]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
