@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-07T18:28:38.780Z</id>
+    <id>urn:2022-09-07T19:19:06.165Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-07T18:28:38.780Z</updated>
+    <updated>2022-09-07T19:19:06.165Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @alluvialfinance @MikeTaormina Don't miss our next Traversing the Merge with @LidoFinance on September 8th at 7 pm UTC. Set a reminder:]]></title>
+        <id>https://twitter.com/defipulse/status/1567570404658520068</id>
+        <link href="https://twitter.com/defipulse/status/1567570404658520068"/>
+        <updated>2022-09-07T17:48:03.000Z</updated>
+        <summary type="html"><![CDATA[Re @alluvialfinance @MikeTaormina Don't miss our next Traversing the Merge with @LidoFinance on September 8th at 7 pm UTC. 
+Set a reminder: https://youtu.be/7RZspkccdIk]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🤔 So, how do institutions view liquid staking? Watch @alluvialfinance's COO @MikeTaormina explain how institutions view liquid staking and how that...]]></title>
+        <id>https://twitter.com/defipulse/status/1567569969193304067</id>
+        <link href="https://twitter.com/defipulse/status/1567569969193304067"/>
+        <updated>2022-09-07T17:46:19.000Z</updated>
+        <summary type="html"><![CDATA[🤔 So, how do institutions view liquid staking? Watch @alluvialfinance's COO @MikeTaormina explain how institutions view liquid staking and how that differs from retail investors. 
+Full video: https://youtu.be/ictgn5kbqYY]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[📰 @CoinbaseInsto submitted a Maker Improvement Proposal (MIP) for @MakerDAO to deposit ~1.6B USDC from the PSM into a yield-bearing account to earn...]]></title>
         <id>https://twitter.com/defipulse/status/1567540151185801218</id>
@@ -15,21 +37,6 @@ For more⬇️
 MakerDAO Growth: .@CoinbaseInsto submitted a Maker Improvement Proposal (MIP) to transfer ~1.6B USDC from the PSM into a yield-bearing account in Coinbase Prime that will provide up to 1.5% APY on @MakerDAO's USDC holdings.
 ➡️
  https://forum.makerdao.com/t/mipxx-coinbase-usdc-institutional-rewards/17703]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔥The Merge is coming in hot! Catch the next Traversing the Merge with @LidoFinance, where we will get their take on: ▶️ Risks associated w/ the M...]]></title>
-        <id>https://twitter.com/defipulse/status/1567273945518186502</id>
-        <link href="https://twitter.com/defipulse/status/1567273945518186502"/>
-        <updated>2022-09-06T22:10:01.000Z</updated>
-        <summary type="html"><![CDATA[🔥The Merge is coming in hot! Catch the next Traversing the Merge with @LidoFinance, where we will get their take on:
-▶️  Risks associated w/ the Merge
-▶️ Simplified staking
-▶️ Lido's Growth Strategy
-🗓️ Thurs, Sept 8th ⏰ 7:00 pm UTC
-Set a reminder: https://youtu.be/7RZspkccdIk]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -231,49 +238,6 @@ MORE:
         <summary type="html"><![CDATA[🗺Traversing the Merge continues! Next week @fallow8DeFi is joined by @MikeTaormina to discuss the importance of decentralized enterprise-grade liquid staking & how @alluvialfinance is building this model.
 🗓️ Sept. 1st ⏰ 7pm UTC
 Save a seat: https://www.crowdcast.io/c/traverse-the-merge-alluvial]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Looks like @coinbase is entering the liquid staking business.💦 For more info👇]]></title>
-        <id>https://twitter.com/defipulse/status/1562801467337035782</id>
-        <link href="https://twitter.com/defipulse/status/1562801467337035782"/>
-        <updated>2022-08-25T13:57:59.000Z</updated>
-        <summary type="html"><![CDATA[Looks like @coinbase is entering the liquid staking business.💦
-For more info👇
-Coinbase Assets: Coinbase will add support for Coinbase Wrapped Staked ETH (cbETH) on the Ethereum network (ERC-20 token). Do not send this asset over other networks or your funds will be lost.
-What is cbETH? Let’s dive in 🧵👇]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🚀 @Rocket_Pool's staking protocol utilizes three vectors of decentralization: 1️⃣ Operational 2️⃣ Jurisdictional 3️⃣ Political Watch as @lang...]]></title>
-        <id>https://twitter.com/defipulse/status/1562527456183332864</id>
-        <link href="https://twitter.com/defipulse/status/1562527456183332864"/>
-        <updated>2022-08-24T19:49:10.000Z</updated>
-        <summary type="html"><![CDATA[🚀 @Rocket_Pool's staking protocol utilizes three vectors of decentralization: 
-1️⃣ Operational 
-2️⃣ Jurisdictional
-3️⃣ Political
-Watch as @langerstwit explains each vector and how it supports their decentralized staking. 
-Full stream on YouTube👇 https://youtu.be/lGsVDzj3a_o]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[💫The Merge is coming! Make sure to update your nodes, sit back, & enjoy the transition to PoS.]]></title>
-        <id>https://twitter.com/defipulse/status/1562466769196814336</id>
-        <link href="https://twitter.com/defipulse/status/1562466769196814336"/>
-        <updated>2022-08-24T15:48:01.000Z</updated>
-        <summary type="html"><![CDATA[💫The Merge is coming! Make sure to update your nodes, sit back, & enjoy the transition to PoS.
-Joseph Schweitzer | 🐼: This is it: The Merge is coming.
-UPGRADE 👏YOUR 👏 CLIENTS! 
-
-+ More👇
- https://blog.ethereum.org/2022/08/24/mainnet-merge-announcement/]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>

@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1567570404658520068",
+          "author": "DeFi Pulse 🍇",
+          "description": "Re @alluvialfinance @MikeTaormina Don't miss our next Traversing the Merge with @LidoFinance on September 8th at 7 pm UTC. \nSet a reminder: https://youtu.be/7RZspkccdIk",
+          "link": "https://twitter.com/defipulse/status/1567570404658520068",
+          "publishedOn": "2022-09-07T17:48:03.000Z",
+          "wordCount": 390,
+          "title": "Re @alluvialfinance @MikeTaormina Don't miss our next Traversing the Merge with @LidoFinance on September 8th at 7 pm UTC. Set a reminder:",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1567569969193304067",
+          "author": "DeFi Pulse 🍇",
+          "description": "🤔 So, how do institutions view liquid staking? Watch @alluvialfinance's COO @MikeTaormina explain how institutions view liquid staking and how that differs from retail investors. \nFull video: https://youtu.be/ictgn5kbqYY",
+          "link": "https://twitter.com/defipulse/status/1567569969193304067",
+          "publishedOn": "2022-09-07T17:46:19.000Z",
+          "wordCount": 390,
+          "title": "🤔 So, how do institutions view liquid staking? Watch @alluvialfinance's COO @MikeTaormina explain how institutions view liquid staking and how that...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1567540151185801218",
           "author": "DeFi Pulse 🍇",
           "description": "📰 @CoinbaseInsto submitted a Maker Improvement Proposal (MIP) for @MakerDAO to deposit ~1.6B USDC from the PSM into a yield-bearing account to earn 1.5% APY as a part of Coinbase's Institutional Rewards Program.\nFor more⬇️\nMakerDAO Growth: .@CoinbaseInsto submitted a Maker Improvement Proposal (MIP) to transfer ~1.6B USDC from the PSM into a yield-bearing account in Coinbase Prime that will provide up to 1.5% APY on @MakerDAO's USDC holdings.\n➡️\n https://forum.makerdao.com/t/mipxx-coinbase-usdc-institutional-rewards/17703",
@@ -13,16 +33,6 @@
           "publishedOn": "2022-09-07T15:47:50.000Z",
           "wordCount": 390,
           "title": "📰 @CoinbaseInsto submitted a Maker Improvement Proposal (MIP) for @MakerDAO to deposit ~1.6B USDC from the PSM into a yield-bearing account to earn...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1567273945518186502",
-          "author": "DeFi Pulse 🍇",
-          "description": "🔥The Merge is coming in hot! Catch the next Traversing the Merge with @LidoFinance, where we will get their take on:\n▶️  Risks associated w/ the Merge\n▶️ Simplified staking\n▶️ Lido's Growth Strategy\n🗓️ Thurs, Sept 8th ⏰ 7:00 pm UTC\nSet a reminder: https://youtu.be/7RZspkccdIk",
-          "link": "https://twitter.com/defipulse/status/1567273945518186502",
-          "publishedOn": "2022-09-06T22:10:01.000Z",
-          "wordCount": 390,
-          "title": "🔥The Merge is coming in hot! Catch the next Traversing the Merge with @LidoFinance, where we will get their take on: ▶️ Risks associated w/ the M...",
           "imageUrl": null
         },
         {
@@ -173,36 +183,6 @@
           "publishedOn": "2022-08-27T15:49:01.000Z",
           "wordCount": 390,
           "title": "🗺Traversing the Merge continues! Next week @fallow8DeFi is joined by @MikeTaormina to discuss the importance of decentralized enterprise-grade liqu...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1562801467337035782",
-          "author": "DeFi Pulse 🍇",
-          "description": "Looks like @coinbase is entering the liquid staking business.💦\nFor more info👇\nCoinbase Assets: Coinbase will add support for Coinbase Wrapped Staked ETH (cbETH) on the Ethereum network (ERC-20 token). Do not send this asset over other networks or your funds will be lost.\nWhat is cbETH? Let’s dive in 🧵👇",
-          "link": "https://twitter.com/defipulse/status/1562801467337035782",
-          "publishedOn": "2022-08-25T13:57:59.000Z",
-          "wordCount": 390,
-          "title": "Looks like @coinbase is entering the liquid staking business.💦 For more info👇",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1562527456183332864",
-          "author": "DeFi Pulse 🍇",
-          "description": "🚀 @Rocket_Pool's staking protocol utilizes three vectors of decentralization: \n1️⃣ Operational \n2️⃣ Jurisdictional\n3️⃣ Political\nWatch as @langerstwit explains each vector and how it supports their decentralized staking. \nFull stream on YouTube👇 https://youtu.be/lGsVDzj3a_o",
-          "link": "https://twitter.com/defipulse/status/1562527456183332864",
-          "publishedOn": "2022-08-24T19:49:10.000Z",
-          "wordCount": 390,
-          "title": "🚀 @Rocket_Pool's staking protocol utilizes three vectors of decentralization: 1️⃣ Operational 2️⃣ Jurisdictional 3️⃣ Political Watch as @lang...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1562466769196814336",
-          "author": "DeFi Pulse 🍇",
-          "description": "💫The Merge is coming! Make sure to update your nodes, sit back, & enjoy the transition to PoS.\nJoseph Schweitzer | 🐼: This is it: The Merge is coming.\nUPGRADE 👏YOUR 👏 CLIENTS! \n\n+ More👇\n https://blog.ethereum.org/2022/08/24/mainnet-merge-announcement/",
-          "link": "https://twitter.com/defipulse/status/1562466769196814336",
-          "publishedOn": "2022-08-24T15:48:01.000Z",
-          "wordCount": 390,
-          "title": "💫The Merge is coming! Make sure to update your nodes, sit back, & enjoy the transition to PoS.",
           "imageUrl": null
         }
       ]
