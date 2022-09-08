@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-08T18:27:48.041Z</id>
+    <id>urn:2022-09-08T19:19:51.440Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-08T18:27:48.041Z</updated>
+    <updated>2022-09-08T19:19:51.440Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[⚡️We are live with @LidoFinance! Come join us:]]></title>
+        <id>https://twitter.com/defipulse/status/1567951151466700801</id>
+        <link href="https://twitter.com/defipulse/status/1567951151466700801"/>
+        <updated>2022-09-08T19:01:00.000Z</updated>
+        <summary type="html"><![CDATA[⚡️We are live with @LidoFinance!
+Come join us: https://twitter.com/i/broadcasts/1LyxBqMqWOYJN https://twitter.com/i/broadcasts/1LyxBqMqWOYJN]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[💧Have liquid staking questions heading into the Merge? Join @fallow8DeFi & Lido's @chaingenius on Traversing the Merge as they discuss @LidoFinance...]]></title>
         <id>https://twitter.com/defipulse/status/1567604377308860421</id>
@@ -49,6 +60,21 @@ For more⬇️
 MakerDAO Growth: .@CoinbaseInsto submitted a Maker Improvement Proposal (MIP) to transfer ~1.6B USDC from the PSM into a yield-bearing account in Coinbase Prime that will provide up to 1.5% APY on @MakerDAO's USDC holdings.
 ➡️
  https://forum.makerdao.com/t/mipxx-coinbase-usdc-institutional-rewards/17703]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🔥The Merge is coming in hot! Catch the next Traversing the Merge with @LidoFinance, where we will get their take on: ▶️ Risks associated w/ the M...]]></title>
+        <id>https://twitter.com/defipulse/status/1567273945518186502</id>
+        <link href="https://twitter.com/defipulse/status/1567273945518186502"/>
+        <updated>2022-09-06T22:10:01.000Z</updated>
+        <summary type="html"><![CDATA[🔥The Merge is coming in hot! Catch the next Traversing the Merge with @LidoFinance, where we will get their take on:
+▶️  Risks associated w/ the Merge
+▶️ Simplified staking
+▶️ Lido's Growth Strategy
+🗓️ Thurs, Sept 8th ⏰ 7:00 pm UTC
+Set a reminder: https://youtu.be/7RZspkccdIk]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
