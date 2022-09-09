@@ -1,17 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-09T15:25:15.461Z</id>
+    <id>urn:2022-09-09T16:33:03.640Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-09T15:25:15.461Z</updated>
+    <updated>2022-09-09T16:33:03.640Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[⚡️We are live with @LidoFinance! Come join us:]]></title>
-        <id>https://twitter.com/defipulse/status/1567951151466700801</id>
-        <link href="https://twitter.com/defipulse/status/1567951151466700801"/>
-        <updated>2022-09-08T19:01:00.000Z</updated>
-        <summary type="html"><![CDATA[⚡️We are live with @LidoFinance!
-Come join us: https://twitter.com/i/broadcasts/1LyxBqMqWOYJN https://twitter.com/i/broadcasts/1LyxBqMqWOYJN]]></summary>
+        <title type="html"><![CDATA[Re @Crypto_Texan @MikeTaormina @alluvialfinance The real deal right there. 💪🏽]]></title>
+        <id>https://twitter.com/defipulse/status/1568261594928250880</id>
+        <link href="https://twitter.com/defipulse/status/1568261594928250880"/>
+        <updated>2022-09-09T15:34:35.000Z</updated>
+        <summary type="html"><![CDATA[Re @Crypto_Texan @MikeTaormina @alluvialfinance The real deal right there. 💪🏽]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Merge is a huge milestone, but Protocol researchers are still innovating. 🐠Goldfish by @jneu_net et al. is a provably secure variant of fork-ch...]]></title>
+        <id>https://twitter.com/defipulse/status/1568260327246123009</id>
+        <link href="https://twitter.com/defipulse/status/1568260327246123009"/>
+        <updated>2022-09-09T15:29:33.000Z</updated>
+        <summary type="html"><![CDATA[The Merge is a huge milestone, but Protocol researchers are still innovating.
+🐠Goldfish by @jneu_net et al. is a provably secure variant of fork-choice that could lead to an even more secure chain.
+Learn more 👇
+Joachim Neu: The Merge is a monumental achievement
+But we don’t think PoS Eth will have reached its final form post-merge
+Introducing Goldfish 🐠, a provably secure variant of fork-choice that could lead to an even more secure chain 💪🧵
+w/@fradamt @ErtemTas @dntse
+ https://www.paradigm.xyz/2022/09/goldfish]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -222,48 +238,6 @@ RSVP: https://www.crowdcast.io/c/traverse-the-merge-alluvial]]></summary>
         <summary type="html"><![CDATA[🤔 What happens if staking demand coalesces with centralized providers?
 "This gives them a great deal of power over what transactions are included and how they are ordered." -@langerstwit, GM of @Rocket_Pool
 For more on why decentralized staking matters: https://www.defipulse.com/blog/the-decentralization-of-liquid-staking]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔭@Scalara_xyz's @fallow8DeFi hosts our next chapter of Traversing the Merge: Enterprise-Grade Liquid Staking with special guest @MikeTaormina of @a...]]></title>
-        <id>https://twitter.com/defipulse/status/1564363262300487680</id>
-        <link href="https://twitter.com/defipulse/status/1564363262300487680"/>
-        <updated>2022-08-29T21:24:00.000Z</updated>
-        <summary type="html"><![CDATA[🔭@Scalara_xyz's @fallow8DeFi hosts our next chapter of Traversing the Merge: Enterprise-Grade Liquid Staking with special guest @MikeTaormina of @alluvialfinance.
-🗓️ Thurs, Sept. 1st ⏰ 7pm UTC/ 3pm EST
-Comment questions for our speakers below.💭
-RSVP: https://www.crowdcast.io/c/traverse-the-merge-alluvial]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum staking services are getting ready for the merge. Are you anon? Read more about how @Rocket_Pool is preparing for The Merge with their Redsto...]]></title>
-        <id>https://twitter.com/defipulse/status/1564326014179844098</id>
-        <link href="https://twitter.com/defipulse/status/1564326014179844098"/>
-        <updated>2022-08-29T18:56:00.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum staking services are getting ready for the merge. Are you anon? 
-Read more about how @Rocket_Pool is preparing for The Merge with their Redstone update. 👇
-Rocket Pool: 🚀Redstone is live on mainnet!
-🎉Rocket Pool is Merge-ready!
- https://medium.com/rocket-pool/rocket-pool-the-merge-redstone-601d9efd6b4]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[📢Folks, please upgrade your nodes.]]></title>
-        <id>https://twitter.com/defipulse/status/1564304840855113736</id>
-        <link href="https://twitter.com/defipulse/status/1564304840855113736"/>
-        <updated>2022-08-29T17:31:52.000Z</updated>
-        <summary type="html"><![CDATA[📢Folks, please upgrade your nodes.
-Ethereum: The Merge is coming: UPGRADE YOUR CLIENTS!
-• The Bellatrix upgrade is scheduled for epoch 144896 on the Beacon Chain – 11:34:47am UTC on Sept 6, 2022
-• The TTD value triggering The Merge is 58750000000000000000000, expected between 10-20 Sep 2022
-MORE:
- https://blog.ethereum.org/2022/08/24/mainnet-merge-announcement/]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
