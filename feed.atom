@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-09T10:26:27.589Z</id>
+    <id>urn:2022-09-09T11:20:25.748Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-09T10:26:27.589Z</updated>
+    <updated>2022-09-09T11:20:25.748Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[⚡️We are live with @LidoFinance! Come join us:]]></title>
+        <id>https://twitter.com/defipulse/status/1567951151466700801</id>
+        <link href="https://twitter.com/defipulse/status/1567951151466700801"/>
+        <updated>2022-09-08T19:01:00.000Z</updated>
+        <summary type="html"><![CDATA[⚡️We are live with @LidoFinance!
+Come join us: https://twitter.com/i/broadcasts/1LyxBqMqWOYJN https://twitter.com/i/broadcasts/1LyxBqMqWOYJN]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[💧Have liquid staking questions heading into the Merge? Join @fallow8DeFi & Lido's @chaingenius on Traversing the Merge as they discuss @LidoFinance...]]></title>
         <id>https://twitter.com/defipulse/status/1567604377308860421</id>
@@ -238,6 +249,21 @@ Read more about how @Rocket_Pool is preparing for The Merge with their Redstone 
 Rocket Pool: 🚀Redstone is live on mainnet!
 🎉Rocket Pool is Merge-ready!
  https://medium.com/rocket-pool/rocket-pool-the-merge-redstone-601d9efd6b4]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[📢Folks, please upgrade your nodes.]]></title>
+        <id>https://twitter.com/defipulse/status/1564304840855113736</id>
+        <link href="https://twitter.com/defipulse/status/1564304840855113736"/>
+        <updated>2022-08-29T17:31:52.000Z</updated>
+        <summary type="html"><![CDATA[📢Folks, please upgrade your nodes.
+Ethereum: The Merge is coming: UPGRADE YOUR CLIENTS!
+• The Bellatrix upgrade is scheduled for epoch 144896 on the Beacon Chain – 11:34:47am UTC on Sept 6, 2022
+• The TTD value triggering The Merge is 58750000000000000000000, expected between 10-20 Sep 2022
+MORE:
+ https://blog.ethereum.org/2022/08/24/mainnet-merge-announcement/]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
