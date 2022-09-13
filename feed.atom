@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-13T15:25:51.400Z</id>
+    <id>urn:2022-09-13T16:32:48.322Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-13T15:25:51.400Z</updated>
+    <updated>2022-09-13T16:32:48.322Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -12,20 +12,6 @@
         <updated>2022-09-13T11:21:18.000Z</updated>
         <summary type="html"><![CDATA[💦 Liquid staking is a key DeFi money lego, even more so after the Merge. Watch as @chaingenius of @LidoFinance shares his view on liquid staking as a winner-takes-most market and its impact on the staking economy.
 Full 📹 : https://youtu.be/7RZspkccdIk]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In case you missed Traversing the Merge with @LidoFinance's @chaingenius, you can watch the full replay. Some highlights: ⚡️ How the Merge will unfo...]]></title>
-        <id>https://twitter.com/defipulse/status/1568585204134035461</id>
-        <link href="https://twitter.com/defipulse/status/1568585204134035461"/>
-        <updated>2022-09-10T13:00:30.000Z</updated>
-        <summary type="html"><![CDATA[In case you missed Traversing the Merge with @LidoFinance's @chaingenius, you can watch the full replay. Some highlights:
-⚡️ How the Merge will unfold
-🏎 Lido's preparation
-💧 The Liquid staking landscape post Merge
-⏯ Hit play: https://twitter.com/i/broadcasts/1LyxBqMqWOYJN https://twitter.com/i/broadcasts/1LyxBqMqWOYJN]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -250,18 +236,6 @@ For more info on the upgrade and what users can expect.👇
 Arbitrum: The future is brighter, faster and cheaper, now that Arbitrum One is fully upgraded to the Nitro stack. 💙x🚀
 This includes… 🧵
  https://medium.com/offchainlabs/arbitrum-nitro-one-small-step-for-l2-one-giant-leap-for-ethereum-bc9108047450]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Most liquid staking protocols don't cater to institutions. Hear from @MikeTaormina on how @alluvialfinance is building the enterprise-grade staking st...]]></title>
-        <id>https://twitter.com/defipulse/status/1565161773073924097</id>
-        <link href="https://twitter.com/defipulse/status/1565161773073924097"/>
-        <updated>2022-09-01T02:17:00.000Z</updated>
-        <summary type="html"><![CDATA[Most liquid staking protocols don't cater to institutions. Hear from @MikeTaormina on how @alluvialfinance is building the enterprise-grade staking standard & how the Merge will impact how institutions view liquid staking.
-🗓️ Sept 1  ⏰ 7 pm UTC
-RSVP: https://www.crowdcast.io/c/traverse-the-merge-alluvial]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
