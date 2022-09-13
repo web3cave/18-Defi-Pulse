@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1569647403153727488",
+          "author": "DeFi Pulse 🍇",
+          "description": "💦 Liquid staking is a key DeFi money lego, even more so after the Merge. Watch as @chaingenius of @LidoFinance shares his view on liquid staking as a winner-takes-most market and its impact on the staking economy.\nFull 📹 : https://youtu.be/7RZspkccdIk",
+          "link": "https://twitter.com/defipulse/status/1569647403153727488",
+          "publishedOn": "2022-09-13T11:21:18.000Z",
+          "wordCount": 390,
+          "title": "💦 Liquid staking is a key DeFi money lego, even more so after the Merge. Watch as @chaingenius of @LidoFinance shares his view on liquid staking as...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1568585204134035461",
           "author": "DeFi Pulse 🍇",
           "description": "In case you missed Traversing the Merge with @LidoFinance's @chaingenius, you can watch the full replay. Some highlights:\n⚡️ How the Merge will unfold\n🏎 Lido's preparation\n💧 The Liquid staking landscape post Merge\n⏯ Hit play: https://twitter.com/i/broadcasts/1LyxBqMqWOYJN https://twitter.com/i/broadcasts/1LyxBqMqWOYJN",
@@ -193,16 +203,6 @@
           "publishedOn": "2022-09-01T02:17:00.000Z",
           "wordCount": 390,
           "title": "Most liquid staking protocols don't cater to institutions. Hear from @MikeTaormina on how @alluvialfinance is building the enterprise-grade staking st...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1565067906899230730",
-          "author": "DeFi Pulse 🍇",
-          "description": "🤔 What happens if staking demand coalesces with centralized providers?\n\"This gives them a great deal of power over what transactions are included and how they are ordered.\" -@langerstwit, GM of @Rocket_Pool\nFor more on why decentralized staking matters: https://www.defipulse.com/blog/the-decentralization-of-liquid-staking",
-          "link": "https://twitter.com/defipulse/status/1565067906899230730",
-          "publishedOn": "2022-08-31T20:04:01.000Z",
-          "wordCount": 390,
-          "title": "🤔 What happens if staking demand coalesces with centralized providers? \"This gives them a great deal of power over what transactions are included a...",
           "imageUrl": null
         }
       ]
