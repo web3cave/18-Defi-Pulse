@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-12T23:26:10.305Z</id>
+    <id>urn:2022-09-13T02:31:59.441Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-12T23:26:10.305Z</updated>
+    <updated>2022-09-13T02:31:59.441Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -42,17 +42,6 @@ But we don’t think PoS Eth will have reached its final form post-merge
 Introducing Goldfish 🐠, a provably secure variant of fork-choice that could lead to an even more secure chain 💪🧵
 w/@fradamt @ErtemTas @dntse
  https://www.paradigm.xyz/2022/09/goldfish]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[⚡️We are live with @LidoFinance! Come join us:]]></title>
-        <id>https://twitter.com/defipulse/status/1567951151466700801</id>
-        <link href="https://twitter.com/defipulse/status/1567951151466700801"/>
-        <updated>2022-09-08T19:01:00.000Z</updated>
-        <summary type="html"><![CDATA[⚡️We are live with @LidoFinance!
-Come join us: https://twitter.com/i/broadcasts/1LyxBqMqWOYJN https://twitter.com/i/broadcasts/1LyxBqMqWOYJN]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -251,18 +240,6 @@ This includes… 🧵
         <summary type="html"><![CDATA[Most liquid staking protocols don't cater to institutions. Hear from @MikeTaormina on how @alluvialfinance is building the enterprise-grade staking standard & how the Merge will impact how institutions view liquid staking.
 🗓️ Sept 1  ⏰ 7 pm UTC
 RSVP: https://www.crowdcast.io/c/traverse-the-merge-alluvial]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🤔 What happens if staking demand coalesces with centralized providers? "This gives them a great deal of power over what transactions are included a...]]></title>
-        <id>https://twitter.com/defipulse/status/1565067906899230730</id>
-        <link href="https://twitter.com/defipulse/status/1565067906899230730"/>
-        <updated>2022-08-31T20:04:01.000Z</updated>
-        <summary type="html"><![CDATA[🤔 What happens if staking demand coalesces with centralized providers?
-"This gives them a great deal of power over what transactions are included and how they are ordered." -@langerstwit, GM of @Rocket_Pool
-For more on why decentralized staking matters: https://www.defipulse.com/blog/the-decentralization-of-liquid-staking]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
