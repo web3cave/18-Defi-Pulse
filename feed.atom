@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-13T10:26:46.982Z</id>
+    <id>urn:2022-09-13T11:20:30.029Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-13T10:26:46.982Z</updated>
+    <updated>2022-09-13T11:20:30.029Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[In case you missed Traversing the Merge with @LidoFinance's @chaingenius, you can watch the full replay. Some highlights: ⚡️ How the Merge will unfo...]]></title>
+        <id>https://twitter.com/defipulse/status/1568585204134035461</id>
+        <link href="https://twitter.com/defipulse/status/1568585204134035461"/>
+        <updated>2022-09-10T13:00:30.000Z</updated>
+        <summary type="html"><![CDATA[In case you missed Traversing the Merge with @LidoFinance's @chaingenius, you can watch the full replay. Some highlights:
+⚡️ How the Merge will unfold
+🏎 Lido's preparation
+💧 The Liquid staking landscape post Merge
+⏯ Hit play: https://twitter.com/i/broadcasts/1LyxBqMqWOYJN https://twitter.com/i/broadcasts/1LyxBqMqWOYJN]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @Crypto_Texan @MikeTaormina @alluvialfinance The real deal right there. 💪🏽]]></title>
         <id>https://twitter.com/defipulse/status/1568261594928250880</id>
@@ -237,6 +251,18 @@ This includes… 🧵
         <summary type="html"><![CDATA[Most liquid staking protocols don't cater to institutions. Hear from @MikeTaormina on how @alluvialfinance is building the enterprise-grade staking standard & how the Merge will impact how institutions view liquid staking.
 🗓️ Sept 1  ⏰ 7 pm UTC
 RSVP: https://www.crowdcast.io/c/traverse-the-merge-alluvial]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🤔 What happens if staking demand coalesces with centralized providers? "This gives them a great deal of power over what transactions are included a...]]></title>
+        <id>https://twitter.com/defipulse/status/1565067906899230730</id>
+        <link href="https://twitter.com/defipulse/status/1565067906899230730"/>
+        <updated>2022-08-31T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[🤔 What happens if staking demand coalesces with centralized providers?
+"This gives them a great deal of power over what transactions are included and how they are ordered." -@langerstwit, GM of @Rocket_Pool
+For more on why decentralized staking matters: https://www.defipulse.com/blog/the-decentralization-of-liquid-staking]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
