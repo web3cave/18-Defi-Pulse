@@ -1,24 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-13T02:31:59.441Z</id>
+    <id>urn:2022-09-13T04:52:26.100Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-13T02:31:59.441Z</updated>
+    <updated>2022-09-13T04:52:26.100Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[In case you missed Traversing the Merge with @LidoFinance's @chaingenius, you can watch the full replay. Some highlights: ⚡️ How the Merge will unfo...]]></title>
-        <id>https://twitter.com/defipulse/status/1568585204134035461</id>
-        <link href="https://twitter.com/defipulse/status/1568585204134035461"/>
-        <updated>2022-09-10T13:00:30.000Z</updated>
-        <summary type="html"><![CDATA[In case you missed Traversing the Merge with @LidoFinance's @chaingenius, you can watch the full replay. Some highlights:
-⚡️ How the Merge will unfold
-🏎 Lido's preparation
-💧 The Liquid staking landscape post Merge
-⏯ Hit play: https://twitter.com/i/broadcasts/1LyxBqMqWOYJN https://twitter.com/i/broadcasts/1LyxBqMqWOYJN]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Re @Crypto_Texan @MikeTaormina @alluvialfinance The real deal right there. 💪🏽]]></title>
         <id>https://twitter.com/defipulse/status/1568261594928250880</id>
@@ -42,6 +28,17 @@ But we don’t think PoS Eth will have reached its final form post-merge
 Introducing Goldfish 🐠, a provably secure variant of fork-choice that could lead to an even more secure chain 💪🧵
 w/@fradamt @ErtemTas @dntse
  https://www.paradigm.xyz/2022/09/goldfish]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[⚡️We are live with @LidoFinance! Come join us:]]></title>
+        <id>https://twitter.com/defipulse/status/1567951151466700801</id>
+        <link href="https://twitter.com/defipulse/status/1567951151466700801"/>
+        <updated>2022-09-08T19:01:00.000Z</updated>
+        <summary type="html"><![CDATA[⚡️We are live with @LidoFinance!
+Come join us: https://twitter.com/i/broadcasts/1LyxBqMqWOYJN https://twitter.com/i/broadcasts/1LyxBqMqWOYJN]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
