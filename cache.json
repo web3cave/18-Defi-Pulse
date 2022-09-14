@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1570141597924294657",
+          "author": "DeFi Pulse 🍇",
+          "description": "The most monumental moment in Ethereum's history is hours away! \nHow will you be celebrating the Merge?🐼",
+          "link": "https://twitter.com/defipulse/status/1570141597924294657",
+          "publishedOn": "2022-09-14T20:05:03.000Z",
+          "wordCount": 390,
+          "title": "The most monumental moment in Ethereum's history is hours away! How will you be celebrating the Merge?🐼",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1570048963746713602",
           "author": "DeFi Pulse 🍇",
           "description": "Re 12/ Thank you for Traversing the Merge with us! 🍇\n📹 Watch the whole series on our YouTube channel: https://www.youtube.com/channel/UCwX04bKnekUsn0fYw8pc4fg",
@@ -173,16 +183,6 @@
           "publishedOn": "2022-09-07T20:03:02.000Z",
           "wordCount": 390,
           "title": "💧Have liquid staking questions heading into the Merge? Join @fallow8DeFi & Lido's @chaingenius on Traversing the Merge as they discuss @LidoFinance...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1567570404658520068",
-          "author": "DeFi Pulse 🍇",
-          "description": "Re @alluvialfinance @MikeTaormina Don't miss our next Traversing the Merge with @LidoFinance on September 8th at 7 pm UTC. \nSet a reminder: https://youtu.be/7RZspkccdIk",
-          "link": "https://twitter.com/defipulse/status/1567570404658520068",
-          "publishedOn": "2022-09-07T17:48:03.000Z",
-          "wordCount": 390,
-          "title": "Re @alluvialfinance @MikeTaormina Don't miss our next Traversing the Merge with @LidoFinance on September 8th at 7 pm UTC. Set a reminder:",
           "imageUrl": null
         }
       ]

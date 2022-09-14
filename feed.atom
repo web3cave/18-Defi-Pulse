@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-14T19:20:15.231Z</id>
+    <id>urn:2022-09-14T20:26:46.921Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-14T19:20:15.231Z</updated>
+    <updated>2022-09-14T20:26:46.921Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The most monumental moment in Ethereum's history is hours away! How will you be celebrating the Merge?🐼]]></title>
+        <id>https://twitter.com/defipulse/status/1570141597924294657</id>
+        <link href="https://twitter.com/defipulse/status/1570141597924294657"/>
+        <updated>2022-09-14T20:05:03.000Z</updated>
+        <summary type="html"><![CDATA[The most monumental moment in Ethereum's history is hours away! 
+How will you be celebrating the Merge?🐼]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re 12/ Thank you for Traversing the Merge with us! 🍇 📹 Watch the whole series on our YouTube channel:]]></title>
         <id>https://twitter.com/defipulse/status/1570048963746713602</id>
@@ -207,17 +218,6 @@ Come join us: https://twitter.com/i/broadcasts/1LyxBqMqWOYJN https://twitter
         <summary type="html"><![CDATA[💧Have liquid staking questions heading into the Merge? Join @fallow8DeFi & Lido's @chaingenius on Traversing the Merge as they discuss @LidoFinance's preparation for the largest change in Ethereum history.
 🗓️ Sept 8th ⏰ 7:00 pm UTC
 Set an alert: https://youtu.be/7RZspkccdIk]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @alluvialfinance @MikeTaormina Don't miss our next Traversing the Merge with @LidoFinance on September 8th at 7 pm UTC. Set a reminder:]]></title>
-        <id>https://twitter.com/defipulse/status/1567570404658520068</id>
-        <link href="https://twitter.com/defipulse/status/1567570404658520068"/>
-        <updated>2022-09-07T17:48:03.000Z</updated>
-        <summary type="html"><![CDATA[Re @alluvialfinance @MikeTaormina Don't miss our next Traversing the Merge with @LidoFinance on September 8th at 7 pm UTC. 
-Set a reminder: https://youtu.be/7RZspkccdIk]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
