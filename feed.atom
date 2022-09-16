@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-16T02:38:00.705Z</id>
+    <id>urn:2022-09-16T04:53:44.061Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-16T02:38:00.705Z</updated>
+    <updated>2022-09-16T04:53:44.061Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -148,23 +148,6 @@ Full 📼: https://youtu.be/lGsVDzj3a_o]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🐼 It is the final countdown to the Merge. Are you ready? To prepare, we hosted Traversing the Merge w/ guests: ✅ @csquared_eth ✅ @drakefjustin ✅...]]></title>
-        <id>https://twitter.com/defipulse/status/1570048428712886273</id>
-        <link href="https://twitter.com/defipulse/status/1570048428712886273"/>
-        <updated>2022-09-14T13:54:50.000Z</updated>
-        <summary type="html"><![CDATA[🐼 It is the final countdown to the Merge. Are you ready?
-To prepare, we hosted Traversing the Merge w/ guests: 
-✅ @csquared_eth 
-✅ @drakefjustin 
-✅ @langerstwit 
-✅ @MikeTaormina
-✅ @chaingenius 
-Check out this thread for the highlight reel 👇]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[💦 Liquid staking is a key DeFi money lego, even more so after the Merge. Watch as @chaingenius of @LidoFinance shares his view on liquid staking as...]]></title>
         <id>https://twitter.com/defipulse/status/1569647403153727488</id>
         <link href="https://twitter.com/defipulse/status/1569647403153727488"/>
@@ -235,17 +218,6 @@ Come join us: https://twitter.com/i/broadcasts/1LyxBqMqWOYJN https://twitter
         <summary type="html"><![CDATA[💧Have liquid staking questions heading into the Merge? Join @fallow8DeFi & Lido's @chaingenius on Traversing the Merge as they discuss @LidoFinance's preparation for the largest change in Ethereum history.
 🗓️ Sept 8th ⏰ 7:00 pm UTC
 Set an alert: https://youtu.be/7RZspkccdIk]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @alluvialfinance @MikeTaormina Don't miss our next Traversing the Merge with @LidoFinance on September 8th at 7 pm UTC. Set a reminder:]]></title>
-        <id>https://twitter.com/defipulse/status/1567570404658520068</id>
-        <link href="https://twitter.com/defipulse/status/1567570404658520068"/>
-        <updated>2022-09-07T17:48:03.000Z</updated>
-        <summary type="html"><![CDATA[Re @alluvialfinance @MikeTaormina Don't miss our next Traversing the Merge with @LidoFinance on September 8th at 7 pm UTC. 
-Set a reminder: https://youtu.be/7RZspkccdIk]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
