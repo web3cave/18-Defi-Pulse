@@ -1,23 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-22T12:48:58.169Z</id>
+    <id>urn:2022-09-22T13:52:36.899Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-22T12:48:58.169Z</updated>
+    <updated>2022-09-22T13:52:36.899Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[Join host @fallow8DeFi as we kick off Money Legos: Building the Financial Infrastructure of the Future. The first topic is a hot one— the future of D...]]></title>
-        <id>https://twitter.com/defipulse/status/1572673022674472961</id>
-        <link href="https://twitter.com/defipulse/status/1572673022674472961"/>
-        <updated>2022-09-21T19:44:02.000Z</updated>
-        <summary type="html"><![CDATA[Join host @fallow8DeFi as we kick off Money Legos: Building the Financial Infrastructure of the Future.
-The first topic is a hot one— the future of DeFi Regulation w/ Blockchain Law Professor @JWVerret. 
-🗓Sept 27  ⏰ 12pm EST/4pm UTC
-Set a reminder: https://youtu.be/gkYXKUvvaNo]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[The most monumental moment in Ethereum's history is hours away! How will you be celebrating the Merge?🐼]]></title>
         <id>https://twitter.com/defipulse/status/1570141597924294657</id>
@@ -236,18 +223,6 @@ w/@fradamt @ErtemTas @dntse
         <updated>2022-09-08T19:01:00.000Z</updated>
         <summary type="html"><![CDATA[⚡️We are live with @LidoFinance!
 Come join us: https://twitter.com/i/broadcasts/1LyxBqMqWOYJN https://twitter.com/i/broadcasts/1LyxBqMqWOYJN]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[💧Have liquid staking questions heading into the Merge? Join @fallow8DeFi & Lido's @chaingenius on Traversing the Merge as they discuss @LidoFinance...]]></title>
-        <id>https://twitter.com/defipulse/status/1567604377308860421</id>
-        <link href="https://twitter.com/defipulse/status/1567604377308860421"/>
-        <updated>2022-09-07T20:03:02.000Z</updated>
-        <summary type="html"><![CDATA[💧Have liquid staking questions heading into the Merge? Join @fallow8DeFi & Lido's @chaingenius on Traversing the Merge as they discuss @LidoFinance's preparation for the largest change in Ethereum history.
-🗓️ Sept 8th ⏰ 7:00 pm UTC
-Set an alert: https://youtu.be/7RZspkccdIk]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
