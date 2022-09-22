@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-22T20:26:04.000Z</id>
+    <id>urn:2022-09-22T21:22:12.330Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-22T20:26:04.000Z</updated>
+    <updated>2022-09-22T21:22:12.330Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[✨The DeFi Pulse Index is the leading benchmark of the decentralized finance sector. The index is maintained by DeFi Pulse's index division @Scalara_x...]]></title>
+        <id>https://twitter.com/defipulse/status/1573022258313953283</id>
+        <link href="https://twitter.com/defipulse/status/1573022258313953283"/>
+        <updated>2022-09-22T18:51:46.000Z</updated>
+        <summary type="html"><![CDATA[✨The DeFi Pulse Index is the leading benchmark of the decentralized finance sector. 
+The index is maintained by DeFi Pulse's index division @Scalara_xyz and is available as a single token $DPI implemented by @indexcoop.
+Scalara: Over the last 7 days, the DeFi Pulse Index grew 10% when measured in ETH. $DPI
+Best performers were @compoundfinance, @aave and @iearnfinance.
+Compound was even up in USD terms, despite the overall market rout.]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Nathan Howard: It's been a busy month or so for crypto and DeFi regulation. Join us this Tuesday as @JWVerret helps make sense of it all (in a way ...]]></title>
+        <id>https://twitter.com/fallow8DeFi/status/1572733341215899649</id>
+        <link href="https://twitter.com/fallow8DeFi/status/1572733341215899649"/>
+        <updated>2022-09-21T23:43:43.000Z</updated>
+        <summary type="html"><![CDATA[RT Nathan Howard
+It's been a busy month or so for crypto and DeFi regulation. Join us this Tuesday as @JWVerret helps make sense of it all (in a way that isn't legal advice).
+DeFi Pulse 🍇: Join host @fallow8DeFi as we kick off Money Legos: Building the Financial Infrastructure of the Future.
+The first topic is a hot one— the future of DeFi Regulation w/ Blockchain Law Professor @JWVerret. 
+🗓Sept 27  ⏰ 12pm EST/4pm UTC
+Set a reminder:
+ https://youtu.be/gkYXKUvvaNo]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Join host @fallow8DeFi as we kick off Money Legos: Building the Financial Infrastructure of the Future. The first topic is a hot one— the future of D...]]></title>
         <id>https://twitter.com/defipulse/status/1572673022674472961</id>
@@ -225,29 +255,6 @@ But we don’t think PoS Eth will have reached its final form post-merge
 Introducing Goldfish 🐠, a provably secure variant of fork-choice that could lead to an even more secure chain 💪🧵
 w/@fradamt @ErtemTas @dntse
  https://www.paradigm.xyz/2022/09/goldfish]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[⚡️We are live with @LidoFinance! Come join us:]]></title>
-        <id>https://twitter.com/defipulse/status/1567951151466700801</id>
-        <link href="https://twitter.com/defipulse/status/1567951151466700801"/>
-        <updated>2022-09-08T19:01:00.000Z</updated>
-        <summary type="html"><![CDATA[⚡️We are live with @LidoFinance!
-Come join us: https://twitter.com/i/broadcasts/1LyxBqMqWOYJN https://twitter.com/i/broadcasts/1LyxBqMqWOYJN]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[💧Have liquid staking questions heading into the Merge? Join @fallow8DeFi & Lido's @chaingenius on Traversing the Merge as they discuss @LidoFinance...]]></title>
-        <id>https://twitter.com/defipulse/status/1567604377308860421</id>
-        <link href="https://twitter.com/defipulse/status/1567604377308860421"/>
-        <updated>2022-09-07T20:03:02.000Z</updated>
-        <summary type="html"><![CDATA[💧Have liquid staking questions heading into the Merge? Join @fallow8DeFi & Lido's @chaingenius on Traversing the Merge as they discuss @LidoFinance's preparation for the largest change in Ethereum history.
-🗓️ Sept 8th ⏰ 7:00 pm UTC
-Set an alert: https://youtu.be/7RZspkccdIk]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
