@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-22T23:26:08.296Z</id>
+    <id>urn:2022-09-23T02:31:59.603Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-22T23:26:08.296Z</updated>
+    <updated>2022-09-23T02:31:59.603Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -31,19 +31,6 @@ The first topic is a hot one— the future of DeFi Regulation w/ Blockchain Law 
 🗓Sept 27  ⏰ 12pm EST/4pm UTC
 Set a reminder:
  https://youtu.be/gkYXKUvvaNo]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Join host @fallow8DeFi as we kick off Money Legos: Building the Financial Infrastructure of the Future. The first topic is a hot one— the future of D...]]></title>
-        <id>https://twitter.com/defipulse/status/1572673022674472961</id>
-        <link href="https://twitter.com/defipulse/status/1572673022674472961"/>
-        <updated>2022-09-21T19:44:02.000Z</updated>
-        <summary type="html"><![CDATA[Join host @fallow8DeFi as we kick off Money Legos: Building the Financial Infrastructure of the Future.
-The first topic is a hot one— the future of DeFi Regulation w/ Blockchain Law Professor @JWVerret. 
-🗓Sept 27  ⏰ 12pm EST/4pm UTC
-Set a reminder: https://youtu.be/gkYXKUvvaNo]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
@@ -238,23 +225,6 @@ Full 📹 : https://youtu.be/7RZspkccdIk]]></summary>
         <link href="https://twitter.com/defipulse/status/1568261594928250880"/>
         <updated>2022-09-09T15:34:35.000Z</updated>
         <summary type="html"><![CDATA[Re @Crypto_Texan @MikeTaormina @alluvialfinance The real deal right there. 💪🏽]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Merge is a huge milestone, but Protocol researchers are still innovating. 🐠Goldfish by @jneu_net et al. is a provably secure variant of fork-ch...]]></title>
-        <id>https://twitter.com/defipulse/status/1568260327246123009</id>
-        <link href="https://twitter.com/defipulse/status/1568260327246123009"/>
-        <updated>2022-09-09T15:29:33.000Z</updated>
-        <summary type="html"><![CDATA[The Merge is a huge milestone, but Protocol researchers are still innovating.
-🐠Goldfish by @jneu_net et al. is a provably secure variant of fork-choice that could lead to an even more secure chain.
-Learn more 👇
-Joachim Neu: The Merge is a monumental achievement
-But we don’t think PoS Eth will have reached its final form post-merge
-Introducing Goldfish 🐠, a provably secure variant of fork-choice that could lead to an even more secure chain 💪🧵
-w/@fradamt @ErtemTas @dntse
- https://www.paradigm.xyz/2022/09/goldfish]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
