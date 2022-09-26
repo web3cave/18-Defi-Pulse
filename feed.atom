@@ -1,10 +1,103 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-26T16:35:21.694Z</id>
+    <id>urn:2022-09-26T17:34:20.243Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-26T16:35:21.694Z</updated>
+    <updated>2022-09-26T17:34:20.243Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re Ready to get the ball rolling? Growth Internals data is available for every project listed on our platform: Help us by sharing any feedback or idea...]]></title>
+        <id>https://twitter.com/defipulse/status/1574430730100187144</id>
+        <link href="https://twitter.com/defipulse/status/1574430730100187144"/>
+        <updated>2022-09-26T16:08:32.000Z</updated>
+        <summary type="html"><![CDATA[Re Ready to get the ball rolling? Growth Internals data is available for every project listed on our platform:
+
+Help us by sharing any feedback or ideas for features you would like to see. In the meantime, we'll keep building. https://www.defipulse.com/]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re To learn more about Growth Internals, read the Data Primer, which outlines: 1. The methodology behind the metric 2. How to apply the data to glean ...]]></title>
+        <id>https://twitter.com/defipulse/status/1574430727575199744</id>
+        <link href="https://twitter.com/defipulse/status/1574430727575199744"/>
+        <updated>2022-09-26T16:08:31.000Z</updated>
+        <summary type="html"><![CDATA[Re To learn more about Growth Internals, read the Data Primer, which outlines:
+1. The methodology behind the metric
+2. How to apply the data to glean insights https://www.defipulse.com/blog/growth-internals-metric-primer-methodology-overview]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re These subcategories offer a deeper look at the growth and churn rate of a project. See an increase in Monthly Users made primarily of New Users? Th...]]></title>
+        <id>https://twitter.com/defipulse/status/1574430724622426114</id>
+        <link href="https://twitter.com/defipulse/status/1574430724622426114"/>
+        <updated>2022-09-26T16:08:30.000Z</updated>
+        <summary type="html"><![CDATA[Re These subcategories offer a deeper look at the growth and churn rate of a project.
+See an increase in Monthly Users made primarily of New Users? This might indicate an effective new feature or campaign.
+More Returning Users than New? This might be a loyal community.]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Want to see if a project is *really* growing its user base? Growth Internals provides insight into a project's trajectory by assessing the number o...]]></title>
+        <id>https://twitter.com/defipulse/status/1574430715382415360</id>
+        <link href="https://twitter.com/defipulse/status/1574430715382415360"/>
+        <updated>2022-09-26T16:08:28.000Z</updated>
+        <summary type="html"><![CDATA[Re Want to see if a project is *really* growing its user base?
+Growth Internals provides insight into a project's trajectory by assessing the number of New, Returning, Lost, & Resurrected users over time.]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Introducing Growth Internals, a new data set empowering DeFi Stakeholders to see the growth and engagement trends of a protocol beyond its TVL.]]></title>
+        <id>https://twitter.com/defipulse/status/1574430677528760320</id>
+        <link href="https://twitter.com/defipulse/status/1574430677528760320"/>
+        <updated>2022-09-26T16:08:19.000Z</updated>
+        <summary type="html"><![CDATA[Re Introducing Growth Internals, a new data set empowering DeFi Stakeholders to see the growth and engagement trends of a protocol beyond its TVL.]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re As of today, DeFi Pulse has a renewed focus on bringing you more meaningful insights. Our team has already begun to rebuild our platform to enable ...]]></title>
+        <id>https://twitter.com/defipulse/status/1574430663922491394</id>
+        <link href="https://twitter.com/defipulse/status/1574430663922491394"/>
+        <updated>2022-09-26T16:08:16.000Z</updated>
+        <summary type="html"><![CDATA[Re As of today, DeFi Pulse has a renewed focus on bringing you more meaningful insights.
+Our team has already begun to rebuild our platform to enable new metrics, features, and listings.
+We have a ways to go, but here's the first step.👇]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re We've heard the feedback on our platform: "Your data is stale." "You only show one metric." "You don't have TVL for chains besides Ethereum." The r...]]></title>
+        <id>https://twitter.com/defipulse/status/1574430661376516098</id>
+        <link href="https://twitter.com/defipulse/status/1574430661376516098"/>
+        <updated>2022-09-26T16:08:15.000Z</updated>
+        <summary type="html"><![CDATA[Re We've heard the feedback on our platform:
+"Your data is stale."
+"You only show one metric."
+"You don't have TVL for chains besides Ethereum."
+The relevancy of our data sucks, and we agree. It's time to do better.]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[There comes a time when you know you have to make a change.]]></title>
+        <id>https://twitter.com/defipulse/status/1574430658545430529</id>
+        <link href="https://twitter.com/defipulse/status/1574430658545430529"/>
+        <updated>2022-09-26T16:08:15.000Z</updated>
+        <summary type="html"><![CDATA[There comes a time when you know you have to make a change.]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Regulators are trying to make inroads into crypto but are they going too far? Watch @fallow8DeFi & Blockchain Law Professor @JWVerret break down the c...]]></title>
         <id>https://twitter.com/defipulse/status/1573694245801697281</id>
@@ -152,106 +245,6 @@ Full 📼: https://youtu.be/ns4A_00A04g]]></summary>
         <summary type="html"><![CDATA[Re 6/ Liquid Staking, a Winner-Takes-Most Market? 🏆
 @LidoFinance's @chaingenius shares his take on the impact of a winner-takes-most market in the liquid staking ecosystem.
 Full 📼: https://youtu.be/7RZspkccdIk]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 5/ Systemic Risk of Liquid Staking 💧 @indexcoop's @csquared_eth gives an overview of what liquid staking is and the systemic risk it could pose ...]]></title>
-        <id>https://twitter.com/defipulse/status/1570048646078500865</id>
-        <link href="https://twitter.com/defipulse/status/1570048646078500865"/>
-        <updated>2022-09-14T13:55:41.000Z</updated>
-        <summary type="html"><![CDATA[Re 5/ Systemic Risk of Liquid Staking 💧
-@indexcoop's @csquared_eth gives an overview of what liquid staking is and the systemic risk it could pose to the Ethereum ecosystem.
-Full 📼: https://youtu.be/mot0kIftYa0]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 4/ Ethereum's Economic Security and Staking 🌐 @drakefjustin shares why Ethereum achieving monetary premium is a core part of its mission and how...]]></title>
-        <id>https://twitter.com/defipulse/status/1570048584090804225</id>
-        <link href="https://twitter.com/defipulse/status/1570048584090804225"/>
-        <updated>2022-09-14T13:55:27.000Z</updated>
-        <summary type="html"><![CDATA[Re 4/ Ethereum's Economic Security and Staking 🌐
-@drakefjustin shares why Ethereum achieving monetary premium is a core part of its mission and how Ethereum gets economic security from staking.
-Full 📼: https://youtu.be/ns4A_00A04g]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 3/ The Merge and Ethereum as "Ultrasound Money" 🦇 🔈 @ethereum researcher @drakefjustin explains how the Merge impacts the ETH supply and comp...]]></title>
-        <id>https://twitter.com/defipulse/status/1570048519951745024</id>
-        <link href="https://twitter.com/defipulse/status/1570048519951745024"/>
-        <updated>2022-09-14T13:55:11.000Z</updated>
-        <summary type="html"><![CDATA[Re 3/ The Merge and Ethereum as "Ultrasound Money" 🦇 🔈
-@ethereum researcher @drakefjustin explains how the Merge impacts the ETH supply and completes ETH as "Ultrasound Money."
-Full 📼: https://youtu.be/ns4A_00A04g]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 2/ Decentralization and the health of Ethereum 🩺 @Rocket_Pool's @langerstwit shares 4 reasons why decentralization is important to the health of...]]></title>
-        <id>https://twitter.com/defipulse/status/1570048462476943362</id>
-        <link href="https://twitter.com/defipulse/status/1570048462476943362"/>
-        <updated>2022-09-14T13:54:58.000Z</updated>
-        <summary type="html"><![CDATA[Re 2/ Decentralization and the health of Ethereum 🩺
-@Rocket_Pool's @langerstwit shares 4 reasons why decentralization is important to the health of Ethereum.
-Full 📼: https://youtu.be/lGsVDzj3a_o]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🐼 It is the final countdown to the Merge. Are you ready? To prepare, we hosted Traversing the Merge w/ guests: ✅ @csquared_eth ✅ @drakefjustin ✅...]]></title>
-        <id>https://twitter.com/defipulse/status/1570048428712886273</id>
-        <link href="https://twitter.com/defipulse/status/1570048428712886273"/>
-        <updated>2022-09-14T13:54:50.000Z</updated>
-        <summary type="html"><![CDATA[🐼 It is the final countdown to the Merge. Are you ready?
-To prepare, we hosted Traversing the Merge w/ guests: 
-✅ @csquared_eth 
-✅ @drakefjustin 
-✅ @langerstwit 
-✅ @MikeTaormina
-✅ @chaingenius 
-Check out this thread for the highlight reel 👇]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[💦 Liquid staking is a key DeFi money lego, even more so after the Merge. Watch as @chaingenius of @LidoFinance shares his view on liquid staking as...]]></title>
-        <id>https://twitter.com/defipulse/status/1569647403153727488</id>
-        <link href="https://twitter.com/defipulse/status/1569647403153727488"/>
-        <updated>2022-09-13T11:21:18.000Z</updated>
-        <summary type="html"><![CDATA[💦 Liquid staking is a key DeFi money lego, even more so after the Merge. Watch as @chaingenius of @LidoFinance shares his view on liquid staking as a winner-takes-most market and its impact on the staking economy.
-Full 📹 : https://youtu.be/7RZspkccdIk]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In case you missed Traversing the Merge with @LidoFinance's @chaingenius, you can watch the full replay. Some highlights: ⚡️ How the Merge will unfo...]]></title>
-        <id>https://twitter.com/defipulse/status/1568585204134035461</id>
-        <link href="https://twitter.com/defipulse/status/1568585204134035461"/>
-        <updated>2022-09-10T13:00:30.000Z</updated>
-        <summary type="html"><![CDATA[In case you missed Traversing the Merge with @LidoFinance's @chaingenius, you can watch the full replay. Some highlights:
-⚡️ How the Merge will unfold
-🏎 Lido's preparation
-💧 The Liquid staking landscape post Merge
-⏯ Hit play: https://twitter.com/i/broadcasts/1LyxBqMqWOYJN https://twitter.com/i/broadcasts/1LyxBqMqWOYJN]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Crypto_Texan @MikeTaormina @alluvialfinance The real deal right there. 💪🏽]]></title>
-        <id>https://twitter.com/defipulse/status/1568261594928250880</id>
-        <link href="https://twitter.com/defipulse/status/1568261594928250880"/>
-        <updated>2022-09-09T15:34:35.000Z</updated>
-        <summary type="html"><![CDATA[Re @Crypto_Texan @MikeTaormina @alluvialfinance The real deal right there. 💪🏽]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
