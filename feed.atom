@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-26T19:21:21.180Z</id>
+    <id>urn:2022-09-26T20:25:45.892Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-26T19:21:21.180Z</updated>
+    <updated>2022-09-26T20:25:45.892Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Curious about the latest happenings in DeFi regulation? Tune in to Money Legos w/ @fallow8DeFi and Blockchain Law Professor @JWVerret for an overview ...]]></title>
+        <id>https://twitter.com/defipulse/status/1574494773590867968</id>
+        <link href="https://twitter.com/defipulse/status/1574494773590867968"/>
+        <updated>2022-09-26T20:23:01.000Z</updated>
+        <summary type="html"><![CDATA[Curious about the latest happenings in DeFi regulation?
+Tune in to Money Legos w/ @fallow8DeFi and Blockchain Law Professor @JWVerret for an overview of the recent Ooki DAO CFTC complaint, the ban on @TornadoCash, & more.
+🗓Sept 27  ⏰ 4pm UTC
+RSVP: https://youtu.be/gkYXKUvvaNo]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re Ready to get the ball rolling? Growth Internals data is available for every project listed on our platform: Help us by sharing any feedback or idea...]]></title>
         <id>https://twitter.com/defipulse/status/1574430730100187144</id>
@@ -233,18 +246,6 @@ Full 📼: https://youtu.be/ns4A_00A04g]]></summary>
         <summary type="html"><![CDATA[Re 7/ The Merge, Withdrawals, and the Impact on Staking Demand ⚡️
 @ethereum researcher @drakefjustin shares his views on the Merge's impact on ETH staking and withdrawals (at a later date).
 Full 📼: https://youtu.be/ns4A_00A04g]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 6/ Liquid Staking, a Winner-Takes-Most Market? 🏆 @LidoFinance's @chaingenius shares his take on the impact of a winner-takes-most market in the ...]]></title>
-        <id>https://twitter.com/defipulse/status/1570048712453267456</id>
-        <link href="https://twitter.com/defipulse/status/1570048712453267456"/>
-        <updated>2022-09-14T13:55:57.000Z</updated>
-        <summary type="html"><![CDATA[Re 6/ Liquid Staking, a Winner-Takes-Most Market? 🏆
-@LidoFinance's @chaingenius shares his take on the impact of a winner-takes-most market in the liquid staking ecosystem.
-Full 📼: https://youtu.be/7RZspkccdIk]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
