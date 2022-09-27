@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1574750859610783745",
+          "author": "DeFi Pulse 🍇",
+          "description": "Re @expctchaos We just added a new metric to our platform, Growth Internals. It looks at user engagement for protocols in the Ethereum ecosystem. \nCheck it out and let us know what you think!",
+          "link": "https://twitter.com/defipulse/status/1574750859610783745",
+          "publishedOn": "2022-09-27T13:20:37.000Z",
+          "wordCount": 390,
+          "title": "Re @expctchaos We just added a new metric to our platform, Growth Internals. It looks at user engagement for protocols in the Ethereum ecosystem. Chec...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1574719252791234561",
           "author": "DeFi Pulse 🍇",
           "description": "📢 Happening today! Join us at 12pm EST for Money Legos: Over-Regulation or Light Touch with special guest @JWVerret. \nSet a reminder: https://youtu.be/gkYXKUvvaNo",
@@ -193,16 +203,6 @@
           "publishedOn": "2022-09-14T13:56:34.000Z",
           "wordCount": 390,
           "title": "Re 9/ Institutional View of Staking 💼 @alluvialfinance's @MikeTaormina walks through how the Merge is viewed by institutions and their interest in ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1570048830690713604",
-          "author": "DeFi Pulse 🍇",
-          "description": "Re 8/ Exit Queue 🚧\n@drakefjustin explains the dynamics of the exit queue and how this will come into play when withdrawals are enabled.\nFull 📼: https://youtu.be/ns4A_00A04g",
-          "link": "https://twitter.com/defipulse/status/1570048830690713604",
-          "publishedOn": "2022-09-14T13:56:25.000Z",
-          "wordCount": 390,
-          "title": "Re 8/ Exit Queue 🚧 @drakefjustin explains the dynamics of the exit queue and how this will come into play when withdrawals are enabled. Full 📼:",
           "imageUrl": null
         }
       ]

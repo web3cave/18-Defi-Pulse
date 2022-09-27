@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-27T15:28:52.791Z</id>
+    <id>urn:2022-09-27T16:39:10.873Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-27T15:28:52.791Z</updated>
+    <updated>2022-09-27T16:39:10.873Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @expctchaos We just added a new metric to our platform, Growth Internals. It looks at user engagement for protocols in the Ethereum ecosystem. Chec...]]></title>
+        <id>https://twitter.com/defipulse/status/1574750859610783745</id>
+        <link href="https://twitter.com/defipulse/status/1574750859610783745"/>
+        <updated>2022-09-27T13:20:37.000Z</updated>
+        <summary type="html"><![CDATA[Re @expctchaos We just added a new metric to our platform, Growth Internals. It looks at user engagement for protocols in the Ethereum ecosystem. 
+Check it out and let us know what you think!]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[📢 Happening today! Join us at 12pm EST for Money Legos: Over-Regulation or Light Touch with special guest @JWVerret. Set a reminder:]]></title>
         <id>https://twitter.com/defipulse/status/1574719252791234561</id>
@@ -233,18 +244,6 @@ Full 📼: https://youtu.be/ns4A_00A04g]]></summary>
         <summary type="html"><![CDATA[Re 9/ Institutional View of Staking  💼
 @alluvialfinance's @MikeTaormina walks through how the Merge is viewed by institutions and their interest in the digital asset class and staking protocols.
 Full 📼: https://youtu.be/ictgn5kbqYY]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 8/ Exit Queue 🚧 @drakefjustin explains the dynamics of the exit queue and how this will come into play when withdrawals are enabled. Full 📼:]]></title>
-        <id>https://twitter.com/defipulse/status/1570048830690713604</id>
-        <link href="https://twitter.com/defipulse/status/1570048830690713604"/>
-        <updated>2022-09-14T13:56:25.000Z</updated>
-        <summary type="html"><![CDATA[Re 8/ Exit Queue 🚧
-@drakefjustin explains the dynamics of the exit queue and how this will come into play when withdrawals are enabled.
-Full 📼: https://youtu.be/ns4A_00A04g]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
