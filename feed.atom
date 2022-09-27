@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-27T11:21:23.832Z</id>
+    <id>urn:2022-09-27T12:52:38.466Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-27T11:21:23.832Z</updated>
+    <updated>2022-09-27T12:52:38.466Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[📢 Happening today! Join us at 12pm EST for Money Legos: Over-Regulation or Light Touch with special guest @JWVerret. Set a reminder:]]></title>
+        <id>https://twitter.com/defipulse/status/1574719252791234561</id>
+        <link href="https://twitter.com/defipulse/status/1574719252791234561"/>
+        <updated>2022-09-27T11:15:01.000Z</updated>
+        <summary type="html"><![CDATA[📢 Happening today! Join us at 12pm EST for Money Legos: Over-Regulation or Light Touch with special guest @JWVerret. 
+Set a reminder: https://youtu.be/gkYXKUvvaNo]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Curious about the latest happenings in DeFi regulation? Tune in to Money Legos w/ @fallow8DeFi and Blockchain Law Professor @JWVerret for an overview ...]]></title>
         <id>https://twitter.com/defipulse/status/1574494773590867968</id>
@@ -233,18 +244,6 @@ Full 📼: https://youtu.be/ictgn5kbqYY]]></summary>
         <updated>2022-09-14T13:56:25.000Z</updated>
         <summary type="html"><![CDATA[Re 8/ Exit Queue 🚧
 @drakefjustin explains the dynamics of the exit queue and how this will come into play when withdrawals are enabled.
-Full 📼: https://youtu.be/ns4A_00A04g]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 7/ The Merge, Withdrawals, and the Impact on Staking Demand ⚡️ @ethereum researcher @drakefjustin shares his views on the Merge's impact on ETH s...]]></title>
-        <id>https://twitter.com/defipulse/status/1570048769340870658</id>
-        <link href="https://twitter.com/defipulse/status/1570048769340870658"/>
-        <updated>2022-09-14T13:56:11.000Z</updated>
-        <summary type="html"><![CDATA[Re 7/ The Merge, Withdrawals, and the Impact on Staking Demand ⚡️
-@ethereum researcher @drakefjustin shares his views on the Merge's impact on ETH staking and withdrawals (at a later date).
 Full 📼: https://youtu.be/ns4A_00A04g]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>

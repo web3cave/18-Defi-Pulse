@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1574719252791234561",
+          "author": "DeFi Pulse 🍇",
+          "description": "📢 Happening today! Join us at 12pm EST for Money Legos: Over-Regulation or Light Touch with special guest @JWVerret. \nSet a reminder: https://youtu.be/gkYXKUvvaNo",
+          "link": "https://twitter.com/defipulse/status/1574719252791234561",
+          "publishedOn": "2022-09-27T11:15:01.000Z",
+          "wordCount": 390,
+          "title": "📢 Happening today! Join us at 12pm EST for Money Legos: Over-Regulation or Light Touch with special guest @JWVerret. Set a reminder:",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1574494773590867968",
           "author": "DeFi Pulse 🍇",
           "description": "Curious about the latest happenings in DeFi regulation?\nTune in to Money Legos w/ @fallow8DeFi and Blockchain Law Professor @JWVerret for an overview of the recent Ooki DAO CFTC complaint, the ban on @TornadoCash, & more.\n🗓Sept 27  ⏰ 4pm UTC\nRSVP: https://youtu.be/gkYXKUvvaNo",
@@ -193,16 +203,6 @@
           "publishedOn": "2022-09-14T13:56:25.000Z",
           "wordCount": 390,
           "title": "Re 8/ Exit Queue 🚧 @drakefjustin explains the dynamics of the exit queue and how this will come into play when withdrawals are enabled. Full 📼:",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1570048769340870658",
-          "author": "DeFi Pulse 🍇",
-          "description": "Re 7/ The Merge, Withdrawals, and the Impact on Staking Demand ⚡️\n@ethereum researcher @drakefjustin shares his views on the Merge's impact on ETH staking and withdrawals (at a later date).\nFull 📼: https://youtu.be/ns4A_00A04g",
-          "link": "https://twitter.com/defipulse/status/1570048769340870658",
-          "publishedOn": "2022-09-14T13:56:11.000Z",
-          "wordCount": 390,
-          "title": "Re 7/ The Merge, Withdrawals, and the Impact on Staking Demand ⚡️ @ethereum researcher @drakefjustin shares his views on the Merge's impact on ETH s...",
           "imageUrl": null
         }
       ]
