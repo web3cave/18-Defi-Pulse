@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-27T18:35:04.459Z</id>
+    <id>urn:2022-09-27T19:26:24.640Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-27T18:35:04.459Z</updated>
+    <updated>2022-09-27T19:26:24.640Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[We are live! Hop into Money Legos: Over-Regulation or Light Touch with @fallow8DeFi and Blockchain Law Professor @JWVerret.]]></title>
+        <id>https://twitter.com/defipulse/status/1574791222626897927</id>
+        <link href="https://twitter.com/defipulse/status/1574791222626897927"/>
+        <updated>2022-09-27T16:01:00.000Z</updated>
+        <summary type="html"><![CDATA[We are live! 
+Hop into Money Legos: Over-Regulation or Light Touch with @fallow8DeFi and Blockchain Law Professor @JWVerret. https://twitter.com/i/broadcasts/1lDGLnZOXlqxm https://twitter.com/i/broadcasts/1lDGLnZOXlqxm]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @expctchaos We just added a new metric to our platform, Growth Internals. It looks at user engagement for protocols in the Ethereum ecosystem. Chec...]]></title>
         <id>https://twitter.com/defipulse/status/1574750859610783745</id>
@@ -232,18 +243,6 @@ Full 📼: https://youtu.be/mot0kIftYa0]]></summary>
         <summary type="html"><![CDATA[Re 10/ Ethereum's Social Layer and a PoW Fork 
 @ethereum researcher @drakefjustin addresses the importance of Ethereum's social layer and how it plays a role in the instance of a PoW fork.
 Full 📼: https://youtu.be/ns4A_00A04g]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 9/ Institutional View of Staking 💼 @alluvialfinance's @MikeTaormina walks through how the Merge is viewed by institutions and their interest in ...]]></title>
-        <id>https://twitter.com/defipulse/status/1570048865788633089</id>
-        <link href="https://twitter.com/defipulse/status/1570048865788633089"/>
-        <updated>2022-09-14T13:56:34.000Z</updated>
-        <summary type="html"><![CDATA[Re 9/ Institutional View of Staking  💼
-@alluvialfinance's @MikeTaormina walks through how the Merge is viewed by institutions and their interest in the digital asset class and staking protocols.
-Full 📼: https://youtu.be/ictgn5kbqYY]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>

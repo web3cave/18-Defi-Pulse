@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1574791222626897927",
+          "author": "DeFi Pulse 🍇",
+          "description": "We are live! \nHop into Money Legos: Over-Regulation or Light Touch with @fallow8DeFi and Blockchain Law Professor @JWVerret. https://twitter.com/i/broadcasts/1lDGLnZOXlqxm https://twitter.com/i/broadcasts/1lDGLnZOXlqxm",
+          "link": "https://twitter.com/defipulse/status/1574791222626897927",
+          "publishedOn": "2022-09-27T16:01:00.000Z",
+          "wordCount": 390,
+          "title": "We are live! Hop into Money Legos: Over-Regulation or Light Touch with @fallow8DeFi and Blockchain Law Professor @JWVerret.",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1574750859610783745",
           "author": "DeFi Pulse 🍇",
           "description": "Re @expctchaos We just added a new metric to our platform, Growth Internals. It looks at user engagement for protocols in the Ethereum ecosystem. \nCheck it out and let us know what you think!",
@@ -193,16 +203,6 @@
           "publishedOn": "2022-09-14T13:56:48.000Z",
           "wordCount": 390,
           "title": "Re 10/ Ethereum's Social Layer and a PoW Fork @ethereum researcher @drakefjustin addresses the importance of Ethereum's social layer and how it plays ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1570048865788633089",
-          "author": "DeFi Pulse 🍇",
-          "description": "Re 9/ Institutional View of Staking  💼\n@alluvialfinance's @MikeTaormina walks through how the Merge is viewed by institutions and their interest in the digital asset class and staking protocols.\nFull 📼: https://youtu.be/ictgn5kbqYY",
-          "link": "https://twitter.com/defipulse/status/1570048865788633089",
-          "publishedOn": "2022-09-14T13:56:34.000Z",
-          "wordCount": 390,
-          "title": "Re 9/ Institutional View of Staking 💼 @alluvialfinance's @MikeTaormina walks through how the Merge is viewed by institutions and their interest in ...",
           "imageUrl": null
         }
       ]
