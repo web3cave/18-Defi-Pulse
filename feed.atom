@@ -1,10 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-28T13:57:08.678Z</id>
+    <id>urn:2022-09-28T14:38:25.499Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-28T13:57:08.678Z</updated>
+    <updated>2022-09-28T14:38:25.499Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re Head over to DeFi Pulse to see the new TVL features for every project on our platform: Have a new feature you want to see? Drop it in a comment bel...]]></title>
+        <id>https://twitter.com/defipulse/status/1575113771407679488</id>
+        <link href="https://twitter.com/defipulse/status/1575113771407679488"/>
+        <updated>2022-09-28T13:22:41.000Z</updated>
+        <summary type="html"><![CDATA[Re Head over to DeFi Pulse to see the new TVL features for every project on our platform: 
+Have a new feature you want to see? Drop it in a comment below. https://www.defipulse.com/]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Beyond seeing a list of all the tokens, you can use the token filter to chart the TVL for a single token. Go to a project's TVL, click the gear ico...]]></title>
+        <id>https://twitter.com/defipulse/status/1575113766793990144</id>
+        <link href="https://twitter.com/defipulse/status/1575113766793990144"/>
+        <updated>2022-09-28T13:22:40.000Z</updated>
+        <summary type="html"><![CDATA[Re Beyond seeing a list of all the tokens, you can use the token filter to chart the TVL for a single token.
+Go to a project's TVL, click the gear icon, and select a token to view the individual token's TVL, Quantity Locked, & Value Share.]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Want to see all the tokens that make up a protocol's TVL? Or which token is behind a recent increase or decrease? Scroll down to see the TVL, balan...]]></title>
+        <id>https://twitter.com/defipulse/status/1575113689203556358</id>
+        <link href="https://twitter.com/defipulse/status/1575113689203556358"/>
+        <updated>2022-09-28T13:22:22.000Z</updated>
+        <summary type="html"><![CDATA[Re Want to see all the tokens that make up a protocol's TVL? Or which token is behind a recent increase or decrease?
+Scroll down to see the TVL, balance, and 1-day value change for every token in the protocol.]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Seeing what tokens make up a protocol's TVL and how these change over time can help you gauge a project's ability to attract & retain high-caliber ...]]></title>
+        <id>https://twitter.com/defipulse/status/1575113625068482561</id>
+        <link href="https://twitter.com/defipulse/status/1575113625068482561"/>
+        <updated>2022-09-28T13:22:07.000Z</updated>
+        <summary type="html"><![CDATA[Re Seeing what tokens make up a protocol's TVL and how these change over time can help you gauge a project's ability to attract & retain high-caliber assets.
+Using the Token TVL Share chart, you can see the top tokens making up a protocol's TVL and the changes over time.]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[⚡Are you ready to see more granular TVL information for a protocol? We have updated our platform to show protocol token-level TVL data in 3 new featu...]]></title>
+        <id>https://twitter.com/defipulse/status/1575113569183485954</id>
+        <link href="https://twitter.com/defipulse/status/1575113569183485954"/>
+        <updated>2022-09-28T13:21:53.000Z</updated>
+        <summary type="html"><![CDATA[⚡Are you ready to see more granular TVL information for a protocol?
+We have updated our platform to show protocol token-level TVL data in 3 new features:
+1. Token TVL share over time
+2. Current token TVL
+3. Individual token filter
+Let's take a look 👇]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[We are live! Hop into Money Legos: Over-Regulation or Light Touch with @fallow8DeFi and Blockchain Law Professor @JWVerret.]]></title>
         <id>https://twitter.com/defipulse/status/1574791222626897927</id>
@@ -184,65 +243,6 @@ The first topic is a hot one— the future of DeFi Regulation w/ Blockchain Law 
 🗓Sept 27  ⏰ 12pm EST/4pm UTC
 Set a reminder:
  https://youtu.be/gkYXKUvvaNo]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Join host @fallow8DeFi as we kick off Money Legos: Building the Financial Infrastructure of the Future. The first topic is a hot one— the future of D...]]></title>
-        <id>https://twitter.com/defipulse/status/1572673022674472961</id>
-        <link href="https://twitter.com/defipulse/status/1572673022674472961"/>
-        <updated>2022-09-21T19:44:02.000Z</updated>
-        <summary type="html"><![CDATA[Join host @fallow8DeFi as we kick off Money Legos: Building the Financial Infrastructure of the Future.
-The first topic is a hot one— the future of DeFi Regulation w/ Blockchain Law Professor @JWVerret. 
-🗓Sept 27  ⏰ 12pm EST/4pm UTC
-Set a reminder: https://youtu.be/gkYXKUvvaNo]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The most monumental moment in Ethereum's history is hours away! How will you be celebrating the Merge?🐼]]></title>
-        <id>https://twitter.com/defipulse/status/1570141597924294657</id>
-        <link href="https://twitter.com/defipulse/status/1570141597924294657"/>
-        <updated>2022-09-14T20:05:03.000Z</updated>
-        <summary type="html"><![CDATA[The most monumental moment in Ethereum's history is hours away! 
-How will you be celebrating the Merge?🐼]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 12/ Thank you for Traversing the Merge with us! 🍇 📹 Watch the whole series on our YouTube channel:]]></title>
-        <id>https://twitter.com/defipulse/status/1570048963746713602</id>
-        <link href="https://twitter.com/defipulse/status/1570048963746713602"/>
-        <updated>2022-09-14T13:56:57.000Z</updated>
-        <summary type="html"><![CDATA[Re 12/ Thank you for Traversing the Merge with us! 🍇
-📹 Watch the whole series on our YouTube channel: https://www.youtube.com/channel/UCwX04bKnekUsn0fYw8pc4fg]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 11/ The Merge & Layer 2s @indexcoop's @csquared_eth shares the relationship between L2s and the PoS transition and the impact the Merge will have o...]]></title>
-        <id>https://twitter.com/defipulse/status/1570048959732916233</id>
-        <link href="https://twitter.com/defipulse/status/1570048959732916233"/>
-        <updated>2022-09-14T13:56:56.000Z</updated>
-        <summary type="html"><![CDATA[Re 11/ The Merge & Layer 2s 
-@indexcoop's @csquared_eth shares the relationship between L2s and the PoS transition and the impact the Merge will have on the adoption of Layer 2s.
-Full 📼: https://youtu.be/mot0kIftYa0]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 10/ Ethereum's Social Layer and a PoW Fork @ethereum researcher @drakefjustin addresses the importance of Ethereum's social layer and how it plays ...]]></title>
-        <id>https://twitter.com/defipulse/status/1570048923385106434</id>
-        <link href="https://twitter.com/defipulse/status/1570048923385106434"/>
-        <updated>2022-09-14T13:56:48.000Z</updated>
-        <summary type="html"><![CDATA[Re 10/ Ethereum's Social Layer and a PoW Fork 
-@ethereum researcher @drakefjustin addresses the importance of Ethereum's social layer and how it plays a role in the instance of a PoW fork.
-Full 📼: https://youtu.be/ns4A_00A04g]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
