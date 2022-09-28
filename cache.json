@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1575215542419480576",
+          "author": "DeFi Pulse 🍇",
+          "description": "✨@eulerfinance is now listed on DeFi Pulse!\nYou can now see Euler's TVL, Token TVL Share, and Growth Internals, the new user engagement dataset. \nCheck out the data: https://bit.ly/3UZfpl5",
+          "link": "https://twitter.com/defipulse/status/1575215542419480576",
+          "publishedOn": "2022-09-28T20:07:06.000Z",
+          "wordCount": 390,
+          "title": "✨@eulerfinance is now listed on DeFi Pulse! You can now see Euler's TVL, Token TVL Share, and Growth Internals, the new user engagement dataset. Chec...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1575211871833292800",
+          "author": "DeFi Pulse 🍇",
+          "description": "Re @parcl We just released a new user engagement data set, Growth Internals. \nGrowth Internals shows the number of New, Returning, Lost, and Resurrected Users for each protocol list on our platform. \nCheck it out on our platform and let us know what you think!",
+          "link": "https://twitter.com/defipulse/status/1575211871833292800",
+          "publishedOn": "2022-09-28T19:52:30.000Z",
+          "wordCount": 390,
+          "title": "Re @parcl We just released a new user engagement data set, Growth Internals. Growth Internals shows the number of New, Returning, Lost, and Resurrecte...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1575113771407679488",
           "author": "DeFi Pulse 🍇",
           "description": "Re Head over to DeFi Pulse to see the new TVL features for every project on our platform: \nHave a new feature you want to see? Drop it in a comment below. https://www.defipulse.com/",
@@ -183,26 +203,6 @@
           "publishedOn": "2022-09-24T15:22:00.000Z",
           "wordCount": 390,
           "title": "Regulators are trying to make inroads into crypto but are they going too far? Watch @fallow8DeFi & Blockchain Law Professor @JWVerret break down the c...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1573022258313953283",
-          "author": "DeFi Pulse 🍇",
-          "description": "✨The DeFi Pulse Index is the leading benchmark of the decentralized finance sector. \nThe index is maintained by DeFi Pulse's index division @Scalara_xyz and is available as a single token $DPI implemented by @indexcoop.\nScalara: Over the last 7 days, the DeFi Pulse Index grew 10% when measured in ETH. $DPI\nBest performers were @compoundfinance, @aave and @iearnfinance.\nCompound was even up in USD terms, despite the overall market rout.",
-          "link": "https://twitter.com/defipulse/status/1573022258313953283",
-          "publishedOn": "2022-09-22T18:51:46.000Z",
-          "wordCount": 390,
-          "title": "✨The DeFi Pulse Index is the leading benchmark of the decentralized finance sector. The index is maintained by DeFi Pulse's index division @Scalara_x...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/fallow8DeFi/status/1572733341215899649",
-          "author": "DeFi Pulse 🍇",
-          "description": "RT Nathan Howard\nIt's been a busy month or so for crypto and DeFi regulation. Join us this Tuesday as @JWVerret helps make sense of it all (in a way that isn't legal advice).\nDeFi Pulse 🍇: Join host @fallow8DeFi as we kick off Money Legos: Building the Financial Infrastructure of the Future.\nThe first topic is a hot one— the future of DeFi Regulation w/ Blockchain Law Professor @JWVerret. \n🗓Sept 27  ⏰ 12pm EST/4pm UTC\nSet a reminder:\n https://youtu.be/gkYXKUvvaNo",
-          "link": "https://twitter.com/fallow8DeFi/status/1572733341215899649",
-          "publishedOn": "2022-09-21T23:43:43.000Z",
-          "wordCount": 390,
-          "title": "RT Nathan Howard: It's been a busy month or so for crypto and DeFi regulation. Join us this Tuesday as @JWVerret helps make sense of it all (in a way ...",
           "imageUrl": null
         }
       ]
