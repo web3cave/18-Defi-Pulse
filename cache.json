@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1575915911013404672",
+          "author": "DeFi Pulse 🍇",
+          "description": "🦄 To bring users new features, @Uniswap is setting up another funding round aimed at over $100 million.\nLearn more: https://techcrunch.com/2022/09/30/uniswap-labs-eyes-over-100-million-in-new-funding/",
+          "link": "https://twitter.com/defipulse/status/1575915911013404672",
+          "publishedOn": "2022-09-30T18:30:06.000Z",
+          "wordCount": 395,
+          "title": "🦄 To bring users new features, @Uniswap is setting up another funding round aimed at over $100 million. Learn more:",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1575905870587699200",
+          "author": "DeFi Pulse 🍇",
+          "description": "✨Have you seen our new user engagement dataset, Growth Internals?\nWith Growth Internals, you can see the New, Returning, Lost, & Resurrected Users for every project on DeFi Pulse.\nView Growth Internals: \nLearn More: https://www.defipulse.com/ https://bit.ly/GrowthInternalsPrimer",
+          "link": "https://twitter.com/defipulse/status/1575905870587699200",
+          "publishedOn": "2022-09-30T17:50:13.000Z",
+          "wordCount": 395,
+          "title": "✨Have you seen our new user engagement dataset, Growth Internals? With Growth Internals, you can see the New, Returning, Lost, & Resurrected Users fo...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1575215542419480576",
           "author": "DeFi Pulse 🍇",
           "description": "✨@eulerfinance is now listed on DeFi Pulse!\nYou can now see Euler's TVL, Token TVL Share, and Growth Internals, the new user engagement dataset. \nCheck out the data: https://bit.ly/3UZfpl5",
@@ -183,26 +203,6 @@
           "publishedOn": "2022-09-26T16:08:15.000Z",
           "wordCount": 395,
           "title": "Re We've heard the feedback on our platform: \"Your data is stale.\" \"You only show one metric.\" \"You don't have TVL for chains besides Ethereum.\" The r...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1574430658545430529",
-          "author": "DeFi Pulse 🍇",
-          "description": "There comes a time when you know you have to make a change.",
-          "link": "https://twitter.com/defipulse/status/1574430658545430529",
-          "publishedOn": "2022-09-26T16:08:15.000Z",
-          "wordCount": 395,
-          "title": "There comes a time when you know you have to make a change.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1573694245801697281",
-          "author": "DeFi Pulse 🍇",
-          "description": "Regulators are trying to make inroads into crypto but are they going too far?\nWatch @fallow8DeFi & Blockchain Law Professor @JWVerret break down\nthe current state of regulation & the future implications.\n🗓Sept 27  ⏰ 4pm UTC\nSet an alert: https://youtu.be/gkYXKUvvaNo",
-          "link": "https://twitter.com/defipulse/status/1573694245801697281",
-          "publishedOn": "2022-09-24T15:22:00.000Z",
-          "wordCount": 395,
-          "title": "Regulators are trying to make inroads into crypto but are they going too far? Watch @fallow8DeFi & Blockchain Law Professor @JWVerret break down the c...",
           "imageUrl": null
         }
       ]

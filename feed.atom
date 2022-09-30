@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-30T20:27:24.721Z</id>
+    <id>urn:2022-09-30T21:22:57.632Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-30T20:27:24.721Z</updated>
+    <updated>2022-09-30T21:22:57.632Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[🦄 To bring users new features, @Uniswap is setting up another funding round aimed at over $100 million. Learn more:]]></title>
+        <id>https://twitter.com/defipulse/status/1575915911013404672</id>
+        <link href="https://twitter.com/defipulse/status/1575915911013404672"/>
+        <updated>2022-09-30T18:30:06.000Z</updated>
+        <summary type="html"><![CDATA[🦄 To bring users new features, @Uniswap is setting up another funding round aimed at over $100 million.
+Learn more: https://techcrunch.com/2022/09/30/uniswap-labs-eyes-over-100-million-in-new-funding/]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[✨Have you seen our new user engagement dataset, Growth Internals? With Growth Internals, you can see the New, Returning, Lost, & Resurrected Users fo...]]></title>
+        <id>https://twitter.com/defipulse/status/1575905870587699200</id>
+        <link href="https://twitter.com/defipulse/status/1575905870587699200"/>
+        <updated>2022-09-30T17:50:13.000Z</updated>
+        <summary type="html"><![CDATA[✨Have you seen our new user engagement dataset, Growth Internals?
+With Growth Internals, you can see the New, Returning, Lost, & Resurrected Users for every project on DeFi Pulse.
+View Growth Internals: 
+Learn More: https://www.defipulse.com/ https://bit.ly/GrowthInternalsPrimer]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[✨@eulerfinance is now listed on DeFi Pulse! You can now see Euler's TVL, Token TVL Share, and Growth Internals, the new user engagement dataset. Chec...]]></title>
         <id>https://twitter.com/defipulse/status/1575215542419480576</id>
@@ -213,30 +237,6 @@ We have a ways to go, but here's the first step.👇]]></summary>
 "You only show one metric."
 "You don't have TVL for chains besides Ethereum."
 The relevancy of our data sucks, and we agree. It's time to do better.]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[There comes a time when you know you have to make a change.]]></title>
-        <id>https://twitter.com/defipulse/status/1574430658545430529</id>
-        <link href="https://twitter.com/defipulse/status/1574430658545430529"/>
-        <updated>2022-09-26T16:08:15.000Z</updated>
-        <summary type="html"><![CDATA[There comes a time when you know you have to make a change.]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Regulators are trying to make inroads into crypto but are they going too far? Watch @fallow8DeFi & Blockchain Law Professor @JWVerret break down the c...]]></title>
-        <id>https://twitter.com/defipulse/status/1573694245801697281</id>
-        <link href="https://twitter.com/defipulse/status/1573694245801697281"/>
-        <updated>2022-09-24T15:22:00.000Z</updated>
-        <summary type="html"><![CDATA[Regulators are trying to make inroads into crypto but are they going too far?
-Watch @fallow8DeFi & Blockchain Law Professor @JWVerret break down
-the current state of regulation & the future implications.
-🗓Sept 27  ⏰ 4pm UTC
-Set an alert: https://youtu.be/gkYXKUvvaNo]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
