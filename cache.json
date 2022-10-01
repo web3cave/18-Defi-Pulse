@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1576236495698120707",
+          "author": "DeFi Pulse 🍇",
+          "description": "🎥 Did you miss Money Legos: Over-Regulation or Light Touch? The Future of DeFi Regulation with @Scalara_xyz's @fallow8DeFi and Blockchain Law Professor @JWVerret?\n⏯Watch the replay: https://twitter.com/i/broadcasts/1lDGLnZOXlqxm https://twitter.com/i/broadcasts/1lDGLnZOXlqxm",
+          "link": "https://twitter.com/defipulse/status/1576236495698120707",
+          "publishedOn": "2022-10-01T15:44:00.000Z",
+          "wordCount": 395,
+          "title": "🎥 Did you miss Money Legos: Over-Regulation or Light Touch? The Future of DeFi Regulation with @Scalara_xyz's @fallow8DeFi and Blockchain Law Profe...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1575915911013404672",
           "author": "DeFi Pulse 🍇",
           "description": "🦄 To bring users new features, @Uniswap is setting up another funding round aimed at over $100 million.\nLearn more: https://techcrunch.com/2022/09/30/uniswap-labs-eyes-over-100-million-in-new-funding/",
@@ -193,16 +203,6 @@
           "publishedOn": "2022-09-26T16:08:16.000Z",
           "wordCount": 395,
           "title": "Re As of today, DeFi Pulse has a renewed focus on bringing you more meaningful insights. Our team has already begun to rebuild our platform to enable ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1574430661376516098",
-          "author": "DeFi Pulse 🍇",
-          "description": "Re We've heard the feedback on our platform:\n\"Your data is stale.\"\n\"You only show one metric.\"\n\"You don't have TVL for chains besides Ethereum.\"\nThe relevancy of our data sucks, and we agree. It's time to do better.",
-          "link": "https://twitter.com/defipulse/status/1574430661376516098",
-          "publishedOn": "2022-09-26T16:08:15.000Z",
-          "wordCount": 395,
-          "title": "Re We've heard the feedback on our platform: \"Your data is stale.\" \"You only show one metric.\" \"You don't have TVL for chains besides Ethereum.\" The r...",
           "imageUrl": null
         }
       ]
