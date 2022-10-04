@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-04T17:41:46.284Z</id>
+    <id>urn:2022-10-04T18:37:48.299Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-04T17:41:46.285Z</updated>
+    <updated>2022-10-04T18:37:48.300Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[🌪️ Watch as @JWVerret explains the U.S. Office of Foreign Assets Control (OFAC) sanctions on @TornadoCash and the severe privacy implications if t...]]></title>
+        <id>https://twitter.com/defipulse/status/1577341610064502784</id>
+        <link href="https://twitter.com/defipulse/status/1577341610064502784"/>
+        <updated>2022-10-04T16:55:20.000Z</updated>
+        <summary type="html"><![CDATA[🌪️ Watch as @JWVerret explains the U.S. Office of Foreign Assets Control (OFAC) sanctions on @TornadoCash and the severe privacy implications if the sanctions are not lifted. 
+📼 For the full video: https://youtu.be/gkYXKUvvaNo]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🎥 Did you miss Money Legos: Over-Regulation or Light Touch? The Future of DeFi Regulation with @Scalara_xyz's @fallow8DeFi and Blockchain Law Profe...]]></title>
         <id>https://twitter.com/defipulse/status/1576236495698120707</id>
@@ -222,18 +233,6 @@ Growth Internals provides insight into a project's trajectory by assessing the n
         <link href="https://twitter.com/defipulse/status/1574430677528760320"/>
         <updated>2022-09-26T16:08:19.000Z</updated>
         <summary type="html"><![CDATA[Re Introducing Growth Internals, a new data set empowering DeFi Stakeholders to see the growth and engagement trends of a protocol beyond its TVL.]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re As of today, DeFi Pulse has a renewed focus on bringing you more meaningful insights. Our team has already begun to rebuild our platform to enable ...]]></title>
-        <id>https://twitter.com/defipulse/status/1574430663922491394</id>
-        <link href="https://twitter.com/defipulse/status/1574430663922491394"/>
-        <updated>2022-09-26T16:08:16.000Z</updated>
-        <summary type="html"><![CDATA[Re As of today, DeFi Pulse has a renewed focus on bringing you more meaningful insights.
-Our team has already begun to rebuild our platform to enable new metrics, features, and listings.
-We have a ways to go, but here's the first step.👇]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
