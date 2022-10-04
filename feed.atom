@@ -1,10 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-04T21:23:05.405Z</id>
+    <id>urn:2022-10-04T22:26:06.763Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-04T21:23:05.405Z</updated>
+    <updated>2022-10-04T22:26:06.763Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @b_asselstine We have confirmed the V4 contracts are included. The delta is bc the TVL is Ethereum only. Hope this helps clarify!]]></title>
+        <id>https://twitter.com/defipulse/status/1577408197844795392</id>
+        <link href="https://twitter.com/defipulse/status/1577408197844795392"/>
+        <updated>2022-10-04T21:19:55.000Z</updated>
+        <summary type="html"><![CDATA[Re @b_asselstine We have confirmed the V4 contracts are included. The delta is bc the TVL is Ethereum only. Hope this helps clarify!]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @b_asselstine @b_asselstine Roger that 🫡]]></title>
+        <id>https://twitter.com/defipulse/status/1577399488238522390</id>
+        <link href="https://twitter.com/defipulse/status/1577399488238522390"/>
+        <updated>2022-10-04T20:45:19.000Z</updated>
+        <summary type="html"><![CDATA[Re @b_asselstine @b_asselstine Roger that 🫡]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🏊 @PoolTogether_ is now listed on DeFi Pulse! Check out PoolTogether's TVL, Token TVL Share, and its user base with Growth Internals, DeFi Pulse's ...]]></title>
+        <id>https://twitter.com/defipulse/status/1577387842506031108</id>
+        <link href="https://twitter.com/defipulse/status/1577387842506031108"/>
+        <updated>2022-10-04T19:59:02.000Z</updated>
+        <summary type="html"><![CDATA[🏊 @PoolTogether_ is now listed on DeFi Pulse!
+Check out PoolTogether's TVL, Token TVL Share, and its user base with Growth Internals, DeFi Pulse's newest dataset.
+See the data: https://bit.ly/dfppooltogether]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🌪️ Watch as @JWVerret explains the U.S. Office of Foreign Assets Control (OFAC) sanctions on @TornadoCash and the severe privacy implications if t...]]></title>
         <id>https://twitter.com/defipulse/status/1577341610064502784</id>
@@ -200,39 +232,6 @@ Help us by sharing any feedback or ideas for features you would like to see. In 
         <summary type="html"><![CDATA[Re To learn more about Growth Internals, read the Data Primer, which outlines:
 1. The methodology behind the metric
 2. How to apply the data to glean insights https://www.defipulse.com/blog/growth-internals-metric-primer-methodology-overview]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re These subcategories offer a deeper look at the growth and churn rate of a project. See an increase in Monthly Users made primarily of New Users? Th...]]></title>
-        <id>https://twitter.com/defipulse/status/1574430724622426114</id>
-        <link href="https://twitter.com/defipulse/status/1574430724622426114"/>
-        <updated>2022-09-26T16:08:30.000Z</updated>
-        <summary type="html"><![CDATA[Re These subcategories offer a deeper look at the growth and churn rate of a project.
-See an increase in Monthly Users made primarily of New Users? This might indicate an effective new feature or campaign.
-More Returning Users than New? This might be a loyal community.]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Want to see if a project is *really* growing its user base? Growth Internals provides insight into a project's trajectory by assessing the number o...]]></title>
-        <id>https://twitter.com/defipulse/status/1574430715382415360</id>
-        <link href="https://twitter.com/defipulse/status/1574430715382415360"/>
-        <updated>2022-09-26T16:08:28.000Z</updated>
-        <summary type="html"><![CDATA[Re Want to see if a project is *really* growing its user base?
-Growth Internals provides insight into a project's trajectory by assessing the number of New, Returning, Lost, & Resurrected users over time.]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Introducing Growth Internals, a new data set empowering DeFi Stakeholders to see the growth and engagement trends of a protocol beyond its TVL.]]></title>
-        <id>https://twitter.com/defipulse/status/1574430677528760320</id>
-        <link href="https://twitter.com/defipulse/status/1574430677528760320"/>
-        <updated>2022-09-26T16:08:19.000Z</updated>
-        <summary type="html"><![CDATA[Re Introducing Growth Internals, a new data set empowering DeFi Stakeholders to see the growth and engagement trends of a protocol beyond its TVL.]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
