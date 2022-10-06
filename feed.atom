@@ -1,10 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-06T19:28:13.381Z</id>
+    <id>urn:2022-10-06T20:28:02.795Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-06T19:28:13.381Z</updated>
+    <updated>2022-10-06T20:28:02.795Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DeFi Pulse unpacked the recent crypto regulatory events in our latest episode of Money Legos w/ Blockchain Law Professor @JWVerret. We covered: 🌪️...]]></title>
+        <id>https://twitter.com/defipulse/status/1578111356489924608</id>
+        <link href="https://twitter.com/defipulse/status/1578111356489924608"/>
+        <updated>2022-10-06T19:54:01.000Z</updated>
+        <summary type="html"><![CDATA[DeFi Pulse unpacked the recent crypto regulatory events in our latest episode of Money Legos w/ Blockchain Law Professor @JWVerret. 
+We covered: 
+🌪️ @TornadoCash sanctions
+💥 Ookie DAO CFTC lawsuit
+💰 Draft Stablecoin Bill
++ more!
+Watch the full episode: https://youtu.be/gkYXKUvvaNo]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[💫 @EaseDeFi is now listed on DeFi Pulse! Ease has developed Uninsurance, a peer-to-peer perpetual coverage model for DeFi assets. Check out Ease's ...]]></title>
         <id>https://twitter.com/defipulse/status/1578058260862623745</id>
@@ -222,19 +238,6 @@ Check it out and let us know what you think!]]></summary>
         <updated>2022-09-27T11:15:01.000Z</updated>
         <summary type="html"><![CDATA[📢 Happening today! Join us at 12pm EST for Money Legos: Over-Regulation or Light Touch with special guest @JWVerret. 
 Set a reminder: https://youtu.be/gkYXKUvvaNo]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Curious about the latest happenings in DeFi regulation? Tune in to Money Legos w/ @fallow8DeFi and Blockchain Law Professor @JWVerret for an overview ...]]></title>
-        <id>https://twitter.com/defipulse/status/1574494773590867968</id>
-        <link href="https://twitter.com/defipulse/status/1574494773590867968"/>
-        <updated>2022-09-26T20:23:01.000Z</updated>
-        <summary type="html"><![CDATA[Curious about the latest happenings in DeFi regulation?
-Tune in to Money Legos w/ @fallow8DeFi and Blockchain Law Professor @JWVerret for an overview of the recent Ooki DAO CFTC complaint, the ban on @TornadoCash, & more.
-🗓Sept 27  ⏰ 4pm UTC
-RSVP: https://youtu.be/gkYXKUvvaNo]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>

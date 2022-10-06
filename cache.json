@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1578111356489924608",
+          "author": "DeFi Pulse 🍇",
+          "description": "DeFi Pulse unpacked the recent crypto regulatory events in our latest episode of Money Legos w/ Blockchain Law Professor @JWVerret. \nWe covered: \n🌪️ @TornadoCash sanctions\n💥 Ookie DAO CFTC lawsuit\n💰 Draft Stablecoin Bill\n+ more!\nWatch the full episode: https://youtu.be/gkYXKUvvaNo",
+          "link": "https://twitter.com/defipulse/status/1578111356489924608",
+          "publishedOn": "2022-10-06T19:54:01.000Z",
+          "wordCount": 399,
+          "title": "DeFi Pulse unpacked the recent crypto regulatory events in our latest episode of Money Legos w/ Blockchain Law Professor @JWVerret. We covered: 🌪️...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1578058260862623745",
           "author": "DeFi Pulse 🍇",
           "description": "💫 @EaseDeFi is now listed on DeFi Pulse!\nEase has developed Uninsurance, a peer-to-peer perpetual coverage model for DeFi assets.\nCheck out Ease's user base with Growth Internals, DeFi Pulse's newest dataset.\n👉 https://bit.ly/easedefi",
@@ -21,7 +31,7 @@
           "description": "TVL is one way to assess a protocol's value. Looking at users is another.\nGrowing userbase = Providing value to users.\nSee a protocol's user base w/ Growth Internals, DeFi Pulse's new dataset.\nView Growth Internals: \nLearn more: https://www.defipulse.com/ https://bit.ly/GrowthInternalsPrimer",
           "link": "https://twitter.com/defipulse/status/1577660898457669640",
           "publishedOn": "2022-10-05T14:04:04.000Z",
-          "wordCount": 399,
+          "wordCount": 393,
           "title": "TVL is one way to assess a protocol's value. Looking at users is another. Growing userbase = Providing value to users. See a protocol's user base w/ G...",
           "imageUrl": null
         },
@@ -193,16 +203,6 @@
           "publishedOn": "2022-09-27T11:15:01.000Z",
           "wordCount": 399,
           "title": "📢 Happening today! Join us at 12pm EST for Money Legos: Over-Regulation or Light Touch with special guest @JWVerret. Set a reminder:",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1574494773590867968",
-          "author": "DeFi Pulse 🍇",
-          "description": "Curious about the latest happenings in DeFi regulation?\nTune in to Money Legos w/ @fallow8DeFi and Blockchain Law Professor @JWVerret for an overview of the recent Ooki DAO CFTC complaint, the ban on @TornadoCash, & more.\n🗓Sept 27  ⏰ 4pm UTC\nRSVP: https://youtu.be/gkYXKUvvaNo",
-          "link": "https://twitter.com/defipulse/status/1574494773590867968",
-          "publishedOn": "2022-09-26T20:23:01.000Z",
-          "wordCount": 399,
-          "title": "Curious about the latest happenings in DeFi regulation? Tune in to Money Legos w/ @fallow8DeFi and Blockchain Law Professor @JWVerret for an overview ...",
           "imageUrl": null
         }
       ]
