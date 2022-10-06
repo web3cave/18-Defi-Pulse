@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1578058260862623745",
+          "author": "DeFi Pulse 🍇",
+          "description": "💫 @EaseDeFi is now listed on DeFi Pulse!\nEase has developed Uninsurance, a peer-to-peer perpetual coverage model for DeFi assets.\nCheck out Ease's user base with Growth Internals, DeFi Pulse's newest dataset.\n👉 https://bit.ly/easedefi",
+          "link": "https://twitter.com/defipulse/status/1578058260862623745",
+          "publishedOn": "2022-10-06T16:23:02.000Z",
+          "wordCount": 399,
+          "title": "💫 @EaseDeFi is now listed on DeFi Pulse! Ease has developed Uninsurance, a peer-to-peer perpetual coverage model for DeFi assets. Check out Ease's ...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1577660898457669640",
           "author": "DeFi Pulse 🍇",
           "description": "TVL is one way to assess a protocol's value. Looking at users is another.\nGrowing userbase = Providing value to users.\nSee a protocol's user base w/ Growth Internals, DeFi Pulse's new dataset.\nView Growth Internals: \nLearn more: https://www.defipulse.com/ https://bit.ly/GrowthInternalsPrimer",
@@ -193,16 +203,6 @@
           "publishedOn": "2022-09-26T20:23:01.000Z",
           "wordCount": 399,
           "title": "Curious about the latest happenings in DeFi regulation? Tune in to Money Legos w/ @fallow8DeFi and Blockchain Law Professor @JWVerret for an overview ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1574430730100187144",
-          "author": "DeFi Pulse 🍇",
-          "description": "Re Ready to get the ball rolling? Growth Internals data is available for every project listed on our platform:\n\nHelp us by sharing any feedback or ideas for features you would like to see. In the meantime, we'll keep building. https://www.defipulse.com/",
-          "link": "https://twitter.com/defipulse/status/1574430730100187144",
-          "publishedOn": "2022-09-26T16:08:32.000Z",
-          "wordCount": 399,
-          "title": "Re Ready to get the ball rolling? Growth Internals data is available for every project listed on our platform: Help us by sharing any feedback or idea...",
           "imageUrl": null
         }
       ]

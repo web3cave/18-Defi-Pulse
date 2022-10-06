@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-06T16:39:05.481Z</id>
+    <id>urn:2022-10-06T17:36:19.393Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-06T16:39:05.481Z</updated>
+    <updated>2022-10-06T17:36:19.393Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[💫 @EaseDeFi is now listed on DeFi Pulse! Ease has developed Uninsurance, a peer-to-peer perpetual coverage model for DeFi assets. Check out Ease's ...]]></title>
+        <id>https://twitter.com/defipulse/status/1578058260862623745</id>
+        <link href="https://twitter.com/defipulse/status/1578058260862623745"/>
+        <updated>2022-10-06T16:23:02.000Z</updated>
+        <summary type="html"><![CDATA[💫 @EaseDeFi is now listed on DeFi Pulse!
+Ease has developed Uninsurance, a peer-to-peer perpetual coverage model for DeFi assets.
+Check out Ease's user base with Growth Internals, DeFi Pulse's newest dataset.
+👉 https://bit.ly/easedefi]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TVL is one way to assess a protocol's value. Looking at users is another. Growing userbase = Providing value to users. See a protocol's user base w/ G...]]></title>
         <id>https://twitter.com/defipulse/status/1577660898457669640</id>
@@ -222,18 +235,6 @@ Set a reminder: https://youtu.be/gkYXKUvvaNo]]></summary>
 Tune in to Money Legos w/ @fallow8DeFi and Blockchain Law Professor @JWVerret for an overview of the recent Ooki DAO CFTC complaint, the ban on @TornadoCash, & more.
 🗓Sept 27  ⏰ 4pm UTC
 RSVP: https://youtu.be/gkYXKUvvaNo]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Ready to get the ball rolling? Growth Internals data is available for every project listed on our platform: Help us by sharing any feedback or idea...]]></title>
-        <id>https://twitter.com/defipulse/status/1574430730100187144</id>
-        <link href="https://twitter.com/defipulse/status/1574430730100187144"/>
-        <updated>2022-09-26T16:08:32.000Z</updated>
-        <summary type="html"><![CDATA[Re Ready to get the ball rolling? Growth Internals data is available for every project listed on our platform:
-
-Help us by sharing any feedback or ideas for features you would like to see. In the meantime, we'll keep building. https://www.defipulse.com/]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
