@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-08T15:25:46.085Z</id>
+    <id>urn:2022-10-08T16:34:04.834Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-08T15:25:46.085Z</updated>
+    <updated>2022-10-08T16:34:04.834Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A thriving options ecosystem is a critical piece of infrastructure for crypto maturation & mass adoption. On the next Money Legos, we chat about the s...]]></title>
+        <id>https://twitter.com/defipulse/status/1578772712373112833</id>
+        <link href="https://twitter.com/defipulse/status/1578772712373112833"/>
+        <updated>2022-10-08T15:42:01.000Z</updated>
+        <summary type="html"><![CDATA[A thriving options ecosystem is a critical piece of infrastructure for crypto maturation & mass adoption.
+On the next Money Legos, we chat about the state of derivatives & options infrastructure in DeFi w/ @opyn_.  🦀
+🗓️ Oct. 12 ⏰ 7pm UTC
+Save a seat: https://youtu.be/d7UW4PXivYE]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeFi Pulse unpacked the recent crypto regulatory events in our latest episode of Money Legos w/ Blockchain Law Professor @JWVerret. We covered: 🌪️...]]></title>
         <id>https://twitter.com/defipulse/status/1578111356489924608</id>
@@ -227,17 +240,6 @@ Hop into Money Legos: Over-Regulation or Light Touch with @fallow8DeFi and Block
         <updated>2022-09-27T13:20:37.000Z</updated>
         <summary type="html"><![CDATA[Re @expctchaos We just added a new metric to our platform, Growth Internals. It looks at user engagement for protocols in the Ethereum ecosystem. 
 Check it out and let us know what you think!]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[📢 Happening today! Join us at 12pm EST for Money Legos: Over-Regulation or Light Touch with special guest @JWVerret. Set a reminder:]]></title>
-        <id>https://twitter.com/defipulse/status/1574719252791234561</id>
-        <link href="https://twitter.com/defipulse/status/1574719252791234561"/>
-        <updated>2022-09-27T11:15:01.000Z</updated>
-        <summary type="html"><![CDATA[📢 Happening today! Join us at 12pm EST for Money Legos: Over-Regulation or Light Touch with special guest @JWVerret. 
-Set a reminder: https://youtu.be/gkYXKUvvaNo]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
