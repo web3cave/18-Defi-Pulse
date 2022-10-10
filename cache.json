@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1579586328068386816",
+          "author": "DeFi Pulse 🍇",
+          "description": "🧱 Mark your calendars for the next Money Legos ft. @opyn_.\nJoin us as we cover:\n🏗️  Derivatives & options infrastructure in DeFi\n🦀  How Opyn laid the foundation\n🚀  Opyn's launch of the first on-chain power perpetual\n🗓️ Oct. 12 ⏰ 7pm UTC\nRSVP: https://youtu.be/d7UW4PXivYE",
+          "link": "https://twitter.com/defipulse/status/1579586328068386816",
+          "publishedOn": "2022-10-10T21:35:02.000Z",
+          "wordCount": 399,
+          "title": "🧱 Mark your calendars for the next Money Legos ft. @opyn_. Join us as we cover: 🏗️ Derivatives & options infrastructure in DeFi 🦀 How Opyn l...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1578772712373112833",
           "author": "DeFi Pulse 🍇",
           "description": "A thriving options ecosystem is a critical piece of infrastructure for crypto maturation & mass adoption.\nOn the next Money Legos, we chat about the state of derivatives & options infrastructure in DeFi w/ @opyn_.  🦀\n🗓️ Oct. 12 ⏰ 7pm UTC\nSave a seat: https://youtu.be/d7UW4PXivYE",
@@ -193,16 +203,6 @@
           "publishedOn": "2022-09-27T16:01:00.000Z",
           "wordCount": 399,
           "title": "We are live! Hop into Money Legos: Over-Regulation or Light Touch with @fallow8DeFi and Blockchain Law Professor @JWVerret.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1574750859610783745",
-          "author": "DeFi Pulse 🍇",
-          "description": "Re @expctchaos We just added a new metric to our platform, Growth Internals. It looks at user engagement for protocols in the Ethereum ecosystem. \nCheck it out and let us know what you think!",
-          "link": "https://twitter.com/defipulse/status/1574750859610783745",
-          "publishedOn": "2022-09-27T13:20:37.000Z",
-          "wordCount": 399,
-          "title": "Re @expctchaos We just added a new metric to our platform, Growth Internals. It looks at user engagement for protocols in the Ethereum ecosystem. Chec...",
           "imageUrl": null
         }
       ]

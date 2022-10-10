@@ -1,10 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-10T22:27:00.114Z</id>
+    <id>urn:2022-10-10T23:31:01.898Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-10T22:27:00.114Z</updated>
+    <updated>2022-10-10T23:31:01.898Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[🧱 Mark your calendars for the next Money Legos ft. @opyn_. Join us as we cover: 🏗️ Derivatives & options infrastructure in DeFi 🦀 How Opyn l...]]></title>
+        <id>https://twitter.com/defipulse/status/1579586328068386816</id>
+        <link href="https://twitter.com/defipulse/status/1579586328068386816"/>
+        <updated>2022-10-10T21:35:02.000Z</updated>
+        <summary type="html"><![CDATA[🧱 Mark your calendars for the next Money Legos ft. @opyn_.
+Join us as we cover:
+🏗️  Derivatives & options infrastructure in DeFi
+🦀  How Opyn laid the foundation
+🚀  Opyn's launch of the first on-chain power perpetual
+🗓️ Oct. 12 ⏰ 7pm UTC
+RSVP: https://youtu.be/d7UW4PXivYE]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A thriving options ecosystem is a critical piece of infrastructure for crypto maturation & mass adoption. On the next Money Legos, we chat about the s...]]></title>
         <id>https://twitter.com/defipulse/status/1578772712373112833</id>
@@ -229,17 +245,6 @@ Let's take a look 👇]]></summary>
         <updated>2022-09-27T16:01:00.000Z</updated>
         <summary type="html"><![CDATA[We are live! 
 Hop into Money Legos: Over-Regulation or Light Touch with @fallow8DeFi and Blockchain Law Professor @JWVerret. https://twitter.com/i/broadcasts/1lDGLnZOXlqxm https://twitter.com/i/broadcasts/1lDGLnZOXlqxm]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @expctchaos We just added a new metric to our platform, Growth Internals. It looks at user engagement for protocols in the Ethereum ecosystem. Chec...]]></title>
-        <id>https://twitter.com/defipulse/status/1574750859610783745</id>
-        <link href="https://twitter.com/defipulse/status/1574750859610783745"/>
-        <updated>2022-09-27T13:20:37.000Z</updated>
-        <summary type="html"><![CDATA[Re @expctchaos We just added a new metric to our platform, Growth Internals. It looks at user engagement for protocols in the Ethereum ecosystem. 
-Check it out and let us know what you think!]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
