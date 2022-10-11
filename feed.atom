@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-11T22:27:01.812Z</id>
+    <id>urn:2022-10-11T23:31:52.644Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-11T22:27:01.812Z</updated>
+    <updated>2022-10-11T23:31:52.644Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[⚡@Flashstake is now listed on DeFi Pulse! The Flashstake protocol allows users to receive yield on deposited assets instantly w/ a fixed rate over a ...]]></title>
+        <id>https://twitter.com/defipulse/status/1579952492527644674</id>
+        <link href="https://twitter.com/defipulse/status/1579952492527644674"/>
+        <updated>2022-10-11T21:50:02.000Z</updated>
+        <summary type="html"><![CDATA[⚡@Flashstake is now listed on DeFi Pulse!
+The Flashstake protocol allows users to receive yield on deposited assets instantly w/ a fixed rate over a set duration.
+Check out the listing: https://bit.ly/flashstake]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🧱 Mark your calendars for the next Money Legos ft. @opyn_. Join us as we cover: 🏗️ Derivatives & options infrastructure in DeFi 🦀 How Opyn l...]]></title>
         <id>https://twitter.com/defipulse/status/1579586328068386816</id>
@@ -234,17 +246,6 @@ We have updated our platform to show protocol token-level TVL data in 3 new feat
 2. Current token TVL
 3. Individual token filter
 Let's take a look 👇]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We are live! Hop into Money Legos: Over-Regulation or Light Touch with @fallow8DeFi and Blockchain Law Professor @JWVerret.]]></title>
-        <id>https://twitter.com/defipulse/status/1574791222626897927</id>
-        <link href="https://twitter.com/defipulse/status/1574791222626897927"/>
-        <updated>2022-09-27T16:01:00.000Z</updated>
-        <summary type="html"><![CDATA[We are live! 
-Hop into Money Legos: Over-Regulation or Light Touch with @fallow8DeFi and Blockchain Law Professor @JWVerret. https://twitter.com/i/broadcasts/1lDGLnZOXlqxm https://twitter.com/i/broadcasts/1lDGLnZOXlqxm]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
