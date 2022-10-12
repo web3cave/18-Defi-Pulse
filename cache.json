@@ -6,6 +6,76 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1580272339052281864",
+          "author": "DeFi Pulse 🍇",
+          "description": "The next Money Legos is live with special guest @opyn_! https://twitter.com/i/broadcasts/1MnxnpqvgyyGO https://twitter.com/i/broadcasts/1MnxnpqvgyyGO",
+          "link": "https://twitter.com/defipulse/status/1580272339052281864",
+          "publishedOn": "2022-10-12T19:01:00.000Z",
+          "wordCount": 399,
+          "title": "The next Money Legos is live with special guest @opyn_!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1580266550853894145",
+          "author": "DeFi Pulse 🍇",
+          "description": "Re Join us on Money Legos to learn more about the state of derivatives and options in DeFi and how the @opyn_ team is innovating with Squeeth. \nSet your reminder: https://youtu.be/d7UW4PXivYE",
+          "link": "https://twitter.com/defipulse/status/1580266550853894145",
+          "publishedOn": "2022-10-12T18:38:00.000Z",
+          "wordCount": 399,
+          "title": "Re Join us on Money Legos to learn more about the state of derivatives and options in DeFi and how the @opyn_ team is innovating with Squeeth. Set you...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1580265441431212032",
+          "author": "DeFi Pulse 🍇",
+          "description": "Re Squeeth (standing for squared eth) is the first on-chain power perpetual. It’s similar to an option, but without expiries or strike prices, and enables no liquidations for longs.\nSqueeth is an ERC20 token that tracks the price of ETH, raised to the power of two.",
+          "link": "https://twitter.com/defipulse/status/1580265441431212032",
+          "publishedOn": "2022-10-12T18:33:35.000Z",
+          "wordCount": 399,
+          "title": "Re Squeeth (standing for squared eth) is the first on-chain power perpetual. It’s similar to an option, but without expiries or strike prices, and en...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1580265438302605312",
+          "author": "DeFi Pulse 🍇",
+          "description": "Re This year, the team has turned its focus to what they endearingly call “squeeth.”",
+          "link": "https://twitter.com/defipulse/status/1580265438302605312",
+          "publishedOn": "2022-10-12T18:33:35.000Z",
+          "wordCount": 399,
+          "title": "Re This year, the team has turned its focus to what they endearingly call “squeeth.”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1580265429724844033",
+          "author": "DeFi Pulse 🍇",
+          "description": "Re Opyn laid the foundation for options infrastructure in DeFi when they launched as the first options protocol. \nOpyn’s goal then and now has remained the same: to empower others through an inclusive, fair, and open financial system.",
+          "link": "https://twitter.com/defipulse/status/1580265429724844033",
+          "publishedOn": "2022-10-12T18:33:33.000Z",
+          "wordCount": 399,
+          "title": "Re Opyn laid the foundation for options infrastructure in DeFi when they launched as the first options protocol. Opyn’s goal then and now has remaine...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1580265427543867392",
+          "author": "DeFi Pulse 🍇",
+          "description": "📽️The next Money Legos is starting soon! \n@fallow8DeFi is set to chat with the @opyn_ team in 30 minutes about the state of derivatives & options infrastructure in DeFi.\nTo kick us off, let's look at what Opyn is and what they aim to solve within DeFi.",
+          "link": "https://twitter.com/defipulse/status/1580265427543867392",
+          "publishedOn": "2022-10-12T18:33:32.000Z",
+          "wordCount": 399,
+          "title": "📽️The next Money Legos is starting soon! @fallow8DeFi is set to chat with the @opyn_ team in 30 minutes about the state of derivatives & options i...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1580253362439991297",
+          "author": "DeFi Pulse 🍇",
+          "description": "👀 A new feature is live in Beta! Users can now look up ANY Ethereum address on DeFi Pulse.\nSimply enter an address or ENS name in the search bar to see holdings data, including the total value, asset value share, & value by token.\n🔍 Look up an address: https://www.defipulse.com/",
+          "link": "https://twitter.com/defipulse/status/1580253362439991297",
+          "publishedOn": "2022-10-12T17:45:35.000Z",
+          "wordCount": 399,
+          "title": "👀 A new feature is live in Beta! Users can now look up ANY Ethereum address on DeFi Pulse. Simply enter an address or ENS name in the search bar to...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1579952492527644674",
           "author": "DeFi Pulse 🍇",
           "description": "⚡@Flashstake is now listed on DeFi Pulse!\nThe Flashstake protocol allows users to receive yield on deposited assets instantly w/ a fixed rate over a set duration.\nCheck out the listing: https://bit.ly/flashstake",
@@ -133,76 +203,6 @@
           "publishedOn": "2022-09-30T17:50:13.000Z",
           "wordCount": 399,
           "title": "✨Have you seen our new user engagement dataset, Growth Internals? With Growth Internals, you can see the New, Returning, Lost, & Resurrected Users fo...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1575215542419480576",
-          "author": "DeFi Pulse 🍇",
-          "description": "✨@eulerfinance is now listed on DeFi Pulse!\nYou can now see Euler's TVL, Token TVL Share, and Growth Internals, the new user engagement dataset. \nCheck out the data: https://bit.ly/3UZfpl5",
-          "link": "https://twitter.com/defipulse/status/1575215542419480576",
-          "publishedOn": "2022-09-28T20:07:06.000Z",
-          "wordCount": 399,
-          "title": "✨@eulerfinance is now listed on DeFi Pulse! You can now see Euler's TVL, Token TVL Share, and Growth Internals, the new user engagement dataset. Chec...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1575211871833292800",
-          "author": "DeFi Pulse 🍇",
-          "description": "Re @parcl We just released a new user engagement data set, Growth Internals. \nGrowth Internals shows the number of New, Returning, Lost, and Resurrected Users for each protocol list on our platform. \nCheck it out on our platform and let us know what you think!",
-          "link": "https://twitter.com/defipulse/status/1575211871833292800",
-          "publishedOn": "2022-09-28T19:52:30.000Z",
-          "wordCount": 399,
-          "title": "Re @parcl We just released a new user engagement data set, Growth Internals. Growth Internals shows the number of New, Returning, Lost, and Resurrecte...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1575113771407679488",
-          "author": "DeFi Pulse 🍇",
-          "description": "Re Head over to DeFi Pulse to see the new TVL features for every project on our platform: \nHave a new feature you want to see? Drop it in a comment below. https://www.defipulse.com/",
-          "link": "https://twitter.com/defipulse/status/1575113771407679488",
-          "publishedOn": "2022-09-28T13:22:41.000Z",
-          "wordCount": 399,
-          "title": "Re Head over to DeFi Pulse to see the new TVL features for every project on our platform: Have a new feature you want to see? Drop it in a comment bel...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1575113766793990144",
-          "author": "DeFi Pulse 🍇",
-          "description": "Re Beyond seeing a list of all the tokens, you can use the token filter to chart the TVL for a single token.\nGo to a project's TVL, click the gear icon, and select a token to view the individual token's TVL, Quantity Locked, & Value Share.",
-          "link": "https://twitter.com/defipulse/status/1575113766793990144",
-          "publishedOn": "2022-09-28T13:22:40.000Z",
-          "wordCount": 399,
-          "title": "Re Beyond seeing a list of all the tokens, you can use the token filter to chart the TVL for a single token. Go to a project's TVL, click the gear ico...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1575113689203556358",
-          "author": "DeFi Pulse 🍇",
-          "description": "Re Want to see all the tokens that make up a protocol's TVL? Or which token is behind a recent increase or decrease?\nScroll down to see the TVL, balance, and 1-day value change for every token in the protocol.",
-          "link": "https://twitter.com/defipulse/status/1575113689203556358",
-          "publishedOn": "2022-09-28T13:22:22.000Z",
-          "wordCount": 399,
-          "title": "Re Want to see all the tokens that make up a protocol's TVL? Or which token is behind a recent increase or decrease? Scroll down to see the TVL, balan...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1575113625068482561",
-          "author": "DeFi Pulse 🍇",
-          "description": "Re Seeing what tokens make up a protocol's TVL and how these change over time can help you gauge a project's ability to attract & retain high-caliber assets.\nUsing the Token TVL Share chart, you can see the top tokens making up a protocol's TVL and the changes over time.",
-          "link": "https://twitter.com/defipulse/status/1575113625068482561",
-          "publishedOn": "2022-09-28T13:22:07.000Z",
-          "wordCount": 399,
-          "title": "Re Seeing what tokens make up a protocol's TVL and how these change over time can help you gauge a project's ability to attract & retain high-caliber ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1575113569183485954",
-          "author": "DeFi Pulse 🍇",
-          "description": "⚡Are you ready to see more granular TVL information for a protocol?\nWe have updated our platform to show protocol token-level TVL data in 3 new features:\n1. Token TVL share over time\n2. Current token TVL\n3. Individual token filter\nLet's take a look 👇",
-          "link": "https://twitter.com/defipulse/status/1575113569183485954",
-          "publishedOn": "2022-09-28T13:21:53.000Z",
-          "wordCount": 399,
-          "title": "⚡Are you ready to see more granular TVL information for a protocol? We have updated our platform to show protocol token-level TVL data in 3 new featu...",
           "imageUrl": null
         }
       ]
