@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/fallow8DeFi/status/1580643425325809666",
+          "author": "DeFi Pulse 🍇",
+          "description": "RT Nathan Howard\nLearned a ton from this conversation with @reegannotraygan and @alpinechicken. Options are a critical tool for expressing financial views in a market and we’re barely scratching the surface for how that will look on-chain.\nDeFi Pulse 🍇: 🧱 Did you miss the latest Money Legos featuring the @opyn_ team? Watch the full replay!\nHere is what we covered:\n❓ How retail users utilize options\n💡 DeFi vs. Tradfi options innovation\n💫 Composability of options\n👥 Opyn user growth\nPress ▶️ :\n https://youtu.be/8aShXRkalMg",
+          "link": "https://twitter.com/fallow8DeFi/status/1580643425325809666",
+          "publishedOn": "2022-10-13T19:35:34.000Z",
+          "wordCount": 399,
+          "title": "RT Nathan Howard: Learned a ton from this conversation with @reegannotraygan and @alpinechicken. Options are a critical tool for expressing financial ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1580638015344750592",
+          "author": "DeFi Pulse 🍇",
+          "description": "🧱 Did you miss the latest Money Legos featuring the @opyn_ team? Watch the full replay!\nHere is what we covered:\n❓ How retail users utilize options\n💡 DeFi vs. Tradfi options innovation\n💫 Composability of options\n👥 Opyn user growth\nPress ▶️ : https://youtu.be/8aShXRkalMg",
+          "link": "https://twitter.com/defipulse/status/1580638015344750592",
+          "publishedOn": "2022-10-13T19:14:04.000Z",
+          "wordCount": 399,
+          "title": "🧱 Did you miss the latest Money Legos featuring the @opyn_ team? Watch the full replay! Here is what we covered: ❓ How retail users utilize option...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1580272339052281864",
           "author": "DeFi Pulse 🍇",
           "description": "The next Money Legos is live with special guest @opyn_! https://twitter.com/i/broadcasts/1MnxnpqvgyyGO https://twitter.com/i/broadcasts/1MnxnpqvgyyGO",
@@ -183,26 +203,6 @@
           "publishedOn": "2022-10-01T15:44:00.000Z",
           "wordCount": 399,
           "title": "🎥 Did you miss Money Legos: Over-Regulation or Light Touch? The Future of DeFi Regulation with @Scalara_xyz's @fallow8DeFi and Blockchain Law Profe...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1575915911013404672",
-          "author": "DeFi Pulse 🍇",
-          "description": "🦄 To bring users new features, @Uniswap is setting up another funding round aimed at over $100 million.\nLearn more: https://techcrunch.com/2022/09/30/uniswap-labs-eyes-over-100-million-in-new-funding/",
-          "link": "https://twitter.com/defipulse/status/1575915911013404672",
-          "publishedOn": "2022-09-30T18:30:06.000Z",
-          "wordCount": 399,
-          "title": "🦄 To bring users new features, @Uniswap is setting up another funding round aimed at over $100 million. Learn more:",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1575905870587699200",
-          "author": "DeFi Pulse 🍇",
-          "description": "✨Have you seen our new user engagement dataset, Growth Internals?\nWith Growth Internals, you can see the New, Returning, Lost, & Resurrected Users for every project on DeFi Pulse.\nView Growth Internals: \nLearn More: https://www.defipulse.com/ https://bit.ly/GrowthInternalsPrimer",
-          "link": "https://twitter.com/defipulse/status/1575905870587699200",
-          "publishedOn": "2022-09-30T17:50:13.000Z",
-          "wordCount": 399,
-          "title": "✨Have you seen our new user engagement dataset, Growth Internals? With Growth Internals, you can see the New, Returning, Lost, & Resurrected Users fo...",
           "imageUrl": null
         }
       ]

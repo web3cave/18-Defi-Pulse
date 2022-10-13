@@ -1,10 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-13T19:26:47.355Z</id>
+    <id>urn:2022-10-13T20:28:40.141Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-13T19:26:47.355Z</updated>
+    <updated>2022-10-13T20:28:40.141Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT Nathan Howard: Learned a ton from this conversation with @reegannotraygan and @alpinechicken. Options are a critical tool for expressing financial ...]]></title>
+        <id>https://twitter.com/fallow8DeFi/status/1580643425325809666</id>
+        <link href="https://twitter.com/fallow8DeFi/status/1580643425325809666"/>
+        <updated>2022-10-13T19:35:34.000Z</updated>
+        <summary type="html"><![CDATA[RT Nathan Howard
+Learned a ton from this conversation with @reegannotraygan and @alpinechicken. Options are a critical tool for expressing financial views in a market and we’re barely scratching the surface for how that will look on-chain.
+DeFi Pulse 🍇: 🧱 Did you miss the latest Money Legos featuring the @opyn_ team? Watch the full replay!
+Here is what we covered:
+❓ How retail users utilize options
+💡 DeFi vs. Tradfi options innovation
+💫 Composability of options
+👥 Opyn user growth
+Press ▶️ :
+ https://youtu.be/8aShXRkalMg]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🧱 Did you miss the latest Money Legos featuring the @opyn_ team? Watch the full replay! Here is what we covered: ❓ How retail users utilize option...]]></title>
+        <id>https://twitter.com/defipulse/status/1580638015344750592</id>
+        <link href="https://twitter.com/defipulse/status/1580638015344750592"/>
+        <updated>2022-10-13T19:14:04.000Z</updated>
+        <summary type="html"><![CDATA[🧱 Did you miss the latest Money Legos featuring the @opyn_ team? Watch the full replay!
+Here is what we covered:
+❓ How retail users utilize options
+💡 DeFi vs. Tradfi options innovation
+💫 Composability of options
+👥 Opyn user growth
+Press ▶️ : https://youtu.be/8aShXRkalMg]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The next Money Legos is live with special guest @opyn_!]]></title>
         <id>https://twitter.com/defipulse/status/1580272339052281864</id>
@@ -216,30 +251,6 @@ See the data: https://bit.ly/dfppooltogether]]></summary>
         <updated>2022-10-01T15:44:00.000Z</updated>
         <summary type="html"><![CDATA[🎥 Did you miss Money Legos: Over-Regulation or Light Touch? The Future of DeFi Regulation with @Scalara_xyz's @fallow8DeFi and Blockchain Law Professor @JWVerret?
 ⏯Watch the replay: https://twitter.com/i/broadcasts/1lDGLnZOXlqxm https://twitter.com/i/broadcasts/1lDGLnZOXlqxm]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🦄 To bring users new features, @Uniswap is setting up another funding round aimed at over $100 million. Learn more:]]></title>
-        <id>https://twitter.com/defipulse/status/1575915911013404672</id>
-        <link href="https://twitter.com/defipulse/status/1575915911013404672"/>
-        <updated>2022-09-30T18:30:06.000Z</updated>
-        <summary type="html"><![CDATA[🦄 To bring users new features, @Uniswap is setting up another funding round aimed at over $100 million.
-Learn more: https://techcrunch.com/2022/09/30/uniswap-labs-eyes-over-100-million-in-new-funding/]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[✨Have you seen our new user engagement dataset, Growth Internals? With Growth Internals, you can see the New, Returning, Lost, & Resurrected Users fo...]]></title>
-        <id>https://twitter.com/defipulse/status/1575905870587699200</id>
-        <link href="https://twitter.com/defipulse/status/1575905870587699200"/>
-        <updated>2022-09-30T17:50:13.000Z</updated>
-        <summary type="html"><![CDATA[✨Have you seen our new user engagement dataset, Growth Internals?
-With Growth Internals, you can see the New, Returning, Lost, & Resurrected Users for every project on DeFi Pulse.
-View Growth Internals: 
-Learn More: https://www.defipulse.com/ https://bit.ly/GrowthInternalsPrimer]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
