@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-18T22:27:00.514Z</id>
+    <id>urn:2022-10-18T23:31:52.755Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-18T22:27:00.514Z</updated>
+    <updated>2022-10-18T23:31:52.755Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Options infrastructure enabled the next wave of innovation in DeFi — structured products. Get up to speed on the state of structured products in Defi...]]></title>
+        <id>https://twitter.com/defipulse/status/1582495505426292736</id>
+        <link href="https://twitter.com/defipulse/status/1582495505426292736"/>
+        <updated>2022-10-18T22:15:04.000Z</updated>
+        <summary type="html"><![CDATA[Options infrastructure enabled the next wave of innovation in DeFi — structured products.
+Get up to speed on the state of structured products in Defi with @ribbonfinance founder @juliankoh on the next Money Legos. 🎀
+🗓Oct. 20 ⏰1 pm UTC
+Save a seat: https://youtu.be/m_eTsEYYmIE]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT Nathan Howard: Learned a ton from this conversation with @reegannotraygan and @alpinechicken. Options are a critical tool for expressing financial ...]]></title>
         <id>https://twitter.com/fallow8DeFi/status/1580643425325809666</id>
@@ -240,17 +253,6 @@ See the data: https://bit.ly/dfppooltogether]]></summary>
         <updated>2022-10-04T16:55:20.000Z</updated>
         <summary type="html"><![CDATA[🌪️ Watch as @JWVerret explains the U.S. Office of Foreign Assets Control (OFAC) sanctions on @TornadoCash and the severe privacy implications if the sanctions are not lifted. 
 📼 For the full video: https://youtu.be/gkYXKUvvaNo]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎥 Did you miss Money Legos: Over-Regulation or Light Touch? The Future of DeFi Regulation with @Scalara_xyz's @fallow8DeFi and Blockchain Law Profe...]]></title>
-        <id>https://twitter.com/defipulse/status/1576236495698120707</id>
-        <link href="https://twitter.com/defipulse/status/1576236495698120707"/>
-        <updated>2022-10-01T15:44:00.000Z</updated>
-        <summary type="html"><![CDATA[🎥 Did you miss Money Legos: Over-Regulation or Light Touch? The Future of DeFi Regulation with @Scalara_xyz's @fallow8DeFi and Blockchain Law Professor @JWVerret?
-⏯Watch the replay: https://twitter.com/i/broadcasts/1lDGLnZOXlqxm https://twitter.com/i/broadcasts/1lDGLnZOXlqxm]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
