@@ -1,10 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-19T18:41:40.264Z</id>
+    <id>urn:2022-10-19T19:29:54.018Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-19T18:41:40.265Z</updated>
+    <updated>2022-10-19T19:29:54.018Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT Ribbon Finance: Catch our co-founder and CEO @juliankoh on the next episode of Money Legos tmrw at 1 pm UTC! 🎀 🤝 🍇]]></title>
+        <id>https://twitter.com/ribbonfinance/status/1582581288493404160</id>
+        <link href="https://twitter.com/ribbonfinance/status/1582581288493404160"/>
+        <updated>2022-10-19T03:55:56.000Z</updated>
+        <summary type="html"><![CDATA[RT Ribbon Finance
+Catch our co-founder and CEO @juliankoh on the next episode of Money Legos tmrw at 1 pm UTC!
+🎀 🤝 🍇
+DeFi Pulse 🍇: Options infrastructure enabled the next wave of innovation in DeFi — structured products.
+Get up to speed on the state of structured products in Defi with @ribbonfinance founder @juliankoh on the next Money Legos. 🎀
+🗓Oct. 20 ⏰1 pm UTC
+Save a seat:
+ https://youtu.be/m_eTsEYYmIE]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Options infrastructure enabled the next wave of innovation in DeFi — structured products. Get up to speed on the state of structured products in Defi...]]></title>
         <id>https://twitter.com/defipulse/status/1582495505426292736</id>
@@ -242,17 +259,6 @@ Learn more: https://www.defipulse.com/ https://bit.ly/GrowthInternalsPrimer]
         <summary type="html"><![CDATA[🏊 @PoolTogether_ is now listed on DeFi Pulse!
 Check out PoolTogether's TVL, Token TVL Share, and its user base with Growth Internals, DeFi Pulse's newest dataset.
 See the data: https://bit.ly/dfppooltogether]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🌪️ Watch as @JWVerret explains the U.S. Office of Foreign Assets Control (OFAC) sanctions on @TornadoCash and the severe privacy implications if t...]]></title>
-        <id>https://twitter.com/defipulse/status/1577341610064502784</id>
-        <link href="https://twitter.com/defipulse/status/1577341610064502784"/>
-        <updated>2022-10-04T16:55:20.000Z</updated>
-        <summary type="html"><![CDATA[🌪️ Watch as @JWVerret explains the U.S. Office of Foreign Assets Control (OFAC) sanctions on @TornadoCash and the severe privacy implications if the sanctions are not lifted. 
-📼 For the full video: https://youtu.be/gkYXKUvvaNo]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
