@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1582843556972363776",
+          "author": "DeFi Pulse 🍇",
+          "description": "✨ Curious about the future of decentralized structured products?\nJoin us tomorrow on the next Money Legos as we hear from @ribbonfinance co-founder & CEO @juliankoh about the state of structured products in DeFi. 🎀\n🗓Oct. 20 ⏰ 1pm UTC\nSet a reminder: https://youtu.be/m_eTsEYYmIE",
+          "link": "https://twitter.com/defipulse/status/1582843556972363776",
+          "publishedOn": "2022-10-19T21:18:06.000Z",
+          "wordCount": 399,
+          "title": "✨ Curious about the future of decentralized structured products? Join us tomorrow on the next Money Legos as we hear from @ribbonfinance co-founder &...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/ribbonfinance/status/1582581288493404160",
           "author": "DeFi Pulse 🍇",
           "description": "RT Ribbon Finance\nCatch our co-founder and CEO @juliankoh on the next episode of Money Legos tmrw at 1 pm UTC!\n🎀 🤝 🍇\nDeFi Pulse 🍇: Options infrastructure enabled the next wave of innovation in DeFi — structured products.\nGet up to speed on the state of structured products in Defi with @ribbonfinance founder @juliankoh on the next Money Legos. 🎀\n🗓Oct. 20 ⏰1 pm UTC\nSave a seat:\n https://youtu.be/m_eTsEYYmIE",
@@ -193,16 +203,6 @@
           "publishedOn": "2022-10-04T20:45:19.000Z",
           "wordCount": 399,
           "title": "Re @b_asselstine @b_asselstine Roger that 🫡",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1577387842506031108",
-          "author": "DeFi Pulse 🍇",
-          "description": "🏊 @PoolTogether_ is now listed on DeFi Pulse!\nCheck out PoolTogether's TVL, Token TVL Share, and its user base with Growth Internals, DeFi Pulse's newest dataset.\nSee the data: https://bit.ly/dfppooltogether",
-          "link": "https://twitter.com/defipulse/status/1577387842506031108",
-          "publishedOn": "2022-10-04T19:59:02.000Z",
-          "wordCount": 399,
-          "title": "🏊 @PoolTogether_ is now listed on DeFi Pulse! Check out PoolTogether's TVL, Token TVL Share, and its user base with Growth Internals, DeFi Pulse's ...",
           "imageUrl": null
         }
       ]
