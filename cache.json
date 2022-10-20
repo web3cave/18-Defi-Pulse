@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1583112056160407553",
+          "author": "DeFi Pulse 🍇",
+          "description": "🚨 Hot off the press 🚨\nWe just chatted w/ @ribbonfinance co-founder & CEO @juliankoh on Money Legos. We covered:\n🧩 What are structured products\n🎀 Building blocks of Ribbon\n🌐 Why decentralization matters\n✨ Future derivative innovation\nCheck it out! https://youtu.be/pIPSQ09muYo",
+          "link": "https://twitter.com/defipulse/status/1583112056160407553",
+          "publishedOn": "2022-10-20T15:05:01.000Z",
+          "wordCount": 399,
+          "title": "🚨 Hot off the press 🚨 We just chatted w/ @ribbonfinance co-founder & CEO @juliankoh on Money Legos. We covered: 🧩 What are structured product...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1582843556972363776",
           "author": "DeFi Pulse 🍇",
           "description": "✨ Curious about the future of decentralized structured products?\nJoin us tomorrow on the next Money Legos as we hear from @ribbonfinance co-founder & CEO @juliankoh about the state of structured products in DeFi. 🎀\n🗓Oct. 20 ⏰ 1pm UTC\nSet a reminder: https://youtu.be/m_eTsEYYmIE",
@@ -193,16 +203,6 @@
           "publishedOn": "2022-10-04T21:19:55.000Z",
           "wordCount": 399,
           "title": "Re @b_asselstine We have confirmed the V4 contracts are included. The delta is bc the TVL is Ethereum only. Hope this helps clarify!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1577399488238522390",
-          "author": "DeFi Pulse 🍇",
-          "description": "Re @b_asselstine @b_asselstine Roger that 🫡",
-          "link": "https://twitter.com/defipulse/status/1577399488238522390",
-          "publishedOn": "2022-10-04T20:45:19.000Z",
-          "wordCount": 399,
-          "title": "Re @b_asselstine @b_asselstine Roger that 🫡",
           "imageUrl": null
         }
       ]

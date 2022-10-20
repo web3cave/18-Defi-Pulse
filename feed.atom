@@ -1,10 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-20T16:40:38.334Z</id>
+    <id>urn:2022-10-20T17:45:29.746Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-20T16:40:38.334Z</updated>
+    <updated>2022-10-20T17:45:29.746Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[🚨 Hot off the press 🚨 We just chatted w/ @ribbonfinance co-founder & CEO @juliankoh on Money Legos. We covered: 🧩 What are structured product...]]></title>
+        <id>https://twitter.com/defipulse/status/1583112056160407553</id>
+        <link href="https://twitter.com/defipulse/status/1583112056160407553"/>
+        <updated>2022-10-20T15:05:01.000Z</updated>
+        <summary type="html"><![CDATA[🚨 Hot off the press 🚨
+We just chatted w/ @ribbonfinance co-founder & CEO @juliankoh on Money Legos. We covered:
+🧩 What are structured products
+🎀 Building blocks of Ribbon
+🌐 Why decentralization matters
+✨ Future derivative innovation
+Check it out! https://youtu.be/pIPSQ09muYo]]></summary>
+        <author>
+            <name>DeFi Pulse 🍇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[✨ Curious about the future of decentralized structured products? Join us tomorrow on the next Money Legos as we hear from @ribbonfinance co-founder &...]]></title>
         <id>https://twitter.com/defipulse/status/1582843556972363776</id>
@@ -250,16 +266,6 @@ Learn more: https://www.defipulse.com/ https://bit.ly/GrowthInternalsPrimer]
         <link href="https://twitter.com/defipulse/status/1577408197844795392"/>
         <updated>2022-10-04T21:19:55.000Z</updated>
         <summary type="html"><![CDATA[Re @b_asselstine We have confirmed the V4 contracts are included. The delta is bc the TVL is Ethereum only. Hope this helps clarify!]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @b_asselstine @b_asselstine Roger that 🫡]]></title>
-        <id>https://twitter.com/defipulse/status/1577399488238522390</id>
-        <link href="https://twitter.com/defipulse/status/1577399488238522390"/>
-        <updated>2022-10-04T20:45:19.000Z</updated>
-        <summary type="html"><![CDATA[Re @b_asselstine @b_asselstine Roger that 🫡]]></summary>
         <author>
             <name>DeFi Pulse 🍇</name>
         </author>
