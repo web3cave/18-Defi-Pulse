@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-21T18:35:11.129Z</id>
+    <id>urn:2022-10-21T19:25:44.860Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-21T18:35:11.129Z</updated>
+    <updated>2022-10-21T19:25:44.860Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The TVL leaderboard was a hell of a ride. It's time for a pivot. What does this mean? Go see for yourself.]]></title>
+        <id>https://twitter.com/defipulse/status/1583531851305480193</id>
+        <link href="https://twitter.com/defipulse/status/1583531851305480193"/>
+        <updated>2022-10-21T18:53:08.000Z</updated>
+        <summary type="html"><![CDATA[The TVL leaderboard was a hell of a ride. 
+It's time for a pivot.
+What does this mean? Go see for yourself. https://www.defipulse.com/]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[some changes will be coming soonTM.]]></title>
         <id>https://twitter.com/defipulse/status/1583523794982871040</id>
@@ -252,20 +264,6 @@ Watch the full episode: https://youtu.be/gkYXKUvvaNo]]></summary>
 Ease has developed Uninsurance, a peer-to-peer perpetual coverage model for DeFi assets.
 Check out Ease's user base with Growth Internals, DeFi Pulse's newest dataset.
 👉 https://bit.ly/easedefi]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TVL is one way to assess a protocol's value. Looking at users is another. Growing userbase = Providing value to users. See a protocol's user base w/ G...]]></title>
-        <id>https://twitter.com/defipulse/status/1577660898457669640</id>
-        <link href="https://twitter.com/defipulse/status/1577660898457669640"/>
-        <updated>2022-10-05T14:04:04.000Z</updated>
-        <summary type="html"><![CDATA[TVL is one way to assess a protocol's value. Looking at users is another.
-Growing userbase = Providing value to users.
-See a protocol's user base w/ Growth Internals, DeFi Pulse's new dataset.
-View Growth Internals: 
-Learn more: https://www.defipulse.com/ https://bit.ly/GrowthInternalsPrimer]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>

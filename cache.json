@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1583531851305480193",
+          "author": "DeFi Pulse",
+          "description": "The TVL leaderboard was a hell of a ride. \nIt's time for a pivot.\nWhat does this mean? Go see for yourself. https://www.defipulse.com/",
+          "link": "https://twitter.com/defipulse/status/1583531851305480193",
+          "publishedOn": "2022-10-21T18:53:08.000Z",
+          "wordCount": 399,
+          "title": "The TVL leaderboard was a hell of a ride. It's time for a pivot. What does this mean? Go see for yourself.",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1583523794982871040",
           "author": "DeFi Pulse",
           "description": "some changes will be coming soonTM.",
@@ -193,16 +203,6 @@
           "publishedOn": "2022-10-06T16:23:02.000Z",
           "wordCount": 399,
           "title": "💫 @EaseDeFi is now listed on DeFi Pulse! Ease has developed Uninsurance, a peer-to-peer perpetual coverage model for DeFi assets. Check out Ease's ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1577660898457669640",
-          "author": "DeFi Pulse",
-          "description": "TVL is one way to assess a protocol's value. Looking at users is another.\nGrowing userbase = Providing value to users.\nSee a protocol's user base w/ Growth Internals, DeFi Pulse's new dataset.\nView Growth Internals: \nLearn more: https://www.defipulse.com/ https://bit.ly/GrowthInternalsPrimer",
-          "link": "https://twitter.com/defipulse/status/1577660898457669640",
-          "publishedOn": "2022-10-05T14:04:04.000Z",
-          "wordCount": 399,
-          "title": "TVL is one way to assess a protocol's value. Looking at users is another. Growing userbase = Providing value to users. See a protocol's user base w/ G...",
           "imageUrl": null
         }
       ]
