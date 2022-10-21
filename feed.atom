@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-21T17:36:15.515Z</id>
+    <id>urn:2022-10-21T18:35:11.129Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-21T17:36:15.515Z</updated>
+    <updated>2022-10-21T18:35:11.129Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[some changes will be coming soonTM.]]></title>
+        <id>https://twitter.com/defipulse/status/1583523794982871040</id>
+        <link href="https://twitter.com/defipulse/status/1583523794982871040"/>
+        <updated>2022-10-21T18:21:07.000Z</updated>
+        <summary type="html"><![CDATA[some changes will be coming soonTM.]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🚨 Hot off the press 🚨 We just chatted w/ @ribbonfinance co-founder & CEO @juliankoh on Money Legos. We covered: 🧩 What are structured product...]]></title>
         <id>https://twitter.com/defipulse/status/1583112056160407553</id>
@@ -18,7 +28,7 @@ We just chatted w/ @ribbonfinance co-founder & CEO @juliankoh on Money Legos. We
 ✨ Future derivative innovation
 Check it out! https://youtu.be/pIPSQ09muYo]]></summary>
         <author>
-            <name>DeFi Pulse 🍇</name>
+            <name>DeFi Pulse</name>
         </author>
     </entry>
     <entry>
@@ -31,7 +41,7 @@ Join us tomorrow on the next Money Legos as we hear from @ribbonfinance co-found
 🗓Oct. 20 ⏰ 1pm UTC
 Set a reminder: https://youtu.be/m_eTsEYYmIE]]></summary>
         <author>
-            <name>DeFi Pulse 🍇</name>
+            <name>DeFi Pulse</name>
         </author>
     </entry>
     <entry>
@@ -42,13 +52,13 @@ Set a reminder: https://youtu.be/m_eTsEYYmIE]]></summary>
         <summary type="html"><![CDATA[RT Ribbon Finance
 Catch our co-founder and CEO @juliankoh on the next episode of Money Legos tmrw at 1 pm UTC!
 🎀 🤝 🍇
-DeFi Pulse 🍇: Options infrastructure enabled the next wave of innovation in DeFi — structured products.
+DeFi Pulse: Options infrastructure enabled the next wave of innovation in DeFi — structured products.
 Get up to speed on the state of structured products in Defi with @ribbonfinance founder @juliankoh on the next Money Legos. 🎀
 🗓Oct. 20 ⏰1 pm UTC
 Save a seat:
  https://youtu.be/m_eTsEYYmIE]]></summary>
         <author>
-            <name>DeFi Pulse 🍇</name>
+            <name>DeFi Pulse</name>
         </author>
     </entry>
     <entry>
@@ -61,7 +71,7 @@ Get up to speed on the state of structured products in Defi with @ribbonfinance 
 🗓Oct. 20 ⏰1 pm UTC
 Save a seat: https://youtu.be/m_eTsEYYmIE]]></summary>
         <author>
-            <name>DeFi Pulse 🍇</name>
+            <name>DeFi Pulse</name>
         </author>
     </entry>
     <entry>
@@ -71,7 +81,7 @@ Save a seat: https://youtu.be/m_eTsEYYmIE]]></summary>
         <updated>2022-10-13T19:35:34.000Z</updated>
         <summary type="html"><![CDATA[RT Nathan Howard
 Learned a ton from this conversation with @reegannotraygan and @alpinechicken. Options are a critical tool for expressing financial views in a market and we’re barely scratching the surface for how that will look on-chain.
-DeFi Pulse 🍇: 🧱 Did you miss the latest Money Legos featuring the @opyn_ team? Watch the full replay!
+DeFi Pulse: 🧱 Did you miss the latest Money Legos featuring the @opyn_ team? Watch the full replay!
 Here is what we covered:
 ❓ How retail users utilize options
 💡 DeFi vs. Tradfi options innovation
@@ -80,7 +90,7 @@ Here is what we covered:
 Press ▶️ :
  https://youtu.be/8aShXRkalMg]]></summary>
         <author>
-            <name>DeFi Pulse 🍇</name>
+            <name>DeFi Pulse</name>
         </author>
     </entry>
     <entry>
@@ -96,7 +106,7 @@ Here is what we covered:
 👥 Opyn user growth
 Press ▶️ : https://youtu.be/8aShXRkalMg]]></summary>
         <author>
-            <name>DeFi Pulse 🍇</name>
+            <name>DeFi Pulse</name>
         </author>
     </entry>
     <entry>
@@ -106,7 +116,7 @@ Press ▶️ : https://youtu.be/8aShXRkalMg]]></summary>
         <updated>2022-10-12T19:01:00.000Z</updated>
         <summary type="html"><![CDATA[The next Money Legos is live with special guest @opyn_! https://twitter.com/i/broadcasts/1MnxnpqvgyyGO https://twitter.com/i/broadcasts/1MnxnpqvgyyGO]]></summary>
         <author>
-            <name>DeFi Pulse 🍇</name>
+            <name>DeFi Pulse</name>
         </author>
     </entry>
     <entry>
@@ -117,7 +127,7 @@ Press ▶️ : https://youtu.be/8aShXRkalMg]]></summary>
         <summary type="html"><![CDATA[Re Join us on Money Legos to learn more about the state of derivatives and options in DeFi and how the @opyn_ team is innovating with Squeeth. 
 Set your reminder: https://youtu.be/d7UW4PXivYE]]></summary>
         <author>
-            <name>DeFi Pulse 🍇</name>
+            <name>DeFi Pulse</name>
         </author>
     </entry>
     <entry>
@@ -128,7 +138,7 @@ Set your reminder: https://youtu.be/d7UW4PXivYE]]></summary>
         <summary type="html"><![CDATA[Re Squeeth (standing for squared eth) is the first on-chain power perpetual. It’s similar to an option, but without expiries or strike prices, and enables no liquidations for longs.
 Squeeth is an ERC20 token that tracks the price of ETH, raised to the power of two.]]></summary>
         <author>
-            <name>DeFi Pulse 🍇</name>
+            <name>DeFi Pulse</name>
         </author>
     </entry>
     <entry>
@@ -138,7 +148,7 @@ Squeeth is an ERC20 token that tracks the price of ETH, raised to the power of t
         <updated>2022-10-12T18:33:35.000Z</updated>
         <summary type="html"><![CDATA[Re This year, the team has turned its focus to what they endearingly call “squeeth.”]]></summary>
         <author>
-            <name>DeFi Pulse 🍇</name>
+            <name>DeFi Pulse</name>
         </author>
     </entry>
     <entry>
@@ -149,7 +159,7 @@ Squeeth is an ERC20 token that tracks the price of ETH, raised to the power of t
         <summary type="html"><![CDATA[Re Opyn laid the foundation for options infrastructure in DeFi when they launched as the first options protocol. 
 Opyn’s goal then and now has remained the same: to empower others through an inclusive, fair, and open financial system.]]></summary>
         <author>
-            <name>DeFi Pulse 🍇</name>
+            <name>DeFi Pulse</name>
         </author>
     </entry>
     <entry>
@@ -161,7 +171,7 @@ Opyn’s goal then and now has remained the same: to empower others through an i
 @fallow8DeFi is set to chat with the @opyn_ team in 30 minutes about the state of derivatives & options infrastructure in DeFi.
 To kick us off, let's look at what Opyn is and what they aim to solve within DeFi.]]></summary>
         <author>
-            <name>DeFi Pulse 🍇</name>
+            <name>DeFi Pulse</name>
         </author>
     </entry>
     <entry>
@@ -173,7 +183,7 @@ To kick us off, let's look at what Opyn is and what they aim to solve within DeF
 Simply enter an address or ENS name in the search bar to see holdings data, including the total value, asset value share, & value by token.
 🔍 Look up an address: https://www.defipulse.com/]]></summary>
         <author>
-            <name>DeFi Pulse 🍇</name>
+            <name>DeFi Pulse</name>
         </author>
     </entry>
     <entry>
@@ -185,7 +195,7 @@ Simply enter an address or ENS name in the search bar to see holdings data, incl
 The Flashstake protocol allows users to receive yield on deposited assets instantly w/ a fixed rate over a set duration.
 Check out the listing: https://bit.ly/flashstake]]></summary>
         <author>
-            <name>DeFi Pulse 🍇</name>
+            <name>DeFi Pulse</name>
         </author>
     </entry>
     <entry>
@@ -201,7 +211,7 @@ Join us as we cover:
 🗓️ Oct. 12 ⏰ 7pm UTC
 RSVP: https://youtu.be/d7UW4PXivYE]]></summary>
         <author>
-            <name>DeFi Pulse 🍇</name>
+            <name>DeFi Pulse</name>
         </author>
     </entry>
     <entry>
@@ -214,7 +224,7 @@ On the next Money Legos, we chat about the state of derivatives & options infras
 🗓️ Oct. 12 ⏰ 7pm UTC
 Save a seat: https://youtu.be/d7UW4PXivYE]]></summary>
         <author>
-            <name>DeFi Pulse 🍇</name>
+            <name>DeFi Pulse</name>
         </author>
     </entry>
     <entry>
@@ -230,7 +240,7 @@ We covered:
 + more!
 Watch the full episode: https://youtu.be/gkYXKUvvaNo]]></summary>
         <author>
-            <name>DeFi Pulse 🍇</name>
+            <name>DeFi Pulse</name>
         </author>
     </entry>
     <entry>
@@ -243,7 +253,7 @@ Ease has developed Uninsurance, a peer-to-peer perpetual coverage model for DeFi
 Check out Ease's user base with Growth Internals, DeFi Pulse's newest dataset.
 👉 https://bit.ly/easedefi]]></summary>
         <author>
-            <name>DeFi Pulse 🍇</name>
+            <name>DeFi Pulse</name>
         </author>
     </entry>
     <entry>
@@ -257,17 +267,7 @@ See a protocol's user base w/ Growth Internals, DeFi Pulse's new dataset.
 View Growth Internals: 
 Learn more: https://www.defipulse.com/ https://bit.ly/GrowthInternalsPrimer]]></summary>
         <author>
-            <name>DeFi Pulse 🍇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @b_asselstine We have confirmed the V4 contracts are included. The delta is bc the TVL is Ethereum only. Hope this helps clarify!]]></title>
-        <id>https://twitter.com/defipulse/status/1577408197844795392</id>
-        <link href="https://twitter.com/defipulse/status/1577408197844795392"/>
-        <updated>2022-10-04T21:19:55.000Z</updated>
-        <summary type="html"><![CDATA[Re @b_asselstine We have confirmed the V4 contracts are included. The delta is bc the TVL is Ethereum only. Hope this helps clarify!]]></summary>
-        <author>
-            <name>DeFi Pulse 🍇</name>
+            <name>DeFi Pulse</name>
         </author>
     </entry>
 </feed>
