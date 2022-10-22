@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1583589959792934912",
+          "author": "DeFi Pulse",
+          "description": "Re @BigSky_7 We’re still here. Just on to a different mission 💪🏽",
+          "link": "https://twitter.com/defipulse/status/1583589959792934912",
+          "publishedOn": "2022-10-21T22:44:02.000Z",
+          "wordCount": 399,
+          "title": "Re @BigSky_7 We’re still here. Just on to a different mission 💪🏽",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1583531851305480193",
           "author": "DeFi Pulse",
           "description": "The TVL leaderboard was a hell of a ride. \nIt's time for a pivot.\nWhat does this mean? Go see for yourself. https://www.defipulse.com/",
@@ -193,16 +203,6 @@
           "publishedOn": "2022-10-06T19:54:01.000Z",
           "wordCount": 399,
           "title": "DeFi Pulse unpacked the recent crypto regulatory events in our latest episode of Money Legos w/ Blockchain Law Professor @JWVerret. We covered: 🌪️...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1578058260862623745",
-          "author": "DeFi Pulse",
-          "description": "💫 @EaseDeFi is now listed on DeFi Pulse!\nEase has developed Uninsurance, a peer-to-peer perpetual coverage model for DeFi assets.\nCheck out Ease's user base with Growth Internals, DeFi Pulse's newest dataset.\n👉 https://bit.ly/easedefi",
-          "link": "https://twitter.com/defipulse/status/1578058260862623745",
-          "publishedOn": "2022-10-06T16:23:02.000Z",
-          "wordCount": 399,
-          "title": "💫 @EaseDeFi is now listed on DeFi Pulse! Ease has developed Uninsurance, a peer-to-peer perpetual coverage model for DeFi assets. Check out Ease's ...",
           "imageUrl": null
         }
       ]

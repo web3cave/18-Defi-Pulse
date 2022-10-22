@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-21T23:31:26.164Z</id>
+    <id>urn:2022-10-22T02:20:05.367Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-21T23:31:26.164Z</updated>
+    <updated>2022-10-22T02:20:05.367Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @BigSky_7 We’re still here. Just on to a different mission 💪🏽]]></title>
+        <id>https://twitter.com/defipulse/status/1583589959792934912</id>
+        <link href="https://twitter.com/defipulse/status/1583589959792934912"/>
+        <updated>2022-10-21T22:44:02.000Z</updated>
+        <summary type="html"><![CDATA[Re @BigSky_7 We’re still here. Just on to a different mission 💪🏽]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The TVL leaderboard was a hell of a ride. It's time for a pivot. What does this mean? Go see for yourself.]]></title>
         <id>https://twitter.com/defipulse/status/1583531851305480193</id>
@@ -251,19 +261,6 @@ We covered:
 💰 Draft Stablecoin Bill
 + more!
 Watch the full episode: https://youtu.be/gkYXKUvvaNo]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[💫 @EaseDeFi is now listed on DeFi Pulse! Ease has developed Uninsurance, a peer-to-peer perpetual coverage model for DeFi assets. Check out Ease's ...]]></title>
-        <id>https://twitter.com/defipulse/status/1578058260862623745</id>
-        <link href="https://twitter.com/defipulse/status/1578058260862623745"/>
-        <updated>2022-10-06T16:23:02.000Z</updated>
-        <summary type="html"><![CDATA[💫 @EaseDeFi is now listed on DeFi Pulse!
-Ease has developed Uninsurance, a peer-to-peer perpetual coverage model for DeFi assets.
-Check out Ease's user base with Growth Internals, DeFi Pulse's newest dataset.
-👉 https://bit.ly/easedefi]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
