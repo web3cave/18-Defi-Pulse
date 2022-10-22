@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-22T16:35:49.797Z</id>
+    <id>urn:2022-10-22T17:31:20.097Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-22T16:35:49.797Z</updated>
+    <updated>2022-10-22T17:31:20.097Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[⚡All the stories that should be covered. All in one place. Check it👇]]></title>
+        <id>https://twitter.com/defipulse/status/1583844630436552705</id>
+        <link href="https://twitter.com/defipulse/status/1583844630436552705"/>
+        <updated>2022-10-22T15:36:00.000Z</updated>
+        <summary type="html"><![CDATA[⚡All the stories that should be covered. All in one place. 
+Check it👇 https://www.defipulse.com/]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @BigSky_7 We’re still here. Just on to a different mission 💪🏽]]></title>
         <id>https://twitter.com/defipulse/status/1583589959792934912</id>
@@ -245,22 +256,6 @@ RSVP: https://youtu.be/d7UW4PXivYE]]></summary>
 On the next Money Legos, we chat about the state of derivatives & options infrastructure in DeFi w/ @opyn_.  🦀
 🗓️ Oct. 12 ⏰ 7pm UTC
 Save a seat: https://youtu.be/d7UW4PXivYE]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFi Pulse unpacked the recent crypto regulatory events in our latest episode of Money Legos w/ Blockchain Law Professor @JWVerret. We covered: 🌪️...]]></title>
-        <id>https://twitter.com/defipulse/status/1578111356489924608</id>
-        <link href="https://twitter.com/defipulse/status/1578111356489924608"/>
-        <updated>2022-10-06T19:54:01.000Z</updated>
-        <summary type="html"><![CDATA[DeFi Pulse unpacked the recent crypto regulatory events in our latest episode of Money Legos w/ Blockchain Law Professor @JWVerret. 
-We covered: 
-🌪️ @TornadoCash sanctions
-💥 Ookie DAO CFTC lawsuit
-💰 Draft Stablecoin Bill
-+ more!
-Watch the full episode: https://youtu.be/gkYXKUvvaNo]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
