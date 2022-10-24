@@ -6,6 +6,36 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1584598190573162496",
+          "author": "DeFi Pulse",
+          "description": "MakerDAO community approves proposal to custody $1.6B in USDC w/ @coinbase. https://www.defipulse.com/",
+          "link": "https://twitter.com/defipulse/status/1584598190573162496",
+          "publishedOn": "2022-10-24T17:30:23.000Z",
+          "wordCount": 399,
+          "title": "MakerDAO community approves proposal to custody $1.6B in USDC w/ @coinbase.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1584596937613152258",
+          "author": "DeFi Pulse",
+          "description": "Re \nFarokh | OpenSea Intern 👨🏻‍💼: Reddit sold NFTs to Redditors as \"digital collectibles\", here's how we bring the bull back:\n1. We become exit liquidity for Redditors\n2. They make bank\n3. They become NFT maxis\n4. We onboard the rest of the internet\n5. Our bags pump\nShort term loss for long time gain. 🧠",
+          "link": "https://twitter.com/defipulse/status/1584596937613152258",
+          "publishedOn": "2022-10-24T17:25:24.000Z",
+          "wordCount": 399,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1584593942481637376",
+          "author": "DeFi Pulse",
+          "description": "NFT twitter steps up as exit liquidity for Reddit NFTs… https://www.defipulse.com/",
+          "link": "https://twitter.com/defipulse/status/1584593942481637376",
+          "publishedOn": "2022-10-24T17:13:30.000Z",
+          "wordCount": 399,
+          "title": "NFT twitter steps up as exit liquidity for Reddit NFTs…",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1584562383237877760",
           "author": "DeFi Pulse",
           "description": "🧟 Ernst & Young Lead: All the ETH killers are zombie chains... https://www.coindesk.com/layer2/2022/10/19/the-ethereum-killers-are-all-zombies-now/ https://www.defipulse.com/",
@@ -173,36 +203,6 @@
           "publishedOn": "2022-10-12T18:33:35.000Z",
           "wordCount": 399,
           "title": "Re This year, the team has turned its focus to what they endearingly call “squeeth.”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1580265429724844033",
-          "author": "DeFi Pulse",
-          "description": "Re Opyn laid the foundation for options infrastructure in DeFi when they launched as the first options protocol. \nOpyn’s goal then and now has remained the same: to empower others through an inclusive, fair, and open financial system.",
-          "link": "https://twitter.com/defipulse/status/1580265429724844033",
-          "publishedOn": "2022-10-12T18:33:33.000Z",
-          "wordCount": 399,
-          "title": "Re Opyn laid the foundation for options infrastructure in DeFi when they launched as the first options protocol. Opyn’s goal then and now has remaine...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1580265427543867392",
-          "author": "DeFi Pulse",
-          "description": "📽️The next Money Legos is starting soon! \n@fallow8DeFi is set to chat with the @opyn_ team in 30 minutes about the state of derivatives & options infrastructure in DeFi.\nTo kick us off, let's look at what Opyn is and what they aim to solve within DeFi.",
-          "link": "https://twitter.com/defipulse/status/1580265427543867392",
-          "publishedOn": "2022-10-12T18:33:32.000Z",
-          "wordCount": 399,
-          "title": "📽️The next Money Legos is starting soon! @fallow8DeFi is set to chat with the @opyn_ team in 30 minutes about the state of derivatives & options i...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1580253362439991297",
-          "author": "DeFi Pulse",
-          "description": "👀 A new feature is live in Beta! Users can now look up ANY Ethereum address on DeFi Pulse.\nSimply enter an address or ENS name in the search bar to see holdings data, including the total value, asset value share, & value by token.\n🔍 Look up an address: https://www.defipulse.com/",
-          "link": "https://twitter.com/defipulse/status/1580253362439991297",
-          "publishedOn": "2022-10-12T17:45:35.000Z",
-          "wordCount": 399,
-          "title": "👀 A new feature is live in Beta! Users can now look up ANY Ethereum address on DeFi Pulse. Simply enter an address or ENS name in the search bar to...",
           "imageUrl": null
         }
       ]

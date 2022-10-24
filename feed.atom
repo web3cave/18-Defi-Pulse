@@ -1,10 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-24T16:40:08.156Z</id>
+    <id>urn:2022-10-24T17:40:28.153Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-24T16:40:08.156Z</updated>
+    <updated>2022-10-24T17:40:28.153Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[MakerDAO community approves proposal to custody $1.6B in USDC w/ @coinbase.]]></title>
+        <id>https://twitter.com/defipulse/status/1584598190573162496</id>
+        <link href="https://twitter.com/defipulse/status/1584598190573162496"/>
+        <updated>2022-10-24T17:30:23.000Z</updated>
+        <summary type="html"><![CDATA[MakerDAO community approves proposal to custody $1.6B in USDC w/ @coinbase. https://www.defipulse.com/]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1584596937613152258</id>
+        <link href="https://twitter.com/defipulse/status/1584596937613152258"/>
+        <updated>2022-10-24T17:25:24.000Z</updated>
+        <summary type="html"><![CDATA[Re 
+Farokh | OpenSea Intern 👨🏻‍💼: Reddit sold NFTs to Redditors as "digital collectibles", here's how we bring the bull back:
+1. We become exit liquidity for Redditors
+2. They make bank
+3. They become NFT maxis
+4. We onboard the rest of the internet
+5. Our bags pump
+Short term loss for long time gain. 🧠]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFT twitter steps up as exit liquidity for Reddit NFTs…]]></title>
+        <id>https://twitter.com/defipulse/status/1584593942481637376</id>
+        <link href="https://twitter.com/defipulse/status/1584593942481637376"/>
+        <updated>2022-10-24T17:13:30.000Z</updated>
+        <summary type="html"><![CDATA[NFT twitter steps up as exit liquidity for Reddit NFTs… https://www.defipulse.com/]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🧟 Ernst & Young Lead: All the ETH killers are zombie chains...]]></title>
         <id>https://twitter.com/defipulse/status/1584562383237877760</id>
@@ -210,41 +247,6 @@ Squeeth is an ERC20 token that tracks the price of ETH, raised to the power of t
         <link href="https://twitter.com/defipulse/status/1580265438302605312"/>
         <updated>2022-10-12T18:33:35.000Z</updated>
         <summary type="html"><![CDATA[Re This year, the team has turned its focus to what they endearingly call “squeeth.”]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Opyn laid the foundation for options infrastructure in DeFi when they launched as the first options protocol. Opyn’s goal then and now has remaine...]]></title>
-        <id>https://twitter.com/defipulse/status/1580265429724844033</id>
-        <link href="https://twitter.com/defipulse/status/1580265429724844033"/>
-        <updated>2022-10-12T18:33:33.000Z</updated>
-        <summary type="html"><![CDATA[Re Opyn laid the foundation for options infrastructure in DeFi when they launched as the first options protocol. 
-Opyn’s goal then and now has remained the same: to empower others through an inclusive, fair, and open financial system.]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[📽️The next Money Legos is starting soon! @fallow8DeFi is set to chat with the @opyn_ team in 30 minutes about the state of derivatives & options i...]]></title>
-        <id>https://twitter.com/defipulse/status/1580265427543867392</id>
-        <link href="https://twitter.com/defipulse/status/1580265427543867392"/>
-        <updated>2022-10-12T18:33:32.000Z</updated>
-        <summary type="html"><![CDATA[📽️The next Money Legos is starting soon! 
-@fallow8DeFi is set to chat with the @opyn_ team in 30 minutes about the state of derivatives & options infrastructure in DeFi.
-To kick us off, let's look at what Opyn is and what they aim to solve within DeFi.]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[👀 A new feature is live in Beta! Users can now look up ANY Ethereum address on DeFi Pulse. Simply enter an address or ENS name in the search bar to...]]></title>
-        <id>https://twitter.com/defipulse/status/1580253362439991297</id>
-        <link href="https://twitter.com/defipulse/status/1580253362439991297"/>
-        <updated>2022-10-12T17:45:35.000Z</updated>
-        <summary type="html"><![CDATA[👀 A new feature is live in Beta! Users can now look up ANY Ethereum address on DeFi Pulse.
-Simply enter an address or ENS name in the search bar to see holdings data, including the total value, asset value share, & value by token.
-🔍 Look up an address: https://www.defipulse.com/]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
