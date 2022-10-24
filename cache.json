@@ -6,6 +6,36 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1584562383237877760",
+          "author": "DeFi Pulse",
+          "description": "🧟 Ernst & Young Lead: All the ETH killers are zombie chains... https://www.coindesk.com/layer2/2022/10/19/the-ethereum-killers-are-all-zombies-now/ https://www.defipulse.com/",
+          "link": "https://twitter.com/defipulse/status/1584562383237877760",
+          "publishedOn": "2022-10-24T15:08:06.000Z",
+          "wordCount": 399,
+          "title": "🧟 Ernst & Young Lead: All the ETH killers are zombie chains...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1584545460789735425",
+          "author": "DeFi Pulse",
+          "description": "Re @camomileshumba/ @TheBlock__ https://www.coindesk.com/policy/2022/10/24/crypto-friendly-rishi-sunak-to-become-uk-prime-minister-following-truss-exit/",
+          "link": "https://twitter.com/defipulse/status/1584545460789735425",
+          "publishedOn": "2022-10-24T14:00:51.000Z",
+          "wordCount": 399,
+          "title": "Re @camomileshumba/ @TheBlock__",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1584544333260152832",
+          "author": "DeFi Pulse",
+          "description": "Crypto-friendly Rishi Sunak to become prime minister. https://www.defipulse.com/",
+          "link": "https://twitter.com/defipulse/status/1584544333260152832",
+          "publishedOn": "2022-10-24T13:56:23.000Z",
+          "wordCount": 399,
+          "title": "Crypto-friendly Rishi Sunak to become prime minister.",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1583844630436552705",
           "author": "DeFi Pulse",
           "description": "⚡All the stories that should be covered. All in one place. \nCheck it👇 https://www.defipulse.com/",
@@ -173,36 +203,6 @@
           "publishedOn": "2022-10-12T17:45:35.000Z",
           "wordCount": 399,
           "title": "👀 A new feature is live in Beta! Users can now look up ANY Ethereum address on DeFi Pulse. Simply enter an address or ENS name in the search bar to...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1579952492527644674",
-          "author": "DeFi Pulse",
-          "description": "⚡@Flashstake is now listed on DeFi Pulse!\nThe Flashstake protocol allows users to receive yield on deposited assets instantly w/ a fixed rate over a set duration.\nCheck out the listing: https://bit.ly/flashstake",
-          "link": "https://twitter.com/defipulse/status/1579952492527644674",
-          "publishedOn": "2022-10-11T21:50:02.000Z",
-          "wordCount": 399,
-          "title": "⚡@Flashstake is now listed on DeFi Pulse! The Flashstake protocol allows users to receive yield on deposited assets instantly w/ a fixed rate over a ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1579586328068386816",
-          "author": "DeFi Pulse",
-          "description": "🧱 Mark your calendars for the next Money Legos ft. @opyn_.\nJoin us as we cover:\n🏗️  Derivatives & options infrastructure in DeFi\n🦀  How Opyn laid the foundation\n🚀  Opyn's launch of the first on-chain power perpetual\n🗓️ Oct. 12 ⏰ 7pm UTC\nRSVP: https://youtu.be/d7UW4PXivYE",
-          "link": "https://twitter.com/defipulse/status/1579586328068386816",
-          "publishedOn": "2022-10-10T21:35:02.000Z",
-          "wordCount": 399,
-          "title": "🧱 Mark your calendars for the next Money Legos ft. @opyn_. Join us as we cover: 🏗️ Derivatives & options infrastructure in DeFi 🦀 How Opyn l...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1578772712373112833",
-          "author": "DeFi Pulse",
-          "description": "A thriving options ecosystem is a critical piece of infrastructure for crypto maturation & mass adoption.\nOn the next Money Legos, we chat about the state of derivatives & options infrastructure in DeFi w/ @opyn_.  🦀\n🗓️ Oct. 12 ⏰ 7pm UTC\nSave a seat: https://youtu.be/d7UW4PXivYE",
-          "link": "https://twitter.com/defipulse/status/1578772712373112833",
-          "publishedOn": "2022-10-08T15:42:01.000Z",
-          "wordCount": 399,
-          "title": "A thriving options ecosystem is a critical piece of infrastructure for crypto maturation & mass adoption. On the next Money Legos, we chat about the s...",
           "imageUrl": null
         }
       ]

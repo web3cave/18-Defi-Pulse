@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-24T14:06:10.177Z</id>
+    <id>urn:2022-10-24T15:30:59.682Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-24T14:06:10.177Z</updated>
+    <updated>2022-10-24T15:30:59.682Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[🧟 Ernst & Young Lead: All the ETH killers are zombie chains...]]></title>
+        <id>https://twitter.com/defipulse/status/1584562383237877760</id>
+        <link href="https://twitter.com/defipulse/status/1584562383237877760"/>
+        <updated>2022-10-24T15:08:06.000Z</updated>
+        <summary type="html"><![CDATA[🧟 Ernst & Young Lead: All the ETH killers are zombie chains... https://www.coindesk.com/layer2/2022/10/19/the-ethereum-killers-are-all-zombies-now/ https://www.defipulse.com/]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @camomileshumba/ @TheBlock__]]></title>
+        <id>https://twitter.com/defipulse/status/1584545460789735425</id>
+        <link href="https://twitter.com/defipulse/status/1584545460789735425"/>
+        <updated>2022-10-24T14:00:51.000Z</updated>
+        <summary type="html"><![CDATA[Re @camomileshumba/ @TheBlock__ https://www.coindesk.com/policy/2022/10/24/crypto-friendly-rishi-sunak-to-become-uk-prime-minister-following-truss-exit/]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto-friendly Rishi Sunak to become prime minister.]]></title>
+        <id>https://twitter.com/defipulse/status/1584544333260152832</id>
+        <link href="https://twitter.com/defipulse/status/1584544333260152832"/>
+        <updated>2022-10-24T13:56:23.000Z</updated>
+        <summary type="html"><![CDATA[Crypto-friendly Rishi Sunak to become prime minister. https://www.defipulse.com/]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[⚡All the stories that should be covered. All in one place. Check it👇]]></title>
         <id>https://twitter.com/defipulse/status/1583844630436552705</id>
@@ -215,47 +245,6 @@ To kick us off, let's look at what Opyn is and what they aim to solve within DeF
         <summary type="html"><![CDATA[👀 A new feature is live in Beta! Users can now look up ANY Ethereum address on DeFi Pulse.
 Simply enter an address or ENS name in the search bar to see holdings data, including the total value, asset value share, & value by token.
 🔍 Look up an address: https://www.defipulse.com/]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[⚡@Flashstake is now listed on DeFi Pulse! The Flashstake protocol allows users to receive yield on deposited assets instantly w/ a fixed rate over a ...]]></title>
-        <id>https://twitter.com/defipulse/status/1579952492527644674</id>
-        <link href="https://twitter.com/defipulse/status/1579952492527644674"/>
-        <updated>2022-10-11T21:50:02.000Z</updated>
-        <summary type="html"><![CDATA[⚡@Flashstake is now listed on DeFi Pulse!
-The Flashstake protocol allows users to receive yield on deposited assets instantly w/ a fixed rate over a set duration.
-Check out the listing: https://bit.ly/flashstake]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🧱 Mark your calendars for the next Money Legos ft. @opyn_. Join us as we cover: 🏗️ Derivatives & options infrastructure in DeFi 🦀 How Opyn l...]]></title>
-        <id>https://twitter.com/defipulse/status/1579586328068386816</id>
-        <link href="https://twitter.com/defipulse/status/1579586328068386816"/>
-        <updated>2022-10-10T21:35:02.000Z</updated>
-        <summary type="html"><![CDATA[🧱 Mark your calendars for the next Money Legos ft. @opyn_.
-Join us as we cover:
-🏗️  Derivatives & options infrastructure in DeFi
-🦀  How Opyn laid the foundation
-🚀  Opyn's launch of the first on-chain power perpetual
-🗓️ Oct. 12 ⏰ 7pm UTC
-RSVP: https://youtu.be/d7UW4PXivYE]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A thriving options ecosystem is a critical piece of infrastructure for crypto maturation & mass adoption. On the next Money Legos, we chat about the s...]]></title>
-        <id>https://twitter.com/defipulse/status/1578772712373112833</id>
-        <link href="https://twitter.com/defipulse/status/1578772712373112833"/>
-        <updated>2022-10-08T15:42:01.000Z</updated>
-        <summary type="html"><![CDATA[A thriving options ecosystem is a critical piece of infrastructure for crypto maturation & mass adoption.
-On the next Money Legos, we chat about the state of derivatives & options infrastructure in DeFi w/ @opyn_.  🦀
-🗓️ Oct. 12 ⏰ 7pm UTC
-Save a seat: https://youtu.be/d7UW4PXivYE]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
