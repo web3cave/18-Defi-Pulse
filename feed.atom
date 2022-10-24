@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-24T20:29:12.217Z</id>
+    <id>urn:2022-10-24T21:24:37.301Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-24T20:29:12.217Z</updated>
+    <updated>2022-10-24T21:24:37.301Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1584643691926663169</id>
+        <link href="https://twitter.com/defipulse/status/1584643691926663169"/>
+        <updated>2022-10-24T20:31:12.000Z</updated>
+        <summary type="html"><![CDATA[Re 
+Jane Manchun Wong: Twitter is working on a “wallet prototype” that supports “crypto deposit and withdrawal”]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CFTC concerned about vertically integrated CEXes…]]></title>
+        <id>https://twitter.com/defipulse/status/1584640870938251267</id>
+        <link href="https://twitter.com/defipulse/status/1584640870938251267"/>
+        <updated>2022-10-24T20:19:59.000Z</updated>
+        <summary type="html"><![CDATA[CFTC concerned about vertically integrated CEXes… https://www.theblock.co/post/179494/behnam-just-a-matter-of-time-before-crypto-returns-to-conditions-of-spring-crash https://www.defipulse.com/]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter working on a crypto wallet...]]></title>
+        <id>https://twitter.com/defipulse/status/1584635264835543040</id>
+        <link href="https://twitter.com/defipulse/status/1584635264835543040"/>
+        <updated>2022-10-24T19:57:42.000Z</updated>
+        <summary type="html"><![CDATA[Twitter working on a crypto wallet... https://www.defipulse.com/]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MakerDAO community approves proposal to custody $1.6B in USDC w/ @coinbase.]]></title>
         <id>https://twitter.com/defipulse/status/1584598190573162496</id>
@@ -215,38 +246,6 @@ Press ▶️ : https://youtu.be/8aShXRkalMg]]></summary>
         <link href="https://twitter.com/defipulse/status/1580272339052281864"/>
         <updated>2022-10-12T19:01:00.000Z</updated>
         <summary type="html"><![CDATA[The next Money Legos is live with special guest @opyn_! https://twitter.com/i/broadcasts/1MnxnpqvgyyGO https://twitter.com/i/broadcasts/1MnxnpqvgyyGO]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Join us on Money Legos to learn more about the state of derivatives and options in DeFi and how the @opyn_ team is innovating with Squeeth. Set you...]]></title>
-        <id>https://twitter.com/defipulse/status/1580266550853894145</id>
-        <link href="https://twitter.com/defipulse/status/1580266550853894145"/>
-        <updated>2022-10-12T18:38:00.000Z</updated>
-        <summary type="html"><![CDATA[Re Join us on Money Legos to learn more about the state of derivatives and options in DeFi and how the @opyn_ team is innovating with Squeeth. 
-Set your reminder: https://youtu.be/d7UW4PXivYE]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Squeeth (standing for squared eth) is the first on-chain power perpetual. It’s similar to an option, but without expiries or strike prices, and en...]]></title>
-        <id>https://twitter.com/defipulse/status/1580265441431212032</id>
-        <link href="https://twitter.com/defipulse/status/1580265441431212032"/>
-        <updated>2022-10-12T18:33:35.000Z</updated>
-        <summary type="html"><![CDATA[Re Squeeth (standing for squared eth) is the first on-chain power perpetual. It’s similar to an option, but without expiries or strike prices, and enables no liquidations for longs.
-Squeeth is an ERC20 token that tracks the price of ETH, raised to the power of two.]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re This year, the team has turned its focus to what they endearingly call “squeeth.”]]></title>
-        <id>https://twitter.com/defipulse/status/1580265438302605312</id>
-        <link href="https://twitter.com/defipulse/status/1580265438302605312"/>
-        <updated>2022-10-12T18:33:35.000Z</updated>
-        <summary type="html"><![CDATA[Re This year, the team has turned its focus to what they endearingly call “squeeth.”]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
