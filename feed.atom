@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-25T17:58:09.858Z</id>
+    <id>urn:2022-10-25T18:58:38.139Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-25T17:58:09.858Z</updated>
+    <updated>2022-10-25T18:58:38.139Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1584971959338938371</id>
+        <link href="https://twitter.com/defipulse/status/1584971959338938371"/>
+        <updated>2022-10-25T18:15:37.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.coindesk.com/policy/2022/10/25/uk-lawmakers-vote-to-recognize-crypto-as-regulated-financial-instruments/]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UK lawmakers vote to bring crypto within the scope of regulation for the first time.]]></title>
+        <id>https://twitter.com/defipulse/status/1584967662563905536</id>
+        <link href="https://twitter.com/defipulse/status/1584967662563905536"/>
+        <updated>2022-10-25T17:58:32.000Z</updated>
+        <summary type="html"><![CDATA[UK lawmakers vote to bring crypto within the scope of regulation for the first time.]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1584942842744434688</id>
@@ -208,38 +228,6 @@ Get up to speed on the state of structured products in Defi with @ribbonfinance 
 🗓Oct. 20 ⏰1 pm UTC
 Save a seat:
  https://youtu.be/m_eTsEYYmIE]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Options infrastructure enabled the next wave of innovation in DeFi — structured products. Get up to speed on the state of structured products in Defi...]]></title>
-        <id>https://twitter.com/defipulse/status/1582495505426292736</id>
-        <link href="https://twitter.com/defipulse/status/1582495505426292736"/>
-        <updated>2022-10-18T22:15:04.000Z</updated>
-        <summary type="html"><![CDATA[Options infrastructure enabled the next wave of innovation in DeFi — structured products.
-Get up to speed on the state of structured products in Defi with @ribbonfinance founder @juliankoh on the next Money Legos. 🎀
-🗓Oct. 20 ⏰1 pm UTC
-Save a seat: https://youtu.be/m_eTsEYYmIE]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Nathan Howard: Learned a ton from this conversation with @reegannotraygan and @alpinechicken. Options are a critical tool for expressing financial ...]]></title>
-        <id>https://twitter.com/fallow8DeFi/status/1580643425325809666</id>
-        <link href="https://twitter.com/fallow8DeFi/status/1580643425325809666"/>
-        <updated>2022-10-13T19:35:34.000Z</updated>
-        <summary type="html"><![CDATA[RT Nathan Howard
-Learned a ton from this conversation with @reegannotraygan and @alpinechicken. Options are a critical tool for expressing financial views in a market and we’re barely scratching the surface for how that will look on-chain.
-DeFi Pulse: 🧱 Did you miss the latest Money Legos featuring the @opyn_ team? Watch the full replay!
-Here is what we covered:
-❓ How retail users utilize options
-💡 DeFi vs. Tradfi options innovation
-💫 Composability of options
-👥 Opyn user growth
-Press ▶️ :
- https://youtu.be/8aShXRkalMg]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>

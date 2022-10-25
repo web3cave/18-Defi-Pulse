@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1584971959338938371",
+          "author": "DeFi Pulse",
+          "description": "Re  https://www.coindesk.com/policy/2022/10/25/uk-lawmakers-vote-to-recognize-crypto-as-regulated-financial-instruments/",
+          "link": "https://twitter.com/defipulse/status/1584971959338938371",
+          "publishedOn": "2022-10-25T18:15:37.000Z",
+          "wordCount": 399,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1584967662563905536",
+          "author": "DeFi Pulse",
+          "description": "UK lawmakers vote to bring crypto within the scope of regulation for the first time.",
+          "link": "https://twitter.com/defipulse/status/1584967662563905536",
+          "publishedOn": "2022-10-25T17:58:32.000Z",
+          "wordCount": 399,
+          "title": "UK lawmakers vote to bring crypto within the scope of regulation for the first time.",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1584942842744434688",
           "author": "DeFi Pulse",
           "description": "Re  https://www.coindesk.com/business/2022/10/25/bloombergs-matt-levine-writes-40000-word-article-on-crypto/",
@@ -183,26 +203,6 @@
           "publishedOn": "2022-10-19T03:55:56.000Z",
           "wordCount": 399,
           "title": "RT Ribbon Finance: Catch our co-founder and CEO @juliankoh on the next episode of Money Legos tmrw at 1 pm UTC! 🎀 🤝 🍇",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1582495505426292736",
-          "author": "DeFi Pulse",
-          "description": "Options infrastructure enabled the next wave of innovation in DeFi — structured products.\nGet up to speed on the state of structured products in Defi with @ribbonfinance founder @juliankoh on the next Money Legos. 🎀\n🗓Oct. 20 ⏰1 pm UTC\nSave a seat: https://youtu.be/m_eTsEYYmIE",
-          "link": "https://twitter.com/defipulse/status/1582495505426292736",
-          "publishedOn": "2022-10-18T22:15:04.000Z",
-          "wordCount": 399,
-          "title": "Options infrastructure enabled the next wave of innovation in DeFi — structured products. Get up to speed on the state of structured products in Defi...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/fallow8DeFi/status/1580643425325809666",
-          "author": "DeFi Pulse",
-          "description": "RT Nathan Howard\nLearned a ton from this conversation with @reegannotraygan and @alpinechicken. Options are a critical tool for expressing financial views in a market and we’re barely scratching the surface for how that will look on-chain.\nDeFi Pulse: 🧱 Did you miss the latest Money Legos featuring the @opyn_ team? Watch the full replay!\nHere is what we covered:\n❓ How retail users utilize options\n💡 DeFi vs. Tradfi options innovation\n💫 Composability of options\n👥 Opyn user growth\nPress ▶️ :\n https://youtu.be/8aShXRkalMg",
-          "link": "https://twitter.com/fallow8DeFi/status/1580643425325809666",
-          "publishedOn": "2022-10-13T19:35:34.000Z",
-          "wordCount": 399,
-          "title": "RT Nathan Howard: Learned a ton from this conversation with @reegannotraygan and @alpinechicken. Options are a critical tool for expressing financial ...",
           "imageUrl": null
         }
       ]
