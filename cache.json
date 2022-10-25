@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1584942842744434688",
+          "author": "DeFi Pulse",
+          "description": "Re  https://www.coindesk.com/business/2022/10/25/bloombergs-matt-levine-writes-40000-word-article-on-crypto/",
+          "link": "https://twitter.com/defipulse/status/1584942842744434688",
+          "publishedOn": "2022-10-25T16:19:55.000Z",
+          "wordCount": 399,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1584941718834905088",
+          "author": "DeFi Pulse",
+          "description": "Crypto explainer by Matt Levine takes center stage as the only article in Businessweek.",
+          "link": "https://twitter.com/defipulse/status/1584941718834905088",
+          "publishedOn": "2022-10-25T16:15:27.000Z",
+          "wordCount": 399,
+          "title": "Crypto explainer by Matt Levine takes center stage as the only article in Businessweek.",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1584643691926663169",
           "author": "DeFi Pulse",
           "description": "Re \nJane Manchun Wong: Twitter is working on a “wallet prototype” that supports “crypto deposit and withdrawal”",
@@ -183,26 +203,6 @@
           "publishedOn": "2022-10-13T19:35:34.000Z",
           "wordCount": 399,
           "title": "RT Nathan Howard: Learned a ton from this conversation with @reegannotraygan and @alpinechicken. Options are a critical tool for expressing financial ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1580638015344750592",
-          "author": "DeFi Pulse",
-          "description": "🧱 Did you miss the latest Money Legos featuring the @opyn_ team? Watch the full replay!\nHere is what we covered:\n❓ How retail users utilize options\n💡 DeFi vs. Tradfi options innovation\n💫 Composability of options\n👥 Opyn user growth\nPress ▶️ : https://youtu.be/8aShXRkalMg",
-          "link": "https://twitter.com/defipulse/status/1580638015344750592",
-          "publishedOn": "2022-10-13T19:14:04.000Z",
-          "wordCount": 399,
-          "title": "🧱 Did you miss the latest Money Legos featuring the @opyn_ team? Watch the full replay! Here is what we covered: ❓ How retail users utilize option...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1580272339052281864",
-          "author": "DeFi Pulse",
-          "description": "The next Money Legos is live with special guest @opyn_! https://twitter.com/i/broadcasts/1MnxnpqvgyyGO https://twitter.com/i/broadcasts/1MnxnpqvgyyGO",
-          "link": "https://twitter.com/defipulse/status/1580272339052281864",
-          "publishedOn": "2022-10-12T19:01:00.000Z",
-          "wordCount": 399,
-          "title": "The next Money Legos is live with special guest @opyn_!",
           "imageUrl": null
         }
       ]
