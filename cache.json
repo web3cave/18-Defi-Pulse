@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1585721944657174529",
+          "author": "DeFi Pulse",
+          "description": "Re \nTwitter Dev: Now testing: NFT Tweet Tiles 🚀\nSome links to NFTs on @rarible, @MagicEden, @dapperlabs and @Jumptradenft will now show you a larger picture of the NFT alongside details like the title and creator. One more step in our journey to let developers impact the Tweet experience.",
+          "link": "https://twitter.com/defipulse/status/1585721944657174529",
+          "publishedOn": "2022-10-27T19:55:47.000Z",
+          "wordCount": 399,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1585718915287900160",
+          "author": "DeFi Pulse",
+          "description": "Twitter will allow users to buy and sell NFTs through tweets.",
+          "link": "https://twitter.com/defipulse/status/1585718915287900160",
+          "publishedOn": "2022-10-27T19:43:45.000Z",
+          "wordCount": 399,
+          "title": "Twitter will allow users to buy and sell NFTs through tweets.",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1585665148152340480",
           "author": "DeFi Pulse",
           "description": "Re",
@@ -183,26 +203,6 @@
           "publishedOn": "2022-10-24T17:13:30.000Z",
           "wordCount": 399,
           "title": "NFT twitter steps up as exit liquidity for Reddit NFTs…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1584562383237877760",
-          "author": "DeFi Pulse",
-          "description": "🧟 Ernst & Young Lead: All the ETH killers are zombie chains... https://www.coindesk.com/layer2/2022/10/19/the-ethereum-killers-are-all-zombies-now/ https://www.defipulse.com/",
-          "link": "https://twitter.com/defipulse/status/1584562383237877760",
-          "publishedOn": "2022-10-24T15:08:06.000Z",
-          "wordCount": 399,
-          "title": "🧟 Ernst & Young Lead: All the ETH killers are zombie chains...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1584545460789735425",
-          "author": "DeFi Pulse",
-          "description": "Re @camomileshumba/ @TheBlock__ https://www.coindesk.com/policy/2022/10/24/crypto-friendly-rishi-sunak-to-become-uk-prime-minister-following-truss-exit/",
-          "link": "https://twitter.com/defipulse/status/1584545460789735425",
-          "publishedOn": "2022-10-24T14:00:51.000Z",
-          "wordCount": 399,
-          "title": "Re @camomileshumba/ @TheBlock__",
           "imageUrl": null
         }
       ]

@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-27T20:25:04.060Z</id>
+    <id>urn:2022-10-27T21:20:11.585Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-27T20:25:04.060Z</updated>
+    <updated>2022-10-27T21:20:11.586Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1585721944657174529</id>
+        <link href="https://twitter.com/defipulse/status/1585721944657174529"/>
+        <updated>2022-10-27T19:55:47.000Z</updated>
+        <summary type="html"><![CDATA[Re 
+Twitter Dev: Now testing: NFT Tweet Tiles 🚀
+Some links to NFTs on @rarible, @MagicEden, @dapperlabs and @Jumptradenft will now show you a larger picture of the NFT alongside details like the title and creator. One more step in our journey to let developers impact the Tweet experience.]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter will allow users to buy and sell NFTs through tweets.]]></title>
+        <id>https://twitter.com/defipulse/status/1585718915287900160</id>
+        <link href="https://twitter.com/defipulse/status/1585718915287900160"/>
+        <updated>2022-10-27T19:43:45.000Z</updated>
+        <summary type="html"><![CDATA[Twitter will allow users to buy and sell NFTs through tweets.]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1585665148152340480</id>
@@ -192,26 +214,6 @@ Short term loss for long time gain. 🧠]]></summary>
         <link href="https://twitter.com/defipulse/status/1584593942481637376"/>
         <updated>2022-10-24T17:13:30.000Z</updated>
         <summary type="html"><![CDATA[NFT twitter steps up as exit liquidity for Reddit NFTs… https://www.defipulse.com/]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🧟 Ernst & Young Lead: All the ETH killers are zombie chains...]]></title>
-        <id>https://twitter.com/defipulse/status/1584562383237877760</id>
-        <link href="https://twitter.com/defipulse/status/1584562383237877760"/>
-        <updated>2022-10-24T15:08:06.000Z</updated>
-        <summary type="html"><![CDATA[🧟 Ernst & Young Lead: All the ETH killers are zombie chains... https://www.coindesk.com/layer2/2022/10/19/the-ethereum-killers-are-all-zombies-now/ https://www.defipulse.com/]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @camomileshumba/ @TheBlock__]]></title>
-        <id>https://twitter.com/defipulse/status/1584545460789735425</id>
-        <link href="https://twitter.com/defipulse/status/1584545460789735425"/>
-        <updated>2022-10-24T14:00:51.000Z</updated>
-        <summary type="html"><![CDATA[Re @camomileshumba/ @TheBlock__ https://www.coindesk.com/policy/2022/10/24/crypto-friendly-rishi-sunak-to-become-uk-prime-minister-following-truss-exit/]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
