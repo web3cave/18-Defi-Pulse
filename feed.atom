@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-27T15:24:53.877Z</id>
+    <id>urn:2022-10-27T16:34:45.465Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-27T15:24:53.877Z</updated>
+    <updated>2022-10-27T16:34:45.465Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1585626712641097728</id>
+        <link href="https://twitter.com/defipulse/status/1585626712641097728"/>
+        <updated>2022-10-27T13:37:22.000Z</updated>
+        <summary type="html"><![CDATA[Re 
+The Big Whale 🐳: 🔴 SCOOP
+@SBF_FTX told @TheBigWhale_ that @FTX_Official is working on their stablecoin
+Video 👇]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTX working on a stablecoin...]]></title>
+        <id>https://twitter.com/defipulse/status/1585624835195019267</id>
+        <link href="https://twitter.com/defipulse/status/1585624835195019267"/>
+        <updated>2022-10-27T13:29:54.000Z</updated>
+        <summary type="html"><![CDATA[FTX working on a stablecoin...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1584971959338938371</id>
@@ -198,36 +221,6 @@ We just chatted w/ @ribbonfinance co-founder & CEO @juliankoh on Money Legos. We
 🌐 Why decentralization matters
 ✨ Future derivative innovation
 Check it out! https://youtu.be/pIPSQ09muYo]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[✨ Curious about the future of decentralized structured products? Join us tomorrow on the next Money Legos as we hear from @ribbonfinance co-founder &...]]></title>
-        <id>https://twitter.com/defipulse/status/1582843556972363776</id>
-        <link href="https://twitter.com/defipulse/status/1582843556972363776"/>
-        <updated>2022-10-19T21:18:06.000Z</updated>
-        <summary type="html"><![CDATA[✨ Curious about the future of decentralized structured products?
-Join us tomorrow on the next Money Legos as we hear from @ribbonfinance co-founder & CEO @juliankoh about the state of structured products in DeFi. 🎀
-🗓Oct. 20 ⏰ 1pm UTC
-Set a reminder: https://youtu.be/m_eTsEYYmIE]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Ribbon Finance: Catch our co-founder and CEO @juliankoh on the next episode of Money Legos tmrw at 1 pm UTC! 🎀 🤝 🍇]]></title>
-        <id>https://twitter.com/ribbonfinance/status/1582581288493404160</id>
-        <link href="https://twitter.com/ribbonfinance/status/1582581288493404160"/>
-        <updated>2022-10-19T03:55:56.000Z</updated>
-        <summary type="html"><![CDATA[RT Ribbon Finance
-Catch our co-founder and CEO @juliankoh on the next episode of Money Legos tmrw at 1 pm UTC!
-🎀 🤝 🍇
-DeFi Pulse: Options infrastructure enabled the next wave of innovation in DeFi — structured products.
-Get up to speed on the state of structured products in Defi with @ribbonfinance founder @juliankoh on the next Money Legos. 🎀
-🗓Oct. 20 ⏰1 pm UTC
-Save a seat:
- https://youtu.be/m_eTsEYYmIE]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
