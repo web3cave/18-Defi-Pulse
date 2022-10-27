@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-27T16:34:45.465Z</id>
+    <id>urn:2022-10-27T17:27:40.700Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-27T16:34:45.465Z</updated>
+    <updated>2022-10-27T17:27:40.700Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1585665148152340480</id>
+        <link href="https://twitter.com/defipulse/status/1585665148152340480"/>
+        <updated>2022-10-27T16:10:06.000Z</updated>
+        <summary type="html"><![CDATA[Re]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Former MakerDAO co-founder working on a new stablecoin design...]]></title>
+        <id>https://twitter.com/defipulse/status/1585662173371588614</id>
+        <link href="https://twitter.com/defipulse/status/1585662173371588614"/>
+        <updated>2022-10-27T15:58:16.000Z</updated>
+        <summary type="html"><![CDATA[Former MakerDAO co-founder working on a new stablecoin design...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1585655882007941121</id>
+        <link href="https://twitter.com/defipulse/status/1585655882007941121"/>
+        <updated>2022-10-27T15:33:16.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://cloud.google.com/blog/products/infrastructure-modernization/introducing-blockchain-node-engine]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Cloud enters into Web3 with Ethereum node-hosting service...]]></title>
+        <id>https://twitter.com/defipulse/status/1585652713995599873</id>
+        <link href="https://twitter.com/defipulse/status/1585652713995599873"/>
+        <updated>2022-10-27T15:20:41.000Z</updated>
+        <summary type="html"><![CDATA[Google Cloud enters into Web3 with Ethereum node-hosting service...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1585651067454476288</id>
+        <link href="https://twitter.com/defipulse/status/1585651067454476288"/>
+        <updated>2022-10-27T15:14:09.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://docs.looksrare.org/blog/looksrare-offers-zero-royalty-trading-shares-protocol-fees-with-creators-instead]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LooksRare kills royalties and opts for creator revenue sharing.]]></title>
+        <id>https://twitter.com/defipulse/status/1585648205454114816</id>
+        <link href="https://twitter.com/defipulse/status/1585648205454114816"/>
+        <updated>2022-10-27T15:02:46.000Z</updated>
+        <summary type="html"><![CDATA[LooksRare kills royalties and opts for creator revenue sharing.]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1585626712641097728</id>
@@ -152,75 +212,6 @@ Short term loss for long time gain. 🧠]]></summary>
         <link href="https://twitter.com/defipulse/status/1584545460789735425"/>
         <updated>2022-10-24T14:00:51.000Z</updated>
         <summary type="html"><![CDATA[Re @camomileshumba/ @TheBlock__ https://www.coindesk.com/policy/2022/10/24/crypto-friendly-rishi-sunak-to-become-uk-prime-minister-following-truss-exit/]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto-friendly Rishi Sunak to become prime minister.]]></title>
-        <id>https://twitter.com/defipulse/status/1584544333260152832</id>
-        <link href="https://twitter.com/defipulse/status/1584544333260152832"/>
-        <updated>2022-10-24T13:56:23.000Z</updated>
-        <summary type="html"><![CDATA[Crypto-friendly Rishi Sunak to become prime minister. https://www.defipulse.com/]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[⚡All the stories that should be covered. All in one place. Check it👇]]></title>
-        <id>https://twitter.com/defipulse/status/1583844630436552705</id>
-        <link href="https://twitter.com/defipulse/status/1583844630436552705"/>
-        <updated>2022-10-22T15:36:00.000Z</updated>
-        <summary type="html"><![CDATA[⚡All the stories that should be covered. All in one place. 
-Check it👇 https://www.defipulse.com/]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @BigSky_7 We’re still here. Just on to a different mission 💪🏽]]></title>
-        <id>https://twitter.com/defipulse/status/1583589959792934912</id>
-        <link href="https://twitter.com/defipulse/status/1583589959792934912"/>
-        <updated>2022-10-21T22:44:02.000Z</updated>
-        <summary type="html"><![CDATA[Re @BigSky_7 We’re still here. Just on to a different mission 💪🏽]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The TVL leaderboard was a hell of a ride. It's time for a pivot. What does this mean? Go see for yourself.]]></title>
-        <id>https://twitter.com/defipulse/status/1583531851305480193</id>
-        <link href="https://twitter.com/defipulse/status/1583531851305480193"/>
-        <updated>2022-10-21T18:53:08.000Z</updated>
-        <summary type="html"><![CDATA[The TVL leaderboard was a hell of a ride. 
-It's time for a pivot.
-What does this mean? Go see for yourself. https://www.defipulse.com/]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[some changes will be coming soonTM.]]></title>
-        <id>https://twitter.com/defipulse/status/1583523794982871040</id>
-        <link href="https://twitter.com/defipulse/status/1583523794982871040"/>
-        <updated>2022-10-21T18:21:07.000Z</updated>
-        <summary type="html"><![CDATA[some changes will be coming soonTM.]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🚨 Hot off the press 🚨 We just chatted w/ @ribbonfinance co-founder & CEO @juliankoh on Money Legos. We covered: 🧩 What are structured product...]]></title>
-        <id>https://twitter.com/defipulse/status/1583112056160407553</id>
-        <link href="https://twitter.com/defipulse/status/1583112056160407553"/>
-        <updated>2022-10-20T15:05:01.000Z</updated>
-        <summary type="html"><![CDATA[🚨 Hot off the press 🚨
-We just chatted w/ @ribbonfinance co-founder & CEO @juliankoh on Money Legos. We covered:
-🧩 What are structured products
-🎀 Building blocks of Ribbon
-🌐 Why decentralization matters
-✨ Future derivative innovation
-Check it out! https://youtu.be/pIPSQ09muYo]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
