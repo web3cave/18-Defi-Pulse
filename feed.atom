@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-31T15:25:11.754Z</id>
+    <id>urn:2022-10-31T16:35:58.064Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-31T15:25:11.754Z</updated>
+    <updated>2022-10-31T16:35:58.064Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1587106312630030340</id>
+        <link href="https://twitter.com/defipulse/status/1587106312630030340"/>
+        <updated>2022-10-31T15:36:46.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.bloomberg.com/news/articles/2022-10-27/hong-kong-plans-to-legalize-retail-crypto-trading-to-become-hub]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hong Kong considers opening crypto trading to become digital assets hub...]]></title>
+        <id>https://twitter.com/defipulse/status/1587098576471162886</id>
+        <link href="https://twitter.com/defipulse/status/1587098576471162886"/>
+        <updated>2022-10-31T15:06:02.000Z</updated>
+        <summary type="html"><![CDATA[Hong Kong considers opening crypto trading to become digital assets hub...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1587090146444414978</id>
+        <link href="https://twitter.com/defipulse/status/1587090146444414978"/>
+        <updated>2022-10-31T14:32:32.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.mintscan.io/cosmos/proposals/82]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ATOM 2.0 governance proposal is live...]]></title>
         <id>https://twitter.com/defipulse/status/1587077929728724997</id>
@@ -177,43 +207,6 @@ Jane Manchun Wong: Twitter is working on a “wallet prototype” that support
         <link href="https://twitter.com/defipulse/status/1584640870938251267"/>
         <updated>2022-10-24T20:19:59.000Z</updated>
         <summary type="html"><![CDATA[CFTC concerned about vertically integrated CEXes… https://www.theblock.co/post/179494/behnam-just-a-matter-of-time-before-crypto-returns-to-conditions-of-spring-crash https://www.defipulse.com/]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitter working on a crypto wallet...]]></title>
-        <id>https://twitter.com/defipulse/status/1584635264835543040</id>
-        <link href="https://twitter.com/defipulse/status/1584635264835543040"/>
-        <updated>2022-10-24T19:57:42.000Z</updated>
-        <summary type="html"><![CDATA[Twitter working on a crypto wallet... https://www.defipulse.com/]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MakerDAO community approves proposal to custody $1.6B in USDC w/ @coinbase.]]></title>
-        <id>https://twitter.com/defipulse/status/1584598190573162496</id>
-        <link href="https://twitter.com/defipulse/status/1584598190573162496"/>
-        <updated>2022-10-24T17:30:23.000Z</updated>
-        <summary type="html"><![CDATA[MakerDAO community approves proposal to custody $1.6B in USDC w/ @coinbase. https://www.defipulse.com/]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1584596937613152258</id>
-        <link href="https://twitter.com/defipulse/status/1584596937613152258"/>
-        <updated>2022-10-24T17:25:24.000Z</updated>
-        <summary type="html"><![CDATA[Re 
-Farokh | OpenSea Intern 👨🏻‍💼: Reddit sold NFTs to Redditors as "digital collectibles", here's how we bring the bull back:
-1. We become exit liquidity for Redditors
-2. They make bank
-3. They become NFT maxis
-4. We onboard the rest of the internet
-5. Our bags pump
-Short term loss for long time gain. 🧠]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
