@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-31T12:51:45.884Z</id>
+    <id>urn:2022-10-31T13:54:53.824Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-31T12:51:45.884Z</updated>
+    <updated>2022-10-31T13:54:53.824Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ATOM 2.0 governance proposal is live...]]></title>
+        <id>https://twitter.com/defipulse/status/1587077929728724997</id>
+        <link href="https://twitter.com/defipulse/status/1587077929728724997"/>
+        <updated>2022-10-31T13:43:59.000Z</updated>
+        <summary type="html"><![CDATA[ATOM 2.0 governance proposal is live...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1585721944657174529</id>
@@ -204,16 +214,6 @@ Farokh | OpenSea Intern 👨🏻‍💼: Reddit sold NFTs to Redditors as "dig
 4. We onboard the rest of the internet
 5. Our bags pump
 Short term loss for long time gain. 🧠]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFT twitter steps up as exit liquidity for Reddit NFTs…]]></title>
-        <id>https://twitter.com/defipulse/status/1584593942481637376</id>
-        <link href="https://twitter.com/defipulse/status/1584593942481637376"/>
-        <updated>2022-10-24T17:13:30.000Z</updated>
-        <summary type="html"><![CDATA[NFT twitter steps up as exit liquidity for Reddit NFTs… https://www.defipulse.com/]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>

@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1587077929728724997",
+          "author": "DeFi Pulse",
+          "description": "ATOM 2.0 governance proposal is live...",
+          "link": "https://twitter.com/defipulse/status/1587077929728724997",
+          "publishedOn": "2022-10-31T13:43:59.000Z",
+          "wordCount": 399,
+          "title": "ATOM 2.0 governance proposal is live...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1585721944657174529",
           "author": "DeFi Pulse",
           "description": "Re \nTwitter Dev: Now testing: NFT Tweet Tiles 🚀\nSome links to NFTs on @rarible, @MagicEden, @dapperlabs and @Jumptradenft will now show you a larger picture of the NFT alongside details like the title and creator. One more step in our journey to let developers impact the Tweet experience.",
@@ -193,16 +203,6 @@
           "publishedOn": "2022-10-24T17:25:24.000Z",
           "wordCount": 399,
           "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1584593942481637376",
-          "author": "DeFi Pulse",
-          "description": "NFT twitter steps up as exit liquidity for Reddit NFTs… https://www.defipulse.com/",
-          "link": "https://twitter.com/defipulse/status/1584593942481637376",
-          "publishedOn": "2022-10-24T17:13:30.000Z",
-          "wordCount": 399,
-          "title": "NFT twitter steps up as exit liquidity for Reddit NFTs…",
           "imageUrl": null
         }
       ]
