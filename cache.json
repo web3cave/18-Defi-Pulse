@@ -6,6 +6,46 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1587457082730680320",
+          "author": "DeFi Pulse",
+          "description": "Re  https://www.elnuevodia.com/noticias/seguridad/notas/muere-un-hombre-de-29-anos-arrastrado-por-las-corrientes-en-playa-de-condado/",
+          "link": "https://twitter.com/defipulse/status/1587457082730680320",
+          "publishedOn": "2022-11-01T14:50:36.000Z",
+          "wordCount": 399,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1587450325535014914",
+          "author": "DeFi Pulse",
+          "description": "Re @coinbase\npaulgrewal.eth: Earlier today, @coinbase asked Judge Torres for permission to file an amicus brief in the SEC case over XRP.  Our point in pretty simple: this is a textbook case of just how critical fair notice is any reasonable notice of due process under law.  1/3",
+          "link": "https://twitter.com/defipulse/status/1587450325535014914",
+          "publishedOn": "2022-11-01T14:23:45.000Z",
+          "wordCount": 399,
+          "title": "Re @coinbase",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1587448849307779073",
+          "author": "DeFi Pulse",
+          "description": "Former MakerDAO co-founder Nikolai Mushegian has passed away in Puerto Rico. \nRest in peace.",
+          "link": "https://twitter.com/defipulse/status/1587448849307779073",
+          "publishedOn": "2022-11-01T14:17:53.000Z",
+          "wordCount": 399,
+          "title": "Former MakerDAO co-founder Nikolai Mushegian has passed away in Puerto Rico. Rest in peace.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1587446490808680449",
+          "author": "DeFi Pulse",
+          "description": ".@coinbase filed an amicus brief to support Ripple against the SEC case.",
+          "link": "https://twitter.com/defipulse/status/1587446490808680449",
+          "publishedOn": "2022-11-01T14:08:31.000Z",
+          "wordCount": 399,
+          "title": ".@coinbase filed an amicus brief to support Ripple against the SEC case.",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1587106312630030340",
           "author": "DeFi Pulse",
           "description": "Re  https://www.bloomberg.com/news/articles/2022-10-27/hong-kong-plans-to-legalize-retail-crypto-trading-to-become-hub",
@@ -163,46 +203,6 @@
           "publishedOn": "2022-10-25T17:58:32.000Z",
           "wordCount": 399,
           "title": "UK lawmakers vote to bring crypto within the scope of regulation for the first time.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1584942842744434688",
-          "author": "DeFi Pulse",
-          "description": "Re  https://www.coindesk.com/business/2022/10/25/bloombergs-matt-levine-writes-40000-word-article-on-crypto/",
-          "link": "https://twitter.com/defipulse/status/1584942842744434688",
-          "publishedOn": "2022-10-25T16:19:55.000Z",
-          "wordCount": 399,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1584941718834905088",
-          "author": "DeFi Pulse",
-          "description": "Crypto explainer by Matt Levine takes center stage as the only article in Businessweek.",
-          "link": "https://twitter.com/defipulse/status/1584941718834905088",
-          "publishedOn": "2022-10-25T16:15:27.000Z",
-          "wordCount": 399,
-          "title": "Crypto explainer by Matt Levine takes center stage as the only article in Businessweek.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1584643691926663169",
-          "author": "DeFi Pulse",
-          "description": "Re \nJane Manchun Wong: Twitter is working on a “wallet prototype” that supports “crypto deposit and withdrawal”",
-          "link": "https://twitter.com/defipulse/status/1584643691926663169",
-          "publishedOn": "2022-10-24T20:31:12.000Z",
-          "wordCount": 399,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1584640870938251267",
-          "author": "DeFi Pulse",
-          "description": "CFTC concerned about vertically integrated CEXes… https://www.theblock.co/post/179494/behnam-just-a-matter-of-time-before-crypto-returns-to-conditions-of-spring-crash https://www.defipulse.com/",
-          "link": "https://twitter.com/defipulse/status/1584640870938251267",
-          "publishedOn": "2022-10-24T20:19:59.000Z",
-          "wordCount": 399,
-          "title": "CFTC concerned about vertically integrated CEXes…",
           "imageUrl": null
         }
       ]

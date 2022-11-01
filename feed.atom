@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-01T14:29:54.123Z</id>
+    <id>urn:2022-11-01T15:26:21.960Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-01T14:29:54.123Z</updated>
+    <updated>2022-11-01T15:26:21.960Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1587457082730680320</id>
+        <link href="https://twitter.com/defipulse/status/1587457082730680320"/>
+        <updated>2022-11-01T14:50:36.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.elnuevodia.com/noticias/seguridad/notas/muere-un-hombre-de-29-anos-arrastrado-por-las-corrientes-en-playa-de-condado/]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @coinbase]]></title>
+        <id>https://twitter.com/defipulse/status/1587450325535014914</id>
+        <link href="https://twitter.com/defipulse/status/1587450325535014914"/>
+        <updated>2022-11-01T14:23:45.000Z</updated>
+        <summary type="html"><![CDATA[Re @coinbase
+paulgrewal.eth: Earlier today, @coinbase asked Judge Torres for permission to file an amicus brief in the SEC case over XRP.  Our point in pretty simple: this is a textbook case of just how critical fair notice is any reasonable notice of due process under law.  1/3]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Former MakerDAO co-founder Nikolai Mushegian has passed away in Puerto Rico. Rest in peace.]]></title>
+        <id>https://twitter.com/defipulse/status/1587448849307779073</id>
+        <link href="https://twitter.com/defipulse/status/1587448849307779073"/>
+        <updated>2022-11-01T14:17:53.000Z</updated>
+        <summary type="html"><![CDATA[Former MakerDAO co-founder Nikolai Mushegian has passed away in Puerto Rico. 
+Rest in peace.]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.@coinbase filed an amicus brief to support Ripple against the SEC case.]]></title>
+        <id>https://twitter.com/defipulse/status/1587446490808680449</id>
+        <link href="https://twitter.com/defipulse/status/1587446490808680449"/>
+        <updated>2022-11-01T14:08:31.000Z</updated>
+        <summary type="html"><![CDATA[.@coinbase filed an amicus brief to support Ripple against the SEC case.]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1587106312630030340</id>
@@ -166,47 +208,6 @@ Video 👇]]></summary>
         <link href="https://twitter.com/defipulse/status/1584967662563905536"/>
         <updated>2022-10-25T17:58:32.000Z</updated>
         <summary type="html"><![CDATA[UK lawmakers vote to bring crypto within the scope of regulation for the first time.]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1584942842744434688</id>
-        <link href="https://twitter.com/defipulse/status/1584942842744434688"/>
-        <updated>2022-10-25T16:19:55.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.coindesk.com/business/2022/10/25/bloombergs-matt-levine-writes-40000-word-article-on-crypto/]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto explainer by Matt Levine takes center stage as the only article in Businessweek.]]></title>
-        <id>https://twitter.com/defipulse/status/1584941718834905088</id>
-        <link href="https://twitter.com/defipulse/status/1584941718834905088"/>
-        <updated>2022-10-25T16:15:27.000Z</updated>
-        <summary type="html"><![CDATA[Crypto explainer by Matt Levine takes center stage as the only article in Businessweek.]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1584643691926663169</id>
-        <link href="https://twitter.com/defipulse/status/1584643691926663169"/>
-        <updated>2022-10-24T20:31:12.000Z</updated>
-        <summary type="html"><![CDATA[Re 
-Jane Manchun Wong: Twitter is working on a “wallet prototype” that supports “crypto deposit and withdrawal”]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CFTC concerned about vertically integrated CEXes…]]></title>
-        <id>https://twitter.com/defipulse/status/1584640870938251267</id>
-        <link href="https://twitter.com/defipulse/status/1584640870938251267"/>
-        <updated>2022-10-24T20:19:59.000Z</updated>
-        <summary type="html"><![CDATA[CFTC concerned about vertically integrated CEXes… https://www.theblock.co/post/179494/behnam-just-a-matter-of-time-before-crypto-returns-to-conditions-of-spring-crash https://www.defipulse.com/]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
