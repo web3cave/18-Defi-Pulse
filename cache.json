@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1587819226961788930",
+          "author": "DeFi Pulse",
+          "description": "Re @AlamedaResearch https://www.coindesk.com/business/2022/11/02/divisions-in-sam-bankman-frieds-crypto-empire-blur-on-his-trading-titan-alamedas-balance-sheet/",
+          "link": "https://twitter.com/defipulse/status/1587819226961788930",
+          "publishedOn": "2022-11-02T14:49:38.000Z",
+          "wordCount": 399,
+          "title": "Re @AlamedaResearch",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1587819094614712321",
+          "author": "DeFi Pulse",
+          "description": "SBF's @AlamedaResearch had $14.6 billion of assets as of June 30...",
+          "link": "https://twitter.com/defipulse/status/1587819094614712321",
+          "publishedOn": "2022-11-02T14:49:07.000Z",
+          "wordCount": 399,
+          "title": "SBF's @AlamedaResearch had $14.6 billion of assets as of June 30...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1587776338924113922",
           "author": "DeFi Pulse",
           "description": "Re \nDeribit: Deribit hot wallet compromised, but client funds are safe and loss is covered by company reserves\nOur hot wallet was hacked for USD 28m earlier this evening just before midnight UTC on 1 November 2022.",
@@ -183,26 +203,6 @@
           "publishedOn": "2022-10-27T15:20:41.000Z",
           "wordCount": 399,
           "title": "Google Cloud enters into Web3 with Ethereum node-hosting service...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1585651067454476288",
-          "author": "DeFi Pulse",
-          "description": "Re  https://docs.looksrare.org/blog/looksrare-offers-zero-royalty-trading-shares-protocol-fees-with-creators-instead",
-          "link": "https://twitter.com/defipulse/status/1585651067454476288",
-          "publishedOn": "2022-10-27T15:14:09.000Z",
-          "wordCount": 399,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1585648205454114816",
-          "author": "DeFi Pulse",
-          "description": "LooksRare kills royalties and opts for creator revenue sharing.",
-          "link": "https://twitter.com/defipulse/status/1585648205454114816",
-          "publishedOn": "2022-10-27T15:02:46.000Z",
-          "wordCount": 399,
-          "title": "LooksRare kills royalties and opts for creator revenue sharing.",
           "imageUrl": null
         }
       ]
