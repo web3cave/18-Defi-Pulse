@@ -1,10 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-02T11:21:01.620Z</id>
+    <id>urn:2022-11-02T12:52:21.892Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-02T11:21:01.620Z</updated>
+    <updated>2022-11-02T12:52:21.892Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1587776338924113922</id>
+        <link href="https://twitter.com/defipulse/status/1587776338924113922"/>
+        <updated>2022-11-02T11:59:13.000Z</updated>
+        <summary type="html"><![CDATA[Re 
+Deribit: Deribit hot wallet compromised, but client funds are safe and loss is covered by company reserves
+Our hot wallet was hacked for USD 28m earlier this evening just before midnight UTC on 1 November 2022.]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1587776136477659137</id>
+        <link href="https://twitter.com/defipulse/status/1587776136477659137"/>
+        <updated>2022-11-02T11:58:25.000Z</updated>
+        <summary type="html"><![CDATA[Re 
+Ty Lobban: WORLD! J.P. Morgan has executed its 1st *LIVE* trade on public blockchain using DeFi, Tokenized Deposits & Verifiable Credentials, part of @MAS_sg Project Guardian 🙌🚀🔥
+ https://www.mas.gov.sg/news/media-releases/2022/first-industry-pilot-for-digital-asset-and-decentralised-finance-goes-live]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.@DeribitExchange hot wallet hacked for $28 Million USD…]]></title>
+        <id>https://twitter.com/defipulse/status/1587775907359789062</id>
+        <link href="https://twitter.com/defipulse/status/1587775907359789062"/>
+        <updated>2022-11-02T11:57:30.000Z</updated>
+        <summary type="html"><![CDATA[.@DeribitExchange hot wallet hacked for $28 Million USD…]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[J.P. Morgan executed its 1st live trade on public blockchain using DeFi…]]></title>
+        <id>https://twitter.com/defipulse/status/1587773530858463234</id>
+        <link href="https://twitter.com/defipulse/status/1587773530858463234"/>
+        <updated>2022-11-02T11:48:03.000Z</updated>
+        <summary type="html"><![CDATA[J.P. Morgan executed its 1st live trade on public blockchain using DeFi…]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1587457082730680320</id>
@@ -165,49 +209,6 @@ Some links to NFTs on @rarible, @MagicEden, @dapperlabs and @Jumptradenft will n
         <link href="https://twitter.com/defipulse/status/1585648205454114816"/>
         <updated>2022-10-27T15:02:46.000Z</updated>
         <summary type="html"><![CDATA[LooksRare kills royalties and opts for creator revenue sharing.]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1585626712641097728</id>
-        <link href="https://twitter.com/defipulse/status/1585626712641097728"/>
-        <updated>2022-10-27T13:37:22.000Z</updated>
-        <summary type="html"><![CDATA[Re 
-The Big Whale 🐳: 🔴 SCOOP
-@SBF_FTX told @TheBigWhale_ that @FTX_Official is working on their stablecoin
-Video 👇]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTX working on a stablecoin...]]></title>
-        <id>https://twitter.com/defipulse/status/1585624835195019267</id>
-        <link href="https://twitter.com/defipulse/status/1585624835195019267"/>
-        <updated>2022-10-27T13:29:54.000Z</updated>
-        <summary type="html"><![CDATA[FTX working on a stablecoin...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1584971959338938371</id>
-        <link href="https://twitter.com/defipulse/status/1584971959338938371"/>
-        <updated>2022-10-25T18:15:37.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.coindesk.com/policy/2022/10/25/uk-lawmakers-vote-to-recognize-crypto-as-regulated-financial-instruments/]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UK lawmakers vote to bring crypto within the scope of regulation for the first time.]]></title>
-        <id>https://twitter.com/defipulse/status/1584967662563905536</id>
-        <link href="https://twitter.com/defipulse/status/1584967662563905536"/>
-        <updated>2022-10-25T17:58:32.000Z</updated>
-        <summary type="html"><![CDATA[UK lawmakers vote to bring crypto within the scope of regulation for the first time.]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>

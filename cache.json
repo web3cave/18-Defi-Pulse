@@ -6,6 +6,46 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1587776338924113922",
+          "author": "DeFi Pulse",
+          "description": "Re \nDeribit: Deribit hot wallet compromised, but client funds are safe and loss is covered by company reserves\nOur hot wallet was hacked for USD 28m earlier this evening just before midnight UTC on 1 November 2022.",
+          "link": "https://twitter.com/defipulse/status/1587776338924113922",
+          "publishedOn": "2022-11-02T11:59:13.000Z",
+          "wordCount": 399,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1587776136477659137",
+          "author": "DeFi Pulse",
+          "description": "Re \nTy Lobban: WORLD! J.P. Morgan has executed its 1st *LIVE* trade on public blockchain using DeFi, Tokenized Deposits & Verifiable Credentials, part of @MAS_sg Project Guardian 🙌🚀🔥\n https://www.mas.gov.sg/news/media-releases/2022/first-industry-pilot-for-digital-asset-and-decentralised-finance-goes-live",
+          "link": "https://twitter.com/defipulse/status/1587776136477659137",
+          "publishedOn": "2022-11-02T11:58:25.000Z",
+          "wordCount": 399,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1587775907359789062",
+          "author": "DeFi Pulse",
+          "description": ".@DeribitExchange hot wallet hacked for $28 Million USD…",
+          "link": "https://twitter.com/defipulse/status/1587775907359789062",
+          "publishedOn": "2022-11-02T11:57:30.000Z",
+          "wordCount": 399,
+          "title": ".@DeribitExchange hot wallet hacked for $28 Million USD…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1587773530858463234",
+          "author": "DeFi Pulse",
+          "description": "J.P. Morgan executed its 1st live trade on public blockchain using DeFi…",
+          "link": "https://twitter.com/defipulse/status/1587773530858463234",
+          "publishedOn": "2022-11-02T11:48:03.000Z",
+          "wordCount": 399,
+          "title": "J.P. Morgan executed its 1st live trade on public blockchain using DeFi…",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1587457082730680320",
           "author": "DeFi Pulse",
           "description": "Re  https://www.elnuevodia.com/noticias/seguridad/notas/muere-un-hombre-de-29-anos-arrastrado-por-las-corrientes-en-playa-de-condado/",
@@ -163,46 +203,6 @@
           "publishedOn": "2022-10-27T15:02:46.000Z",
           "wordCount": 399,
           "title": "LooksRare kills royalties and opts for creator revenue sharing.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1585626712641097728",
-          "author": "DeFi Pulse",
-          "description": "Re \nThe Big Whale 🐳: 🔴 SCOOP\n@SBF_FTX told @TheBigWhale_ that @FTX_Official is working on their stablecoin\nVideo 👇",
-          "link": "https://twitter.com/defipulse/status/1585626712641097728",
-          "publishedOn": "2022-10-27T13:37:22.000Z",
-          "wordCount": 399,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1585624835195019267",
-          "author": "DeFi Pulse",
-          "description": "FTX working on a stablecoin...",
-          "link": "https://twitter.com/defipulse/status/1585624835195019267",
-          "publishedOn": "2022-10-27T13:29:54.000Z",
-          "wordCount": 399,
-          "title": "FTX working on a stablecoin...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1584971959338938371",
-          "author": "DeFi Pulse",
-          "description": "Re  https://www.coindesk.com/policy/2022/10/25/uk-lawmakers-vote-to-recognize-crypto-as-regulated-financial-instruments/",
-          "link": "https://twitter.com/defipulse/status/1584971959338938371",
-          "publishedOn": "2022-10-25T18:15:37.000Z",
-          "wordCount": 399,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1584967662563905536",
-          "author": "DeFi Pulse",
-          "description": "UK lawmakers vote to bring crypto within the scope of regulation for the first time.",
-          "link": "https://twitter.com/defipulse/status/1584967662563905536",
-          "publishedOn": "2022-10-25T17:58:32.000Z",
-          "wordCount": 399,
-          "title": "UK lawmakers vote to bring crypto within the scope of regulation for the first time.",
           "imageUrl": null
         }
       ]
