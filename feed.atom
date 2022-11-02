@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-02T19:18:20.122Z</id>
+    <id>urn:2022-11-02T20:22:29.811Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-02T19:18:20.122Z</updated>
+    <updated>2022-11-02T20:22:29.811Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1587902118111121408</id>
+        <link href="https://twitter.com/defipulse/status/1587902118111121408"/>
+        <updated>2022-11-02T20:19:01.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.theblock.co/post/182404/coinbase-cpo-departs-as-exchange-restructures-product-team]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coinbase's Chief Product Officer steps down...]]></title>
+        <id>https://twitter.com/defipulse/status/1587900889401946112</id>
+        <link href="https://twitter.com/defipulse/status/1587900889401946112"/>
+        <updated>2022-11-02T20:14:08.000Z</updated>
+        <summary type="html"><![CDATA[Coinbase's Chief Product Officer steps down...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @AlamedaResearch]]></title>
         <id>https://twitter.com/defipulse/status/1587819226961788930</id>
@@ -189,26 +209,6 @@ Some links to NFTs on @rarible, @MagicEden, @dapperlabs and @Jumptradenft will n
         <link href="https://twitter.com/defipulse/status/1585662173371588614"/>
         <updated>2022-10-27T15:58:16.000Z</updated>
         <summary type="html"><![CDATA[Former MakerDAO co-founder working on a new stablecoin design...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1585655882007941121</id>
-        <link href="https://twitter.com/defipulse/status/1585655882007941121"/>
-        <updated>2022-10-27T15:33:16.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://cloud.google.com/blog/products/infrastructure-modernization/introducing-blockchain-node-engine]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Cloud enters into Web3 with Ethereum node-hosting service...]]></title>
-        <id>https://twitter.com/defipulse/status/1585652713995599873</id>
-        <link href="https://twitter.com/defipulse/status/1585652713995599873"/>
-        <updated>2022-10-27T15:20:41.000Z</updated>
-        <summary type="html"><![CDATA[Google Cloud enters into Web3 with Ethereum node-hosting service...]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>

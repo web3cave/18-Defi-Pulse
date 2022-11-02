@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1587902118111121408",
+          "author": "DeFi Pulse",
+          "description": "Re  https://www.theblock.co/post/182404/coinbase-cpo-departs-as-exchange-restructures-product-team",
+          "link": "https://twitter.com/defipulse/status/1587902118111121408",
+          "publishedOn": "2022-11-02T20:19:01.000Z",
+          "wordCount": 399,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1587900889401946112",
+          "author": "DeFi Pulse",
+          "description": "Coinbase's Chief Product Officer steps down...",
+          "link": "https://twitter.com/defipulse/status/1587900889401946112",
+          "publishedOn": "2022-11-02T20:14:08.000Z",
+          "wordCount": 399,
+          "title": "Coinbase's Chief Product Officer steps down...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1587819226961788930",
           "author": "DeFi Pulse",
           "description": "Re @AlamedaResearch https://www.coindesk.com/business/2022/11/02/divisions-in-sam-bankman-frieds-crypto-empire-blur-on-his-trading-titan-alamedas-balance-sheet/",
@@ -183,26 +203,6 @@
           "publishedOn": "2022-10-27T15:58:16.000Z",
           "wordCount": 399,
           "title": "Former MakerDAO co-founder working on a new stablecoin design...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1585655882007941121",
-          "author": "DeFi Pulse",
-          "description": "Re  https://cloud.google.com/blog/products/infrastructure-modernization/introducing-blockchain-node-engine",
-          "link": "https://twitter.com/defipulse/status/1585655882007941121",
-          "publishedOn": "2022-10-27T15:33:16.000Z",
-          "wordCount": 399,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1585652713995599873",
-          "author": "DeFi Pulse",
-          "description": "Google Cloud enters into Web3 with Ethereum node-hosting service...",
-          "link": "https://twitter.com/defipulse/status/1585652713995599873",
-          "publishedOn": "2022-10-27T15:20:41.000Z",
-          "wordCount": 399,
-          "title": "Google Cloud enters into Web3 with Ethereum node-hosting service...",
           "imageUrl": null
         }
       ]
