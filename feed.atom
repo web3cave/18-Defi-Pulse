@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-05T18:25:26.211Z</id>
+    <id>urn:2022-11-05T19:17:15.029Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-05T18:25:26.211Z</updated>
+    <updated>2022-11-05T19:17:15.029Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1588939150862225408</id>
+        <link href="https://twitter.com/defipulse/status/1588939150862225408"/>
+        <updated>2022-11-05T16:59:49.000Z</updated>
+        <summary type="html"><![CDATA[Re 
+Google Cloud: Now that we got your attention... check this out: Google Cloud is running a block-producing @solana validator to participate in and validate the network.]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Cloud is running a @solana validator.]]></title>
+        <id>https://twitter.com/defipulse/status/1588938157743308801</id>
+        <link href="https://twitter.com/defipulse/status/1588938157743308801"/>
+        <updated>2022-11-05T16:55:52.000Z</updated>
+        <summary type="html"><![CDATA[Google Cloud is running a @solana validator.]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1587902118111121408</id>
@@ -189,26 +210,6 @@ Some links to NFTs on @rarible, @MagicEden, @dapperlabs and @Jumptradenft will n
         <link href="https://twitter.com/defipulse/status/1585718915287900160"/>
         <updated>2022-10-27T19:43:45.000Z</updated>
         <summary type="html"><![CDATA[Twitter will allow users to buy and sell NFTs through tweets.]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1585665148152340480</id>
-        <link href="https://twitter.com/defipulse/status/1585665148152340480"/>
-        <updated>2022-10-27T16:10:06.000Z</updated>
-        <summary type="html"><![CDATA[Re]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Former MakerDAO co-founder working on a new stablecoin design...]]></title>
-        <id>https://twitter.com/defipulse/status/1585662173371588614</id>
-        <link href="https://twitter.com/defipulse/status/1585662173371588614"/>
-        <updated>2022-10-27T15:58:16.000Z</updated>
-        <summary type="html"><![CDATA[Former MakerDAO co-founder working on a new stablecoin design...]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>

@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1588939150862225408",
+          "author": "DeFi Pulse",
+          "description": "Re \nGoogle Cloud: Now that we got your attention... check this out: Google Cloud is running a block-producing @solana validator to participate in and validate the network.",
+          "link": "https://twitter.com/defipulse/status/1588939150862225408",
+          "publishedOn": "2022-11-05T16:59:49.000Z",
+          "wordCount": 399,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1588938157743308801",
+          "author": "DeFi Pulse",
+          "description": "Google Cloud is running a @solana validator.",
+          "link": "https://twitter.com/defipulse/status/1588938157743308801",
+          "publishedOn": "2022-11-05T16:55:52.000Z",
+          "wordCount": 399,
+          "title": "Google Cloud is running a @solana validator.",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1587902118111121408",
           "author": "DeFi Pulse",
           "description": "Re  https://www.theblock.co/post/182404/coinbase-cpo-departs-as-exchange-restructures-product-team",
@@ -183,26 +203,6 @@
           "publishedOn": "2022-10-27T19:43:45.000Z",
           "wordCount": 399,
           "title": "Twitter will allow users to buy and sell NFTs through tweets.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1585665148152340480",
-          "author": "DeFi Pulse",
-          "description": "Re",
-          "link": "https://twitter.com/defipulse/status/1585665148152340480",
-          "publishedOn": "2022-10-27T16:10:06.000Z",
-          "wordCount": 399,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1585662173371588614",
-          "author": "DeFi Pulse",
-          "description": "Former MakerDAO co-founder working on a new stablecoin design...",
-          "link": "https://twitter.com/defipulse/status/1585662173371588614",
-          "publishedOn": "2022-10-27T15:58:16.000Z",
-          "wordCount": 399,
-          "title": "Former MakerDAO co-founder working on a new stablecoin design...",
           "imageUrl": null
         }
       ]
