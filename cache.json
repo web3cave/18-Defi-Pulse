@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1589313095620780034",
+          "author": "DeFi Pulse",
+          "description": "Re \nCZ 🔶 Binance: As part of Binance’s exit from FTX equity last year, Binance received roughly $2.1 billion USD equivalent in cash (BUSD and FTT). Due to recent revelations that have came to light, we have decided to liquidate any remaining FTT on our books. 1/4",
+          "link": "https://twitter.com/defipulse/status/1589313095620780034",
+          "publishedOn": "2022-11-06T17:45:44.000Z",
+          "wordCount": 399,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1589312548045991936",
+          "author": "DeFi Pulse",
+          "description": ".@binance to sell rest of FTT token holdings…",
+          "link": "https://twitter.com/defipulse/status/1589312548045991936",
+          "publishedOn": "2022-11-06T17:43:34.000Z",
+          "wordCount": 399,
+          "title": ".@binance to sell rest of FTT token holdings…",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1588939150862225408",
           "author": "DeFi Pulse",
           "description": "Re \nGoogle Cloud: Now that we got your attention... check this out: Google Cloud is running a block-producing @solana validator to participate in and validate the network.",
@@ -183,26 +203,6 @@
           "publishedOn": "2022-10-31T13:43:59.000Z",
           "wordCount": 399,
           "title": "ATOM 2.0 governance proposal is live...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1585721944657174529",
-          "author": "DeFi Pulse",
-          "description": "Re \nTwitter Dev: Now testing: NFT Tweet Tiles 🚀\nSome links to NFTs on @rarible, @MagicEden, @dapperlabs and @Jumptradenft will now show you a larger picture of the NFT alongside details like the title and creator. One more step in our journey to let developers impact the Tweet experience.",
-          "link": "https://twitter.com/defipulse/status/1585721944657174529",
-          "publishedOn": "2022-10-27T19:55:47.000Z",
-          "wordCount": 399,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1585718915287900160",
-          "author": "DeFi Pulse",
-          "description": "Twitter will allow users to buy and sell NFTs through tweets.",
-          "link": "https://twitter.com/defipulse/status/1585718915287900160",
-          "publishedOn": "2022-10-27T19:43:45.000Z",
-          "wordCount": 399,
-          "title": "Twitter will allow users to buy and sell NFTs through tweets.",
           "imageUrl": null
         }
       ]

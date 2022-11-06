@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-06T17:19:39.924Z</id>
+    <id>urn:2022-11-06T18:25:58.533Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-06T17:19:39.924Z</updated>
+    <updated>2022-11-06T18:25:58.533Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1589313095620780034</id>
+        <link href="https://twitter.com/defipulse/status/1589313095620780034"/>
+        <updated>2022-11-06T17:45:44.000Z</updated>
+        <summary type="html"><![CDATA[Re 
+CZ 🔶 Binance: As part of Binance’s exit from FTX equity last year, Binance received roughly $2.1 billion USD equivalent in cash (BUSD and FTT). Due to recent revelations that have came to light, we have decided to liquidate any remaining FTT on our books. 1/4]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.@binance to sell rest of FTT token holdings…]]></title>
+        <id>https://twitter.com/defipulse/status/1589312548045991936</id>
+        <link href="https://twitter.com/defipulse/status/1589312548045991936"/>
+        <updated>2022-11-06T17:43:34.000Z</updated>
+        <summary type="html"><![CDATA[.@binance to sell rest of FTT token holdings…]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1588939150862225408</id>
@@ -188,28 +209,6 @@ Rest in peace.]]></summary>
         <link href="https://twitter.com/defipulse/status/1587077929728724997"/>
         <updated>2022-10-31T13:43:59.000Z</updated>
         <summary type="html"><![CDATA[ATOM 2.0 governance proposal is live...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1585721944657174529</id>
-        <link href="https://twitter.com/defipulse/status/1585721944657174529"/>
-        <updated>2022-10-27T19:55:47.000Z</updated>
-        <summary type="html"><![CDATA[Re 
-Twitter Dev: Now testing: NFT Tweet Tiles 🚀
-Some links to NFTs on @rarible, @MagicEden, @dapperlabs and @Jumptradenft will now show you a larger picture of the NFT alongside details like the title and creator. One more step in our journey to let developers impact the Tweet experience.]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitter will allow users to buy and sell NFTs through tweets.]]></title>
-        <id>https://twitter.com/defipulse/status/1585718915287900160</id>
-        <link href="https://twitter.com/defipulse/status/1585718915287900160"/>
-        <updated>2022-10-27T19:43:45.000Z</updated>
-        <summary type="html"><![CDATA[Twitter will allow users to buy and sell NFTs through tweets.]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
