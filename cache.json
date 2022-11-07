@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1589634528821362689",
+          "author": "DeFi Pulse",
+          "description": "🗞️ Weekend Recap... \n▶️@CoinDesk reports Alameda's balance sheet full of FTX holdings, esp. FTT\n▶️ @binance to sell FTT holdings bc of \"recent revelations\"\n▶️@AlamedaResearch CEO offered to buy Binance's FTT at $22\n▶️@SBF_FTX claims everything is fine but won't show proof",
+          "link": "https://twitter.com/defipulse/status/1589634528821362689",
+          "publishedOn": "2022-11-07T15:03:00.000Z",
+          "wordCount": 399,
+          "title": "🗞️ Weekend Recap... ▶️@CoinDesk reports Alameda's balance sheet full of FTX holdings, esp. FTT ▶️ @binance to sell FTT holdings bc of \"recent ...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1589313095620780034",
           "author": "DeFi Pulse",
           "description": "Re \nCZ 🔶 Binance: As part of Binance’s exit from FTX equity last year, Binance received roughly $2.1 billion USD equivalent in cash (BUSD and FTT). Due to recent revelations that have came to light, we have decided to liquidate any remaining FTT on our books. 1/4",
@@ -193,16 +203,6 @@
           "publishedOn": "2022-10-31T14:32:32.000Z",
           "wordCount": 399,
           "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1587077929728724997",
-          "author": "DeFi Pulse",
-          "description": "ATOM 2.0 governance proposal is live...",
-          "link": "https://twitter.com/defipulse/status/1587077929728724997",
-          "publishedOn": "2022-10-31T13:43:59.000Z",
-          "wordCount": 399,
-          "title": "ATOM 2.0 governance proposal is live...",
           "imageUrl": null
         }
       ]

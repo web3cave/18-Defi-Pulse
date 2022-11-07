@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-07T14:22:53.018Z</id>
+    <id>urn:2022-11-07T15:23:17.197Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-07T14:22:53.018Z</updated>
+    <updated>2022-11-07T15:23:17.197Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[🗞️ Weekend Recap... ▶️@CoinDesk reports Alameda's balance sheet full of FTX holdings, esp. FTT ▶️ @binance to sell FTT holdings bc of "recent ...]]></title>
+        <id>https://twitter.com/defipulse/status/1589634528821362689</id>
+        <link href="https://twitter.com/defipulse/status/1589634528821362689"/>
+        <updated>2022-11-07T15:03:00.000Z</updated>
+        <summary type="html"><![CDATA[🗞️ Weekend Recap... 
+▶️@CoinDesk reports Alameda's balance sheet full of FTX holdings, esp. FTT
+▶️ @binance to sell FTT holdings bc of "recent revelations"
+▶️@AlamedaResearch CEO offered to buy Binance's FTT at $22
+▶️@SBF_FTX claims everything is fine but won't show proof]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1589313095620780034</id>
@@ -199,16 +213,6 @@ Rest in peace.]]></summary>
         <link href="https://twitter.com/defipulse/status/1587090146444414978"/>
         <updated>2022-10-31T14:32:32.000Z</updated>
         <summary type="html"><![CDATA[Re  https://www.mintscan.io/cosmos/proposals/82]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ATOM 2.0 governance proposal is live...]]></title>
-        <id>https://twitter.com/defipulse/status/1587077929728724997</id>
-        <link href="https://twitter.com/defipulse/status/1587077929728724997"/>
-        <updated>2022-10-31T13:43:59.000Z</updated>
-        <summary type="html"><![CDATA[ATOM 2.0 governance proposal is live...]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
