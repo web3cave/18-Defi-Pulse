@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1589673926837166080",
+          "author": "DeFi Pulse",
+          "description": "Re @LBRYcom\nLBRY 🚀: The full ruling in the SEC vs LBRY case can be read here.\nThe language used here sets an extraordinarily dangerous precedent that makes every cryptocurrency in the US a security, including Ethereum.\n https://odysee.com/@lbry:3f/secvslbrysummaryjudgementruling:a",
+          "link": "https://twitter.com/defipulse/status/1589673926837166080",
+          "publishedOn": "2022-11-07T17:39:33.000Z",
+          "wordCount": 399,
+          "title": "Re @LBRYcom",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1589671975236300803",
+          "author": "DeFi Pulse",
+          "description": "LBRY lost its case against the SEC...\n\"The language used here sets an extraordinarily dangerous precedent that makes every cryptocurrency in the US a security, including Ethereum.\" - @LBRYcom",
+          "link": "https://twitter.com/defipulse/status/1589671975236300803",
+          "publishedOn": "2022-11-07T17:31:48.000Z",
+          "wordCount": 399,
+          "title": "LBRY lost its case against the SEC... \"The language used here sets an extraordinarily dangerous precedent that makes every cryptocurrency in the US a ...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1589634528821362689",
           "author": "DeFi Pulse",
           "description": "🗞️ Weekend Recap... \n▶️@CoinDesk reports Alameda's balance sheet full of FTX holdings, esp. FTT\n▶️ @binance to sell FTT holdings bc of \"recent revelations\"\n▶️@AlamedaResearch CEO offered to buy Binance's FTT at $22\n▶️@SBF_FTX claims everything is fine but won't show proof",
@@ -181,26 +201,6 @@
           "description": "Re  https://www.bloomberg.com/news/articles/2022-10-27/hong-kong-plans-to-legalize-retail-crypto-trading-to-become-hub",
           "link": "https://twitter.com/defipulse/status/1587106312630030340",
           "publishedOn": "2022-10-31T15:36:46.000Z",
-          "wordCount": 399,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1587098576471162886",
-          "author": "DeFi Pulse",
-          "description": "Hong Kong considers opening crypto trading to become digital assets hub...",
-          "link": "https://twitter.com/defipulse/status/1587098576471162886",
-          "publishedOn": "2022-10-31T15:06:02.000Z",
-          "wordCount": 399,
-          "title": "Hong Kong considers opening crypto trading to become digital assets hub...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1587090146444414978",
-          "author": "DeFi Pulse",
-          "description": "Re  https://www.mintscan.io/cosmos/proposals/82",
-          "link": "https://twitter.com/defipulse/status/1587090146444414978",
-          "publishedOn": "2022-10-31T14:32:32.000Z",
           "wordCount": 399,
           "title": "Re",
           "imageUrl": null

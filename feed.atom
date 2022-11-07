@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-07T17:28:16.133Z</id>
+    <id>urn:2022-11-07T18:26:56.521Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-07T17:28:16.133Z</updated>
+    <updated>2022-11-07T18:26:56.521Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @LBRYcom]]></title>
+        <id>https://twitter.com/defipulse/status/1589673926837166080</id>
+        <link href="https://twitter.com/defipulse/status/1589673926837166080"/>
+        <updated>2022-11-07T17:39:33.000Z</updated>
+        <summary type="html"><![CDATA[Re @LBRYcom
+LBRY 🚀: The full ruling in the SEC vs LBRY case can be read here.
+The language used here sets an extraordinarily dangerous precedent that makes every cryptocurrency in the US a security, including Ethereum.
+ https://odysee.com/@lbry:3f/secvslbrysummaryjudgementruling:a]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LBRY lost its case against the SEC... "The language used here sets an extraordinarily dangerous precedent that makes every cryptocurrency in the US a ...]]></title>
+        <id>https://twitter.com/defipulse/status/1589671975236300803</id>
+        <link href="https://twitter.com/defipulse/status/1589671975236300803"/>
+        <updated>2022-11-07T17:31:48.000Z</updated>
+        <summary type="html"><![CDATA[LBRY lost its case against the SEC...
+"The language used here sets an extraordinarily dangerous precedent that makes every cryptocurrency in the US a security, including Ethereum." - @LBRYcom]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🗞️ Weekend Recap... ▶️@CoinDesk reports Alameda's balance sheet full of FTX holdings, esp. FTT ▶️ @binance to sell FTT holdings bc of "recent ...]]></title>
         <id>https://twitter.com/defipulse/status/1589634528821362689</id>
@@ -193,26 +217,6 @@ Rest in peace.]]></summary>
         <link href="https://twitter.com/defipulse/status/1587106312630030340"/>
         <updated>2022-10-31T15:36:46.000Z</updated>
         <summary type="html"><![CDATA[Re  https://www.bloomberg.com/news/articles/2022-10-27/hong-kong-plans-to-legalize-retail-crypto-trading-to-become-hub]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hong Kong considers opening crypto trading to become digital assets hub...]]></title>
-        <id>https://twitter.com/defipulse/status/1587098576471162886</id>
-        <link href="https://twitter.com/defipulse/status/1587098576471162886"/>
-        <updated>2022-10-31T15:06:02.000Z</updated>
-        <summary type="html"><![CDATA[Hong Kong considers opening crypto trading to become digital assets hub...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1587090146444414978</id>
-        <link href="https://twitter.com/defipulse/status/1587090146444414978"/>
-        <updated>2022-10-31T14:32:32.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.mintscan.io/cosmos/proposals/82]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
