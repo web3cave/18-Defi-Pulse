@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-08T17:27:22.254Z</id>
+    <id>urn:2022-11-08T18:32:37.114Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-08T17:27:22.254Z</updated>
+    <updated>2022-11-08T18:32:37.114Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT Slingshot: defi]]></title>
+        <id>https://twitter.com/SlingshotCrypto/status/1590024543783251968</id>
+        <link href="https://twitter.com/SlingshotCrypto/status/1590024543783251968"/>
+        <updated>2022-11-08T16:52:47.000Z</updated>
+        <summary type="html"><![CDATA[RT Slingshot
+defi]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1590014229691920384</id>
@@ -207,16 +218,6 @@ Google Cloud: Now that we got your attention... check this out: Google Cloud i
         <link href="https://twitter.com/defipulse/status/1588938157743308801"/>
         <updated>2022-11-05T16:55:52.000Z</updated>
         <summary type="html"><![CDATA[Google Cloud is running a @solana validator.]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1587902118111121408</id>
-        <link href="https://twitter.com/defipulse/status/1587902118111121408"/>
-        <updated>2022-11-02T20:19:01.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.theblock.co/post/182404/coinbase-cpo-departs-as-exchange-restructures-product-team]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>

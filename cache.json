@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/SlingshotCrypto/status/1590024543783251968",
+          "author": "DeFi Pulse",
+          "description": "RT Slingshot\ndefi",
+          "link": "https://twitter.com/SlingshotCrypto/status/1590024543783251968",
+          "publishedOn": "2022-11-08T16:52:47.000Z",
+          "wordCount": 399,
+          "title": "RT Slingshot: defi",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1590014229691920384",
           "author": "DeFi Pulse",
           "description": "Re \nSBF: 1) Hey all: I have a few announcements to make.\nThings have come full circle, and\n http://FTX.com http://FTX.com",
@@ -193,16 +203,6 @@
           "publishedOn": "2022-11-05T16:55:52.000Z",
           "wordCount": 399,
           "title": "Google Cloud is running a @solana validator.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1587902118111121408",
-          "author": "DeFi Pulse",
-          "description": "Re  https://www.theblock.co/post/182404/coinbase-cpo-departs-as-exchange-restructures-product-team",
-          "link": "https://twitter.com/defipulse/status/1587902118111121408",
-          "publishedOn": "2022-11-02T20:19:01.000Z",
-          "wordCount": 399,
-          "title": "Re",
           "imageUrl": null
         }
       ]
