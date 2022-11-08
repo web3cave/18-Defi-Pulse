@@ -1,10 +1,97 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-08T19:25:34.777Z</id>
+    <id>urn:2022-11-08T20:25:11.090Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-08T19:25:34.777Z</updated>
+    <updated>2022-11-08T20:25:11.090Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1590072883811786752</id>
+        <link href="https://twitter.com/defipulse/status/1590072883811786752"/>
+        <updated>2022-11-08T20:04:52.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.coindesk.com/policy/2022/11/08/us-treasury-adds-to-tornado-cash-sanctions/]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US Treasury adds to Tornado Cash sanctions...]]></title>
+        <id>https://twitter.com/defipulse/status/1590072631872868353</id>
+        <link href="https://twitter.com/defipulse/status/1590072631872868353"/>
+        <updated>2022-11-08T20:03:52.000Z</updated>
+        <summary type="html"><![CDATA[US Treasury adds to Tornado Cash sanctions...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @binance]]></title>
+        <id>https://twitter.com/defipulse/status/1590056850179100673</id>
+        <link href="https://twitter.com/defipulse/status/1590056850179100673"/>
+        <updated>2022-11-08T19:01:09.000Z</updated>
+        <summary type="html"><![CDATA[Re @binance
+CZ 🔶 Binance: All crypto exchanges should do merkle-tree proof-of-reserves. 
+Banks run on fractional reserves. 
+Crypto exchanges should not.
+@Binance will start to do proof-of-reserves soon. Full transparency.]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.@Binance will start to do proof-of-reserves ...]]></title>
+        <id>https://twitter.com/defipulse/status/1590056717521649664</id>
+        <link href="https://twitter.com/defipulse/status/1590056717521649664"/>
+        <updated>2022-11-08T19:00:37.000Z</updated>
+        <summary type="html"><![CDATA[.@Binance will start to do proof-of-reserves ...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Several Coinbase services are down...]]></title>
+        <id>https://twitter.com/defipulse/status/1590055876848947200</id>
+        <link href="https://twitter.com/defipulse/status/1590055876848947200"/>
+        <updated>2022-11-08T18:57:17.000Z</updated>
+        <summary type="html"><![CDATA[Several Coinbase services are down...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shkreli joins Do Kwon on UpOnly... Watch:]]></title>
+        <id>https://twitter.com/defipulse/status/1590046486142025728</id>
+        <link href="https://twitter.com/defipulse/status/1590046486142025728"/>
+        <updated>2022-11-08T18:19:58.000Z</updated>
+        <summary type="html"><![CDATA[Shkreli joins Do Kwon on UpOnly... 
+Watch: https://www.twitch.tv/uponlytv]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do you have any advice for SBF? "I don't think I did it particularly well..." - Do Kwon Watch live:]]></title>
+        <id>https://twitter.com/defipulse/status/1590042076527603713</id>
+        <link href="https://twitter.com/defipulse/status/1590042076527603713"/>
+        <updated>2022-11-08T18:02:27.000Z</updated>
+        <summary type="html"><![CDATA[Do you have any advice for SBF?
+"I don't think I did it particularly well..." - Do Kwon
+Watch live: https://www.twitch.tv/uponlytv]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DO KWON LIVE ON UPONLY...]]></title>
+        <id>https://twitter.com/defipulse/status/1590040518410481664</id>
+        <link href="https://twitter.com/defipulse/status/1590040518410481664"/>
+        <updated>2022-11-08T17:56:15.000Z</updated>
+        <summary type="html"><![CDATA[DO KWON LIVE ON UPONLY... https://www.twitch.tv/uponlytv]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT Slingshot: defi]]></title>
         <id>https://twitter.com/SlingshotCrypto/status/1590024543783251968</id>
@@ -128,96 +215,6 @@ Things have come full circle, and
         <link href="https://twitter.com/defipulse/status/1589963126531031040"/>
         <updated>2022-11-08T12:48:44.000Z</updated>
         <summary type="html"><![CDATA[Re  https://www.theblock.co/post/184109/mim-stablecoin-slightly-loses-dollar-parity-amid-fears-of-partial-ftt-backing?utm_source=telegram1&utm_medium=social]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MIM stablecoin slightly depegs amid fears of FTT backing…]]></title>
-        <id>https://twitter.com/defipulse/status/1589962743389782018</id>
-        <link href="https://twitter.com/defipulse/status/1589962743389782018"/>
-        <updated>2022-11-08T12:47:12.000Z</updated>
-        <summary type="html"><![CDATA[MIM stablecoin slightly depegs amid fears of FTT backing…]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @LBRYcom]]></title>
-        <id>https://twitter.com/defipulse/status/1589673926837166080</id>
-        <link href="https://twitter.com/defipulse/status/1589673926837166080"/>
-        <updated>2022-11-07T17:39:33.000Z</updated>
-        <summary type="html"><![CDATA[Re @LBRYcom
-LBRY 🚀: The full ruling in the SEC vs LBRY case can be read here.
-The language used here sets an extraordinarily dangerous precedent that makes every cryptocurrency in the US a security, including Ethereum.
- https://odysee.com/@lbry:3f/secvslbrysummaryjudgementruling:a]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LBRY lost its case against the SEC... "The language used here sets an extraordinarily dangerous precedent that makes every cryptocurrency in the US a ...]]></title>
-        <id>https://twitter.com/defipulse/status/1589671975236300803</id>
-        <link href="https://twitter.com/defipulse/status/1589671975236300803"/>
-        <updated>2022-11-07T17:31:48.000Z</updated>
-        <summary type="html"><![CDATA[LBRY lost its case against the SEC...
-"The language used here sets an extraordinarily dangerous precedent that makes every cryptocurrency in the US a security, including Ethereum." - @LBRYcom]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🗞️ Weekend Recap... ▶️@CoinDesk reports Alameda's balance sheet full of FTX holdings, esp. FTT ▶️ @binance to sell FTT holdings bc of "recent ...]]></title>
-        <id>https://twitter.com/defipulse/status/1589634528821362689</id>
-        <link href="https://twitter.com/defipulse/status/1589634528821362689"/>
-        <updated>2022-11-07T15:03:00.000Z</updated>
-        <summary type="html"><![CDATA[🗞️ Weekend Recap... 
-▶️@CoinDesk reports Alameda's balance sheet full of FTX holdings, esp. FTT
-▶️ @binance to sell FTT holdings bc of "recent revelations"
-▶️@AlamedaResearch CEO offered to buy Binance's FTT at $22
-▶️@SBF_FTX claims everything is fine but won't show proof]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1589313095620780034</id>
-        <link href="https://twitter.com/defipulse/status/1589313095620780034"/>
-        <updated>2022-11-06T17:45:44.000Z</updated>
-        <summary type="html"><![CDATA[Re 
-CZ 🔶 Binance: As part of Binance’s exit from FTX equity last year, Binance received roughly $2.1 billion USD equivalent in cash (BUSD and FTT). Due to recent revelations that have came to light, we have decided to liquidate any remaining FTT on our books. 1/4]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[.@binance to sell rest of FTT token holdings…]]></title>
-        <id>https://twitter.com/defipulse/status/1589312548045991936</id>
-        <link href="https://twitter.com/defipulse/status/1589312548045991936"/>
-        <updated>2022-11-06T17:43:34.000Z</updated>
-        <summary type="html"><![CDATA[.@binance to sell rest of FTT token holdings…]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1588939150862225408</id>
-        <link href="https://twitter.com/defipulse/status/1588939150862225408"/>
-        <updated>2022-11-05T16:59:49.000Z</updated>
-        <summary type="html"><![CDATA[Re 
-Google Cloud: Now that we got your attention... check this out: Google Cloud is running a block-producing @solana validator to participate in and validate the network.]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Cloud is running a @solana validator.]]></title>
-        <id>https://twitter.com/defipulse/status/1588938157743308801</id>
-        <link href="https://twitter.com/defipulse/status/1588938157743308801"/>
-        <updated>2022-11-05T16:55:52.000Z</updated>
-        <summary type="html"><![CDATA[Google Cloud is running a @solana validator.]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
