@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-08T11:18:24.636Z</id>
+    <id>urn:2022-11-08T12:49:34.559Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-08T11:18:24.636Z</updated>
+    <updated>2022-11-08T12:49:34.560Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1589963126531031040</id>
+        <link href="https://twitter.com/defipulse/status/1589963126531031040"/>
+        <updated>2022-11-08T12:48:44.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.theblock.co/post/184109/mim-stablecoin-slightly-loses-dollar-parity-amid-fears-of-partial-ftt-backing?utm_source=telegram1&utm_medium=social]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MIM stablecoin slightly depegs amid fears of FTT backing…]]></title>
+        <id>https://twitter.com/defipulse/status/1589962743389782018</id>
+        <link href="https://twitter.com/defipulse/status/1589962743389782018"/>
+        <updated>2022-11-08T12:47:12.000Z</updated>
+        <summary type="html"><![CDATA[MIM stablecoin slightly depegs amid fears of FTT backing…]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @LBRYcom]]></title>
         <id>https://twitter.com/defipulse/status/1589673926837166080</id>
@@ -197,26 +217,6 @@ paulgrewal.eth: Earlier today, @coinbase asked Judge Torres for permission to 
         <updated>2022-11-01T14:17:53.000Z</updated>
         <summary type="html"><![CDATA[Former MakerDAO co-founder Nikolai Mushegian has passed away in Puerto Rico. 
 Rest in peace.]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[.@coinbase filed an amicus brief to support Ripple against the SEC case.]]></title>
-        <id>https://twitter.com/defipulse/status/1587446490808680449</id>
-        <link href="https://twitter.com/defipulse/status/1587446490808680449"/>
-        <updated>2022-11-01T14:08:31.000Z</updated>
-        <summary type="html"><![CDATA[.@coinbase filed an amicus brief to support Ripple against the SEC case.]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1587106312630030340</id>
-        <link href="https://twitter.com/defipulse/status/1587106312630030340"/>
-        <updated>2022-10-31T15:36:46.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.bloomberg.com/news/articles/2022-10-27/hong-kong-plans-to-legalize-retail-crypto-trading-to-become-hub]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
