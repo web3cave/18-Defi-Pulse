@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-08T14:25:46.274Z</id>
+    <id>urn:2022-11-08T15:23:34.586Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-08T14:25:46.274Z</updated>
+    <updated>2022-11-08T15:23:34.586Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @M0__o__ Sent a new one. Thanks for flagging!]]></title>
+        <id>https://twitter.com/defipulse/status/1589995004688142336</id>
+        <link href="https://twitter.com/defipulse/status/1589995004688142336"/>
+        <updated>2022-11-08T14:55:24.000Z</updated>
+        <summary type="html"><![CDATA[Re @M0__o__ Sent a new one. Thanks for flagging!]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are you able to withdraw assets from FTX?]]></title>
+        <id>https://twitter.com/defipulse/status/1589994823435837440</id>
+        <link href="https://twitter.com/defipulse/status/1589994823435837440"/>
+        <updated>2022-11-08T14:54:41.000Z</updated>
+        <summary type="html"><![CDATA[Are you able to withdraw assets from FTX?]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1589980338385977344</id>
+        <link href="https://twitter.com/defipulse/status/1589980338385977344"/>
+        <updated>2022-11-08T13:57:07.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.theblock.co/post/184176/ftx-appears-to-have-stopped-processing-withdrawals-on-chain-data-show]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTX appears to have stopped processing withdrawals…]]></title>
+        <id>https://twitter.com/defipulse/status/1589980030582812675</id>
+        <link href="https://twitter.com/defipulse/status/1589980030582812675"/>
+        <updated>2022-11-08T13:55:54.000Z</updated>
+        <summary type="html"><![CDATA[FTX appears to have stopped processing withdrawals…]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1589965242775527425</id>
+        <link href="https://twitter.com/defipulse/status/1589965242775527425"/>
+        <updated>2022-11-08T12:57:08.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.coindesk.com/markets/2022/11/08/ftt-plummets-as-market-fears-possible-alameda-contagion/]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTX token plummets from fears of Alameda contagion…]]></title>
+        <id>https://twitter.com/defipulse/status/1589965140933632000</id>
+        <link href="https://twitter.com/defipulse/status/1589965140933632000"/>
+        <updated>2022-11-08T12:56:44.000Z</updated>
+        <summary type="html"><![CDATA[FTX token plummets from fears of Alameda contagion…]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1589963126531031040</id>
@@ -153,70 +213,6 @@ Google Cloud: Now that we got your attention... check this out: Google Cloud i
         <summary type="html"><![CDATA[Re 
 Deribit: Deribit hot wallet compromised, but client funds are safe and loss is covered by company reserves
 Our hot wallet was hacked for USD 28m earlier this evening just before midnight UTC on 1 November 2022.]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1587776136477659137</id>
-        <link href="https://twitter.com/defipulse/status/1587776136477659137"/>
-        <updated>2022-11-02T11:58:25.000Z</updated>
-        <summary type="html"><![CDATA[Re 
-Ty Lobban: WORLD! J.P. Morgan has executed its 1st *LIVE* trade on public blockchain using DeFi, Tokenized Deposits & Verifiable Credentials, part of @MAS_sg Project Guardian 🙌🚀🔥
- https://www.mas.gov.sg/news/media-releases/2022/first-industry-pilot-for-digital-asset-and-decentralised-finance-goes-live]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[.@DeribitExchange hot wallet hacked for $28 Million USD…]]></title>
-        <id>https://twitter.com/defipulse/status/1587775907359789062</id>
-        <link href="https://twitter.com/defipulse/status/1587775907359789062"/>
-        <updated>2022-11-02T11:57:30.000Z</updated>
-        <summary type="html"><![CDATA[.@DeribitExchange hot wallet hacked for $28 Million USD…]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[J.P. Morgan executed its 1st live trade on public blockchain using DeFi…]]></title>
-        <id>https://twitter.com/defipulse/status/1587773530858463234</id>
-        <link href="https://twitter.com/defipulse/status/1587773530858463234"/>
-        <updated>2022-11-02T11:48:03.000Z</updated>
-        <summary type="html"><![CDATA[J.P. Morgan executed its 1st live trade on public blockchain using DeFi…]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1587457082730680320</id>
-        <link href="https://twitter.com/defipulse/status/1587457082730680320"/>
-        <updated>2022-11-01T14:50:36.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.elnuevodia.com/noticias/seguridad/notas/muere-un-hombre-de-29-anos-arrastrado-por-las-corrientes-en-playa-de-condado/]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @coinbase]]></title>
-        <id>https://twitter.com/defipulse/status/1587450325535014914</id>
-        <link href="https://twitter.com/defipulse/status/1587450325535014914"/>
-        <updated>2022-11-01T14:23:45.000Z</updated>
-        <summary type="html"><![CDATA[Re @coinbase
-paulgrewal.eth: Earlier today, @coinbase asked Judge Torres for permission to file an amicus brief in the SEC case over XRP.  Our point in pretty simple: this is a textbook case of just how critical fair notice is any reasonable notice of due process under law.  1/3]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Former MakerDAO co-founder Nikolai Mushegian has passed away in Puerto Rico. Rest in peace.]]></title>
-        <id>https://twitter.com/defipulse/status/1587448849307779073</id>
-        <link href="https://twitter.com/defipulse/status/1587448849307779073"/>
-        <updated>2022-11-01T14:17:53.000Z</updated>
-        <summary type="html"><![CDATA[Former MakerDAO co-founder Nikolai Mushegian has passed away in Puerto Rico. 
-Rest in peace.]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
