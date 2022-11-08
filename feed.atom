@@ -1,10 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-08T15:23:34.586Z</id>
+    <id>urn:2022-11-08T16:35:00.266Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-08T15:23:34.586Z</updated>
+    <updated>2022-11-08T16:35:00.266Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1590014229691920384</id>
+        <link href="https://twitter.com/defipulse/status/1590014229691920384"/>
+        <updated>2022-11-08T16:11:48.000Z</updated>
+        <summary type="html"><![CDATA[Re 
+SBF: 1) Hey all: I have a few announcements to make.
+Things have come full circle, and
+ http://FTX.com http://FTX.com]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["We Have Come to an Agreement on a Strategic Transaction With Binance for FTX Com"- SBF]]></title>
+        <id>https://twitter.com/defipulse/status/1590014116126937088</id>
+        <link href="https://twitter.com/defipulse/status/1590014116126937088"/>
+        <updated>2022-11-08T16:11:20.000Z</updated>
+        <summary type="html"><![CDATA["We Have Come to an Agreement on a Strategic Transaction With Binance for FTX Com"- SBF]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1590012593347129344</id>
+        <link href="https://twitter.com/defipulse/status/1590012593347129344"/>
+        <updated>2022-11-08T16:05:17.000Z</updated>
+        <summary type="html"><![CDATA[Re 
+SBF: 1) Hey all: I have a few announcements to make.
+Things have come full circle, and
+ http://FTX.com http://FTX.com]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SBF finally speaks....]]></title>
+        <id>https://twitter.com/defipulse/status/1590012484890816512</id>
+        <link href="https://twitter.com/defipulse/status/1590012484890816512"/>
+        <updated>2022-11-08T16:04:52.000Z</updated>
+        <summary type="html"><![CDATA[SBF finally speaks....]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @M0__o__ Sent a new one. Thanks for flagging!]]></title>
         <id>https://twitter.com/defipulse/status/1589995004688142336</id>
@@ -171,48 +217,6 @@ Google Cloud: Now that we got your attention... check this out: Google Cloud i
         <link href="https://twitter.com/defipulse/status/1587902118111121408"/>
         <updated>2022-11-02T20:19:01.000Z</updated>
         <summary type="html"><![CDATA[Re  https://www.theblock.co/post/182404/coinbase-cpo-departs-as-exchange-restructures-product-team]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase's Chief Product Officer steps down...]]></title>
-        <id>https://twitter.com/defipulse/status/1587900889401946112</id>
-        <link href="https://twitter.com/defipulse/status/1587900889401946112"/>
-        <updated>2022-11-02T20:14:08.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase's Chief Product Officer steps down...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @AlamedaResearch]]></title>
-        <id>https://twitter.com/defipulse/status/1587819226961788930</id>
-        <link href="https://twitter.com/defipulse/status/1587819226961788930"/>
-        <updated>2022-11-02T14:49:38.000Z</updated>
-        <summary type="html"><![CDATA[Re @AlamedaResearch https://www.coindesk.com/business/2022/11/02/divisions-in-sam-bankman-frieds-crypto-empire-blur-on-his-trading-titan-alamedas-balance-sheet/]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SBF's @AlamedaResearch had $14.6 billion of assets as of June 30...]]></title>
-        <id>https://twitter.com/defipulse/status/1587819094614712321</id>
-        <link href="https://twitter.com/defipulse/status/1587819094614712321"/>
-        <updated>2022-11-02T14:49:07.000Z</updated>
-        <summary type="html"><![CDATA[SBF's @AlamedaResearch had $14.6 billion of assets as of June 30...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1587776338924113922</id>
-        <link href="https://twitter.com/defipulse/status/1587776338924113922"/>
-        <updated>2022-11-02T11:59:13.000Z</updated>
-        <summary type="html"><![CDATA[Re 
-Deribit: Deribit hot wallet compromised, but client funds are safe and loss is covered by company reserves
-Our hot wallet was hacked for USD 28m earlier this evening just before midnight UTC on 1 November 2022.]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
