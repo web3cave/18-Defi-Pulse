@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-09T17:24:16.574Z</id>
+    <id>urn:2022-11-09T18:27:16.621Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-09T17:24:16.574Z</updated>
+    <updated>2022-11-09T18:27:16.621Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1590394943700635648</id>
+        <link href="https://twitter.com/defipulse/status/1590394943700635648"/>
+        <updated>2022-11-09T17:24:37.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.semafor.com/article/11/09/2022/ftx-legal-and-compliance-teams-quit]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Most of FTXs legal and compliance team has quit...]]></title>
+        <id>https://twitter.com/defipulse/status/1590394804797460480</id>
+        <link href="https://twitter.com/defipulse/status/1590394804797460480"/>
+        <updated>2022-11-09T17:24:04.000Z</updated>
+        <summary type="html"><![CDATA[Most of FTXs legal and compliance team has quit...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1590378448895488001</id>
@@ -190,29 +210,6 @@ defi]]></summary>
         <id>https://twitter.com/defipulse/status/1590014229691920384</id>
         <link href="https://twitter.com/defipulse/status/1590014229691920384"/>
         <updated>2022-11-08T16:11:48.000Z</updated>
-        <summary type="html"><![CDATA[Re 
-SBF: 1) Hey all: I have a few announcements to make.
-Things have come full circle, and
- http://FTX.com http://FTX.com]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["We Have Come to an Agreement on a Strategic Transaction With Binance for FTX Com"- SBF]]></title>
-        <id>https://twitter.com/defipulse/status/1590014116126937088</id>
-        <link href="https://twitter.com/defipulse/status/1590014116126937088"/>
-        <updated>2022-11-08T16:11:20.000Z</updated>
-        <summary type="html"><![CDATA["We Have Come to an Agreement on a Strategic Transaction With Binance for FTX Com"- SBF]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1590012593347129344</id>
-        <link href="https://twitter.com/defipulse/status/1590012593347129344"/>
-        <updated>2022-11-08T16:05:17.000Z</updated>
         <summary type="html"><![CDATA[Re 
 SBF: 1) Hey all: I have a few announcements to make.
 Things have come full circle, and
