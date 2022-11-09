@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-09T15:24:24.998Z</id>
+    <id>urn:2022-11-09T16:31:42.952Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-09T15:24:24.998Z</updated>
+    <updated>2022-11-09T16:31:42.952Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1590378448895488001</id>
+        <link href="https://twitter.com/defipulse/status/1590378448895488001"/>
+        <updated>2022-11-09T16:19:04.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.bloomberg.com/news/articles/2022-11-09/us-probes-ftx-empire-over-handling-of-client-funds-and-lending]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US probes FTX over handling of client funds and lending...]]></title>
+        <id>https://twitter.com/defipulse/status/1590378332658753538</id>
+        <link href="https://twitter.com/defipulse/status/1590378332658753538"/>
+        <updated>2022-11-09T16:18:36.000Z</updated>
+        <summary type="html"><![CDATA[US probes FTX over handling of client funds and lending...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1590367727461748742</id>
+        <link href="https://twitter.com/defipulse/status/1590367727461748742"/>
+        <updated>2022-11-09T15:36:28.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.coindesk.com/business/2022/11/09/binance-is-strongly-leaning-toward-scrapping-ftx-rescue-takeover-after-first-glance-at-books-source/]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binance is strongly leaning toward scrapping FTX rescue takeover after first glance at books...]]></title>
+        <id>https://twitter.com/defipulse/status/1590367547190546432</id>
+        <link href="https://twitter.com/defipulse/status/1590367547190546432"/>
+        <updated>2022-11-09T15:35:45.000Z</updated>
+        <summary type="html"><![CDATA[Binance is strongly leaning toward scrapping FTX rescue takeover after first glance at books...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1590354790004887553</id>
@@ -177,46 +217,6 @@ Things have come full circle, and
 SBF: 1) Hey all: I have a few announcements to make.
 Things have come full circle, and
  http://FTX.com http://FTX.com]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SBF finally speaks....]]></title>
-        <id>https://twitter.com/defipulse/status/1590012484890816512</id>
-        <link href="https://twitter.com/defipulse/status/1590012484890816512"/>
-        <updated>2022-11-08T16:04:52.000Z</updated>
-        <summary type="html"><![CDATA[SBF finally speaks....]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @M0__o__ Sent a new one. Thanks for flagging!]]></title>
-        <id>https://twitter.com/defipulse/status/1589995004688142336</id>
-        <link href="https://twitter.com/defipulse/status/1589995004688142336"/>
-        <updated>2022-11-08T14:55:24.000Z</updated>
-        <summary type="html"><![CDATA[Re @M0__o__ Sent a new one. Thanks for flagging!]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are you able to withdraw assets from FTX?]]></title>
-        <id>https://twitter.com/defipulse/status/1589994823435837440</id>
-        <link href="https://twitter.com/defipulse/status/1589994823435837440"/>
-        <updated>2022-11-08T14:54:41.000Z</updated>
-        <summary type="html"><![CDATA[Are you able to withdraw assets from FTX?]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1589980338385977344</id>
-        <link href="https://twitter.com/defipulse/status/1589980338385977344"/>
-        <updated>2022-11-08T13:57:07.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.theblock.co/post/184176/ftx-appears-to-have-stopped-processing-withdrawals-on-chain-data-show]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
