@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-09T11:19:20.871Z</id>
+    <id>urn:2022-11-09T12:50:48.194Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-09T11:19:20.871Z</updated>
+    <updated>2022-11-09T12:50:48.194Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1590309110574379008</id>
+        <link href="https://twitter.com/defipulse/status/1590309110574379008"/>
+        <updated>2022-11-09T11:43:33.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.theblock.co/post/184649/ether-officially-turns-deflationary-amid-intense-crypto-market-fear]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ETH is Ultra Sound Money 🦇🔊]]></title>
+        <id>https://twitter.com/defipulse/status/1590308584113737728</id>
+        <link href="https://twitter.com/defipulse/status/1590308584113737728"/>
+        <updated>2022-11-09T11:41:27.000Z</updated>
+        <summary type="html"><![CDATA[ETH is Ultra Sound Money 🦇🔊]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1590072883811786752</id>
@@ -195,26 +215,6 @@ Things have come full circle, and
         <link href="https://twitter.com/defipulse/status/1589965242775527425"/>
         <updated>2022-11-08T12:57:08.000Z</updated>
         <summary type="html"><![CDATA[Re  https://www.coindesk.com/markets/2022/11/08/ftt-plummets-as-market-fears-possible-alameda-contagion/]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTX token plummets from fears of Alameda contagion…]]></title>
-        <id>https://twitter.com/defipulse/status/1589965140933632000</id>
-        <link href="https://twitter.com/defipulse/status/1589965140933632000"/>
-        <updated>2022-11-08T12:56:44.000Z</updated>
-        <summary type="html"><![CDATA[FTX token plummets from fears of Alameda contagion…]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1589963126531031040</id>
-        <link href="https://twitter.com/defipulse/status/1589963126531031040"/>
-        <updated>2022-11-08T12:48:44.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.theblock.co/post/184109/mim-stablecoin-slightly-loses-dollar-parity-amid-fears-of-partial-ftt-backing?utm_source=telegram1&utm_medium=social]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
