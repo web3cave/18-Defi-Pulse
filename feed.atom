@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-09T22:21:30.185Z</id>
+    <id>urn:2022-11-09T23:26:06.882Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-09T22:21:30.185Z</updated>
+    <updated>2022-11-09T23:26:06.882Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1590450385172410368</id>
+        <link href="https://twitter.com/defipulse/status/1590450385172410368"/>
+        <updated>2022-11-09T21:04:55.000Z</updated>
+        <summary type="html"><![CDATA[Re 
+Binance: As a result of corporate due diligence, as well as the latest news reports regarding mishandled customer funds and alleged US agency investigations, we have decided that we will not pursue the potential acquisition of
+ http://FTX.com]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["In the beginning, our hope was to be able to support FTX’s customers to provide liquidity, but the issues are beyond our control or ability to help....]]></title>
+        <id>https://twitter.com/defipulse/status/1590450249944170496</id>
+        <link href="https://twitter.com/defipulse/status/1590450249944170496"/>
+        <updated>2022-11-09T21:04:23.000Z</updated>
+        <summary type="html"><![CDATA["In the beginning, our hope was to be able to support FTX’s customers to provide liquidity, but the issues are beyond our control or ability to help."]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1590448435655716864</id>
+        <link href="https://twitter.com/defipulse/status/1590448435655716864"/>
+        <updated>2022-11-09T20:57:10.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.wsj.com/articles/binance-is-said-to-be-likely-to-walk-away-from-deal-to-buy-ftx-11668020963?mod=Searchresults_pos1&page=1]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binance walks away from FTX deal...]]></title>
+        <id>https://twitter.com/defipulse/status/1590447812659273730</id>
+        <link href="https://twitter.com/defipulse/status/1590447812659273730"/>
+        <updated>2022-11-09T20:54:42.000Z</updated>
+        <summary type="html"><![CDATA[Binance walks away from FTX deal...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1590394943700635648</id>
@@ -168,52 +210,6 @@ Crypto exchanges should not.
         <updated>2022-11-08T18:19:58.000Z</updated>
         <summary type="html"><![CDATA[Shkreli joins Do Kwon on UpOnly... 
 Watch: https://www.twitch.tv/uponlytv]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do you have any advice for SBF? "I don't think I did it particularly well..." - Do Kwon Watch live:]]></title>
-        <id>https://twitter.com/defipulse/status/1590042076527603713</id>
-        <link href="https://twitter.com/defipulse/status/1590042076527603713"/>
-        <updated>2022-11-08T18:02:27.000Z</updated>
-        <summary type="html"><![CDATA[Do you have any advice for SBF?
-"I don't think I did it particularly well..." - Do Kwon
-Watch live: https://www.twitch.tv/uponlytv]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DO KWON LIVE ON UPONLY...]]></title>
-        <id>https://twitter.com/defipulse/status/1590040518410481664</id>
-        <link href="https://twitter.com/defipulse/status/1590040518410481664"/>
-        <updated>2022-11-08T17:56:15.000Z</updated>
-        <summary type="html"><![CDATA[DO KWON LIVE ON UPONLY... https://www.twitch.tv/uponlytv]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Slingshot: defi]]></title>
-        <id>https://twitter.com/SlingshotCrypto/status/1590024543783251968</id>
-        <link href="https://twitter.com/SlingshotCrypto/status/1590024543783251968"/>
-        <updated>2022-11-08T16:52:47.000Z</updated>
-        <summary type="html"><![CDATA[RT Slingshot
-defi]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1590014229691920384</id>
-        <link href="https://twitter.com/defipulse/status/1590014229691920384"/>
-        <updated>2022-11-08T16:11:48.000Z</updated>
-        <summary type="html"><![CDATA[Re 
-SBF: 1) Hey all: I have a few announcements to make.
-Things have come full circle, and
- http://FTX.com http://FTX.com]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
