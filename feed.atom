@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-09T14:25:05.317Z</id>
+    <id>urn:2022-11-09T15:24:24.998Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-09T14:25:05.317Z</updated>
+    <updated>2022-11-09T15:24:24.998Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1590354790004887553</id>
+        <link href="https://twitter.com/defipulse/status/1590354790004887553"/>
+        <updated>2022-11-09T14:45:03.000Z</updated>
+        <summary type="html"><![CDATA[Re 
+CZ 🔶 Binance: In the spirit of transparency, might as well share the actual note, sent to all Binance team globally a few hours ago.
+ https://www.ft.com/content/4982c7e9-5dd7-4e99-9430-eface0db4a8c]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.@cz_binance shares message sent to entire Binance team…]]></title>
+        <id>https://twitter.com/defipulse/status/1590354642000818177</id>
+        <link href="https://twitter.com/defipulse/status/1590354642000818177"/>
+        <updated>2022-11-09T14:44:28.000Z</updated>
+        <summary type="html"><![CDATA[.@cz_binance shares message sent to entire Binance team…]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1590309110574379008</id>
@@ -195,26 +217,6 @@ Things have come full circle, and
         <link href="https://twitter.com/defipulse/status/1589980338385977344"/>
         <updated>2022-11-08T13:57:07.000Z</updated>
         <summary type="html"><![CDATA[Re  https://www.theblock.co/post/184176/ftx-appears-to-have-stopped-processing-withdrawals-on-chain-data-show]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTX appears to have stopped processing withdrawals…]]></title>
-        <id>https://twitter.com/defipulse/status/1589980030582812675</id>
-        <link href="https://twitter.com/defipulse/status/1589980030582812675"/>
-        <updated>2022-11-08T13:55:54.000Z</updated>
-        <summary type="html"><![CDATA[FTX appears to have stopped processing withdrawals…]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1589965242775527425</id>
-        <link href="https://twitter.com/defipulse/status/1589965242775527425"/>
-        <updated>2022-11-08T12:57:08.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.coindesk.com/markets/2022/11/08/ftt-plummets-as-market-fears-possible-alameda-contagion/]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
