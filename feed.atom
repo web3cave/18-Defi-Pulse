@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-10T02:01:09.582Z</id>
+    <id>urn:2022-11-10T03:56:10.191Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-10T02:01:09.582Z</updated>
+    <updated>2022-11-10T03:56:10.191Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1590545275499995136</id>
+        <link href="https://twitter.com/defipulse/status/1590545275499995136"/>
+        <updated>2022-11-10T03:21:59.000Z</updated>
+        <summary type="html"><![CDATA[Re 
+H.E. Justin Sun🌞🇬🇩🇩🇲🔥: Further to my announcement to stand behind all Tron token (#TRX, #BTT, #JST, #SUN, #HT) holders on #FTX, we are putting together a solution together with #FTX to initiate a pathway forward.  @FTX_Official]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Justin Sun and FTX working on “a pathway forward.”]]></title>
+        <id>https://twitter.com/defipulse/status/1590545101570576384</id>
+        <link href="https://twitter.com/defipulse/status/1590545101570576384"/>
+        <updated>2022-11-10T03:21:17.000Z</updated>
+        <summary type="html"><![CDATA[Justin Sun and FTX working on “a pathway forward.”]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1590450385172410368</id>
@@ -189,27 +210,6 @@ Crypto exchanges should not.
         <link href="https://twitter.com/defipulse/status/1590056717521649664"/>
         <updated>2022-11-08T19:00:37.000Z</updated>
         <summary type="html"><![CDATA[.@Binance will start to do proof-of-reserves ...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Several Coinbase services are down...]]></title>
-        <id>https://twitter.com/defipulse/status/1590055876848947200</id>
-        <link href="https://twitter.com/defipulse/status/1590055876848947200"/>
-        <updated>2022-11-08T18:57:17.000Z</updated>
-        <summary type="html"><![CDATA[Several Coinbase services are down...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shkreli joins Do Kwon on UpOnly... Watch:]]></title>
-        <id>https://twitter.com/defipulse/status/1590046486142025728</id>
-        <link href="https://twitter.com/defipulse/status/1590046486142025728"/>
-        <updated>2022-11-08T18:19:58.000Z</updated>
-        <summary type="html"><![CDATA[Shkreli joins Do Kwon on UpOnly... 
-Watch: https://www.twitch.tv/uponlytv]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
