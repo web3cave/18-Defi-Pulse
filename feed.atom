@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-10T22:21:54.349Z</id>
+    <id>urn:2022-11-10T23:23:39.496Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-10T22:21:54.349Z</updated>
+    <updated>2022-11-10T23:23:39.496Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1590792438788292610</id>
+        <link href="https://twitter.com/defipulse/status/1590792438788292610"/>
+        <updated>2022-11-10T19:44:07.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.theblock.co/post/185575/white-house-is-monitoring-ftx-implosion-calls-for-more-crypto-regulation?utm_source=twitter&utm_medium=social]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[White House is monitoring the FTX implosion...]]></title>
+        <id>https://twitter.com/defipulse/status/1590792300560453632</id>
+        <link href="https://twitter.com/defipulse/status/1590792300560453632"/>
+        <updated>2022-11-10T19:43:34.000Z</updated>
+        <summary type="html"><![CDATA[White House is monitoring the FTX implosion...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re h/t @digitalassetbuy]]></title>
         <id>https://twitter.com/defipulse/status/1590735585328607232</id>
@@ -51,7 +71,8 @@
         <link href="https://twitter.com/defipulse/status/1590723553212579840"/>
         <updated>2022-11-10T15:10:23.000Z</updated>
         <summary type="html"><![CDATA[Re 
-Tom Emmer: Interesting. @GaryGensler runs to the media while reports to my office allege he was helping SBF and FTX work on legal loopholes to obtain a regulatory monopoly. We're looking into this.]]></summary>
+Tom Emmer: Interesting. @GaryGensler runs to the media while reports to my office allege he was helping SBF and FTX work on legal loopholes to obtain a regulatory monopoly. We're looking into this.
+ https://twitter.com/GaryGensler/status/1590685092305043461]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
@@ -187,26 +208,6 @@ Binance: As a result of corporate due diligence, as well as the latest news re
         <link href="https://twitter.com/defipulse/status/1590394943700635648"/>
         <updated>2022-11-09T17:24:37.000Z</updated>
         <summary type="html"><![CDATA[Re  https://www.semafor.com/article/11/09/2022/ftx-legal-and-compliance-teams-quit]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Most of FTXs legal and compliance team has quit...]]></title>
-        <id>https://twitter.com/defipulse/status/1590394804797460480</id>
-        <link href="https://twitter.com/defipulse/status/1590394804797460480"/>
-        <updated>2022-11-09T17:24:04.000Z</updated>
-        <summary type="html"><![CDATA[Most of FTXs legal and compliance team has quit...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1590378448895488001</id>
-        <link href="https://twitter.com/defipulse/status/1590378448895488001"/>
-        <updated>2022-11-09T16:19:04.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.bloomberg.com/news/articles/2022-11-09/us-probes-ftx-empire-over-handling-of-client-funds-and-lending]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
