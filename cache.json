@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1590549922688143360",
+          "author": "DeFi Pulse",
+          "description": "Re  https://www.coindesk.com/business/2022/11/10/without-details-trons-justin-sun-says-hes-putting-together-solution-for-ftx/",
+          "link": "https://twitter.com/defipulse/status/1590549922688143360",
+          "publishedOn": "2022-11-10T03:40:27.000Z",
+          "wordCount": 399,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1590545275499995136",
           "author": "DeFi Pulse",
           "description": "Re \nH.E. Justin Sun🌞🇬🇩🇩🇲🔥: Further to my announcement to stand behind all Tron token (#TRX, #BTT, #JST, #SUN, #HT) holders on #FTX, we are putting together a solution together with #FTX to initiate a pathway forward.  @FTX_Official",
@@ -193,16 +203,6 @@
           "publishedOn": "2022-11-08T19:01:09.000Z",
           "wordCount": 399,
           "title": "Re @binance",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1590056717521649664",
-          "author": "DeFi Pulse",
-          "description": ".@Binance will start to do proof-of-reserves ...",
-          "link": "https://twitter.com/defipulse/status/1590056717521649664",
-          "publishedOn": "2022-11-08T19:00:37.000Z",
-          "wordCount": 399,
-          "title": ".@Binance will start to do proof-of-reserves ...",
           "imageUrl": null
         }
       ]

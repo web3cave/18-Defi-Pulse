@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-10T05:27:29.851Z</id>
+    <id>urn:2022-11-10T06:27:51.141Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-10T05:27:29.851Z</updated>
+    <updated>2022-11-10T06:27:51.141Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1590549922688143360</id>
+        <link href="https://twitter.com/defipulse/status/1590549922688143360"/>
+        <updated>2022-11-10T03:40:27.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.coindesk.com/business/2022/11/10/without-details-trons-justin-sun-says-hes-putting-together-solution-for-ftx/]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1590545275499995136</id>
@@ -200,16 +210,6 @@ CZ 🔶 Binance: All crypto exchanges should do merkle-tree proof-of-reserves.
 Banks run on fractional reserves. 
 Crypto exchanges should not.
 @Binance will start to do proof-of-reserves soon. Full transparency.]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[.@Binance will start to do proof-of-reserves ...]]></title>
-        <id>https://twitter.com/defipulse/status/1590056717521649664</id>
-        <link href="https://twitter.com/defipulse/status/1590056717521649664"/>
-        <updated>2022-11-08T19:00:37.000Z</updated>
-        <summary type="html"><![CDATA[.@Binance will start to do proof-of-reserves ...]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
