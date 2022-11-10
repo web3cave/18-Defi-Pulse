@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-10T16:31:29.534Z</id>
+    <id>urn:2022-11-10T17:23:45.126Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-10T16:31:29.534Z</updated>
+    <updated>2022-11-10T17:23:45.126Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re h/t @digitalassetbuy]]></title>
+        <id>https://twitter.com/defipulse/status/1590735585328607232</id>
+        <link href="https://twitter.com/defipulse/status/1590735585328607232"/>
+        <updated>2022-11-10T15:58:12.000Z</updated>
+        <summary type="html"><![CDATA[Re h/t @digitalassetbuy]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UNVERIFIED RUMOR: Gary Gensler was going to give IEX and FTX "no-action relief" (meaning a letter saying if you do X in this way, while technically ag...]]></title>
+        <id>https://twitter.com/defipulse/status/1590731461032042496</id>
+        <link href="https://twitter.com/defipulse/status/1590731461032042496"/>
+        <updated>2022-11-10T15:41:49.000Z</updated>
+        <summary type="html"><![CDATA[UNVERIFIED RUMOR: Gary Gensler was going to give IEX and FTX "no-action relief" (meaning a letter saying if you do X in this way, while technically against our rules, we won't come after you).]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1590728382353850368</id>
+        <link href="https://twitter.com/defipulse/status/1590728382353850368"/>
+        <updated>2022-11-10T15:29:35.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.wsj.com/articles/ftx-tapped-into-customer-accounts-to-fund-risky-bets-setting-up-its-downfall-11668093732]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTX had $16b in customer assets and lent out $10b to Alameda...]]></title>
+        <id>https://twitter.com/defipulse/status/1590728270638911488</id>
+        <link href="https://twitter.com/defipulse/status/1590728270638911488"/>
+        <updated>2022-11-10T15:29:08.000Z</updated>
+        <summary type="html"><![CDATA[FTX had $16b in customer assets and lent out $10b to Alameda...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1590723553212579840</id>
@@ -167,48 +207,6 @@ Binance: As a result of corporate due diligence, as well as the latest news re
         <link href="https://twitter.com/defipulse/status/1590378448895488001"/>
         <updated>2022-11-09T16:19:04.000Z</updated>
         <summary type="html"><![CDATA[Re  https://www.bloomberg.com/news/articles/2022-11-09/us-probes-ftx-empire-over-handling-of-client-funds-and-lending]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US probes FTX over handling of client funds and lending...]]></title>
-        <id>https://twitter.com/defipulse/status/1590378332658753538</id>
-        <link href="https://twitter.com/defipulse/status/1590378332658753538"/>
-        <updated>2022-11-09T16:18:36.000Z</updated>
-        <summary type="html"><![CDATA[US probes FTX over handling of client funds and lending...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1590367727461748742</id>
-        <link href="https://twitter.com/defipulse/status/1590367727461748742"/>
-        <updated>2022-11-09T15:36:28.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.coindesk.com/business/2022/11/09/binance-is-strongly-leaning-toward-scrapping-ftx-rescue-takeover-after-first-glance-at-books-source/]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance is strongly leaning toward scrapping FTX rescue takeover after first glance at books...]]></title>
-        <id>https://twitter.com/defipulse/status/1590367547190546432</id>
-        <link href="https://twitter.com/defipulse/status/1590367547190546432"/>
-        <updated>2022-11-09T15:35:45.000Z</updated>
-        <summary type="html"><![CDATA[Binance is strongly leaning toward scrapping FTX rescue takeover after first glance at books...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1590354790004887553</id>
-        <link href="https://twitter.com/defipulse/status/1590354790004887553"/>
-        <updated>2022-11-09T14:45:03.000Z</updated>
-        <summary type="html"><![CDATA[Re 
-CZ 🔶 Binance: In the spirit of transparency, might as well share the actual note, sent to all Binance team globally a few hours ago.
- https://www.ft.com/content/4982c7e9-5dd7-4e99-9430-eface0db4a8c]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>

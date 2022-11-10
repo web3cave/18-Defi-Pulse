@@ -6,6 +6,46 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1590735585328607232",
+          "author": "DeFi Pulse",
+          "description": "Re h/t @digitalassetbuy",
+          "link": "https://twitter.com/defipulse/status/1590735585328607232",
+          "publishedOn": "2022-11-10T15:58:12.000Z",
+          "wordCount": 399,
+          "title": "Re h/t @digitalassetbuy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1590731461032042496",
+          "author": "DeFi Pulse",
+          "description": "UNVERIFIED RUMOR: Gary Gensler was going to give IEX and FTX \"no-action relief\" (meaning a letter saying if you do X in this way, while technically against our rules, we won't come after you).",
+          "link": "https://twitter.com/defipulse/status/1590731461032042496",
+          "publishedOn": "2022-11-10T15:41:49.000Z",
+          "wordCount": 399,
+          "title": "UNVERIFIED RUMOR: Gary Gensler was going to give IEX and FTX \"no-action relief\" (meaning a letter saying if you do X in this way, while technically ag...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1590728382353850368",
+          "author": "DeFi Pulse",
+          "description": "Re  https://www.wsj.com/articles/ftx-tapped-into-customer-accounts-to-fund-risky-bets-setting-up-its-downfall-11668093732",
+          "link": "https://twitter.com/defipulse/status/1590728382353850368",
+          "publishedOn": "2022-11-10T15:29:35.000Z",
+          "wordCount": 399,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1590728270638911488",
+          "author": "DeFi Pulse",
+          "description": "FTX had $16b in customer assets and lent out $10b to Alameda...",
+          "link": "https://twitter.com/defipulse/status/1590728270638911488",
+          "publishedOn": "2022-11-10T15:29:08.000Z",
+          "wordCount": 399,
+          "title": "FTX had $16b in customer assets and lent out $10b to Alameda...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1590723553212579840",
           "author": "DeFi Pulse",
           "description": "Re \nTom Emmer: Interesting. @GaryGensler runs to the media while reports to my office allege he was helping SBF and FTX work on legal loopholes to obtain a regulatory monopoly. We're looking into this.",
@@ -161,46 +201,6 @@
           "description": "Re  https://www.bloomberg.com/news/articles/2022-11-09/us-probes-ftx-empire-over-handling-of-client-funds-and-lending",
           "link": "https://twitter.com/defipulse/status/1590378448895488001",
           "publishedOn": "2022-11-09T16:19:04.000Z",
-          "wordCount": 399,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1590378332658753538",
-          "author": "DeFi Pulse",
-          "description": "US probes FTX over handling of client funds and lending...",
-          "link": "https://twitter.com/defipulse/status/1590378332658753538",
-          "publishedOn": "2022-11-09T16:18:36.000Z",
-          "wordCount": 399,
-          "title": "US probes FTX over handling of client funds and lending...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1590367727461748742",
-          "author": "DeFi Pulse",
-          "description": "Re  https://www.coindesk.com/business/2022/11/09/binance-is-strongly-leaning-toward-scrapping-ftx-rescue-takeover-after-first-glance-at-books-source/",
-          "link": "https://twitter.com/defipulse/status/1590367727461748742",
-          "publishedOn": "2022-11-09T15:36:28.000Z",
-          "wordCount": 399,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1590367547190546432",
-          "author": "DeFi Pulse",
-          "description": "Binance is strongly leaning toward scrapping FTX rescue takeover after first glance at books...",
-          "link": "https://twitter.com/defipulse/status/1590367547190546432",
-          "publishedOn": "2022-11-09T15:35:45.000Z",
-          "wordCount": 399,
-          "title": "Binance is strongly leaning toward scrapping FTX rescue takeover after first glance at books...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1590354790004887553",
-          "author": "DeFi Pulse",
-          "description": "Re \nCZ 🔶 Binance: In the spirit of transparency, might as well share the actual note, sent to all Binance team globally a few hours ago.\n https://www.ft.com/content/4982c7e9-5dd7-4e99-9430-eface0db4a8c",
-          "link": "https://twitter.com/defipulse/status/1590354790004887553",
-          "publishedOn": "2022-11-09T14:45:03.000Z",
           "wordCount": 399,
           "title": "Re",
           "imageUrl": null
