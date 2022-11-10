@@ -6,6 +6,66 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1590723553212579840",
+          "author": "DeFi Pulse",
+          "description": "Re \nTom Emmer: Interesting. @GaryGensler runs to the media while reports to my office allege he was helping SBF and FTX work on legal loopholes to obtain a regulatory monopoly. We're looking into this.",
+          "link": "https://twitter.com/defipulse/status/1590723553212579840",
+          "publishedOn": "2022-11-10T15:10:23.000Z",
+          "wordCount": 399,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1590723178053390338",
+          "author": "DeFi Pulse",
+          "description": "Allegations that Gary Gensler was helping SBF with regulatory loopholes...",
+          "link": "https://twitter.com/defipulse/status/1590723178053390338",
+          "publishedOn": "2022-11-10T15:08:54.000Z",
+          "wordCount": 399,
+          "title": "Allegations that Gary Gensler was helping SBF with regulatory loopholes...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1590716677041270784",
+          "author": "DeFi Pulse",
+          "description": "Re  https://www.coindesk.com/business/2022/11/10/tether-freezes-46m-of-usdt-following-law-enforcement-request/",
+          "link": "https://twitter.com/defipulse/status/1590716677041270784",
+          "publishedOn": "2022-11-10T14:43:04.000Z",
+          "wordCount": 399,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1590716075230269440",
+          "author": "DeFi Pulse",
+          "description": "Tether has frozen $46M of $USDT following a request from law enforcement...",
+          "link": "https://twitter.com/defipulse/status/1590716075230269440",
+          "publishedOn": "2022-11-10T14:40:41.000Z",
+          "wordCount": 399,
+          "title": "Tether has frozen $46M of $USDT following a request from law enforcement...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1590710933269413890",
+          "author": "DeFi Pulse",
+          "description": "Re \nSBF: 1) I'm sorry.  That's the biggest thing.\nI fucked up, and should have done better.",
+          "link": "https://twitter.com/defipulse/status/1590710933269413890",
+          "publishedOn": "2022-11-10T14:20:15.000Z",
+          "wordCount": 399,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1590710824456564736",
+          "author": "DeFi Pulse",
+          "description": "Alameda Research is winding down trading…",
+          "link": "https://twitter.com/defipulse/status/1590710824456564736",
+          "publishedOn": "2022-11-10T14:19:49.000Z",
+          "wordCount": 399,
+          "title": "Alameda Research is winding down trading…",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1590549922688143360",
           "author": "DeFi Pulse",
           "description": "Re  https://www.coindesk.com/business/2022/11/10/without-details-trons-justin-sun-says-hes-putting-together-solution-for-ftx/",
@@ -143,66 +203,6 @@
           "publishedOn": "2022-11-09T14:45:03.000Z",
           "wordCount": 399,
           "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1590354642000818177",
-          "author": "DeFi Pulse",
-          "description": ".@cz_binance shares message sent to entire Binance team…",
-          "link": "https://twitter.com/defipulse/status/1590354642000818177",
-          "publishedOn": "2022-11-09T14:44:28.000Z",
-          "wordCount": 399,
-          "title": ".@cz_binance shares message sent to entire Binance team…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1590309110574379008",
-          "author": "DeFi Pulse",
-          "description": "Re  https://www.theblock.co/post/184649/ether-officially-turns-deflationary-amid-intense-crypto-market-fear",
-          "link": "https://twitter.com/defipulse/status/1590309110574379008",
-          "publishedOn": "2022-11-09T11:43:33.000Z",
-          "wordCount": 399,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1590308584113737728",
-          "author": "DeFi Pulse",
-          "description": "ETH is Ultra Sound Money 🦇🔊",
-          "link": "https://twitter.com/defipulse/status/1590308584113737728",
-          "publishedOn": "2022-11-09T11:41:27.000Z",
-          "wordCount": 399,
-          "title": "ETH is Ultra Sound Money 🦇🔊",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1590072883811786752",
-          "author": "DeFi Pulse",
-          "description": "Re  https://www.coindesk.com/policy/2022/11/08/us-treasury-adds-to-tornado-cash-sanctions/",
-          "link": "https://twitter.com/defipulse/status/1590072883811786752",
-          "publishedOn": "2022-11-08T20:04:52.000Z",
-          "wordCount": 399,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1590072631872868353",
-          "author": "DeFi Pulse",
-          "description": "US Treasury adds to Tornado Cash sanctions...",
-          "link": "https://twitter.com/defipulse/status/1590072631872868353",
-          "publishedOn": "2022-11-08T20:03:52.000Z",
-          "wordCount": 399,
-          "title": "US Treasury adds to Tornado Cash sanctions...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1590056850179100673",
-          "author": "DeFi Pulse",
-          "description": "Re @binance\nCZ 🔶 Binance: All crypto exchanges should do merkle-tree proof-of-reserves. \nBanks run on fractional reserves. \nCrypto exchanges should not.\n@Binance will start to do proof-of-reserves soon. Full transparency.",
-          "link": "https://twitter.com/defipulse/status/1590056850179100673",
-          "publishedOn": "2022-11-08T19:01:09.000Z",
-          "wordCount": 399,
-          "title": "Re @binance",
           "imageUrl": null
         }
       ]

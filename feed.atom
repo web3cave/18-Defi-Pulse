@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-10T14:35:03.748Z</id>
+    <id>urn:2022-11-10T15:22:49.050Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-10T14:35:03.748Z</updated>
+    <updated>2022-11-10T15:22:49.050Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1590723553212579840</id>
+        <link href="https://twitter.com/defipulse/status/1590723553212579840"/>
+        <updated>2022-11-10T15:10:23.000Z</updated>
+        <summary type="html"><![CDATA[Re 
+Tom Emmer: Interesting. @GaryGensler runs to the media while reports to my office allege he was helping SBF and FTX work on legal loopholes to obtain a regulatory monopoly. We're looking into this.]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Allegations that Gary Gensler was helping SBF with regulatory loopholes...]]></title>
+        <id>https://twitter.com/defipulse/status/1590723178053390338</id>
+        <link href="https://twitter.com/defipulse/status/1590723178053390338"/>
+        <updated>2022-11-10T15:08:54.000Z</updated>
+        <summary type="html"><![CDATA[Allegations that Gary Gensler was helping SBF with regulatory loopholes...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1590716677041270784</id>
+        <link href="https://twitter.com/defipulse/status/1590716677041270784"/>
+        <updated>2022-11-10T14:43:04.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.coindesk.com/business/2022/11/10/tether-freezes-46m-of-usdt-following-law-enforcement-request/]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tether has frozen $46M of $USDT following a request from law enforcement...]]></title>
+        <id>https://twitter.com/defipulse/status/1590716075230269440</id>
+        <link href="https://twitter.com/defipulse/status/1590716075230269440"/>
+        <updated>2022-11-10T14:40:41.000Z</updated>
+        <summary type="html"><![CDATA[Tether has frozen $46M of $USDT following a request from law enforcement...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1590710933269413890</id>
+        <link href="https://twitter.com/defipulse/status/1590710933269413890"/>
+        <updated>2022-11-10T14:20:15.000Z</updated>
+        <summary type="html"><![CDATA[Re 
+SBF: 1) I'm sorry.  That's the biggest thing.
+I fucked up, and should have done better.]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alameda Research is winding down trading…]]></title>
+        <id>https://twitter.com/defipulse/status/1590710824456564736</id>
+        <link href="https://twitter.com/defipulse/status/1590710824456564736"/>
+        <updated>2022-11-10T14:19:49.000Z</updated>
+        <summary type="html"><![CDATA[Alameda Research is winding down trading…]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1590549922688143360</id>
@@ -146,70 +209,6 @@ Binance: As a result of corporate due diligence, as well as the latest news re
         <summary type="html"><![CDATA[Re 
 CZ 🔶 Binance: In the spirit of transparency, might as well share the actual note, sent to all Binance team globally a few hours ago.
  https://www.ft.com/content/4982c7e9-5dd7-4e99-9430-eface0db4a8c]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[.@cz_binance shares message sent to entire Binance team…]]></title>
-        <id>https://twitter.com/defipulse/status/1590354642000818177</id>
-        <link href="https://twitter.com/defipulse/status/1590354642000818177"/>
-        <updated>2022-11-09T14:44:28.000Z</updated>
-        <summary type="html"><![CDATA[.@cz_binance shares message sent to entire Binance team…]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1590309110574379008</id>
-        <link href="https://twitter.com/defipulse/status/1590309110574379008"/>
-        <updated>2022-11-09T11:43:33.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.theblock.co/post/184649/ether-officially-turns-deflationary-amid-intense-crypto-market-fear]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ETH is Ultra Sound Money 🦇🔊]]></title>
-        <id>https://twitter.com/defipulse/status/1590308584113737728</id>
-        <link href="https://twitter.com/defipulse/status/1590308584113737728"/>
-        <updated>2022-11-09T11:41:27.000Z</updated>
-        <summary type="html"><![CDATA[ETH is Ultra Sound Money 🦇🔊]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1590072883811786752</id>
-        <link href="https://twitter.com/defipulse/status/1590072883811786752"/>
-        <updated>2022-11-08T20:04:52.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.coindesk.com/policy/2022/11/08/us-treasury-adds-to-tornado-cash-sanctions/]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US Treasury adds to Tornado Cash sanctions...]]></title>
-        <id>https://twitter.com/defipulse/status/1590072631872868353</id>
-        <link href="https://twitter.com/defipulse/status/1590072631872868353"/>
-        <updated>2022-11-08T20:03:52.000Z</updated>
-        <summary type="html"><![CDATA[US Treasury adds to Tornado Cash sanctions...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @binance]]></title>
-        <id>https://twitter.com/defipulse/status/1590056850179100673</id>
-        <link href="https://twitter.com/defipulse/status/1590056850179100673"/>
-        <updated>2022-11-08T19:01:09.000Z</updated>
-        <summary type="html"><![CDATA[Re @binance
-CZ 🔶 Binance: All crypto exchanges should do merkle-tree proof-of-reserves. 
-Banks run on fractional reserves. 
-Crypto exchanges should not.
-@Binance will start to do proof-of-reserves soon. Full transparency.]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
