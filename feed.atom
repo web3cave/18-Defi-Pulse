@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-11T14:21:09.125Z</id>
+    <id>urn:2022-11-11T15:24:03.105Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-11T14:21:09.125Z</updated>
+    <updated>2022-11-11T15:24:03.105Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SBF resigns...]]></title>
+        <id>https://twitter.com/defipulse/status/1591076543543283717</id>
+        <link href="https://twitter.com/defipulse/status/1591076543543283717"/>
+        <updated>2022-11-11T14:33:03.000Z</updated>
+        <summary type="html"><![CDATA[SBF resigns...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1591072457116778497</id>
+        <link href="https://twitter.com/defipulse/status/1591072457116778497"/>
+        <updated>2022-11-11T14:16:49.000Z</updated>
+        <summary type="html"><![CDATA[Re 
+FTX: Press Release]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTX files for bankruptcy…]]></title>
+        <id>https://twitter.com/defipulse/status/1591072329999712258</id>
+        <link href="https://twitter.com/defipulse/status/1591072329999712258"/>
+        <updated>2022-11-11T14:16:18.000Z</updated>
+        <summary type="html"><![CDATA[FTX files for bankruptcy…]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1590879280623677440</id>
@@ -181,39 +212,6 @@ I fucked up, and should have done better.]]></summary>
         <link href="https://twitter.com/defipulse/status/1590549922688143360"/>
         <updated>2022-11-10T03:40:27.000Z</updated>
         <summary type="html"><![CDATA[Re  https://www.coindesk.com/business/2022/11/10/without-details-trons-justin-sun-says-hes-putting-together-solution-for-ftx/]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1590545275499995136</id>
-        <link href="https://twitter.com/defipulse/status/1590545275499995136"/>
-        <updated>2022-11-10T03:21:59.000Z</updated>
-        <summary type="html"><![CDATA[Re 
-H.E. Justin Sun🌞🇬🇩🇩🇲🔥: Further to my announcement to stand behind all Tron token (#TRX, #BTT, #JST, #SUN, #HT) holders on #FTX, we are putting together a solution together with #FTX to initiate a pathway forward.  @FTX_Official]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Justin Sun and FTX working on “a pathway forward.”]]></title>
-        <id>https://twitter.com/defipulse/status/1590545101570576384</id>
-        <link href="https://twitter.com/defipulse/status/1590545101570576384"/>
-        <updated>2022-11-10T03:21:17.000Z</updated>
-        <summary type="html"><![CDATA[Justin Sun and FTX working on “a pathway forward.”]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1590450385172410368</id>
-        <link href="https://twitter.com/defipulse/status/1590450385172410368"/>
-        <updated>2022-11-09T21:04:55.000Z</updated>
-        <summary type="html"><![CDATA[Re 
-Binance: As a result of corporate due diligence, as well as the latest news reports regarding mishandled customer funds and alleged US agency investigations, we have decided that we will not pursue the potential acquisition of
- http://FTX.com]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>

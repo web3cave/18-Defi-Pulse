@@ -6,6 +6,36 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1591076543543283717",
+          "author": "DeFi Pulse",
+          "description": "SBF resigns...",
+          "link": "https://twitter.com/defipulse/status/1591076543543283717",
+          "publishedOn": "2022-11-11T14:33:03.000Z",
+          "wordCount": 399,
+          "title": "SBF resigns...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1591072457116778497",
+          "author": "DeFi Pulse",
+          "description": "Re \nFTX: Press Release",
+          "link": "https://twitter.com/defipulse/status/1591072457116778497",
+          "publishedOn": "2022-11-11T14:16:49.000Z",
+          "wordCount": 399,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1591072329999712258",
+          "author": "DeFi Pulse",
+          "description": "FTX files for bankruptcy…",
+          "link": "https://twitter.com/defipulse/status/1591072329999712258",
+          "publishedOn": "2022-11-11T14:16:18.000Z",
+          "wordCount": 399,
+          "title": "FTX files for bankruptcy…",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1590879280623677440",
           "author": "DeFi Pulse",
           "description": "Re \nBlockFi:",
@@ -171,36 +201,6 @@
           "description": "Re  https://www.coindesk.com/business/2022/11/10/without-details-trons-justin-sun-says-hes-putting-together-solution-for-ftx/",
           "link": "https://twitter.com/defipulse/status/1590549922688143360",
           "publishedOn": "2022-11-10T03:40:27.000Z",
-          "wordCount": 399,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1590545275499995136",
-          "author": "DeFi Pulse",
-          "description": "Re \nH.E. Justin Sun🌞🇬🇩🇩🇲🔥: Further to my announcement to stand behind all Tron token (#TRX, #BTT, #JST, #SUN, #HT) holders on #FTX, we are putting together a solution together with #FTX to initiate a pathway forward.  @FTX_Official",
-          "link": "https://twitter.com/defipulse/status/1590545275499995136",
-          "publishedOn": "2022-11-10T03:21:59.000Z",
-          "wordCount": 399,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1590545101570576384",
-          "author": "DeFi Pulse",
-          "description": "Justin Sun and FTX working on “a pathway forward.”",
-          "link": "https://twitter.com/defipulse/status/1590545101570576384",
-          "publishedOn": "2022-11-10T03:21:17.000Z",
-          "wordCount": 399,
-          "title": "Justin Sun and FTX working on “a pathway forward.”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1590450385172410368",
-          "author": "DeFi Pulse",
-          "description": "Re \nBinance: As a result of corporate due diligence, as well as the latest news reports regarding mishandled customer funds and alleged US agency investigations, we have decided that we will not pursue the potential acquisition of\n http://FTX.com",
-          "link": "https://twitter.com/defipulse/status/1590450385172410368",
-          "publishedOn": "2022-11-09T21:04:55.000Z",
           "wordCount": 399,
           "title": "Re",
           "imageUrl": null
