@@ -1,10 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-10T23:23:39.496Z</id>
+    <id>urn:2022-11-11T02:01:18.584Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-10T23:23:39.496Z</updated>
+    <updated>2022-11-11T02:01:18.584Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1590879280623677440</id>
+        <link href="https://twitter.com/defipulse/status/1590879280623677440"/>
+        <updated>2022-11-11T01:29:12.000Z</updated>
+        <summary type="html"><![CDATA[Re 
+BlockFi:]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BlockFi not able to operate business as usual and pausing withdrawals…]]></title>
+        <id>https://twitter.com/defipulse/status/1590879134829654017</id>
+        <link href="https://twitter.com/defipulse/status/1590879134829654017"/>
+        <updated>2022-11-11T01:28:37.000Z</updated>
+        <summary type="html"><![CDATA[BlockFi not able to operate business as usual and pausing withdrawals…]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re h/t @lund_dane]]></title>
+        <id>https://twitter.com/defipulse/status/1590877791653834752</id>
+        <link href="https://twitter.com/defipulse/status/1590877791653834752"/>
+        <updated>2022-11-11T01:23:17.000Z</updated>
+        <summary type="html"><![CDATA[Re h/t @lund_dane
+Dane Lund: It is worth noting, the ties between FTX and the SEC go beyond in-person meetings.
+The general counsel of FTX US had served as lead counsel to Chairman Gensler at the CFTC. 
+By all accounts, he is a standup and excellent attorney. 
+The point is that the SEC was pretty close.
+ https://twitter.com/RepTomEmmer/status/1590717374801809409]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[General counsel of FTX US served as lead counsel to Gensler at CFTC…]]></title>
+        <id>https://twitter.com/defipulse/status/1590877584136757249</id>
+        <link href="https://twitter.com/defipulse/status/1590877584136757249"/>
+        <updated>2022-11-11T01:22:27.000Z</updated>
+        <summary type="html"><![CDATA[General counsel of FTX US served as lead counsel to Gensler at CFTC…]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1590792438788292610</id>
@@ -168,46 +214,6 @@ H.E. Justin Sun🌞🇬🇩🇩🇲🔥: Further to my announcement to stand b
         <summary type="html"><![CDATA[Re 
 Binance: As a result of corporate due diligence, as well as the latest news reports regarding mishandled customer funds and alleged US agency investigations, we have decided that we will not pursue the potential acquisition of
  http://FTX.com]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["In the beginning, our hope was to be able to support FTX’s customers to provide liquidity, but the issues are beyond our control or ability to help....]]></title>
-        <id>https://twitter.com/defipulse/status/1590450249944170496</id>
-        <link href="https://twitter.com/defipulse/status/1590450249944170496"/>
-        <updated>2022-11-09T21:04:23.000Z</updated>
-        <summary type="html"><![CDATA["In the beginning, our hope was to be able to support FTX’s customers to provide liquidity, but the issues are beyond our control or ability to help."]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1590448435655716864</id>
-        <link href="https://twitter.com/defipulse/status/1590448435655716864"/>
-        <updated>2022-11-09T20:57:10.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.wsj.com/articles/binance-is-said-to-be-likely-to-walk-away-from-deal-to-buy-ftx-11668020963?mod=Searchresults_pos1&page=1]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance walks away from FTX deal...]]></title>
-        <id>https://twitter.com/defipulse/status/1590447812659273730</id>
-        <link href="https://twitter.com/defipulse/status/1590447812659273730"/>
-        <updated>2022-11-09T20:54:42.000Z</updated>
-        <summary type="html"><![CDATA[Binance walks away from FTX deal...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1590394943700635648</id>
-        <link href="https://twitter.com/defipulse/status/1590394943700635648"/>
-        <updated>2022-11-09T17:24:37.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.semafor.com/article/11/09/2022/ftx-legal-and-compliance-teams-quit]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
