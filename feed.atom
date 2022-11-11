@@ -1,10 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-11T22:22:17.921Z</id>
+    <id>urn:2022-11-11T23:23:14.829Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-11T22:22:17.921Z</updated>
+    <updated>2022-11-11T23:23:14.829Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Gensler staffer that led the infamous no-action letter meeting with SBF was given a huge promotion to Gensler Chief of Staff the day after FTX collaps...]]></title>
+        <id>https://twitter.com/defipulse/status/1591190449632710656</id>
+        <link href="https://twitter.com/defipulse/status/1591190449632710656"/>
+        <updated>2022-11-11T22:05:40.000Z</updated>
+        <summary type="html"><![CDATA[Gensler staffer that led the infamous no-action letter meeting with SBF was given a huge promotion to Gensler Chief of Staff the day after FTX collapsed.
+WHY THE RUSH, GARY?]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Source: H/t: @Leerzeit]]></title>
+        <id>https://twitter.com/defipulse/status/1591179459939696641</id>
+        <link href="https://twitter.com/defipulse/status/1591179459939696641"/>
+        <updated>2022-11-11T21:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Re Source: 
+H/t: @Leerzeit https://www.sec.gov/comments/s7-25-20/s72520-20127575-288804.pdf]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RUMOR CONFIRMED ✅]]></title>
+        <id>https://twitter.com/defipulse/status/1591173655400448001</id>
+        <link href="https://twitter.com/defipulse/status/1591173655400448001"/>
+        <updated>2022-11-11T20:58:56.000Z</updated>
+        <summary type="html"><![CDATA[RUMOR CONFIRMED ✅
+
+DeFi Pulse: UNVERIFIED RUMOR: Gary Gensler was going to give IEX and FTX "no-action relief" (meaning a letter saying if you do X in this way, while technically against our rules, we won't come after you).]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1591091871899881477</id>
@@ -89,7 +123,8 @@ BlockFi:]]></summary>
 Dane Lund: It is worth noting, the ties between FTX and the SEC go beyond in-person meetings.
 The general counsel of FTX US had served as lead counsel to Chairman Gensler at the CFTC. 
 By all accounts, he is a standup and excellent attorney. 
-The point is that the SEC was pretty close.]]></summary>
+The point is that the SEC was pretty close.
+ https://twitter.com/RepTomEmmer/status/1590717374801809409]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
@@ -170,7 +205,8 @@ The point is that the SEC was pretty close.]]></summary>
         <link href="https://twitter.com/defipulse/status/1590723553212579840"/>
         <updated>2022-11-10T15:10:23.000Z</updated>
         <summary type="html"><![CDATA[Re 
-Tom Emmer: Interesting. @GaryGensler runs to the media while reports to my office allege he was helping SBF and FTX work on legal loopholes to obtain a regulatory monopoly. We're looking into this.]]></summary>
+Tom Emmer: Interesting. @GaryGensler runs to the media while reports to my office allege he was helping SBF and FTX work on legal loopholes to obtain a regulatory monopoly. We're looking into this.
+ https://twitter.com/GaryGensler/status/1590685092305043461]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
@@ -181,38 +217,6 @@ Tom Emmer: Interesting. @GaryGensler runs to the media while reports to my off
         <link href="https://twitter.com/defipulse/status/1590723178053390338"/>
         <updated>2022-11-10T15:08:54.000Z</updated>
         <summary type="html"><![CDATA[Allegations that Gary Gensler was helping SBF with regulatory loopholes...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1590716677041270784</id>
-        <link href="https://twitter.com/defipulse/status/1590716677041270784"/>
-        <updated>2022-11-10T14:43:04.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.coindesk.com/business/2022/11/10/tether-freezes-46m-of-usdt-following-law-enforcement-request/]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tether has frozen $46M of $USDT following a request from law enforcement...]]></title>
-        <id>https://twitter.com/defipulse/status/1590716075230269440</id>
-        <link href="https://twitter.com/defipulse/status/1590716075230269440"/>
-        <updated>2022-11-10T14:40:41.000Z</updated>
-        <summary type="html"><![CDATA[Tether has frozen $46M of $USDT following a request from law enforcement...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1590710933269413890</id>
-        <link href="https://twitter.com/defipulse/status/1590710933269413890"/>
-        <updated>2022-11-10T14:20:15.000Z</updated>
-        <summary type="html"><![CDATA[Re 
-SBF: 1) I'm sorry.  That's the biggest thing.
-I fucked up, and should have done better.]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
