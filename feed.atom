@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-11T15:24:03.105Z</id>
+    <id>urn:2022-11-11T16:31:22.003Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-11T15:24:03.105Z</updated>
+    <updated>2022-11-11T16:31:22.003Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1591091871899881477</id>
+        <link href="https://twitter.com/defipulse/status/1591091871899881477"/>
+        <updated>2022-11-11T15:33:57.000Z</updated>
+        <summary type="html"><![CDATA[Re 
+SBF: 5) I'm piecing together all of the details, but I was shocked to see things unravel the way they did earlier this week.
+I will, soon, write up a more complete post on the play by play, but I want to make sure that I get it right when I do.]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SBF claims he was "...shocked to see things unravel the way they did earlier this week." Come on....]]></title>
+        <id>https://twitter.com/defipulse/status/1591091666970378240</id>
+        <link href="https://twitter.com/defipulse/status/1591091666970378240"/>
+        <updated>2022-11-11T15:33:09.000Z</updated>
+        <summary type="html"><![CDATA[SBF claims he was "...shocked to see things unravel the way they did earlier this week."
+Come on....]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SBF resigns...]]></title>
         <id>https://twitter.com/defipulse/status/1591076543543283717</id>
@@ -192,26 +215,6 @@ Tom Emmer: Interesting. @GaryGensler runs to the media while reports to my off
         <summary type="html"><![CDATA[Re 
 SBF: 1) I'm sorry.  That's the biggest thing.
 I fucked up, and should have done better.]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alameda Research is winding down trading…]]></title>
-        <id>https://twitter.com/defipulse/status/1590710824456564736</id>
-        <link href="https://twitter.com/defipulse/status/1590710824456564736"/>
-        <updated>2022-11-10T14:19:49.000Z</updated>
-        <summary type="html"><![CDATA[Alameda Research is winding down trading…]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1590549922688143360</id>
-        <link href="https://twitter.com/defipulse/status/1590549922688143360"/>
-        <updated>2022-11-10T03:40:27.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.coindesk.com/business/2022/11/10/without-details-trons-justin-sun-says-hes-putting-together-solution-for-ftx/]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>

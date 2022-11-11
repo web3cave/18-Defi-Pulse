@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1591091871899881477",
+          "author": "DeFi Pulse",
+          "description": "Re \nSBF: 5) I'm piecing together all of the details, but I was shocked to see things unravel the way they did earlier this week.\nI will, soon, write up a more complete post on the play by play, but I want to make sure that I get it right when I do.",
+          "link": "https://twitter.com/defipulse/status/1591091871899881477",
+          "publishedOn": "2022-11-11T15:33:57.000Z",
+          "wordCount": 399,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1591091666970378240",
+          "author": "DeFi Pulse",
+          "description": "SBF claims he was \"...shocked to see things unravel the way they did earlier this week.\"\nCome on....",
+          "link": "https://twitter.com/defipulse/status/1591091666970378240",
+          "publishedOn": "2022-11-11T15:33:09.000Z",
+          "wordCount": 399,
+          "title": "SBF claims he was \"...shocked to see things unravel the way they did earlier this week.\" Come on....",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1591076543543283717",
           "author": "DeFi Pulse",
           "description": "SBF resigns...",
@@ -181,26 +201,6 @@
           "description": "Re \nSBF: 1) I'm sorry.  That's the biggest thing.\nI fucked up, and should have done better.",
           "link": "https://twitter.com/defipulse/status/1590710933269413890",
           "publishedOn": "2022-11-10T14:20:15.000Z",
-          "wordCount": 399,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1590710824456564736",
-          "author": "DeFi Pulse",
-          "description": "Alameda Research is winding down trading…",
-          "link": "https://twitter.com/defipulse/status/1590710824456564736",
-          "publishedOn": "2022-11-10T14:19:49.000Z",
-          "wordCount": 399,
-          "title": "Alameda Research is winding down trading…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1590549922688143360",
-          "author": "DeFi Pulse",
-          "description": "Re  https://www.coindesk.com/business/2022/11/10/without-details-trons-justin-sun-says-hes-putting-together-solution-for-ftx/",
-          "link": "https://twitter.com/defipulse/status/1590549922688143360",
-          "publishedOn": "2022-11-10T03:40:27.000Z",
           "wordCount": 399,
           "title": "Re",
           "imageUrl": null
