@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1591317157383737344",
+          "author": "DeFi Pulse",
+          "description": "🚨DELETE FTX APPS. DO NOT USE THE WEBSITE.\n0xTre: Official: FTX has been hacked.\nSource: admin of FTX Community Chat",
+          "link": "https://twitter.com/defipulse/status/1591317157383737344",
+          "publishedOn": "2022-11-12T06:29:10.000Z",
+          "wordCount": 399,
+          "title": "🚨DELETE FTX APPS. DO NOT USE THE WEBSITE.",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1591190449632710656",
           "author": "DeFi Pulse",
           "description": "Gensler staffer that led the infamous no-action letter meeting with SBF was given a huge promotion to Gensler Chief of Staff the day after FTX collapsed.\nWHY THE RUSH, GARY?",
@@ -173,36 +183,6 @@
           "publishedOn": "2022-11-10T15:29:35.000Z",
           "wordCount": 399,
           "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1590728270638911488",
-          "author": "DeFi Pulse",
-          "description": "FTX had $16b in customer assets and lent out $10b to Alameda...",
-          "link": "https://twitter.com/defipulse/status/1590728270638911488",
-          "publishedOn": "2022-11-10T15:29:08.000Z",
-          "wordCount": 399,
-          "title": "FTX had $16b in customer assets and lent out $10b to Alameda...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1590723553212579840",
-          "author": "DeFi Pulse",
-          "description": "Re \nTom Emmer: Interesting. @GaryGensler runs to the media while reports to my office allege he was helping SBF and FTX work on legal loopholes to obtain a regulatory monopoly. We're looking into this.",
-          "link": "https://twitter.com/defipulse/status/1590723553212579840",
-          "publishedOn": "2022-11-10T15:10:23.000Z",
-          "wordCount": 399,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1590723178053390338",
-          "author": "DeFi Pulse",
-          "description": "Allegations that Gary Gensler was helping SBF with regulatory loopholes...",
-          "link": "https://twitter.com/defipulse/status/1590723178053390338",
-          "publishedOn": "2022-11-10T15:08:54.000Z",
-          "wordCount": 399,
-          "title": "Allegations that Gary Gensler was helping SBF with regulatory loopholes...",
           "imageUrl": null
         }
       ]

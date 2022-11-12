@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-12T07:19:56.881Z</id>
+    <id>urn:2022-11-12T08:27:09.390Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-12T07:19:56.881Z</updated>
+    <updated>2022-11-12T08:27:09.390Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[🚨DELETE FTX APPS. DO NOT USE THE WEBSITE.]]></title>
+        <id>https://twitter.com/defipulse/status/1591317157383737344</id>
+        <link href="https://twitter.com/defipulse/status/1591317157383737344"/>
+        <updated>2022-11-12T06:29:10.000Z</updated>
+        <summary type="html"><![CDATA[🚨DELETE FTX APPS. DO NOT USE THE WEBSITE.
+0xTre: Official: FTX has been hacked.
+Source: admin of FTX Community Chat]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gensler staffer that led the infamous no-action letter meeting with SBF was given a huge promotion to Gensler Chief of Staff the day after FTX collaps...]]></title>
         <id>https://twitter.com/defipulse/status/1591190449632710656</id>
@@ -184,37 +196,6 @@ The point is that the SEC was pretty close.]]></summary>
         <link href="https://twitter.com/defipulse/status/1590728382353850368"/>
         <updated>2022-11-10T15:29:35.000Z</updated>
         <summary type="html"><![CDATA[Re  https://www.wsj.com/articles/ftx-tapped-into-customer-accounts-to-fund-risky-bets-setting-up-its-downfall-11668093732]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTX had $16b in customer assets and lent out $10b to Alameda...]]></title>
-        <id>https://twitter.com/defipulse/status/1590728270638911488</id>
-        <link href="https://twitter.com/defipulse/status/1590728270638911488"/>
-        <updated>2022-11-10T15:29:08.000Z</updated>
-        <summary type="html"><![CDATA[FTX had $16b in customer assets and lent out $10b to Alameda...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1590723553212579840</id>
-        <link href="https://twitter.com/defipulse/status/1590723553212579840"/>
-        <updated>2022-11-10T15:10:23.000Z</updated>
-        <summary type="html"><![CDATA[Re 
-Tom Emmer: Interesting. @GaryGensler runs to the media while reports to my office allege he was helping SBF and FTX work on legal loopholes to obtain a regulatory monopoly. We're looking into this.]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Allegations that Gary Gensler was helping SBF with regulatory loopholes...]]></title>
-        <id>https://twitter.com/defipulse/status/1590723178053390338</id>
-        <link href="https://twitter.com/defipulse/status/1590723178053390338"/>
-        <updated>2022-11-10T15:08:54.000Z</updated>
-        <summary type="html"><![CDATA[Allegations that Gary Gensler was helping SBF with regulatory loopholes...]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
