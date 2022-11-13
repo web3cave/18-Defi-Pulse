@@ -1,17 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-13T01:56:49.351Z</id>
+    <id>urn:2022-11-13T03:35:43.517Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-13T01:56:49.351Z</updated>
+    <updated>2022-11-13T03:35:43.517Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bahamas Securities Comission: FTX lied about being asked to prioritize Bahamian citizens.]]></title>
+        <id>https://twitter.com/defipulse/status/1591611432134934534</id>
+        <link href="https://twitter.com/defipulse/status/1591611432134934534"/>
+        <updated>2022-11-13T01:58:30.000Z</updated>
+        <summary type="html"><![CDATA[Bahamas Securities Comission: FTX lied about being asked to prioritize Bahamian citizens.
+Securities Commission of The Bahamas: Securities Commission Addresses FTX Statement on Bahamian Withdrawals]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🚨DELETE FTX APPS. DO NOT USE THE WEBSITE.]]></title>
         <id>https://twitter.com/defipulse/status/1591317157383737344</id>
         <link href="https://twitter.com/defipulse/status/1591317157383737344"/>
         <updated>2022-11-12T06:29:10.000Z</updated>
         <summary type="html"><![CDATA[🚨DELETE FTX APPS. DO NOT USE THE WEBSITE.
-0xTre: Official: FTX has been hacked.
+0xTre (Going Private at 1k 🔑): Official: FTX has been hacked.
 Source: admin of FTX Community Chat]]></summary>
         <author>
             <name>DeFi Pulse</name>
@@ -186,16 +197,6 @@ The point is that the SEC was pretty close.]]></summary>
         <link href="https://twitter.com/defipulse/status/1590731461032042496"/>
         <updated>2022-11-10T15:41:49.000Z</updated>
         <summary type="html"><![CDATA[UNVERIFIED RUMOR: Gary Gensler was going to give IEX and FTX "no-action relief" (meaning a letter saying if you do X in this way, while technically against our rules, we won't come after you).]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1590728382353850368</id>
-        <link href="https://twitter.com/defipulse/status/1590728382353850368"/>
-        <updated>2022-11-10T15:29:35.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.wsj.com/articles/ftx-tapped-into-customer-accounts-to-fund-risky-bets-setting-up-its-downfall-11668093732]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>

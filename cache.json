@@ -6,9 +6,19 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1591611432134934534",
+          "author": "DeFi Pulse",
+          "description": "Bahamas Securities Comission: FTX lied about being asked to prioritize Bahamian citizens.\nSecurities Commission of The Bahamas: Securities Commission Addresses FTX Statement on Bahamian Withdrawals",
+          "link": "https://twitter.com/defipulse/status/1591611432134934534",
+          "publishedOn": "2022-11-13T01:58:30.000Z",
+          "wordCount": 399,
+          "title": "Bahamas Securities Comission: FTX lied about being asked to prioritize Bahamian citizens.",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1591317157383737344",
           "author": "DeFi Pulse",
-          "description": "🚨DELETE FTX APPS. DO NOT USE THE WEBSITE.\n0xTre: Official: FTX has been hacked.\nSource: admin of FTX Community Chat",
+          "description": "🚨DELETE FTX APPS. DO NOT USE THE WEBSITE.\n0xTre (Going Private at 1k 🔑): Official: FTX has been hacked.\nSource: admin of FTX Community Chat",
           "link": "https://twitter.com/defipulse/status/1591317157383737344",
           "publishedOn": "2022-11-12T06:29:10.000Z",
           "wordCount": 399,
@@ -173,16 +183,6 @@
           "publishedOn": "2022-11-10T15:41:49.000Z",
           "wordCount": 399,
           "title": "UNVERIFIED RUMOR: Gary Gensler was going to give IEX and FTX \"no-action relief\" (meaning a letter saying if you do X in this way, while technically ag...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1590728382353850368",
-          "author": "DeFi Pulse",
-          "description": "Re  https://www.wsj.com/articles/ftx-tapped-into-customer-accounts-to-fund-risky-bets-setting-up-its-downfall-11668093732",
-          "link": "https://twitter.com/defipulse/status/1590728382353850368",
-          "publishedOn": "2022-11-10T15:29:35.000Z",
-          "wordCount": 399,
-          "title": "Re",
           "imageUrl": null
         }
       ]
