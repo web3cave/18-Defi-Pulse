@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-14T18:27:04.437Z</id>
+    <id>urn:2022-11-14T19:17:53.782Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-14T18:27:04.437Z</updated>
+    <updated>2022-11-14T19:17:53.782Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1592202396524236801</id>
+        <link href="https://twitter.com/defipulse/status/1592202396524236801"/>
+        <updated>2022-11-14T17:06:47.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.mintscan.io/cosmos/proposals/82]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ATOM 2.0 proposal fails to pass, with more than 1/3 of voters opting for "NoWithVeto"...]]></title>
+        <id>https://twitter.com/defipulse/status/1592202394167029760</id>
+        <link href="https://twitter.com/defipulse/status/1592202394167029760"/>
+        <updated>2022-11-14T17:06:47.000Z</updated>
+        <summary type="html"><![CDATA[ATOM 2.0 proposal fails to pass, with more than 1/3 of voters opting for "NoWithVeto"...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bahamas Securities Comission: FTX lied about being asked to prioritize Bahamian citizens.]]></title>
         <id>https://twitter.com/defipulse/status/1591611432134934534</id>
@@ -146,7 +166,8 @@ BlockFi:]]></summary>
 Dane Lund: It is worth noting, the ties between FTX and the SEC go beyond in-person meetings.
 The general counsel of FTX US had served as lead counsel to Chairman Gensler at the CFTC. 
 By all accounts, he is a standup and excellent attorney. 
-The point is that the SEC was pretty close.]]></summary>
+The point is that the SEC was pretty close.
+ https://twitter.com/RepTomEmmer/status/1590717374801809409]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
@@ -177,26 +198,6 @@ The point is that the SEC was pretty close.]]></summary>
         <link href="https://twitter.com/defipulse/status/1590792300560453632"/>
         <updated>2022-11-10T19:43:34.000Z</updated>
         <summary type="html"><![CDATA[White House is monitoring the FTX implosion...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re h/t @digitalassetbuy]]></title>
-        <id>https://twitter.com/defipulse/status/1590735585328607232</id>
-        <link href="https://twitter.com/defipulse/status/1590735585328607232"/>
-        <updated>2022-11-10T15:58:12.000Z</updated>
-        <summary type="html"><![CDATA[Re h/t @digitalassetbuy]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UNVERIFIED RUMOR: Gary Gensler was going to give IEX and FTX "no-action relief" (meaning a letter saying if you do X in this way, while technically ag...]]></title>
-        <id>https://twitter.com/defipulse/status/1590731461032042496</id>
-        <link href="https://twitter.com/defipulse/status/1590731461032042496"/>
-        <updated>2022-11-10T15:41:49.000Z</updated>
-        <summary type="html"><![CDATA[UNVERIFIED RUMOR: Gary Gensler was going to give IEX and FTX "no-action relief" (meaning a letter saying if you do X in this way, while technically against our rules, we won't come after you).]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>

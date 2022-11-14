@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1592202396524236801",
+          "author": "DeFi Pulse",
+          "description": "Re  https://www.mintscan.io/cosmos/proposals/82",
+          "link": "https://twitter.com/defipulse/status/1592202396524236801",
+          "publishedOn": "2022-11-14T17:06:47.000Z",
+          "wordCount": 399,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1592202394167029760",
+          "author": "DeFi Pulse",
+          "description": "ATOM 2.0 proposal fails to pass, with more than 1/3 of voters opting for \"NoWithVeto\"...",
+          "link": "https://twitter.com/defipulse/status/1592202394167029760",
+          "publishedOn": "2022-11-14T17:06:47.000Z",
+          "wordCount": 399,
+          "title": "ATOM 2.0 proposal fails to pass, with more than 1/3 of voters opting for \"NoWithVeto\"...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1591611432134934534",
           "author": "DeFi Pulse",
           "description": "Bahamas Securities Comission: FTX lied about being asked to prioritize Bahamian citizens.\nSecurities Commission of The Bahamas: Securities Commission Addresses FTX Statement on Bahamian Withdrawals",
@@ -128,7 +148,7 @@
         {
           "id": "https://twitter.com/defipulse/status/1590877791653834752",
           "author": "DeFi Pulse",
-          "description": "Re h/t @lund_dane\nDane Lund: It is worth noting, the ties between FTX and the SEC go beyond in-person meetings.\nThe general counsel of FTX US had served as lead counsel to Chairman Gensler at the CFTC. \nBy all accounts, he is a standup and excellent attorney. \nThe point is that the SEC was pretty close.",
+          "description": "Re h/t @lund_dane\nDane Lund: It is worth noting, the ties between FTX and the SEC go beyond in-person meetings.\nThe general counsel of FTX US had served as lead counsel to Chairman Gensler at the CFTC. \nBy all accounts, he is a standup and excellent attorney. \nThe point is that the SEC was pretty close.\n https://twitter.com/RepTomEmmer/status/1590717374801809409",
           "link": "https://twitter.com/defipulse/status/1590877791653834752",
           "publishedOn": "2022-11-11T01:23:17.000Z",
           "wordCount": 399,
@@ -163,26 +183,6 @@
           "publishedOn": "2022-11-10T19:43:34.000Z",
           "wordCount": 399,
           "title": "White House is monitoring the FTX implosion...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1590735585328607232",
-          "author": "DeFi Pulse",
-          "description": "Re h/t @digitalassetbuy",
-          "link": "https://twitter.com/defipulse/status/1590735585328607232",
-          "publishedOn": "2022-11-10T15:58:12.000Z",
-          "wordCount": 399,
-          "title": "Re h/t @digitalassetbuy",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1590731461032042496",
-          "author": "DeFi Pulse",
-          "description": "UNVERIFIED RUMOR: Gary Gensler was going to give IEX and FTX \"no-action relief\" (meaning a letter saying if you do X in this way, while technically against our rules, we won't come after you).",
-          "link": "https://twitter.com/defipulse/status/1590731461032042496",
-          "publishedOn": "2022-11-10T15:41:49.000Z",
-          "wordCount": 399,
-          "title": "UNVERIFIED RUMOR: Gary Gensler was going to give IEX and FTX \"no-action relief\" (meaning a letter saying if you do X in this way, while technically ag...",
           "imageUrl": null
         }
       ]
