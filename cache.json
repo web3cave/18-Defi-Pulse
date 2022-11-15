@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1592578130572869632",
+          "author": "DeFi Pulse",
+          "description": "Re  https://www.wsj.com/articles/blockfi-prepares-for-potential-bankruptcy-as-crypto-contagion-spreads-11668534824?page=1",
+          "link": "https://twitter.com/defipulse/status/1592578130572869632",
+          "publishedOn": "2022-11-15T17:59:49.000Z",
+          "wordCount": 399,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1592578128592805889",
+          "author": "DeFi Pulse",
+          "description": "BlockFi prepares for potential bankruptcy...",
+          "link": "https://twitter.com/defipulse/status/1592578128592805889",
+          "publishedOn": "2022-11-15T17:59:49.000Z",
+          "wordCount": 399,
+          "title": "BlockFi prepares for potential bankruptcy...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1592530061391196162",
           "author": "DeFi Pulse",
           "description": "Re  https://www.foxbusiness.com/markets/sec-chairman-gary-gensler-met-with-head-ftx-months-before-collapse",
@@ -78,7 +98,7 @@
         {
           "id": "https://twitter.com/defipulse/status/1591317157383737344",
           "author": "DeFi Pulse",
-          "description": "🚨DELETE FTX APPS. DO NOT USE THE WEBSITE.\n0xTre: Official: FTX has been hacked.\nSource: admin of FTX Community Chat",
+          "description": "🚨DELETE FTX APPS. DO NOT USE THE WEBSITE.\n0xTre 🦇🔊: Official: FTX has been hacked.\nSource: admin of FTX Community Chat",
           "link": "https://twitter.com/defipulse/status/1591317157383737344",
           "publishedOn": "2022-11-12T06:29:10.000Z",
           "wordCount": 399,
@@ -163,26 +183,6 @@
           "publishedOn": "2022-11-11T14:16:18.000Z",
           "wordCount": 399,
           "title": "FTX files for bankruptcy…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1590879280623677440",
-          "author": "DeFi Pulse",
-          "description": "Re \nBlockFi:",
-          "link": "https://twitter.com/defipulse/status/1590879280623677440",
-          "publishedOn": "2022-11-11T01:29:12.000Z",
-          "wordCount": 399,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1590879134829654017",
-          "author": "DeFi Pulse",
-          "description": "BlockFi not able to operate business as usual and pausing withdrawals…",
-          "link": "https://twitter.com/defipulse/status/1590879134829654017",
-          "publishedOn": "2022-11-11T01:28:37.000Z",
-          "wordCount": 399,
-          "title": "BlockFi not able to operate business as usual and pausing withdrawals…",
           "imageUrl": null
         }
       ]
