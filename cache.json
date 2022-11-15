@@ -6,6 +6,46 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1592530061391196162",
+          "author": "DeFi Pulse",
+          "description": "Re  https://www.foxbusiness.com/markets/sec-chairman-gary-gensler-met-with-head-ftx-months-before-collapse",
+          "link": "https://twitter.com/defipulse/status/1592530061391196162",
+          "publishedOn": "2022-11-15T14:48:49.000Z",
+          "wordCount": 399,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1592530059461791744",
+          "author": "DeFi Pulse",
+          "description": "Months before FTX collapsed, SBF met with Gensler to discuss a new SEC-approved crypto trading platform. \nIf approved, SBF would have had a jump-start on the competition with a trading platform meeting SEC standards...",
+          "link": "https://twitter.com/defipulse/status/1592530059461791744",
+          "publishedOn": "2022-11-15T14:48:48.000Z",
+          "wordCount": 399,
+          "title": "Months before FTX collapsed, SBF met with Gensler to discuss a new SEC-approved crypto trading platform. If approved, SBF would have had a jump-start ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1592521800441016322",
+          "author": "DeFi Pulse",
+          "description": "Re  https://www.coindesk.com/tech/2022/11/15/ftx-accounts-drainer-swaps-millions-in-stolen-crypto-becomes-35th-largest-ether-holder/",
+          "link": "https://twitter.com/defipulse/status/1592521800441016322",
+          "publishedOn": "2022-11-15T14:15:59.000Z",
+          "wordCount": 399,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1592521798347886592",
+          "author": "DeFi Pulse",
+          "description": "The culprit who siphoned funds from FTX is now the 35th-largest ETH holder...",
+          "link": "https://twitter.com/defipulse/status/1592521798347886592",
+          "publishedOn": "2022-11-15T14:15:59.000Z",
+          "wordCount": 399,
+          "title": "The culprit who siphoned funds from FTX is now the 35th-largest ETH holder...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1592202396524236801",
           "author": "DeFi Pulse",
           "description": "Re  https://www.mintscan.io/cosmos/proposals/82",
@@ -143,46 +183,6 @@
           "publishedOn": "2022-11-11T01:28:37.000Z",
           "wordCount": 399,
           "title": "BlockFi not able to operate business as usual and pausing withdrawals…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1590877791653834752",
-          "author": "DeFi Pulse",
-          "description": "Re h/t @lund_dane\nDane Lund: It is worth noting, the ties between FTX and the SEC go beyond in-person meetings.\nThe general counsel of FTX US had served as lead counsel to Chairman Gensler at the CFTC. \nBy all accounts, he is a standup and excellent attorney. \nThe point is that the SEC was pretty close.",
-          "link": "https://twitter.com/defipulse/status/1590877791653834752",
-          "publishedOn": "2022-11-11T01:23:17.000Z",
-          "wordCount": 399,
-          "title": "Re h/t @lund_dane",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1590877584136757249",
-          "author": "DeFi Pulse",
-          "description": "General counsel of FTX US served as lead counsel to Gensler at CFTC…",
-          "link": "https://twitter.com/defipulse/status/1590877584136757249",
-          "publishedOn": "2022-11-11T01:22:27.000Z",
-          "wordCount": 399,
-          "title": "General counsel of FTX US served as lead counsel to Gensler at CFTC…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1590792438788292610",
-          "author": "DeFi Pulse",
-          "description": "Re  https://www.theblock.co/post/185575/white-house-is-monitoring-ftx-implosion-calls-for-more-crypto-regulation?utm_source=twitter&utm_medium=social",
-          "link": "https://twitter.com/defipulse/status/1590792438788292610",
-          "publishedOn": "2022-11-10T19:44:07.000Z",
-          "wordCount": 399,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1590792300560453632",
-          "author": "DeFi Pulse",
-          "description": "White House is monitoring the FTX implosion...",
-          "link": "https://twitter.com/defipulse/status/1590792300560453632",
-          "publishedOn": "2022-11-10T19:43:34.000Z",
-          "wordCount": 399,
-          "title": "White House is monitoring the FTX implosion...",
           "imageUrl": null
         }
       ]

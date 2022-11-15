@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-15T14:18:42.271Z</id>
+    <id>urn:2022-11-15T15:22:23.407Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-15T14:18:42.271Z</updated>
+    <updated>2022-11-15T15:22:23.407Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1592530061391196162</id>
+        <link href="https://twitter.com/defipulse/status/1592530061391196162"/>
+        <updated>2022-11-15T14:48:49.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.foxbusiness.com/markets/sec-chairman-gary-gensler-met-with-head-ftx-months-before-collapse]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Months before FTX collapsed, SBF met with Gensler to discuss a new SEC-approved crypto trading platform. If approved, SBF would have had a jump-start ...]]></title>
+        <id>https://twitter.com/defipulse/status/1592530059461791744</id>
+        <link href="https://twitter.com/defipulse/status/1592530059461791744"/>
+        <updated>2022-11-15T14:48:48.000Z</updated>
+        <summary type="html"><![CDATA[Months before FTX collapsed, SBF met with Gensler to discuss a new SEC-approved crypto trading platform. 
+If approved, SBF would have had a jump-start on the competition with a trading platform meeting SEC standards...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1592521800441016322</id>
+        <link href="https://twitter.com/defipulse/status/1592521800441016322"/>
+        <updated>2022-11-15T14:15:59.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.coindesk.com/tech/2022/11/15/ftx-accounts-drainer-swaps-millions-in-stolen-crypto-becomes-35th-largest-ether-holder/]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The culprit who siphoned funds from FTX is now the 35th-largest ETH holder...]]></title>
+        <id>https://twitter.com/defipulse/status/1592521798347886592</id>
+        <link href="https://twitter.com/defipulse/status/1592521798347886592"/>
+        <updated>2022-11-15T14:15:59.000Z</updated>
+        <summary type="html"><![CDATA[The culprit who siphoned funds from FTX is now the 35th-largest ETH holder...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1592202396524236801</id>
@@ -153,50 +194,6 @@ BlockFi:]]></summary>
         <link href="https://twitter.com/defipulse/status/1590879134829654017"/>
         <updated>2022-11-11T01:28:37.000Z</updated>
         <summary type="html"><![CDATA[BlockFi not able to operate business as usual and pausing withdrawals…]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re h/t @lund_dane]]></title>
-        <id>https://twitter.com/defipulse/status/1590877791653834752</id>
-        <link href="https://twitter.com/defipulse/status/1590877791653834752"/>
-        <updated>2022-11-11T01:23:17.000Z</updated>
-        <summary type="html"><![CDATA[Re h/t @lund_dane
-Dane Lund: It is worth noting, the ties between FTX and the SEC go beyond in-person meetings.
-The general counsel of FTX US had served as lead counsel to Chairman Gensler at the CFTC. 
-By all accounts, he is a standup and excellent attorney. 
-The point is that the SEC was pretty close.]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[General counsel of FTX US served as lead counsel to Gensler at CFTC…]]></title>
-        <id>https://twitter.com/defipulse/status/1590877584136757249</id>
-        <link href="https://twitter.com/defipulse/status/1590877584136757249"/>
-        <updated>2022-11-11T01:22:27.000Z</updated>
-        <summary type="html"><![CDATA[General counsel of FTX US served as lead counsel to Gensler at CFTC…]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1590792438788292610</id>
-        <link href="https://twitter.com/defipulse/status/1590792438788292610"/>
-        <updated>2022-11-10T19:44:07.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.theblock.co/post/185575/white-house-is-monitoring-ftx-implosion-calls-for-more-crypto-regulation?utm_source=twitter&utm_medium=social]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[White House is monitoring the FTX implosion...]]></title>
-        <id>https://twitter.com/defipulse/status/1590792300560453632</id>
-        <link href="https://twitter.com/defipulse/status/1590792300560453632"/>
-        <updated>2022-11-10T19:43:34.000Z</updated>
-        <summary type="html"><![CDATA[White House is monitoring the FTX implosion...]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
