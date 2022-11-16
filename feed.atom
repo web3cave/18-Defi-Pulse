@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-16T16:29:18.310Z</id>
+    <id>urn:2022-11-16T17:19:18.386Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-16T16:29:18.310Z</updated>
+    <updated>2022-11-16T17:19:18.386Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re UPDATE: Gemini Exchange went down due to an Amazon Web Service outage. They are working to bring the exchange back up...]]></title>
+        <id>https://twitter.com/defipulse/status/1592927068106653696</id>
+        <link href="https://twitter.com/defipulse/status/1592927068106653696"/>
+        <updated>2022-11-16T17:06:22.000Z</updated>
+        <summary type="html"><![CDATA[Re UPDATE: Gemini Exchange went down due to an Amazon Web Service outage. They are working to bring the exchange back up...
+Gemini: We experienced an Amazon Web Services EBS outage with one of our primary databases. We have restored the database and are bringing the exchange back up.]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini exchange temporarily grounded...]]></title>
+        <id>https://twitter.com/defipulse/status/1592920988018421765</id>
+        <link href="https://twitter.com/defipulse/status/1592920988018421765"/>
+        <updated>2022-11-16T16:42:13.000Z</updated>
+        <summary type="html"><![CDATA[Gemini exchange temporarily grounded...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1592879523917312001</id>
@@ -168,30 +189,6 @@ WHY THE RUSH, GARY?]]></summary>
         <updated>2022-11-11T21:22:00.000Z</updated>
         <summary type="html"><![CDATA[Re Source: 
 H/t: @Leerzeit https://www.sec.gov/comments/s7-25-20/s72520-20127575-288804.pdf]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RUMOR CONFIRMED ✅]]></title>
-        <id>https://twitter.com/defipulse/status/1591173655400448001</id>
-        <link href="https://twitter.com/defipulse/status/1591173655400448001"/>
-        <updated>2022-11-11T20:58:56.000Z</updated>
-        <summary type="html"><![CDATA[RUMOR CONFIRMED ✅
-
-DeFi Pulse: UNVERIFIED RUMOR: Gary Gensler was going to give IEX and FTX "no-action relief" (meaning a letter saying if you do X in this way, while technically against our rules, we won't come after you).]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1591091871899881477</id>
-        <link href="https://twitter.com/defipulse/status/1591091871899881477"/>
-        <updated>2022-11-11T15:33:57.000Z</updated>
-        <summary type="html"><![CDATA[Re 
-SBF: 5) I'm piecing together all of the details, but I was shocked to see things unravel the way they did earlier this week.
-I will, soon, write up a more complete post on the play by play, but I want to make sure that I get it right when I do.]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>

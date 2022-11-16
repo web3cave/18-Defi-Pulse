@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1592927068106653696",
+          "author": "DeFi Pulse",
+          "description": "Re UPDATE: Gemini Exchange went down due to an Amazon Web Service outage. They are working to bring the exchange back up...\nGemini: We experienced an Amazon Web Services EBS outage with one of our primary databases. We have restored the database and are bringing the exchange back up.",
+          "link": "https://twitter.com/defipulse/status/1592927068106653696",
+          "publishedOn": "2022-11-16T17:06:22.000Z",
+          "wordCount": 399,
+          "title": "Re UPDATE: Gemini Exchange went down due to an Amazon Web Service outage. They are working to bring the exchange back up...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1592920988018421765",
+          "author": "DeFi Pulse",
+          "description": "Gemini exchange temporarily grounded...",
+          "link": "https://twitter.com/defipulse/status/1592920988018421765",
+          "publishedOn": "2022-11-16T16:42:13.000Z",
+          "wordCount": 399,
+          "title": "Gemini exchange temporarily grounded...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1592879523917312001",
           "author": "DeFi Pulse",
           "description": "Re  https://www.theblock.co/post/187534/gemini-earn-unable-to-meet-customer-redemptions-as-genesis-unit-pauses-withdrawals?utm_source=telegram1&utm_medium=social",
@@ -163,26 +183,6 @@
           "publishedOn": "2022-11-11T21:22:00.000Z",
           "wordCount": 399,
           "title": "Re Source: H/t: @Leerzeit",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1591173655400448001",
-          "author": "DeFi Pulse",
-          "description": "RUMOR CONFIRMED ✅\n\nDeFi Pulse: UNVERIFIED RUMOR: Gary Gensler was going to give IEX and FTX \"no-action relief\" (meaning a letter saying if you do X in this way, while technically against our rules, we won't come after you).",
-          "link": "https://twitter.com/defipulse/status/1591173655400448001",
-          "publishedOn": "2022-11-11T20:58:56.000Z",
-          "wordCount": 399,
-          "title": "RUMOR CONFIRMED ✅",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1591091871899881477",
-          "author": "DeFi Pulse",
-          "description": "Re \nSBF: 5) I'm piecing together all of the details, but I was shocked to see things unravel the way they did earlier this week.\nI will, soon, write up a more complete post on the play by play, but I want to make sure that I get it right when I do.",
-          "link": "https://twitter.com/defipulse/status/1591091871899881477",
-          "publishedOn": "2022-11-11T15:33:57.000Z",
-          "wordCount": 399,
-          "title": "Re",
           "imageUrl": null
         }
       ]
