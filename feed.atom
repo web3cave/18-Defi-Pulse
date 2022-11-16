@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-16T17:19:18.386Z</id>
+    <id>urn:2022-11-16T18:25:47.578Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-16T17:19:18.386Z</updated>
+    <updated>2022-11-16T18:25:47.578Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Gemini exchange is fully back online...]]></title>
+        <id>https://twitter.com/defipulse/status/1592945990981799936</id>
+        <link href="https://twitter.com/defipulse/status/1592945990981799936"/>
+        <updated>2022-11-16T18:21:34.000Z</updated>
+        <summary type="html"><![CDATA[Gemini exchange is fully back online...
+Gemini: Gemini exchange fully back online; all customer funds held on the Gemini exchange are held 1:1 and available for withdrawal at any time.]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re UPDATE: Withdrawals and deposits are still disabled.]]></title>
+        <id>https://twitter.com/defipulse/status/1592939840060166144</id>
+        <link href="https://twitter.com/defipulse/status/1592939840060166144"/>
+        <updated>2022-11-16T17:57:07.000Z</updated>
+        <summary type="html"><![CDATA[Re UPDATE: Withdrawals and deposits are still disabled.]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1592939481325219842</id>
+        <link href="https://twitter.com/defipulse/status/1592939481325219842"/>
+        <updated>2022-11-16T17:55:42.000Z</updated>
+        <summary type="html"><![CDATA[Re 
+Coinbase: 2/ We won’t comment on every event in crypto, but for the sake of clarity: Coinbase has zero exposure to Genesis Trading.]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.@coinbase has zero exposure to Genesis Trading...]]></title>
+        <id>https://twitter.com/defipulse/status/1592939479744278529</id>
+        <link href="https://twitter.com/defipulse/status/1592939479744278529"/>
+        <updated>2022-11-16T17:55:42.000Z</updated>
+        <summary type="html"><![CDATA[.@coinbase has zero exposure to Genesis Trading...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1592937868145885184</id>
+        <link href="https://twitter.com/defipulse/status/1592937868145885184"/>
+        <updated>2022-11-16T17:49:17.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://forum.makerdao.com/t/gusd-makerdao-partnership-announcement/18140/49]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini assures Maker community GUSD is unaffected, and the partnership will continue as planned...]]></title>
+        <id>https://twitter.com/defipulse/status/1592937866610741248</id>
+        <link href="https://twitter.com/defipulse/status/1592937866610741248"/>
+        <updated>2022-11-16T17:49:17.000Z</updated>
+        <summary type="html"><![CDATA[Gemini assures Maker community GUSD is unaffected, and the partnership will continue as planned...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re UPDATE: Gemini Exchange is back online.]]></title>
+        <id>https://twitter.com/defipulse/status/1592936260523675648</id>
+        <link href="https://twitter.com/defipulse/status/1592936260523675648"/>
+        <updated>2022-11-16T17:42:54.000Z</updated>
+        <summary type="html"><![CDATA[Re UPDATE: Gemini Exchange is back online.]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re UPDATE: Gemini Exchange went down due to an Amazon Web Service outage. They are working to bring the exchange back up...]]></title>
         <id>https://twitter.com/defipulse/status/1592927068106653696</id>
@@ -134,61 +206,6 @@ If approved, SBF would have had a jump-start on the competition with a trading p
         <link href="https://twitter.com/defipulse/status/1592202396524236801"/>
         <updated>2022-11-14T17:06:47.000Z</updated>
         <summary type="html"><![CDATA[Re  https://www.mintscan.io/cosmos/proposals/82]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ATOM 2.0 proposal fails to pass, with more than 1/3 of voters opting for "NoWithVeto"...]]></title>
-        <id>https://twitter.com/defipulse/status/1592202394167029760</id>
-        <link href="https://twitter.com/defipulse/status/1592202394167029760"/>
-        <updated>2022-11-14T17:06:47.000Z</updated>
-        <summary type="html"><![CDATA[ATOM 2.0 proposal fails to pass, with more than 1/3 of voters opting for "NoWithVeto"...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bahamas Securities Comission: FTX lied about being asked to prioritize Bahamian citizens.]]></title>
-        <id>https://twitter.com/defipulse/status/1591611432134934534</id>
-        <link href="https://twitter.com/defipulse/status/1591611432134934534"/>
-        <updated>2022-11-13T01:58:30.000Z</updated>
-        <summary type="html"><![CDATA[Bahamas Securities Comission: FTX lied about being asked to prioritize Bahamian citizens.
-Securities Commission of The Bahamas: Securities Commission Addresses FTX Statement on Bahamian Withdrawals]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🚨DELETE FTX APPS. DO NOT USE THE WEBSITE.]]></title>
-        <id>https://twitter.com/defipulse/status/1591317157383737344</id>
-        <link href="https://twitter.com/defipulse/status/1591317157383737344"/>
-        <updated>2022-11-12T06:29:10.000Z</updated>
-        <summary type="html"><![CDATA[🚨DELETE FTX APPS. DO NOT USE THE WEBSITE.
-0xTre 🦇🔊: Official: FTX has been hacked.
-Source: admin of FTX Community Chat]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gensler staffer that led the infamous no-action letter meeting with SBF was given a huge promotion to Gensler Chief of Staff the day after FTX collaps...]]></title>
-        <id>https://twitter.com/defipulse/status/1591190449632710656</id>
-        <link href="https://twitter.com/defipulse/status/1591190449632710656"/>
-        <updated>2022-11-11T22:05:40.000Z</updated>
-        <summary type="html"><![CDATA[Gensler staffer that led the infamous no-action letter meeting with SBF was given a huge promotion to Gensler Chief of Staff the day after FTX collapsed.
-WHY THE RUSH, GARY?]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Source: H/t: @Leerzeit]]></title>
-        <id>https://twitter.com/defipulse/status/1591179459939696641</id>
-        <link href="https://twitter.com/defipulse/status/1591179459939696641"/>
-        <updated>2022-11-11T21:22:00.000Z</updated>
-        <summary type="html"><![CDATA[Re Source: 
-H/t: @Leerzeit https://www.sec.gov/comments/s7-25-20/s72520-20127575-288804.pdf]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
