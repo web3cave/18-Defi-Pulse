@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-16T14:18:59.398Z</id>
+    <id>urn:2022-11-16T15:21:48.058Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-16T14:18:59.398Z</updated>
+    <updated>2022-11-16T15:21:48.058Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1592879523917312001</id>
+        <link href="https://twitter.com/defipulse/status/1592879523917312001"/>
+        <updated>2022-11-16T13:57:27.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.theblock.co/post/187534/gemini-earn-unable-to-meet-customer-redemptions-as-genesis-unit-pauses-withdrawals?utm_source=telegram1&utm_medium=social]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini Earn unable to meet customer redemptions...]]></title>
+        <id>https://twitter.com/defipulse/status/1592879521560416256</id>
+        <link href="https://twitter.com/defipulse/status/1592879521560416256"/>
+        <updated>2022-11-16T13:57:26.000Z</updated>
+        <summary type="html"><![CDATA[Gemini Earn unable to meet customer redemptions...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1592878521826713601</id>
+        <link href="https://twitter.com/defipulse/status/1592878521826713601"/>
+        <updated>2022-11-16T13:53:28.000Z</updated>
+        <summary type="html"><![CDATA[Re 
+Genesis: We recognize how challenging this past week has been due to the impact of the FTX news. At Genesis we are entirely focused on doing everything we can to serve our clients and navigate this difficult market environment.]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genesis suspends client withdrawals...]]></title>
+        <id>https://twitter.com/defipulse/status/1592878338896719872</id>
+        <link href="https://twitter.com/defipulse/status/1592878338896719872"/>
+        <updated>2022-11-16T13:52:44.000Z</updated>
+        <summary type="html"><![CDATA[Genesis suspends client withdrawals...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1592578130572869632</id>
@@ -151,48 +192,6 @@ DeFi Pulse: UNVERIFIED RUMOR: Gary Gensler was going to give IEX and FTX "no-a
         <summary type="html"><![CDATA[Re 
 SBF: 5) I'm piecing together all of the details, but I was shocked to see things unravel the way they did earlier this week.
 I will, soon, write up a more complete post on the play by play, but I want to make sure that I get it right when I do.]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SBF claims he was "...shocked to see things unravel the way they did earlier this week." Come on....]]></title>
-        <id>https://twitter.com/defipulse/status/1591091666970378240</id>
-        <link href="https://twitter.com/defipulse/status/1591091666970378240"/>
-        <updated>2022-11-11T15:33:09.000Z</updated>
-        <summary type="html"><![CDATA[SBF claims he was "...shocked to see things unravel the way they did earlier this week."
-Come on....]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SBF resigns...]]></title>
-        <id>https://twitter.com/defipulse/status/1591076543543283717</id>
-        <link href="https://twitter.com/defipulse/status/1591076543543283717"/>
-        <updated>2022-11-11T14:33:03.000Z</updated>
-        <summary type="html"><![CDATA[SBF resigns...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1591072457116778497</id>
-        <link href="https://twitter.com/defipulse/status/1591072457116778497"/>
-        <updated>2022-11-11T14:16:49.000Z</updated>
-        <summary type="html"><![CDATA[Re 
-FTX: Press Release]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTX files for bankruptcy…]]></title>
-        <id>https://twitter.com/defipulse/status/1591072329999712258</id>
-        <link href="https://twitter.com/defipulse/status/1591072329999712258"/>
-        <updated>2022-11-11T14:16:18.000Z</updated>
-        <summary type="html"><![CDATA[FTX files for bankruptcy…]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>

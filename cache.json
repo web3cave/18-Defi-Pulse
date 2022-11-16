@@ -6,6 +6,46 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1592879523917312001",
+          "author": "DeFi Pulse",
+          "description": "Re  https://www.theblock.co/post/187534/gemini-earn-unable-to-meet-customer-redemptions-as-genesis-unit-pauses-withdrawals?utm_source=telegram1&utm_medium=social",
+          "link": "https://twitter.com/defipulse/status/1592879523917312001",
+          "publishedOn": "2022-11-16T13:57:27.000Z",
+          "wordCount": 399,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1592879521560416256",
+          "author": "DeFi Pulse",
+          "description": "Gemini Earn unable to meet customer redemptions...",
+          "link": "https://twitter.com/defipulse/status/1592879521560416256",
+          "publishedOn": "2022-11-16T13:57:26.000Z",
+          "wordCount": 399,
+          "title": "Gemini Earn unable to meet customer redemptions...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1592878521826713601",
+          "author": "DeFi Pulse",
+          "description": "Re \nGenesis: We recognize how challenging this past week has been due to the impact of the FTX news. At Genesis we are entirely focused on doing everything we can to serve our clients and navigate this difficult market environment.",
+          "link": "https://twitter.com/defipulse/status/1592878521826713601",
+          "publishedOn": "2022-11-16T13:53:28.000Z",
+          "wordCount": 399,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1592878338896719872",
+          "author": "DeFi Pulse",
+          "description": "Genesis suspends client withdrawals...",
+          "link": "https://twitter.com/defipulse/status/1592878338896719872",
+          "publishedOn": "2022-11-16T13:52:44.000Z",
+          "wordCount": 399,
+          "title": "Genesis suspends client withdrawals...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1592578130572869632",
           "author": "DeFi Pulse",
           "description": "Re  https://www.wsj.com/articles/blockfi-prepares-for-potential-bankruptcy-as-crypto-contagion-spreads-11668534824?page=1",
@@ -143,46 +183,6 @@
           "publishedOn": "2022-11-11T15:33:57.000Z",
           "wordCount": 399,
           "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1591091666970378240",
-          "author": "DeFi Pulse",
-          "description": "SBF claims he was \"...shocked to see things unravel the way they did earlier this week.\"\nCome on....",
-          "link": "https://twitter.com/defipulse/status/1591091666970378240",
-          "publishedOn": "2022-11-11T15:33:09.000Z",
-          "wordCount": 399,
-          "title": "SBF claims he was \"...shocked to see things unravel the way they did earlier this week.\" Come on....",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1591076543543283717",
-          "author": "DeFi Pulse",
-          "description": "SBF resigns...",
-          "link": "https://twitter.com/defipulse/status/1591076543543283717",
-          "publishedOn": "2022-11-11T14:33:03.000Z",
-          "wordCount": 399,
-          "title": "SBF resigns...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1591072457116778497",
-          "author": "DeFi Pulse",
-          "description": "Re \nFTX: Press Release",
-          "link": "https://twitter.com/defipulse/status/1591072457116778497",
-          "publishedOn": "2022-11-11T14:16:49.000Z",
-          "wordCount": 399,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1591072329999712258",
-          "author": "DeFi Pulse",
-          "description": "FTX files for bankruptcy…",
-          "link": "https://twitter.com/defipulse/status/1591072329999712258",
-          "publishedOn": "2022-11-11T14:16:18.000Z",
-          "wordCount": 399,
-          "title": "FTX files for bankruptcy…",
           "imageUrl": null
         }
       ]
