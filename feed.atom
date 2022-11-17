@@ -1,10 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-17T19:16:47.555Z</id>
+    <id>urn:2022-11-17T20:22:03.116Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-17T19:16:47.555Z</updated>
+    <updated>2022-11-17T20:22:03.116Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Jump addresses rumors, and confirms they are not shutting down...]]></title>
+        <id>https://twitter.com/defipulse/status/1593306195430965252</id>
+        <link href="https://twitter.com/defipulse/status/1593306195430965252"/>
+        <updated>2022-11-17T18:12:53.000Z</updated>
+        <summary type="html"><![CDATA[Jump addresses rumors, and confirms they are not shutting down...
+jump_crypto 🔥💃🏻: Given the rumors flying around, we want to debunk a few things.
+Jump Crypto is not shutting down. We believe we’re one of the most well-capitalized and liquid firms in crypto.
+We are still actively investing and trading, so if you’re looking for funding, please get in touch.]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1593301295183663106</id>
+        <link href="https://twitter.com/defipulse/status/1593301295183663106"/>
+        <updated>2022-11-17T17:53:25.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://twitter.com/twobitidiot/status/1593292793581113345?s=20&t=3gIMNtDchTIYY-aZELvGOQ]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genesis is allegedly "seeking a $1bn credit facility immediately...."]]></title>
+        <id>https://twitter.com/defipulse/status/1593301293891813378</id>
+        <link href="https://twitter.com/defipulse/status/1593301293891813378"/>
+        <updated>2022-11-17T17:53:25.000Z</updated>
+        <summary type="html"><![CDATA[Genesis is allegedly "seeking a $1bn credit facility immediately...."]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re Full court filing:]]></title>
         <id>https://twitter.com/defipulse/status/1593263574725672960</id>
@@ -175,36 +208,6 @@ Gemini: We experienced an Amazon Web Services EBS outage with one of our prima
         <updated>2022-11-16T13:53:28.000Z</updated>
         <summary type="html"><![CDATA[Re 
 Genesis: We recognize how challenging this past week has been due to the impact of the FTX news. At Genesis we are entirely focused on doing everything we can to serve our clients and navigate this difficult market environment.]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Genesis suspends client withdrawals...]]></title>
-        <id>https://twitter.com/defipulse/status/1592878338896719872</id>
-        <link href="https://twitter.com/defipulse/status/1592878338896719872"/>
-        <updated>2022-11-16T13:52:44.000Z</updated>
-        <summary type="html"><![CDATA[Genesis suspends client withdrawals...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1592578130572869632</id>
-        <link href="https://twitter.com/defipulse/status/1592578130572869632"/>
-        <updated>2022-11-15T17:59:49.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.wsj.com/articles/blockfi-prepares-for-potential-bankruptcy-as-crypto-contagion-spreads-11668534824?page=1]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BlockFi prepares for potential bankruptcy...]]></title>
-        <id>https://twitter.com/defipulse/status/1592578128592805889</id>
-        <link href="https://twitter.com/defipulse/status/1592578128592805889"/>
-        <updated>2022-11-15T17:59:49.000Z</updated>
-        <summary type="html"><![CDATA[BlockFi prepares for potential bankruptcy...]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
