@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-17T14:19:09.655Z</id>
+    <id>urn:2022-11-17T15:22:20.771Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-17T14:19:09.655Z</updated>
+    <updated>2022-11-17T15:22:20.771Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re "...the failure of the co-founders and potentially others to identify additional wallets believed to contain Debtor assets."]]></title>
+        <id>https://twitter.com/defipulse/status/1593261538776961025</id>
+        <link href="https://twitter.com/defipulse/status/1593261538776961025"/>
+        <updated>2022-11-17T15:15:26.000Z</updated>
+        <summary type="html"><![CDATA[Re "...the failure of the co-founders and potentially others to identify additional wallets believed to contain Debtor assets."]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re SBF took out a personal loan of $1B from Alameda...]]></title>
+        <id>https://twitter.com/defipulse/status/1593259470582419456</id>
+        <link href="https://twitter.com/defipulse/status/1593259470582419456"/>
+        <updated>2022-11-17T15:07:13.000Z</updated>
+        <summary type="html"><![CDATA[Re SBF took out a personal loan of $1B from Alameda...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re "Unacceptable management practices included...the use of software to conceal the misuse of customer funds, the secret exemption of Alameda from cer...]]></title>
+        <id>https://twitter.com/defipulse/status/1593255205209899010</id>
+        <link href="https://twitter.com/defipulse/status/1593255205209899010"/>
+        <updated>2022-11-17T14:50:16.000Z</updated>
+        <summary type="html"><![CDATA[Re "Unacceptable management practices included...the use of software to conceal the misuse of customer funds, the secret exemption of Alameda from certain aspects of http://FTX.com]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New FTX CEO: " Never in my career have I seen such a complete failure of corporate controls and such a complete absence of trustworthy financial infor...]]></title>
+        <id>https://twitter.com/defipulse/status/1593253660682727424</id>
+        <link href="https://twitter.com/defipulse/status/1593253660682727424"/>
+        <updated>2022-11-17T14:44:08.000Z</updated>
+        <summary type="html"><![CDATA[New FTX CEO: " Never in my career have I seen such a complete failure of corporate controls and such a complete absence of trustworthy financial information as occurred here."]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gemini exchange is fully back online...]]></title>
         <id>https://twitter.com/defipulse/status/1592945990981799936</id>
@@ -165,47 +205,6 @@ Genesis: We recognize how challenging this past week has been due to the impac
         <link href="https://twitter.com/defipulse/status/1592530061391196162"/>
         <updated>2022-11-15T14:48:49.000Z</updated>
         <summary type="html"><![CDATA[Re  https://www.foxbusiness.com/markets/sec-chairman-gary-gensler-met-with-head-ftx-months-before-collapse]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Months before FTX collapsed, SBF met with Gensler to discuss a new SEC-approved crypto trading platform. If approved, SBF would have had a jump-start ...]]></title>
-        <id>https://twitter.com/defipulse/status/1592530059461791744</id>
-        <link href="https://twitter.com/defipulse/status/1592530059461791744"/>
-        <updated>2022-11-15T14:48:48.000Z</updated>
-        <summary type="html"><![CDATA[Months before FTX collapsed, SBF met with Gensler to discuss a new SEC-approved crypto trading platform. 
-If approved, SBF would have had a jump-start on the competition with a trading platform meeting SEC standards...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1592521800441016322</id>
-        <link href="https://twitter.com/defipulse/status/1592521800441016322"/>
-        <updated>2022-11-15T14:15:59.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.coindesk.com/tech/2022/11/15/ftx-accounts-drainer-swaps-millions-in-stolen-crypto-becomes-35th-largest-ether-holder/]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The culprit who siphoned funds from FTX is now the 35th-largest ETH holder...]]></title>
-        <id>https://twitter.com/defipulse/status/1592521798347886592</id>
-        <link href="https://twitter.com/defipulse/status/1592521798347886592"/>
-        <updated>2022-11-15T14:15:59.000Z</updated>
-        <summary type="html"><![CDATA[The culprit who siphoned funds from FTX is now the 35th-largest ETH holder...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1592202396524236801</id>
-        <link href="https://twitter.com/defipulse/status/1592202396524236801"/>
-        <updated>2022-11-14T17:06:47.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.mintscan.io/cosmos/proposals/82]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>

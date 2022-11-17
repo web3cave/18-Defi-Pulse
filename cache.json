@@ -6,6 +6,46 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1593261538776961025",
+          "author": "DeFi Pulse",
+          "description": "Re \"...the failure of the co-founders and potentially others to identify additional wallets believed to contain Debtor assets.\"",
+          "link": "https://twitter.com/defipulse/status/1593261538776961025",
+          "publishedOn": "2022-11-17T15:15:26.000Z",
+          "wordCount": 399,
+          "title": "Re \"...the failure of the co-founders and potentially others to identify additional wallets believed to contain Debtor assets.\"",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1593259470582419456",
+          "author": "DeFi Pulse",
+          "description": "Re SBF took out a personal loan of $1B from Alameda...",
+          "link": "https://twitter.com/defipulse/status/1593259470582419456",
+          "publishedOn": "2022-11-17T15:07:13.000Z",
+          "wordCount": 399,
+          "title": "Re SBF took out a personal loan of $1B from Alameda...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1593255205209899010",
+          "author": "DeFi Pulse",
+          "description": "Re \"Unacceptable management practices included...the use of software to conceal the misuse of customer funds, the secret exemption of Alameda from certain aspects of http://FTX.com",
+          "link": "https://twitter.com/defipulse/status/1593255205209899010",
+          "publishedOn": "2022-11-17T14:50:16.000Z",
+          "wordCount": 399,
+          "title": "Re \"Unacceptable management practices included...the use of software to conceal the misuse of customer funds, the secret exemption of Alameda from cer...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1593253660682727424",
+          "author": "DeFi Pulse",
+          "description": "New FTX CEO: \" Never in my career have I seen such a complete failure of corporate controls and such a complete absence of trustworthy financial information as occurred here.\"",
+          "link": "https://twitter.com/defipulse/status/1593253660682727424",
+          "publishedOn": "2022-11-17T14:44:08.000Z",
+          "wordCount": 399,
+          "title": "New FTX CEO: \" Never in my career have I seen such a complete failure of corporate controls and such a complete absence of trustworthy financial infor...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1592945990981799936",
           "author": "DeFi Pulse",
           "description": "Gemini exchange is fully back online...\nGemini: Gemini exchange fully back online; all customer funds held on the Gemini exchange are held 1:1 and available for withdrawal at any time.",
@@ -161,46 +201,6 @@
           "description": "Re  https://www.foxbusiness.com/markets/sec-chairman-gary-gensler-met-with-head-ftx-months-before-collapse",
           "link": "https://twitter.com/defipulse/status/1592530061391196162",
           "publishedOn": "2022-11-15T14:48:49.000Z",
-          "wordCount": 399,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1592530059461791744",
-          "author": "DeFi Pulse",
-          "description": "Months before FTX collapsed, SBF met with Gensler to discuss a new SEC-approved crypto trading platform. \nIf approved, SBF would have had a jump-start on the competition with a trading platform meeting SEC standards...",
-          "link": "https://twitter.com/defipulse/status/1592530059461791744",
-          "publishedOn": "2022-11-15T14:48:48.000Z",
-          "wordCount": 399,
-          "title": "Months before FTX collapsed, SBF met with Gensler to discuss a new SEC-approved crypto trading platform. If approved, SBF would have had a jump-start ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1592521800441016322",
-          "author": "DeFi Pulse",
-          "description": "Re  https://www.coindesk.com/tech/2022/11/15/ftx-accounts-drainer-swaps-millions-in-stolen-crypto-becomes-35th-largest-ether-holder/",
-          "link": "https://twitter.com/defipulse/status/1592521800441016322",
-          "publishedOn": "2022-11-15T14:15:59.000Z",
-          "wordCount": 399,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1592521798347886592",
-          "author": "DeFi Pulse",
-          "description": "The culprit who siphoned funds from FTX is now the 35th-largest ETH holder...",
-          "link": "https://twitter.com/defipulse/status/1592521798347886592",
-          "publishedOn": "2022-11-15T14:15:59.000Z",
-          "wordCount": 399,
-          "title": "The culprit who siphoned funds from FTX is now the 35th-largest ETH holder...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1592202396524236801",
-          "author": "DeFi Pulse",
-          "description": "Re  https://www.mintscan.io/cosmos/proposals/82",
-          "link": "https://twitter.com/defipulse/status/1592202396524236801",
-          "publishedOn": "2022-11-14T17:06:47.000Z",
           "wordCount": 399,
           "title": "Re",
           "imageUrl": null
