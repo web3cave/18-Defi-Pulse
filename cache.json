@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1593301295183663106",
+          "author": "DeFi Pulse",
+          "description": "Re \nRyan Selkis 🥷: I have Digital Currency Group's (apparent) current fundraising deck.\nThey are raising cash, and it appears holdco's liquid assets are below liabilities.\n\"Genesis is seeking a $1bn credit facility immediately.\"\nSharing docs w/ a reputable press outlet to do legwork and confirm.",
+          "link": "https://twitter.com/defipulse/status/1593301295183663106",
+          "publishedOn": "2022-11-17T17:53:25.000Z",
+          "wordCount": 399,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1593301293891813378",
+          "author": "DeFi Pulse",
+          "description": "Genesis is allegedly \"seeking a $1bn credit facility immediately....\"",
+          "link": "https://twitter.com/defipulse/status/1593301293891813378",
+          "publishedOn": "2022-11-17T17:53:25.000Z",
+          "wordCount": 399,
+          "title": "Genesis is allegedly \"seeking a $1bn credit facility immediately....\"",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1593263574725672960",
           "author": "DeFi Pulse",
           "description": "Re Full court filing: https://pacer-documents.s3.amazonaws.com/33/188450/042020648197.pdf",
@@ -183,26 +203,6 @@
           "publishedOn": "2022-11-16T13:52:44.000Z",
           "wordCount": 399,
           "title": "Genesis suspends client withdrawals...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1592578130572869632",
-          "author": "DeFi Pulse",
-          "description": "Re  https://www.wsj.com/articles/blockfi-prepares-for-potential-bankruptcy-as-crypto-contagion-spreads-11668534824?page=1",
-          "link": "https://twitter.com/defipulse/status/1592578130572869632",
-          "publishedOn": "2022-11-15T17:59:49.000Z",
-          "wordCount": 399,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1592578128592805889",
-          "author": "DeFi Pulse",
-          "description": "BlockFi prepares for potential bankruptcy...",
-          "link": "https://twitter.com/defipulse/status/1592578128592805889",
-          "publishedOn": "2022-11-15T17:59:49.000Z",
-          "wordCount": 399,
-          "title": "BlockFi prepares for potential bankruptcy...",
           "imageUrl": null
         }
       ]
