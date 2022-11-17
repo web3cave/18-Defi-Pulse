@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-17T15:22:20.771Z</id>
+    <id>urn:2022-11-17T16:30:23.080Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-17T15:22:20.771Z</updated>
+    <updated>2022-11-17T16:30:23.080Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re Full court filing:]]></title>
+        <id>https://twitter.com/defipulse/status/1593263574725672960</id>
+        <link href="https://twitter.com/defipulse/status/1593263574725672960"/>
+        <updated>2022-11-17T15:23:32.000Z</updated>
+        <summary type="html"><![CDATA[Re Full court filing: https://pacer-documents.s3.amazonaws.com/33/188450/042020648197.pdf]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re "...the failure of the co-founders and potentially others to identify additional wallets believed to contain Debtor assets."]]></title>
         <id>https://twitter.com/defipulse/status/1593261538776961025</id>
@@ -195,16 +205,6 @@ Genesis: We recognize how challenging this past week has been due to the impac
         <link href="https://twitter.com/defipulse/status/1592578128592805889"/>
         <updated>2022-11-15T17:59:49.000Z</updated>
         <summary type="html"><![CDATA[BlockFi prepares for potential bankruptcy...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1592530061391196162</id>
-        <link href="https://twitter.com/defipulse/status/1592530061391196162"/>
-        <updated>2022-11-15T14:48:49.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.foxbusiness.com/markets/sec-chairman-gary-gensler-met-with-head-ftx-months-before-collapse]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>

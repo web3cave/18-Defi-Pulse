@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1593263574725672960",
+          "author": "DeFi Pulse",
+          "description": "Re Full court filing: https://pacer-documents.s3.amazonaws.com/33/188450/042020648197.pdf",
+          "link": "https://twitter.com/defipulse/status/1593263574725672960",
+          "publishedOn": "2022-11-17T15:23:32.000Z",
+          "wordCount": 399,
+          "title": "Re Full court filing:",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1593261538776961025",
           "author": "DeFi Pulse",
           "description": "Re \"...the failure of the co-founders and potentially others to identify additional wallets believed to contain Debtor assets.\"",
@@ -193,16 +203,6 @@
           "publishedOn": "2022-11-15T17:59:49.000Z",
           "wordCount": 399,
           "title": "BlockFi prepares for potential bankruptcy...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1592530061391196162",
-          "author": "DeFi Pulse",
-          "description": "Re  https://www.foxbusiness.com/markets/sec-chairman-gary-gensler-met-with-head-ftx-months-before-collapse",
-          "link": "https://twitter.com/defipulse/status/1592530061391196162",
-          "publishedOn": "2022-11-15T14:48:49.000Z",
-          "wordCount": 399,
-          "title": "Re",
           "imageUrl": null
         }
       ]
