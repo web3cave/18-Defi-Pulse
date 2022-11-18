@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1593431404171378688",
+          "author": "DeFi Pulse",
+          "description": "Overheard in DMs: Shareholders can *not* vote to unwind GBTC. Only the trustees can choose to do that.",
+          "link": "https://twitter.com/defipulse/status/1593431404171378688",
+          "publishedOn": "2022-11-18T02:30:25.000Z",
+          "wordCount": 399,
+          "title": "Overheard in DMs: Shareholders can *not* vote to unwind GBTC. Only the trustees can choose to do that.",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1593306195430965252",
           "author": "DeFi Pulse",
           "description": "Jump addresses rumors, and confirms they are not shutting down...\njump_crypto 🔥💃🏻: Given the rumors flying around, we want to debunk a few things.\nJump Crypto is not shutting down. We believe we’re one of the most well-capitalized and liquid firms in crypto.\nWe are still actively investing and trading, so if you’re looking for funding, please get in touch.",
@@ -193,16 +203,6 @@
           "publishedOn": "2022-11-16T13:57:26.000Z",
           "wordCount": 399,
           "title": "Gemini Earn unable to meet customer redemptions...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1592878521826713601",
-          "author": "DeFi Pulse",
-          "description": "Re \nGenesis: We recognize how challenging this past week has been due to the impact of the FTX news. At Genesis we are entirely focused on doing everything we can to serve our clients and navigate this difficult market environment.",
-          "link": "https://twitter.com/defipulse/status/1592878521826713601",
-          "publishedOn": "2022-11-16T13:53:28.000Z",
-          "wordCount": 399,
-          "title": "Re",
           "imageUrl": null
         }
       ]

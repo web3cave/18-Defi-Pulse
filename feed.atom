@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-18T01:58:29.239Z</id>
+    <id>urn:2022-11-18T03:18:15.816Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-18T01:58:29.239Z</updated>
+    <updated>2022-11-18T03:18:15.816Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Overheard in DMs: Shareholders can *not* vote to unwind GBTC. Only the trustees can choose to do that.]]></title>
+        <id>https://twitter.com/defipulse/status/1593431404171378688</id>
+        <link href="https://twitter.com/defipulse/status/1593431404171378688"/>
+        <updated>2022-11-18T02:30:25.000Z</updated>
+        <summary type="html"><![CDATA[Overheard in DMs: Shareholders can *not* vote to unwind GBTC. Only the trustees can choose to do that.]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jump addresses rumors, and confirms they are not shutting down...]]></title>
         <id>https://twitter.com/defipulse/status/1593306195430965252</id>
@@ -197,17 +207,6 @@ Gemini: We experienced an Amazon Web Services EBS outage with one of our prima
         <link href="https://twitter.com/defipulse/status/1592879521560416256"/>
         <updated>2022-11-16T13:57:26.000Z</updated>
         <summary type="html"><![CDATA[Gemini Earn unable to meet customer redemptions...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1592878521826713601</id>
-        <link href="https://twitter.com/defipulse/status/1592878521826713601"/>
-        <updated>2022-11-16T13:53:28.000Z</updated>
-        <summary type="html"><![CDATA[Re 
-Genesis: We recognize how challenging this past week has been due to the impact of the FTX news. At Genesis we are entirely focused on doing everything we can to serve our clients and navigate this difficult market environment.]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
