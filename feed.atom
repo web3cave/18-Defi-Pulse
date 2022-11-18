@@ -1,10 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-18T20:21:50.670Z</id>
+    <id>urn:2022-11-18T21:18:03.535Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-18T20:21:50.670Z</updated>
+    <updated>2022-11-18T21:18:03.535Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1593699136213221376</id>
+        <link href="https://twitter.com/defipulse/status/1593699136213221376"/>
+        <updated>2022-11-18T20:14:18.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.wsj.com/articles/ftxs-sam-bankman-fried-cashed-out-300-million-during-funding-spree-11668799774]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SBF reimbursed himself $300 million from investor funding…]]></title>
+        <id>https://twitter.com/defipulse/status/1593699134447534081</id>
+        <link href="https://twitter.com/defipulse/status/1593699134447534081"/>
+        <updated>2022-11-18T20:14:17.000Z</updated>
+        <summary type="html"><![CDATA[SBF reimbursed himself $300 million from investor funding…]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1593677020269002753</id>
+        <link href="https://twitter.com/defipulse/status/1593677020269002753"/>
+        <updated>2022-11-18T18:46:25.000Z</updated>
+        <summary type="html"><![CDATA[Re 
+Uniswap Labs 🦄: 1/ Uniswap builds public infrastructure that pushes crypto forward.
+Today we are excited to introduce Permit2 & Universal Router—new smart contracts that increase the flexibility of token approvals & aggregate ERC20s & NFT swaps into one ✨
+ https://uniswap.org/blog/permit2-and-universal-router]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.@Uniswap launches 2 new smart contracts...]]></title>
+        <id>https://twitter.com/defipulse/status/1593677018968641536</id>
+        <link href="https://twitter.com/defipulse/status/1593677018968641536"/>
+        <updated>2022-11-18T18:46:25.000Z</updated>
+        <summary type="html"><![CDATA[.@Uniswap launches 2 new smart contracts...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Overheard in DMs: Shareholders can *not* vote to unwind GBTC. Only the trustees can choose to do that.]]></title>
         <id>https://twitter.com/defipulse/status/1593431404171378688</id>
@@ -166,47 +209,6 @@ Coinbase: 2/ We won’t comment on every event in crypto, but for the sake of 
         <link href="https://twitter.com/defipulse/status/1592936260523675648"/>
         <updated>2022-11-16T17:42:54.000Z</updated>
         <summary type="html"><![CDATA[Re UPDATE: Gemini Exchange is back online.]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re UPDATE: Gemini Exchange went down due to an Amazon Web Service outage. They are working to bring the exchange back up...]]></title>
-        <id>https://twitter.com/defipulse/status/1592927068106653696</id>
-        <link href="https://twitter.com/defipulse/status/1592927068106653696"/>
-        <updated>2022-11-16T17:06:22.000Z</updated>
-        <summary type="html"><![CDATA[Re UPDATE: Gemini Exchange went down due to an Amazon Web Service outage. They are working to bring the exchange back up...
-Gemini: We experienced an Amazon Web Services EBS outage with one of our primary databases. We have restored the database and are bringing the exchange back up.]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gemini exchange temporarily grounded...]]></title>
-        <id>https://twitter.com/defipulse/status/1592920988018421765</id>
-        <link href="https://twitter.com/defipulse/status/1592920988018421765"/>
-        <updated>2022-11-16T16:42:13.000Z</updated>
-        <summary type="html"><![CDATA[Gemini exchange temporarily grounded...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1592879523917312001</id>
-        <link href="https://twitter.com/defipulse/status/1592879523917312001"/>
-        <updated>2022-11-16T13:57:27.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.theblock.co/post/187534/gemini-earn-unable-to-meet-customer-redemptions-as-genesis-unit-pauses-withdrawals?utm_source=telegram1&utm_medium=social]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gemini Earn unable to meet customer redemptions...]]></title>
-        <id>https://twitter.com/defipulse/status/1592879521560416256</id>
-        <link href="https://twitter.com/defipulse/status/1592879521560416256"/>
-        <updated>2022-11-16T13:57:26.000Z</updated>
-        <summary type="html"><![CDATA[Gemini Earn unable to meet customer redemptions...]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>

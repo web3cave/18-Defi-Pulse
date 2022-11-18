@@ -6,6 +6,46 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1593699136213221376",
+          "author": "DeFi Pulse",
+          "description": "Re  https://www.wsj.com/articles/ftxs-sam-bankman-fried-cashed-out-300-million-during-funding-spree-11668799774",
+          "link": "https://twitter.com/defipulse/status/1593699136213221376",
+          "publishedOn": "2022-11-18T20:14:18.000Z",
+          "wordCount": 399,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1593699134447534081",
+          "author": "DeFi Pulse",
+          "description": "SBF reimbursed himself $300 million from investor funding…",
+          "link": "https://twitter.com/defipulse/status/1593699134447534081",
+          "publishedOn": "2022-11-18T20:14:17.000Z",
+          "wordCount": 399,
+          "title": "SBF reimbursed himself $300 million from investor funding…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1593677020269002753",
+          "author": "DeFi Pulse",
+          "description": "Re \nUniswap Labs 🦄: 1/ Uniswap builds public infrastructure that pushes crypto forward.\nToday we are excited to introduce Permit2 & Universal Router—new smart contracts that increase the flexibility of token approvals & aggregate ERC20s & NFT swaps into one ✨\n https://uniswap.org/blog/permit2-and-universal-router",
+          "link": "https://twitter.com/defipulse/status/1593677020269002753",
+          "publishedOn": "2022-11-18T18:46:25.000Z",
+          "wordCount": 399,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1593677018968641536",
+          "author": "DeFi Pulse",
+          "description": ".@Uniswap launches 2 new smart contracts...",
+          "link": "https://twitter.com/defipulse/status/1593677018968641536",
+          "publishedOn": "2022-11-18T18:46:25.000Z",
+          "wordCount": 399,
+          "title": ".@Uniswap launches 2 new smart contracts...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1593431404171378688",
           "author": "DeFi Pulse",
           "description": "Overheard in DMs: Shareholders can *not* vote to unwind GBTC. Only the trustees can choose to do that.",
@@ -163,46 +203,6 @@
           "publishedOn": "2022-11-16T17:42:54.000Z",
           "wordCount": 399,
           "title": "Re UPDATE: Gemini Exchange is back online.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1592927068106653696",
-          "author": "DeFi Pulse",
-          "description": "Re UPDATE: Gemini Exchange went down due to an Amazon Web Service outage. They are working to bring the exchange back up...\nGemini: We experienced an Amazon Web Services EBS outage with one of our primary databases. We have restored the database and are bringing the exchange back up.",
-          "link": "https://twitter.com/defipulse/status/1592927068106653696",
-          "publishedOn": "2022-11-16T17:06:22.000Z",
-          "wordCount": 399,
-          "title": "Re UPDATE: Gemini Exchange went down due to an Amazon Web Service outage. They are working to bring the exchange back up...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1592920988018421765",
-          "author": "DeFi Pulse",
-          "description": "Gemini exchange temporarily grounded...",
-          "link": "https://twitter.com/defipulse/status/1592920988018421765",
-          "publishedOn": "2022-11-16T16:42:13.000Z",
-          "wordCount": 399,
-          "title": "Gemini exchange temporarily grounded...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1592879523917312001",
-          "author": "DeFi Pulse",
-          "description": "Re  https://www.theblock.co/post/187534/gemini-earn-unable-to-meet-customer-redemptions-as-genesis-unit-pauses-withdrawals?utm_source=telegram1&utm_medium=social",
-          "link": "https://twitter.com/defipulse/status/1592879523917312001",
-          "publishedOn": "2022-11-16T13:57:27.000Z",
-          "wordCount": 399,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1592879521560416256",
-          "author": "DeFi Pulse",
-          "description": "Gemini Earn unable to meet customer redemptions...",
-          "link": "https://twitter.com/defipulse/status/1592879521560416256",
-          "publishedOn": "2022-11-16T13:57:26.000Z",
-          "wordCount": 399,
-          "title": "Gemini Earn unable to meet customer redemptions...",
           "imageUrl": null
         }
       ]
