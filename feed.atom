@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-18T21:18:03.535Z</id>
+    <id>urn:2022-11-18T22:20:35.473Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-18T21:18:03.535Z</updated>
+    <updated>2022-11-18T22:20:35.473Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1593719770322534403</id>
+        <link href="https://twitter.com/defipulse/status/1593719770322534403"/>
+        <updated>2022-11-18T21:36:17.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://decrypt.co/115060/alameda-research-sbf-17m-falconx]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alameda just transferred $17 million in crypto to FalconX…]]></title>
+        <id>https://twitter.com/defipulse/status/1593719768653398017</id>
+        <link href="https://twitter.com/defipulse/status/1593719768653398017"/>
+        <updated>2022-11-18T21:36:17.000Z</updated>
+        <summary type="html"><![CDATA[Alameda just transferred $17 million in crypto to FalconX…]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1593699136213221376</id>
@@ -189,26 +209,6 @@ Coinbase: 2/ We won’t comment on every event in crypto, but for the sake of 
         <link href="https://twitter.com/defipulse/status/1592937868145885184"/>
         <updated>2022-11-16T17:49:17.000Z</updated>
         <summary type="html"><![CDATA[Re  https://forum.makerdao.com/t/gusd-makerdao-partnership-announcement/18140/49]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gemini assures Maker community GUSD is unaffected, and the partnership will continue as planned...]]></title>
-        <id>https://twitter.com/defipulse/status/1592937866610741248</id>
-        <link href="https://twitter.com/defipulse/status/1592937866610741248"/>
-        <updated>2022-11-16T17:49:17.000Z</updated>
-        <summary type="html"><![CDATA[Gemini assures Maker community GUSD is unaffected, and the partnership will continue as planned...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re UPDATE: Gemini Exchange is back online.]]></title>
-        <id>https://twitter.com/defipulse/status/1592936260523675648</id>
-        <link href="https://twitter.com/defipulse/status/1592936260523675648"/>
-        <updated>2022-11-16T17:42:54.000Z</updated>
-        <summary type="html"><![CDATA[Re UPDATE: Gemini Exchange is back online.]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
