@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-18T23:20:58.568Z</id>
+    <id>urn:2022-11-19T01:50:49.501Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-18T23:20:58.568Z</updated>
+    <updated>2022-11-19T01:50:49.501Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re Correction: $17M FalconX Transfer Was Mislabeled as Alameda by Nansen and Etherscan.]]></title>
+        <id>https://twitter.com/defipulse/status/1593763860783267841</id>
+        <link href="https://twitter.com/defipulse/status/1593763860783267841"/>
+        <updated>2022-11-19T00:31:29.000Z</updated>
+        <summary type="html"><![CDATA[Re Correction: $17M FalconX Transfer Was Mislabeled as Alameda by Nansen and Etherscan.]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @falconxnetwork Thank you for letting us know.]]></title>
+        <id>https://twitter.com/defipulse/status/1593760674366234625</id>
+        <link href="https://twitter.com/defipulse/status/1593760674366234625"/>
+        <updated>2022-11-19T00:18:50.000Z</updated>
+        <summary type="html"><![CDATA[Re @falconxnetwork Thank you for letting us know.]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1593719770322534403</id>
@@ -189,26 +209,6 @@ Gemini: Gemini exchange fully back online; all customer funds held on the Gemi
         <updated>2022-11-16T17:55:42.000Z</updated>
         <summary type="html"><![CDATA[Re 
 Coinbase: 2/ We won’t comment on every event in crypto, but for the sake of clarity: Coinbase has zero exposure to Genesis Trading.]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[.@coinbase has zero exposure to Genesis Trading...]]></title>
-        <id>https://twitter.com/defipulse/status/1592939479744278529</id>
-        <link href="https://twitter.com/defipulse/status/1592939479744278529"/>
-        <updated>2022-11-16T17:55:42.000Z</updated>
-        <summary type="html"><![CDATA[.@coinbase has zero exposure to Genesis Trading...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1592937868145885184</id>
-        <link href="https://twitter.com/defipulse/status/1592937868145885184"/>
-        <updated>2022-11-16T17:49:17.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://forum.makerdao.com/t/gusd-makerdao-partnership-announcement/18140/49]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>

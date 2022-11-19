@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1593763860783267841",
+          "author": "DeFi Pulse",
+          "description": "Re Correction: $17M FalconX Transfer Was Mislabeled as Alameda by Nansen and Etherscan.",
+          "link": "https://twitter.com/defipulse/status/1593763860783267841",
+          "publishedOn": "2022-11-19T00:31:29.000Z",
+          "wordCount": 399,
+          "title": "Re Correction: $17M FalconX Transfer Was Mislabeled as Alameda by Nansen and Etherscan.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1593760674366234625",
+          "author": "DeFi Pulse",
+          "description": "Re @falconxnetwork Thank you for letting us know.",
+          "link": "https://twitter.com/defipulse/status/1593760674366234625",
+          "publishedOn": "2022-11-19T00:18:50.000Z",
+          "wordCount": 399,
+          "title": "Re @falconxnetwork Thank you for letting us know.",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1593719770322534403",
           "author": "DeFi Pulse",
           "description": "Re  https://decrypt.co/115060/alameda-research-sbf-17m-falconx",
@@ -181,26 +201,6 @@
           "description": "Re \nCoinbase: 2/ We won’t comment on every event in crypto, but for the sake of clarity: Coinbase has zero exposure to Genesis Trading.",
           "link": "https://twitter.com/defipulse/status/1592939481325219842",
           "publishedOn": "2022-11-16T17:55:42.000Z",
-          "wordCount": 399,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1592939479744278529",
-          "author": "DeFi Pulse",
-          "description": ".@coinbase has zero exposure to Genesis Trading...",
-          "link": "https://twitter.com/defipulse/status/1592939479744278529",
-          "publishedOn": "2022-11-16T17:55:42.000Z",
-          "wordCount": 399,
-          "title": ".@coinbase has zero exposure to Genesis Trading...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1592937868145885184",
-          "author": "DeFi Pulse",
-          "description": "Re  https://forum.makerdao.com/t/gusd-makerdao-partnership-announcement/18140/49",
-          "link": "https://twitter.com/defipulse/status/1592937868145885184",
-          "publishedOn": "2022-11-16T17:49:17.000Z",
           "wordCount": 399,
           "title": "Re",
           "imageUrl": null
