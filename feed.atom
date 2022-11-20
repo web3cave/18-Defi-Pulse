@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-20T13:28:41.656Z</id>
+    <id>urn:2022-11-20T14:17:46.834Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-20T13:28:41.656Z</updated>
+    <updated>2022-11-20T14:17:46.834Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1594315687593271296</id>
+        <link href="https://twitter.com/defipulse/status/1594315687593271296"/>
+        <updated>2022-11-20T13:04:15.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.theblock.co/post/188624/ether-under-pressure-as-ftx-accounts-drainer-cashes-out-for-bitcoin]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The culprit who siphoned funds from FTX is swapping some ETH for bitcoin…]]></title>
+        <id>https://twitter.com/defipulse/status/1594315685957718017</id>
+        <link href="https://twitter.com/defipulse/status/1594315685957718017"/>
+        <updated>2022-11-20T13:04:15.000Z</updated>
+        <summary type="html"><![CDATA[The culprit who siphoned funds from FTX is swapping some ETH for bitcoin…]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re Correction: $17M FalconX Transfer Was Mislabeled as Alameda by Nansen and Etherscan.]]></title>
         <id>https://twitter.com/defipulse/status/1593763860783267841</id>
@@ -188,27 +208,6 @@ We are still actively investing and trading, so if you’re looking for funding,
         <updated>2022-11-16T18:21:34.000Z</updated>
         <summary type="html"><![CDATA[Gemini exchange is fully back online...
 Gemini: Gemini exchange fully back online; all customer funds held on the Gemini exchange are held 1:1 and available for withdrawal at any time.]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re UPDATE: Withdrawals and deposits are still disabled.]]></title>
-        <id>https://twitter.com/defipulse/status/1592939840060166144</id>
-        <link href="https://twitter.com/defipulse/status/1592939840060166144"/>
-        <updated>2022-11-16T17:57:07.000Z</updated>
-        <summary type="html"><![CDATA[Re UPDATE: Withdrawals and deposits are still disabled.]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1592939481325219842</id>
-        <link href="https://twitter.com/defipulse/status/1592939481325219842"/>
-        <updated>2022-11-16T17:55:42.000Z</updated>
-        <summary type="html"><![CDATA[Re 
-Coinbase: 2/ We won’t comment on every event in crypto, but for the sake of clarity: Coinbase has zero exposure to Genesis Trading.]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>

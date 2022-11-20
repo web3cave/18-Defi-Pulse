@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1594315687593271296",
+          "author": "DeFi Pulse",
+          "description": "Re  https://www.theblock.co/post/188624/ether-under-pressure-as-ftx-accounts-drainer-cashes-out-for-bitcoin",
+          "link": "https://twitter.com/defipulse/status/1594315687593271296",
+          "publishedOn": "2022-11-20T13:04:15.000Z",
+          "wordCount": 399,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1594315685957718017",
+          "author": "DeFi Pulse",
+          "description": "The culprit who siphoned funds from FTX is swapping some ETH for bitcoin…",
+          "link": "https://twitter.com/defipulse/status/1594315685957718017",
+          "publishedOn": "2022-11-20T13:04:15.000Z",
+          "wordCount": 399,
+          "title": "The culprit who siphoned funds from FTX is swapping some ETH for bitcoin…",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1593763860783267841",
           "author": "DeFi Pulse",
           "description": "Re Correction: $17M FalconX Transfer Was Mislabeled as Alameda by Nansen and Etherscan.",
@@ -183,26 +203,6 @@
           "publishedOn": "2022-11-16T18:21:34.000Z",
           "wordCount": 399,
           "title": "Gemini exchange is fully back online...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1592939840060166144",
-          "author": "DeFi Pulse",
-          "description": "Re UPDATE: Withdrawals and deposits are still disabled.",
-          "link": "https://twitter.com/defipulse/status/1592939840060166144",
-          "publishedOn": "2022-11-16T17:57:07.000Z",
-          "wordCount": 399,
-          "title": "Re UPDATE: Withdrawals and deposits are still disabled.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1592939481325219842",
-          "author": "DeFi Pulse",
-          "description": "Re \nCoinbase: 2/ We won’t comment on every event in crypto, but for the sake of clarity: Coinbase has zero exposure to Genesis Trading.",
-          "link": "https://twitter.com/defipulse/status/1592939481325219842",
-          "publishedOn": "2022-11-16T17:55:42.000Z",
-          "wordCount": 399,
-          "title": "Re",
           "imageUrl": null
         }
       ]
