@@ -6,26 +6,6 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
-          "id": "https://twitter.com/defipulse/status/1594685548559474689",
-          "author": "DeFi Pulse",
-          "description": "Re  https://www.coindesk.com/business/2022/11/21/crypto-lender-nexo-sued-for-allegedly-blocking-126m-withdrawals-report/",
-          "link": "https://twitter.com/defipulse/status/1594685548559474689",
-          "publishedOn": "2022-11-21T13:33:57.000Z",
-          "wordCount": 399,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1594685546391080962",
-          "author": "DeFi Pulse",
-          "description": "Crypto lender Nexo sued for allegedly blocking $126M withdrawals…",
-          "link": "https://twitter.com/defipulse/status/1594685546391080962",
-          "publishedOn": "2022-11-21T13:33:56.000Z",
-          "wordCount": 399,
-          "title": "Crypto lender Nexo sued for allegedly blocking $126M withdrawals…",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/defipulse/status/1594315687593271296",
           "author": "DeFi Pulse",
           "description": "Re  https://www.theblock.co/post/188624/ether-under-pressure-as-ftx-accounts-drainer-cashes-out-for-bitcoin",
@@ -203,6 +183,26 @@
           "publishedOn": "2022-11-17T14:50:16.000Z",
           "wordCount": 399,
           "title": "Re \"Unacceptable management practices included...the use of software to conceal the misuse of customer funds, the secret exemption of Alameda from cer...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1593253660682727424",
+          "author": "DeFi Pulse",
+          "description": "New FTX CEO: \" Never in my career have I seen such a complete failure of corporate controls and such a complete absence of trustworthy financial information as occurred here.\"",
+          "link": "https://twitter.com/defipulse/status/1593253660682727424",
+          "publishedOn": "2022-11-17T14:44:08.000Z",
+          "wordCount": 399,
+          "title": "New FTX CEO: \" Never in my career have I seen such a complete failure of corporate controls and such a complete absence of trustworthy financial infor...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1592945990981799936",
+          "author": "DeFi Pulse",
+          "description": "Gemini exchange is fully back online...\nGemini: Gemini exchange fully back online; all customer funds held on the Gemini exchange are held 1:1 and available for withdrawal at any time.",
+          "link": "https://twitter.com/defipulse/status/1592945990981799936",
+          "publishedOn": "2022-11-16T18:21:34.000Z",
+          "wordCount": 399,
+          "title": "Gemini exchange is fully back online...",
           "imageUrl": null
         }
       ]
