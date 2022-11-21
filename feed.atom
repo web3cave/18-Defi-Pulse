@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-21T14:18:21.882Z</id>
+    <id>urn:2022-11-21T15:22:23.874Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-21T14:18:21.882Z</updated>
+    <updated>2022-11-21T15:22:23.874Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1594685548559474689</id>
+        <link href="https://twitter.com/defipulse/status/1594685548559474689"/>
+        <updated>2022-11-21T13:33:57.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.coindesk.com/business/2022/11/21/crypto-lender-nexo-sued-for-allegedly-blocking-126m-withdrawals-report/]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto lender Nexo sued for allegedly blocking $126M withdrawals…]]></title>
+        <id>https://twitter.com/defipulse/status/1594685546391080962</id>
+        <link href="https://twitter.com/defipulse/status/1594685546391080962"/>
+        <updated>2022-11-21T13:33:56.000Z</updated>
+        <summary type="html"><![CDATA[Crypto lender Nexo sued for allegedly blocking $126M withdrawals…]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1594315687593271296</id>
@@ -187,27 +207,6 @@ We are still actively investing and trading, so if you’re looking for funding,
         <link href="https://twitter.com/defipulse/status/1593255205209899010"/>
         <updated>2022-11-17T14:50:16.000Z</updated>
         <summary type="html"><![CDATA[Re "Unacceptable management practices included...the use of software to conceal the misuse of customer funds, the secret exemption of Alameda from certain aspects of http://FTX.com]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New FTX CEO: " Never in my career have I seen such a complete failure of corporate controls and such a complete absence of trustworthy financial infor...]]></title>
-        <id>https://twitter.com/defipulse/status/1593253660682727424</id>
-        <link href="https://twitter.com/defipulse/status/1593253660682727424"/>
-        <updated>2022-11-17T14:44:08.000Z</updated>
-        <summary type="html"><![CDATA[New FTX CEO: " Never in my career have I seen such a complete failure of corporate controls and such a complete absence of trustworthy financial information as occurred here."]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gemini exchange is fully back online...]]></title>
-        <id>https://twitter.com/defipulse/status/1592945990981799936</id>
-        <link href="https://twitter.com/defipulse/status/1592945990981799936"/>
-        <updated>2022-11-16T18:21:34.000Z</updated>
-        <summary type="html"><![CDATA[Gemini exchange is fully back online...
-Gemini: Gemini exchange fully back online; all customer funds held on the Gemini exchange are held 1:1 and available for withdrawal at any time.]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
