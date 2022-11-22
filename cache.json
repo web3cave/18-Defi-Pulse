@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1595146883126939652",
+          "author": "DeFi Pulse",
+          "description": "Re  https://www.bloomberg.com/news/articles/2022-11-22/genesis-balance-sheet-reveals-web-of-loans-across-silbert-empire-dcg",
+          "link": "https://twitter.com/defipulse/status/1595146883126939652",
+          "publishedOn": "2022-11-22T20:07:07.000Z",
+          "wordCount": 399,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1595146881583132672",
+          "author": "DeFi Pulse",
+          "description": "Genesis has $2.8 billion in outstanding loans on balance sheet...",
+          "link": "https://twitter.com/defipulse/status/1595146881583132672",
+          "publishedOn": "2022-11-22T20:07:07.000Z",
+          "wordCount": 399,
+          "title": "Genesis has $2.8 billion in outstanding loans on balance sheet...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1595100652639772673",
           "author": "DeFi Pulse",
           "description": "Re",
@@ -183,26 +203,6 @@
           "publishedOn": "2022-11-18T18:46:25.000Z",
           "wordCount": 399,
           "title": ".@Uniswap launches 2 new smart contracts...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1593431404171378688",
-          "author": "DeFi Pulse",
-          "description": "Overheard in DMs: Shareholders can *not* vote to unwind GBTC. Only the trustees can choose to do that.",
-          "link": "https://twitter.com/defipulse/status/1593431404171378688",
-          "publishedOn": "2022-11-18T02:30:25.000Z",
-          "wordCount": 399,
-          "title": "Overheard in DMs: Shareholders can *not* vote to unwind GBTC. Only the trustees can choose to do that.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1593306195430965252",
-          "author": "DeFi Pulse",
-          "description": "Jump addresses rumors, and confirms they are not shutting down...\njump_crypto 🔥💃🏻: Given the rumors flying around, we want to debunk a few things.\nJump Crypto is not shutting down. We believe we’re one of the most well-capitalized and liquid firms in crypto.\nWe are still actively investing and trading, so if you’re looking for funding, please get in touch.",
-          "link": "https://twitter.com/defipulse/status/1593306195430965252",
-          "publishedOn": "2022-11-17T18:12:53.000Z",
-          "wordCount": 399,
-          "title": "Jump addresses rumors, and confirms they are not shutting down...",
           "imageUrl": null
         }
       ]

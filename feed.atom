@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-22T20:20:24.533Z</id>
+    <id>urn:2022-11-22T21:16:58.471Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-22T20:20:24.533Z</updated>
+    <updated>2022-11-22T21:16:58.471Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1595146883126939652</id>
+        <link href="https://twitter.com/defipulse/status/1595146883126939652"/>
+        <updated>2022-11-22T20:07:07.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.bloomberg.com/news/articles/2022-11-22/genesis-balance-sheet-reveals-web-of-loans-across-silbert-empire-dcg]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genesis has $2.8 billion in outstanding loans on balance sheet...]]></title>
+        <id>https://twitter.com/defipulse/status/1595146881583132672</id>
+        <link href="https://twitter.com/defipulse/status/1595146881583132672"/>
+        <updated>2022-11-22T20:07:07.000Z</updated>
+        <summary type="html"><![CDATA[Genesis has $2.8 billion in outstanding loans on balance sheet...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1595100652639772673</id>
@@ -184,29 +204,6 @@ Today we are excited to introduce Permit2 & Universal Router—new smart contrac
         <link href="https://twitter.com/defipulse/status/1593677018968641536"/>
         <updated>2022-11-18T18:46:25.000Z</updated>
         <summary type="html"><![CDATA[.@Uniswap launches 2 new smart contracts...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Overheard in DMs: Shareholders can *not* vote to unwind GBTC. Only the trustees can choose to do that.]]></title>
-        <id>https://twitter.com/defipulse/status/1593431404171378688</id>
-        <link href="https://twitter.com/defipulse/status/1593431404171378688"/>
-        <updated>2022-11-18T02:30:25.000Z</updated>
-        <summary type="html"><![CDATA[Overheard in DMs: Shareholders can *not* vote to unwind GBTC. Only the trustees can choose to do that.]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jump addresses rumors, and confirms they are not shutting down...]]></title>
-        <id>https://twitter.com/defipulse/status/1593306195430965252</id>
-        <link href="https://twitter.com/defipulse/status/1593306195430965252"/>
-        <updated>2022-11-17T18:12:53.000Z</updated>
-        <summary type="html"><![CDATA[Jump addresses rumors, and confirms they are not shutting down...
-jump_crypto 🔥💃🏻: Given the rumors flying around, we want to debunk a few things.
-Jump Crypto is not shutting down. We believe we’re one of the most well-capitalized and liquid firms in crypto.
-We are still actively investing and trading, so if you’re looking for funding, please get in touch.]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
