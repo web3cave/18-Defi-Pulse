@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-22T18:26:14.754Z</id>
+    <id>urn:2022-11-22T19:16:50.167Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-22T18:26:14.754Z</updated>
+    <updated>2022-11-22T19:16:50.167Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1595100652639772673</id>
+        <link href="https://twitter.com/defipulse/status/1595100652639772673"/>
+        <updated>2022-11-22T17:03:25.000Z</updated>
+        <summary type="html"><![CDATA[Re]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CZ says claims of meeting with Abu Dhabi investors for recovery fund are "False"...]]></title>
+        <id>https://twitter.com/defipulse/status/1595100651423469576</id>
+        <link href="https://twitter.com/defipulse/status/1595100651423469576"/>
+        <updated>2022-11-22T17:03:25.000Z</updated>
+        <summary type="html"><![CDATA[CZ says claims of meeting with Abu Dhabi investors for recovery fund are "False"...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1595096000321953795</id>
+        <link href="https://twitter.com/defipulse/status/1595096000321953795"/>
+        <updated>2022-11-22T16:44:56.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.youtube.com/watch?v=06HYl-SE37g]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Livestream of FTX court proceedings...]]></title>
+        <id>https://twitter.com/defipulse/status/1595095603239059457</id>
+        <link href="https://twitter.com/defipulse/status/1595095603239059457"/>
+        <updated>2022-11-22T16:43:21.000Z</updated>
+        <summary type="html"><![CDATA[Livestream of FTX court proceedings...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1595084046169739264</id>
@@ -167,46 +207,6 @@ Today we are excited to introduce Permit2 & Universal Router—new smart contrac
 jump_crypto 🔥💃🏻: Given the rumors flying around, we want to debunk a few things.
 Jump Crypto is not shutting down. We believe we’re one of the most well-capitalized and liquid firms in crypto.
 We are still actively investing and trading, so if you’re looking for funding, please get in touch.]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1593301295183663106</id>
-        <link href="https://twitter.com/defipulse/status/1593301295183663106"/>
-        <updated>2022-11-17T17:53:25.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://twitter.com/twobitidiot/status/1593292793581113345?s=20&t=3gIMNtDchTIYY-aZELvGOQ]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Genesis is allegedly "seeking a $1bn credit facility immediately...."]]></title>
-        <id>https://twitter.com/defipulse/status/1593301293891813378</id>
-        <link href="https://twitter.com/defipulse/status/1593301293891813378"/>
-        <updated>2022-11-17T17:53:25.000Z</updated>
-        <summary type="html"><![CDATA[Genesis is allegedly "seeking a $1bn credit facility immediately...."]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Full court filing:]]></title>
-        <id>https://twitter.com/defipulse/status/1593263574725672960</id>
-        <link href="https://twitter.com/defipulse/status/1593263574725672960"/>
-        <updated>2022-11-17T15:23:32.000Z</updated>
-        <summary type="html"><![CDATA[Re Full court filing: https://pacer-documents.s3.amazonaws.com/33/188450/042020648197.pdf]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re "...the failure of the co-founders and potentially others to identify additional wallets believed to contain Debtor assets."]]></title>
-        <id>https://twitter.com/defipulse/status/1593261538776961025</id>
-        <link href="https://twitter.com/defipulse/status/1593261538776961025"/>
-        <updated>2022-11-17T15:15:26.000Z</updated>
-        <summary type="html"><![CDATA[Re "...the failure of the co-founders and potentially others to identify additional wallets believed to contain Debtor assets."]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
