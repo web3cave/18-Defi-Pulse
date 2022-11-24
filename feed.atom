@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-24T11:16:14.933Z</id>
+    <id>urn:2022-11-24T12:39:29.474Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-24T11:16:14.933Z</updated>
+    <updated>2022-11-24T12:39:29.474Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1595745600217272322</id>
+        <link href="https://twitter.com/defipulse/status/1595745600217272322"/>
+        <updated>2022-11-24T11:46:13.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://trib.al/9yDJupE]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CZ confirms]]></title>
+        <id>https://twitter.com/defipulse/status/1595745597730197506</id>
+        <link href="https://twitter.com/defipulse/status/1595745597730197506"/>
+        <updated>2022-11-24T11:46:12.000Z</updated>
+        <summary type="html"><![CDATA[CZ confirms http://Binance.US]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1595146883126939652</id>
@@ -181,29 +201,6 @@
         <link href="https://twitter.com/defipulse/status/1593699134447534081"/>
         <updated>2022-11-18T20:14:17.000Z</updated>
         <summary type="html"><![CDATA[SBF reimbursed himself $300 million from investor funding…]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1593677020269002753</id>
-        <link href="https://twitter.com/defipulse/status/1593677020269002753"/>
-        <updated>2022-11-18T18:46:25.000Z</updated>
-        <summary type="html"><![CDATA[Re 
-Uniswap Labs 🦄: 1/ Uniswap builds public infrastructure that pushes crypto forward.
-Today we are excited to introduce Permit2 & Universal Router—new smart contracts that increase the flexibility of token approvals & aggregate ERC20s & NFT swaps into one ✨
- https://uniswap.org/blog/permit2-and-universal-router]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[.@Uniswap launches 2 new smart contracts...]]></title>
-        <id>https://twitter.com/defipulse/status/1593677018968641536</id>
-        <link href="https://twitter.com/defipulse/status/1593677018968641536"/>
-        <updated>2022-11-18T18:46:25.000Z</updated>
-        <summary type="html"><![CDATA[.@Uniswap launches 2 new smart contracts...]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
