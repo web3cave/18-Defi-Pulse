@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-28T16:23:12.189Z</id>
+    <id>urn:2022-11-28T17:18:26.990Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-28T16:23:12.189Z</updated>
+    <updated>2022-11-28T17:18:26.990Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1597270079926071296</id>
+        <link href="https://twitter.com/defipulse/status/1597270079926071296"/>
+        <updated>2022-11-28T16:43:57.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.coindesk.com/policy/2022/11/28/ftx-fallout-continues-as-crypto-lender-blockfi-declares-bankruptcy/]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto lender BlockFi files for bankruptcy…]]></title>
+        <id>https://twitter.com/defipulse/status/1597270077912780801</id>
+        <link href="https://twitter.com/defipulse/status/1597270077912780801"/>
+        <updated>2022-11-28T16:43:57.000Z</updated>
+        <summary type="html"><![CDATA[Crypto lender BlockFi files for bankruptcy…]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1595745600217272322</id>
@@ -181,26 +201,6 @@
         <link href="https://twitter.com/defipulse/status/1593719768653398017"/>
         <updated>2022-11-18T21:36:17.000Z</updated>
         <summary type="html"><![CDATA[Alameda just transferred $17 million in crypto to FalconX…]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1593699136213221376</id>
-        <link href="https://twitter.com/defipulse/status/1593699136213221376"/>
-        <updated>2022-11-18T20:14:18.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.wsj.com/articles/ftxs-sam-bankman-fried-cashed-out-300-million-during-funding-spree-11668799774]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SBF reimbursed himself $300 million from investor funding…]]></title>
-        <id>https://twitter.com/defipulse/status/1593699134447534081</id>
-        <link href="https://twitter.com/defipulse/status/1593699134447534081"/>
-        <updated>2022-11-18T20:14:17.000Z</updated>
-        <summary type="html"><![CDATA[SBF reimbursed himself $300 million from investor funding…]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
