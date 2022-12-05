@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-05T18:22:39.864Z</id>
+    <id>urn:2022-12-05T19:14:37.599Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-05T18:22:39.864Z</updated>
+    <updated>2022-12-05T19:14:37.599Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1599830896831385601</id>
+        <link href="https://twitter.com/defipulse/status/1599830896831385601"/>
+        <updated>2022-12-05T18:19:43.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://nexo.io/blog/nexo-announces-gradual-departure-from-the-united-states]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nexo announces departure from United States…]]></title>
+        <id>https://twitter.com/defipulse/status/1599830894855847936</id>
+        <link href="https://twitter.com/defipulse/status/1599830894855847936"/>
+        <updated>2022-12-05T18:19:43.000Z</updated>
+        <summary type="html"><![CDATA[Nexo announces departure from United States…]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1597270079926071296</id>
@@ -181,26 +201,6 @@
         <link href="https://twitter.com/defipulse/status/1593760674366234625"/>
         <updated>2022-11-19T00:18:50.000Z</updated>
         <summary type="html"><![CDATA[Re @falconxnetwork Thank you for letting us know.]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1593719770322534403</id>
-        <link href="https://twitter.com/defipulse/status/1593719770322534403"/>
-        <updated>2022-11-18T21:36:17.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://decrypt.co/115060/alameda-research-sbf-17m-falconx]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alameda just transferred $17 million in crypto to FalconX…]]></title>
-        <id>https://twitter.com/defipulse/status/1593719768653398017</id>
-        <link href="https://twitter.com/defipulse/status/1593719768653398017"/>
-        <updated>2022-11-18T21:36:17.000Z</updated>
-        <summary type="html"><![CDATA[Alameda just transferred $17 million in crypto to FalconX…]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
