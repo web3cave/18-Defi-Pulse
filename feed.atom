@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-06T13:27:21.634Z</id>
+    <id>urn:2022-12-06T14:16:51.496Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-06T13:27:21.634Z</updated>
+    <updated>2022-12-06T14:16:51.496Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1600131182510821376</id>
+        <link href="https://twitter.com/defipulse/status/1600131182510821376"/>
+        <updated>2022-12-06T14:12:57.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://fortune.com/crypto/2022/12/06/legendary-apple-designer-ledger-stax-crypto-wallet/]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Legendary Apple designer behind the first iPod and co-creator of the iPhone, designs new hardware wallet for Ledger…]]></title>
+        <id>https://twitter.com/defipulse/status/1600131180501688320</id>
+        <link href="https://twitter.com/defipulse/status/1600131180501688320"/>
+        <updated>2022-12-06T14:12:57.000Z</updated>
+        <summary type="html"><![CDATA[Legendary Apple designer behind the first iPod and co-creator of the iPhone, designs new hardware wallet for Ledger…]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1599830896831385601</id>
@@ -181,26 +201,6 @@
         <link href="https://twitter.com/defipulse/status/1594315685957718017"/>
         <updated>2022-11-20T13:04:15.000Z</updated>
         <summary type="html"><![CDATA[The culprit who siphoned funds from FTX is swapping some ETH for bitcoin…]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Correction: $17M FalconX Transfer Was Mislabeled as Alameda by Nansen and Etherscan.]]></title>
-        <id>https://twitter.com/defipulse/status/1593763860783267841</id>
-        <link href="https://twitter.com/defipulse/status/1593763860783267841"/>
-        <updated>2022-11-19T00:31:29.000Z</updated>
-        <summary type="html"><![CDATA[Re Correction: $17M FalconX Transfer Was Mislabeled as Alameda by Nansen and Etherscan.]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @falconxnetwork Thank you for letting us know.]]></title>
-        <id>https://twitter.com/defipulse/status/1593760674366234625</id>
-        <link href="https://twitter.com/defipulse/status/1593760674366234625"/>
-        <updated>2022-11-19T00:18:50.000Z</updated>
-        <summary type="html"><![CDATA[Re @falconxnetwork Thank you for letting us know.]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
