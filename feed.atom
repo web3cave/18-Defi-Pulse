@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-07T17:16:55.349Z</id>
+    <id>urn:2022-12-07T18:23:18.571Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-07T17:16:55.349Z</updated>
+    <updated>2022-12-07T18:23:18.571Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1600537041166540803</id>
+        <link href="https://twitter.com/defipulse/status/1600537041166540803"/>
+        <updated>2022-12-07T17:05:41.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.coindesk.com/business/2022/12/07/genesis-client-letter-suggests-no-imminent-solution-to-withdrawal-freeze/?utm_medium=referral&utm_source=rss&utm_campaign=headlines]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genesis client letter suggests lending unit withdrawal freeze will take "weeks" rather than days to resolve...]]></title>
+        <id>https://twitter.com/defipulse/status/1600537039832862721</id>
+        <link href="https://twitter.com/defipulse/status/1600537039832862721"/>
+        <updated>2022-12-07T17:05:41.000Z</updated>
+        <summary type="html"><![CDATA[Genesis client letter suggests lending unit withdrawal freeze will take "weeks" rather than days to resolve...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1600131182510821376</id>
@@ -181,26 +201,6 @@
         <link href="https://twitter.com/defipulse/status/1594685546391080962"/>
         <updated>2022-11-21T13:33:56.000Z</updated>
         <summary type="html"><![CDATA[Crypto lender Nexo sued for allegedly blocking $126M withdrawals…]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1594315687593271296</id>
-        <link href="https://twitter.com/defipulse/status/1594315687593271296"/>
-        <updated>2022-11-20T13:04:15.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.theblock.co/post/188624/ether-under-pressure-as-ftx-accounts-drainer-cashes-out-for-bitcoin]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The culprit who siphoned funds from FTX is swapping some ETH for bitcoin…]]></title>
-        <id>https://twitter.com/defipulse/status/1594315685957718017</id>
-        <link href="https://twitter.com/defipulse/status/1594315685957718017"/>
-        <updated>2022-11-20T13:04:15.000Z</updated>
-        <summary type="html"><![CDATA[The culprit who siphoned funds from FTX is swapping some ETH for bitcoin…]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>

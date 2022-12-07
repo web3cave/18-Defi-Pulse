@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1600537041166540803",
+          "author": "DeFi Pulse",
+          "description": "Re  https://www.coindesk.com/business/2022/12/07/genesis-client-letter-suggests-no-imminent-solution-to-withdrawal-freeze/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "link": "https://twitter.com/defipulse/status/1600537041166540803",
+          "publishedOn": "2022-12-07T17:05:41.000Z",
+          "wordCount": 470,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1600537039832862721",
+          "author": "DeFi Pulse",
+          "description": "Genesis client letter suggests lending unit withdrawal freeze will take \"weeks\" rather than days to resolve...",
+          "link": "https://twitter.com/defipulse/status/1600537039832862721",
+          "publishedOn": "2022-12-07T17:05:41.000Z",
+          "wordCount": 470,
+          "title": "Genesis client letter suggests lending unit withdrawal freeze will take \"weeks\" rather than days to resolve...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1600131182510821376",
           "author": "DeFi Pulse",
           "description": "Re  https://fortune.com/crypto/2022/12/06/legendary-apple-designer-ledger-stax-crypto-wallet/",
@@ -183,26 +203,6 @@
           "publishedOn": "2022-11-21T13:33:56.000Z",
           "wordCount": 470,
           "title": "Crypto lender Nexo sued for allegedly blocking $126M withdrawals…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1594315687593271296",
-          "author": "DeFi Pulse",
-          "description": "Re  https://www.theblock.co/post/188624/ether-under-pressure-as-ftx-accounts-drainer-cashes-out-for-bitcoin",
-          "link": "https://twitter.com/defipulse/status/1594315687593271296",
-          "publishedOn": "2022-11-20T13:04:15.000Z",
-          "wordCount": 470,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1594315685957718017",
-          "author": "DeFi Pulse",
-          "description": "The culprit who siphoned funds from FTX is swapping some ETH for bitcoin…",
-          "link": "https://twitter.com/defipulse/status/1594315685957718017",
-          "publishedOn": "2022-11-20T13:04:15.000Z",
-          "wordCount": 470,
-          "title": "The culprit who siphoned funds from FTX is swapping some ETH for bitcoin…",
           "imageUrl": null
         }
       ]
