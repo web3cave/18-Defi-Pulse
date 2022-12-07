@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1600585605490085889",
+          "author": "DeFi Pulse",
+          "description": "Rep. @RitchieTorres requests an investigation into the SEC’s “failure to protect the investing public from the egregious mismanagement and malfeasance of FTX,” calling Gary Gensler “singularly responsible for the regulatory failures.”",
+          "link": "https://twitter.com/defipulse/status/1600585605490085889",
+          "publishedOn": "2022-12-07T20:18:40.000Z",
+          "wordCount": 470,
+          "title": "Rep. @RitchieTorres requests an investigation into the SEC’s “failure to protect the investing public from the egregious mismanagement and malfeasan...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1600537041166540803",
           "author": "DeFi Pulse",
           "description": "Re  https://www.coindesk.com/business/2022/12/07/genesis-client-letter-suggests-no-imminent-solution-to-withdrawal-freeze/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
@@ -193,16 +203,6 @@
           "publishedOn": "2022-11-21T13:33:57.000Z",
           "wordCount": 470,
           "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1594685546391080962",
-          "author": "DeFi Pulse",
-          "description": "Crypto lender Nexo sued for allegedly blocking $126M withdrawals…",
-          "link": "https://twitter.com/defipulse/status/1594685546391080962",
-          "publishedOn": "2022-11-21T13:33:56.000Z",
-          "wordCount": 470,
-          "title": "Crypto lender Nexo sued for allegedly blocking $126M withdrawals…",
           "imageUrl": null
         }
       ]

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-07T20:19:23.331Z</id>
+    <id>urn:2022-12-07T21:16:46.357Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-07T20:19:23.331Z</updated>
+    <updated>2022-12-07T21:16:46.357Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Rep. @RitchieTorres requests an investigation into the SEC’s “failure to protect the investing public from the egregious mismanagement and malfeasan...]]></title>
+        <id>https://twitter.com/defipulse/status/1600585605490085889</id>
+        <link href="https://twitter.com/defipulse/status/1600585605490085889"/>
+        <updated>2022-12-07T20:18:40.000Z</updated>
+        <summary type="html"><![CDATA[Rep. @RitchieTorres requests an investigation into the SEC’s “failure to protect the investing public from the egregious mismanagement and malfeasance of FTX,” calling Gary Gensler “singularly responsible for the regulatory failures.”]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1600537041166540803</id>
@@ -191,16 +201,6 @@
         <link href="https://twitter.com/defipulse/status/1594685548559474689"/>
         <updated>2022-11-21T13:33:57.000Z</updated>
         <summary type="html"><![CDATA[Re  https://www.coindesk.com/business/2022/11/21/crypto-lender-nexo-sued-for-allegedly-blocking-126m-withdrawals-report/]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto lender Nexo sued for allegedly blocking $126M withdrawals…]]></title>
-        <id>https://twitter.com/defipulse/status/1594685546391080962</id>
-        <link href="https://twitter.com/defipulse/status/1594685546391080962"/>
-        <updated>2022-11-21T13:33:56.000Z</updated>
-        <summary type="html"><![CDATA[Crypto lender Nexo sued for allegedly blocking $126M withdrawals…]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
