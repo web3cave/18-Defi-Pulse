@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1600870680240992256",
+          "author": "DeFi Pulse",
+          "description": ".@renprotocol plans to wind down 1.0 version and calls for holders of Ren assets to bridge back to native chains ASAP.\nRen: 1) Important notice ⚠️\nAs announced previously, the Ren 1.0 network is shutting down due to the events surrounding Alameda\nAs compatibility between Ren 1.0 and 2.0 cannot be guaranteed, holders of Ren assets should bridge back to native chains ASAP, or risk losing them!\n https://twitter.com/renprotocol/status/1594305211115663360",
+          "link": "https://twitter.com/defipulse/status/1600870680240992256",
+          "publishedOn": "2022-12-08T15:11:27.000Z",
+          "wordCount": 470,
+          "title": ".@renprotocol plans to wind down 1.0 version and calls for holders of Ren assets to bridge back to native chains ASAP.",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1600653069414539265",
           "author": "DeFi Pulse",
           "description": "Senate Banking Committee orders SBF to testify in-person at Dec. 13th hearing, with a subpoena “on the table.”\nMaxine Waters: Lies are circulating @CNBC that I am not willing to subpoena @SBF_FTX. He has been requested to testify at the December 13th hearing. A subpoena is definitely on the table. Stay tuned.",
@@ -193,16 +203,6 @@
           "publishedOn": "2022-11-22T15:57:26.000Z",
           "wordCount": 470,
           "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1595084044689342464",
-          "author": "DeFi Pulse",
-          "description": "Curve releases whitepaper and official code for its stablecoin...",
-          "link": "https://twitter.com/defipulse/status/1595084044689342464",
-          "publishedOn": "2022-11-22T15:57:26.000Z",
-          "wordCount": 470,
-          "title": "Curve releases whitepaper and official code for its stablecoin...",
           "imageUrl": null
         }
       ]
