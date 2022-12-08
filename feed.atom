@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-07T23:18:14.221Z</id>
+    <id>urn:2022-12-08T01:35:28.315Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-07T23:18:14.221Z</updated>
+    <updated>2022-12-08T01:35:28.315Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Senate Banking Committee orders SBF to testify in-person at Dec. 13th hearing, with a subpoena “on the table.”]]></title>
+        <id>https://twitter.com/defipulse/status/1600653069414539265</id>
+        <link href="https://twitter.com/defipulse/status/1600653069414539265"/>
+        <updated>2022-12-08T00:46:45.000Z</updated>
+        <summary type="html"><![CDATA[Senate Banking Committee orders SBF to testify in-person at Dec. 13th hearing, with a subpoena “on the table.”
+Maxine Waters: Lies are circulating @CNBC that I am not willing to subpoena @SBF_FTX. He has been requested to testify at the December 13th hearing. A subpoena is definitely on the table. Stay tuned.]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rep. @RitchieTorres requests an investigation into the SEC’s “failure to protect the investing public from the egregious mismanagement and malfeasan...]]></title>
         <id>https://twitter.com/defipulse/status/1600585605490085889</id>
@@ -191,16 +202,6 @@
         <link href="https://twitter.com/defipulse/status/1595084044689342464"/>
         <updated>2022-11-22T15:57:26.000Z</updated>
         <summary type="html"><![CDATA[Curve releases whitepaper and official code for its stablecoin...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1594685548559474689</id>
-        <link href="https://twitter.com/defipulse/status/1594685548559474689"/>
-        <updated>2022-11-21T13:33:57.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.coindesk.com/business/2022/11/21/crypto-lender-nexo-sued-for-allegedly-blocking-126m-withdrawals-report/]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>

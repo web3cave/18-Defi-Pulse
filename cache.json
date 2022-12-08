@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1600653069414539265",
+          "author": "DeFi Pulse",
+          "description": "Senate Banking Committee orders SBF to testify in-person at Dec. 13th hearing, with a subpoena “on the table.”\nMaxine Waters: Lies are circulating @CNBC that I am not willing to subpoena @SBF_FTX. He has been requested to testify at the December 13th hearing. A subpoena is definitely on the table. Stay tuned.",
+          "link": "https://twitter.com/defipulse/status/1600653069414539265",
+          "publishedOn": "2022-12-08T00:46:45.000Z",
+          "wordCount": 470,
+          "title": "Senate Banking Committee orders SBF to testify in-person at Dec. 13th hearing, with a subpoena “on the table.”",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1600585605490085889",
           "author": "DeFi Pulse",
           "description": "Rep. @RitchieTorres requests an investigation into the SEC’s “failure to protect the investing public from the egregious mismanagement and malfeasance of FTX,” calling Gary Gensler “singularly responsible for the regulatory failures.”",
@@ -111,7 +121,7 @@
           "description": "CZ confirms http://Binance.US",
           "link": "https://twitter.com/defipulse/status/1595745597730197506",
           "publishedOn": "2022-11-24T11:46:12.000Z",
-          "wordCount": 464,
+          "wordCount": 470,
           "title": "CZ confirms",
           "imageUrl": null
         },
@@ -193,16 +203,6 @@
           "publishedOn": "2022-11-22T15:57:26.000Z",
           "wordCount": 470,
           "title": "Curve releases whitepaper and official code for its stablecoin...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1594685548559474689",
-          "author": "DeFi Pulse",
-          "description": "Re  https://www.coindesk.com/business/2022/11/21/crypto-lender-nexo-sued-for-allegedly-blocking-126m-withdrawals-report/",
-          "link": "https://twitter.com/defipulse/status/1594685548559474689",
-          "publishedOn": "2022-11-21T13:33:57.000Z",
-          "wordCount": 470,
-          "title": "Re",
           "imageUrl": null
         }
       ]
