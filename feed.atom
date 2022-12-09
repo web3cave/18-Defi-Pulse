@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-09T13:24:26.463Z</id>
+    <id>urn:2022-12-09T14:16:29.458Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-09T13:24:26.463Z</updated>
+    <updated>2022-12-09T14:16:29.458Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1601202768286736384</id>
+        <link href="https://twitter.com/defipulse/status/1601202768286736384"/>
+        <updated>2022-12-09T13:11:03.000Z</updated>
+        <summary type="html"><![CDATA[Re 
+SBF: 1) I still do not have access to much of my data -- professional or personal.  So there is a limit to what I will be able to say, and I won't be as helpful as I'd like.
+But as the committee still thinks it would be useful, I am willing to testify on the 13th.]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SBF says he is willing to testify on the 13th...]]></title>
+        <id>https://twitter.com/defipulse/status/1601202665538879488</id>
+        <link href="https://twitter.com/defipulse/status/1601202665538879488"/>
+        <updated>2022-12-09T13:10:39.000Z</updated>
+        <summary type="html"><![CDATA[SBF says he is willing to testify on the 13th...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[.@renprotocol plans to wind down 1.0 version and calls for holders of Ren assets to bridge back to native chains ASAP.]]></title>
         <id>https://twitter.com/defipulse/status/1600870680240992256</id>
@@ -13,8 +35,7 @@
         <summary type="html"><![CDATA[.@renprotocol plans to wind down 1.0 version and calls for holders of Ren assets to bridge back to native chains ASAP.
 Ren: 1) Important notice ⚠️
 As announced previously, the Ren 1.0 network is shutting down due to the events surrounding Alameda
-As compatibility between Ren 1.0 and 2.0 cannot be guaranteed, holders of Ren assets should bridge back to native chains ASAP, or risk losing them!
- https://twitter.com/renprotocol/status/1594305211115663360]]></summary>
+As compatibility between Ren 1.0 and 2.0 cannot be guaranteed, holders of Ren assets should bridge back to native chains ASAP, or risk losing them!]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
@@ -186,26 +207,6 @@ Maxine Waters: Lies are circulating @CNBC that I am not willing to subpoena @S
         <link href="https://twitter.com/defipulse/status/1595096000321953795"/>
         <updated>2022-11-22T16:44:56.000Z</updated>
         <summary type="html"><![CDATA[Re  https://www.youtube.com/watch?v=06HYl-SE37g]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Livestream of FTX court proceedings...]]></title>
-        <id>https://twitter.com/defipulse/status/1595095603239059457</id>
-        <link href="https://twitter.com/defipulse/status/1595095603239059457"/>
-        <updated>2022-11-22T16:43:21.000Z</updated>
-        <summary type="html"><![CDATA[Livestream of FTX court proceedings...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1595084046169739264</id>
-        <link href="https://twitter.com/defipulse/status/1595084046169739264"/>
-        <updated>2022-11-22T15:57:26.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.theblock.co/post/189140/curve-releases-whitepaper-and-official-code-for-its-stablecoin?utm_source=twitter&utm_medium=social]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
