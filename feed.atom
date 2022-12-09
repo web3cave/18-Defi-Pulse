@@ -1,10 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-09T21:16:38.793Z</id>
+    <id>urn:2022-12-09T22:17:41.987Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-09T21:16:38.793Z</updated>
+    <updated>2022-12-09T22:17:41.987Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Block CEO took 3 loans from Alameda in total: ▶️$12M & $15M loans used towards The Block ▶️$16M CEO used to buy personal real estate in Bahama...]]></title>
+        <id>https://twitter.com/defipulse/status/1601299226075758592</id>
+        <link href="https://twitter.com/defipulse/status/1601299226075758592"/>
+        <updated>2022-12-09T19:34:20.000Z</updated>
+        <summary type="html"><![CDATA[The Block CEO took 3 loans from Alameda in total:
+▶️$12M & $15M loans used towards The Block
+▶️$16M CEO used to buy personal real estate in Bahamas]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1601295947169816577</id>
+        <link href="https://twitter.com/defipulse/status/1601295947169816577"/>
+        <updated>2022-12-09T19:21:19.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.theblock.co/post/193753/the-block-ceo-resigns-after-failure-to-disclose-loans-from-bankman-frieds-alameda]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Block CEO resigns after failure to disclose loans from Alameda...]]></title>
+        <id>https://twitter.com/defipulse/status/1601295945118863360</id>
+        <link href="https://twitter.com/defipulse/status/1601295945118863360"/>
+        <updated>2022-12-09T19:21:18.000Z</updated>
+        <summary type="html"><![CDATA[The Block CEO resigns after failure to disclose loans from Alameda...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1601294588114661376</id>
+        <link href="https://twitter.com/defipulse/status/1601294588114661376"/>
+        <updated>2022-12-09T19:15:55.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.axios.com/2022/12/09/bankman-fried-funded-crypto-news-site-block]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SBF secretly funded crypto news site The Block and its CEO’s Bahamas apartment...]]></title>
+        <id>https://twitter.com/defipulse/status/1601294586592210945</id>
+        <link href="https://twitter.com/defipulse/status/1601294586592210945"/>
+        <updated>2022-12-09T19:15:54.000Z</updated>
+        <summary type="html"><![CDATA[SBF secretly funded crypto news site The Block and its CEO’s Bahamas apartment...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1601202768286736384</id>
+        <link href="https://twitter.com/defipulse/status/1601202768286736384"/>
+        <updated>2022-12-09T13:11:03.000Z</updated>
+        <summary type="html"><![CDATA[Re 
+SBF: 1) I still do not have access to much of my data -- professional or personal.  So there is a limit to what I will be able to say, and I won't be as helpful as I'd like.
+But as the committee still thinks it would be useful, I am willing to testify on the 13th.
+ https://twitter.com/RepMaxineWaters/status/1599858166359068676]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SBF says he is willing to testify on the 13th...]]></title>
+        <id>https://twitter.com/defipulse/status/1601202665538879488</id>
+        <link href="https://twitter.com/defipulse/status/1601202665538879488"/>
+        <updated>2022-12-09T13:10:39.000Z</updated>
+        <summary type="html"><![CDATA[SBF says he is willing to testify on the 13th...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[.@renprotocol plans to wind down 1.0 version and calls for holders of Ren assets to bridge back to native chains ASAP.]]></title>
         <id>https://twitter.com/defipulse/status/1600870680240992256</id>
@@ -136,76 +211,6 @@ Maxine Waters: Lies are circulating @CNBC that I am not willing to subpoena @S
         <link href="https://twitter.com/defipulse/status/1595745597730197506"/>
         <updated>2022-11-24T11:46:12.000Z</updated>
         <summary type="html"><![CDATA[CZ confirms http://Binance.US]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1595146883126939652</id>
-        <link href="https://twitter.com/defipulse/status/1595146883126939652"/>
-        <updated>2022-11-22T20:07:07.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.bloomberg.com/news/articles/2022-11-22/genesis-balance-sheet-reveals-web-of-loans-across-silbert-empire-dcg]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Genesis has $2.8 billion in outstanding loans on balance sheet...]]></title>
-        <id>https://twitter.com/defipulse/status/1595146881583132672</id>
-        <link href="https://twitter.com/defipulse/status/1595146881583132672"/>
-        <updated>2022-11-22T20:07:07.000Z</updated>
-        <summary type="html"><![CDATA[Genesis has $2.8 billion in outstanding loans on balance sheet...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1595100652639772673</id>
-        <link href="https://twitter.com/defipulse/status/1595100652639772673"/>
-        <updated>2022-11-22T17:03:25.000Z</updated>
-        <summary type="html"><![CDATA[Re]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CZ says claims of meeting with Abu Dhabi investors for recovery fund are "False"...]]></title>
-        <id>https://twitter.com/defipulse/status/1595100651423469576</id>
-        <link href="https://twitter.com/defipulse/status/1595100651423469576"/>
-        <updated>2022-11-22T17:03:25.000Z</updated>
-        <summary type="html"><![CDATA[CZ says claims of meeting with Abu Dhabi investors for recovery fund are "False"...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1595096000321953795</id>
-        <link href="https://twitter.com/defipulse/status/1595096000321953795"/>
-        <updated>2022-11-22T16:44:56.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.youtube.com/watch?v=06HYl-SE37g]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Livestream of FTX court proceedings...]]></title>
-        <id>https://twitter.com/defipulse/status/1595095603239059457</id>
-        <link href="https://twitter.com/defipulse/status/1595095603239059457"/>
-        <updated>2022-11-22T16:43:21.000Z</updated>
-        <summary type="html"><![CDATA[Livestream of FTX court proceedings...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1595084046169739264</id>
-        <link href="https://twitter.com/defipulse/status/1595084046169739264"/>
-        <updated>2022-11-22T15:57:26.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.theblock.co/post/189140/curve-releases-whitepaper-and-official-code-for-its-stablecoin?utm_source=twitter&utm_medium=social]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
