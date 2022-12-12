@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1602406604833492998",
+          "author": "DeFi Pulse",
+          "description": "Re  https://www.coindesk.com/policy/2022/12/12/ftx-us-was-not-independent-of-parent-company-new-ftx-ceo-will-say-in-house-testimony/",
+          "link": "https://twitter.com/defipulse/status/1602406604833492998",
+          "publishedOn": "2022-12-12T20:54:40.000Z",
+          "wordCount": 470,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1602406602648199168",
+          "author": "DeFi Pulse",
+          "description": "New FTX CEO to testify before the House Financial Services Committee that FTX U.S. ‘was not independent’ of parent company...",
+          "link": "https://twitter.com/defipulse/status/1602406602648199168",
+          "publishedOn": "2022-12-12T20:54:40.000Z",
+          "wordCount": 470,
+          "title": "New FTX CEO to testify before the House Financial Services Committee that FTX U.S. ‘was not independent’ of parent company...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1601299226075758592",
           "author": "DeFi Pulse",
           "description": "The Block CEO took 3 loans from Alameda in total:\n▶️$12M & $15M loans used towards The Block\n▶️$16M CEO used to buy personal real estate in Bahamas",
@@ -58,7 +78,7 @@
         {
           "id": "https://twitter.com/defipulse/status/1601202768286736384",
           "author": "DeFi Pulse",
-          "description": "Re \nSBF: 1) I still do not have access to much of my data -- professional or personal.  So there is a limit to what I will be able to say, and I won't be as helpful as I'd like.\nBut as the committee still thinks it would be useful, I am willing to testify on the 13th.",
+          "description": "Re \nSBF: 1) I still do not have access to much of my data -- professional or personal.  So there is a limit to what I will be able to say, and I won't be as helpful as I'd like.\nBut as the committee still thinks it would be useful, I am willing to testify on the 13th.\n https://twitter.com/RepMaxineWaters/status/1599858166359068676",
           "link": "https://twitter.com/defipulse/status/1601202768286736384",
           "publishedOn": "2022-12-09T13:11:03.000Z",
           "wordCount": 470,
@@ -78,7 +98,7 @@
         {
           "id": "https://twitter.com/defipulse/status/1600870680240992256",
           "author": "DeFi Pulse",
-          "description": ".@renprotocol plans to wind down 1.0 version and calls for holders of Ren assets to bridge back to native chains ASAP.\nRen: 1) Important notice ⚠️\nAs announced previously, the Ren 1.0 network is shutting down due to the events surrounding Alameda\nAs compatibility between Ren 1.0 and 2.0 cannot be guaranteed, holders of Ren assets should bridge back to native chains ASAP, or risk losing them!",
+          "description": ".@renprotocol plans to wind down 1.0 version and calls for holders of Ren assets to bridge back to native chains ASAP.\nRen: 1) Important notice ⚠️\nAs announced previously, the Ren 1.0 network is shutting down due to the events surrounding Alameda\nAs compatibility between Ren 1.0 and 2.0 cannot be guaranteed, holders of Ren assets should bridge back to native chains ASAP, or risk losing them!\n https://twitter.com/renprotocol/status/1594305211115663360",
           "link": "https://twitter.com/defipulse/status/1600870680240992256",
           "publishedOn": "2022-12-08T15:11:27.000Z",
           "wordCount": 470,
@@ -183,26 +203,6 @@
           "publishedOn": "2022-11-28T16:43:57.000Z",
           "wordCount": 470,
           "title": "Crypto lender BlockFi files for bankruptcy…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1595745600217272322",
-          "author": "DeFi Pulse",
-          "description": "Re  https://trib.al/9yDJupE",
-          "link": "https://twitter.com/defipulse/status/1595745600217272322",
-          "publishedOn": "2022-11-24T11:46:13.000Z",
-          "wordCount": 470,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1595745597730197506",
-          "author": "DeFi Pulse",
-          "description": "CZ confirms http://Binance.US",
-          "link": "https://twitter.com/defipulse/status/1595745597730197506",
-          "publishedOn": "2022-11-24T11:46:12.000Z",
-          "wordCount": 470,
-          "title": "CZ confirms",
           "imageUrl": null
         }
       ]
