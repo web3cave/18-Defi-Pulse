@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-11T23:18:36.330Z</id>
+    <id>urn:2022-12-12T01:38:21.695Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-11T23:18:36.330Z</updated>
+    <updated>2022-12-12T01:38:21.695Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -64,8 +64,7 @@
         <updated>2022-12-09T13:11:03.000Z</updated>
         <summary type="html"><![CDATA[Re 
 SBF: 1) I still do not have access to much of my data -- professional or personal.  So there is a limit to what I will be able to say, and I won't be as helpful as I'd like.
-But as the committee still thinks it would be useful, I am willing to testify on the 13th.
- https://twitter.com/RepMaxineWaters/status/1599858166359068676]]></summary>
+But as the committee still thinks it would be useful, I am willing to testify on the 13th.]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
@@ -88,8 +87,7 @@ But as the committee still thinks it would be useful, I am willing to testify on
         <summary type="html"><![CDATA[.@renprotocol plans to wind down 1.0 version and calls for holders of Ren assets to bridge back to native chains ASAP.
 Ren: 1) Important notice ⚠️
 As announced previously, the Ren 1.0 network is shutting down due to the events surrounding Alameda
-As compatibility between Ren 1.0 and 2.0 cannot be guaranteed, holders of Ren assets should bridge back to native chains ASAP, or risk losing them!
- https://twitter.com/renprotocol/status/1594305211115663360]]></summary>
+As compatibility between Ren 1.0 and 2.0 cannot be guaranteed, holders of Ren assets should bridge back to native chains ASAP, or risk losing them!]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
