@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1602751408515653632",
+          "author": "DeFi Pulse",
+          "description": "SBF's leaked testimony he planned to give to Congress... https://www.forbes.com/sites/stevenehrlich/2022/12/13/exclusive-transcript-the-full-testimony-sbf-planned-to-give-to-congress/?sh=4dc203283c47&utm_campaign=socialflowForbesMainTwitter&utm_source=ForbesMainTwitter&utm_medium=social",
+          "link": "https://twitter.com/defipulse/status/1602751408515653632",
+          "publishedOn": "2022-12-13T19:44:48.000Z",
+          "wordCount": 470,
+          "title": "SBF's leaked testimony he planned to give to Congress...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1602691657685680128",
           "author": "DeFi Pulse",
           "description": "Re On FTX's Risk Management system: \nAbsolutely false. There was no sophistication. There was an absence of risk management.",
@@ -183,16 +193,6 @@
           "publishedOn": "2022-12-09T19:21:18.000Z",
           "wordCount": 470,
           "title": "The Block CEO resigns after failure to disclose loans from Alameda...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1601294588114661376",
-          "author": "DeFi Pulse",
-          "description": "Re  https://www.axios.com/2022/12/09/bankman-fried-funded-crypto-news-site-block",
-          "link": "https://twitter.com/defipulse/status/1601294588114661376",
-          "publishedOn": "2022-12-09T19:15:55.000Z",
-          "wordCount": 470,
-          "title": "Re",
           "imageUrl": null
         }
       ]
