@@ -1,10 +1,104 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-13T15:23:38.433Z</id>
+    <id>urn:2022-12-13T16:26:54.168Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-13T15:23:38.433Z</updated>
+    <updated>2022-12-13T16:26:54.168Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re On FTX's Risk Management system: Absolutely false. There was no sophistication. There was an absence of risk management.]]></title>
+        <id>https://twitter.com/defipulse/status/1602691657685680128</id>
+        <link href="https://twitter.com/defipulse/status/1602691657685680128"/>
+        <updated>2022-12-13T15:47:22.000Z</updated>
+        <summary type="html"><![CDATA[Re On FTX's Risk Management system: 
+Absolutely false. There was no sophistication. There was an absence of risk management.]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re John Ray on being worse than Enron: There is no record-keeping whatsoever. Employees would communicate invoices and expenses on Slack. They use Qui...]]></title>
+        <id>https://twitter.com/defipulse/status/1602691371885805569</id>
+        <link href="https://twitter.com/defipulse/status/1602691371885805569"/>
+        <updated>2022-12-13T15:46:14.000Z</updated>
+        <summary type="html"><![CDATA[Re John Ray on being worse than Enron:
+There is no record-keeping whatsoever. Employees would communicate invoices and expenses on Slack. They use Quickbooks. A multi-billion dollar company. There is no independent board. That is highly unusual.]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re On the loans givens to SBF: The loans givens to SBF was not just one loan but numerous loans. There is no description of the purpose of the loan. I...]]></title>
+        <id>https://twitter.com/defipulse/status/1602688049472839693</id>
+        <link href="https://twitter.com/defipulse/status/1602688049472839693"/>
+        <updated>2022-12-13T15:33:02.000Z</updated>
+        <summary type="html"><![CDATA[Re On the loans givens to SBF: 
+The loans givens to SBF was not just one loan but numerous loans. There is no description of the purpose of the loan. In one instance, he is signed both as issuer and recipient of the loan....]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re "...Bankman-Fried stated privately that he was pursuing an aggressive acquisition strategy during this time... in part to gain access to additional...]]></title>
+        <id>https://twitter.com/defipulse/status/1602687433308528643</id>
+        <link href="https://twitter.com/defipulse/status/1602687433308528643"/>
+        <updated>2022-12-13T15:30:35.000Z</updated>
+        <summary type="html"><![CDATA[Re "...Bankman-Fried stated privately that he was pursuing an aggressive acquisition strategy during this time... in part to gain access to additional sources of capital that could be used to support his existing businesses and fill the hole in customer funds that had been created."]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WATCH NOW: FTX CEO John Ray III testifies before the House…]]></title>
+        <id>https://twitter.com/defipulse/status/1602684133691559936</id>
+        <link href="https://twitter.com/defipulse/status/1602684133691559936"/>
+        <updated>2022-12-13T15:17:28.000Z</updated>
+        <summary type="html"><![CDATA[WATCH NOW: FTX CEO John Ray III testifies before the House… https://twitter.com/i/broadcasts/1DXxyvMQjEZKM?t=12m16s]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re “FTX Trading executives also created other exceptions… that allowed Alameda to have an unfair advantage when transacting on the platform, includi...]]></title>
+        <id>https://twitter.com/defipulse/status/1602682378207600643</id>
+        <link href="https://twitter.com/defipulse/status/1602682378207600643"/>
+        <updated>2022-12-13T15:10:30.000Z</updated>
+        <summary type="html"><![CDATA[Re “FTX Trading executives also created other exceptions… that allowed
+Alameda to have an unfair advantage when transacting on the platform, including quicker execution times and an exemption from the platform's distinctive auto-liquidation risk management process.”]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re “At Bankman-Fried's direction, FTX executives created features in the underlying code for FTX that allowed Alameda to maintain an essentially unli...]]></title>
+        <id>https://twitter.com/defipulse/status/1602681956960960518</id>
+        <link href="https://twitter.com/defipulse/status/1602681956960960518"/>
+        <updated>2022-12-13T15:08:49.000Z</updated>
+        <summary type="html"><![CDATA[Re “At Bankman-Fried's direction, FTX executives created features in the underlying code for FTX that allowed Alameda to maintain an essentially unlimited line of credit on FTX.”]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[U.S. vs. SBF indictment…]]></title>
+        <id>https://twitter.com/defipulse/status/1602679615839174656</id>
+        <link href="https://twitter.com/defipulse/status/1602679615839174656"/>
+        <updated>2022-12-13T14:59:31.000Z</updated>
+        <summary type="html"><![CDATA[U.S. vs. SBF indictment… https://www.documentcloud.org/documents/23450344-unsealed-indictment-in-us-v-bankman-fried-22-cr-673-abrams-as-sam-bankman-fried-of-ftx-heads-to-sdny-echoes-of-onecoin-and-un-bribery-cases https://twitter.com/i/web/status/1602679615839174656]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CFTC sues SBF, FTX Trading,]]></title>
+        <id>https://twitter.com/defipulse/status/1602679582175412225</id>
+        <link href="https://twitter.com/defipulse/status/1602679582175412225"/>
+        <updated>2022-12-13T14:59:23.000Z</updated>
+        <summary type="html"><![CDATA[CFTC sues SBF, FTX Trading, http://FTX.com https://www.docdroid.net/EmmPXDR/cftc-vs-samuel-db-pdf]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1602471457996562432</id>
@@ -103,114 +197,6 @@
         <link href="https://twitter.com/defipulse/status/1601294588114661376"/>
         <updated>2022-12-09T19:15:55.000Z</updated>
         <summary type="html"><![CDATA[Re  https://www.axios.com/2022/12/09/bankman-fried-funded-crypto-news-site-block]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SBF secretly funded crypto news site The Block and its CEO’s Bahamas apartment...]]></title>
-        <id>https://twitter.com/defipulse/status/1601294586592210945</id>
-        <link href="https://twitter.com/defipulse/status/1601294586592210945"/>
-        <updated>2022-12-09T19:15:54.000Z</updated>
-        <summary type="html"><![CDATA[SBF secretly funded crypto news site The Block and its CEO’s Bahamas apartment...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1601202768286736384</id>
-        <link href="https://twitter.com/defipulse/status/1601202768286736384"/>
-        <updated>2022-12-09T13:11:03.000Z</updated>
-        <summary type="html"><![CDATA[Re 
-SBF: 1) I still do not have access to much of my data -- professional or personal.  So there is a limit to what I will be able to say, and I won't be as helpful as I'd like.
-But as the committee still thinks it would be useful, I am willing to testify on the 13th.
- https://twitter.com/RepMaxineWaters/status/1599858166359068676]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SBF says he is willing to testify on the 13th...]]></title>
-        <id>https://twitter.com/defipulse/status/1601202665538879488</id>
-        <link href="https://twitter.com/defipulse/status/1601202665538879488"/>
-        <updated>2022-12-09T13:10:39.000Z</updated>
-        <summary type="html"><![CDATA[SBF says he is willing to testify on the 13th...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[.@renprotocol plans to wind down 1.0 version and calls for holders of Ren assets to bridge back to native chains ASAP.]]></title>
-        <id>https://twitter.com/defipulse/status/1600870680240992256</id>
-        <link href="https://twitter.com/defipulse/status/1600870680240992256"/>
-        <updated>2022-12-08T15:11:27.000Z</updated>
-        <summary type="html"><![CDATA[.@renprotocol plans to wind down 1.0 version and calls for holders of Ren assets to bridge back to native chains ASAP.
-Ren: 1) Important notice ⚠️
-As announced previously, the Ren 1.0 network is shutting down due to the events surrounding Alameda
-As compatibility between Ren 1.0 and 2.0 cannot be guaranteed, holders of Ren assets should bridge back to native chains ASAP, or risk losing them!
- https://twitter.com/renprotocol/status/1594305211115663360]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Senate Banking Committee orders SBF to testify in-person at Dec. 13th hearing, with a subpoena “on the table.”]]></title>
-        <id>https://twitter.com/defipulse/status/1600653069414539265</id>
-        <link href="https://twitter.com/defipulse/status/1600653069414539265"/>
-        <updated>2022-12-08T00:46:45.000Z</updated>
-        <summary type="html"><![CDATA[Senate Banking Committee orders SBF to testify in-person at Dec. 13th hearing, with a subpoena “on the table.”
-Maxine Waters: Lies are circulating @CNBC that I am not willing to subpoena @SBF_FTX. He has been requested to testify at the December 13th hearing. A subpoena is definitely on the table. Stay tuned.]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rep. @RitchieTorres requests an investigation into the SEC’s “failure to protect the investing public from the egregious mismanagement and malfeasan...]]></title>
-        <id>https://twitter.com/defipulse/status/1600585605490085889</id>
-        <link href="https://twitter.com/defipulse/status/1600585605490085889"/>
-        <updated>2022-12-07T20:18:40.000Z</updated>
-        <summary type="html"><![CDATA[Rep. @RitchieTorres requests an investigation into the SEC’s “failure to protect the investing public from the egregious mismanagement and malfeasance of FTX,” calling Gary Gensler “singularly responsible for the regulatory failures.”]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1600537041166540803</id>
-        <link href="https://twitter.com/defipulse/status/1600537041166540803"/>
-        <updated>2022-12-07T17:05:41.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.coindesk.com/business/2022/12/07/genesis-client-letter-suggests-no-imminent-solution-to-withdrawal-freeze/?utm_medium=referral&utm_source=rss&utm_campaign=headlines]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Genesis client letter suggests lending unit withdrawal freeze will take "weeks" rather than days to resolve...]]></title>
-        <id>https://twitter.com/defipulse/status/1600537039832862721</id>
-        <link href="https://twitter.com/defipulse/status/1600537039832862721"/>
-        <updated>2022-12-07T17:05:41.000Z</updated>
-        <summary type="html"><![CDATA[Genesis client letter suggests lending unit withdrawal freeze will take "weeks" rather than days to resolve...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1600131182510821376</id>
-        <link href="https://twitter.com/defipulse/status/1600131182510821376"/>
-        <updated>2022-12-06T14:12:57.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://fortune.com/crypto/2022/12/06/legendary-apple-designer-ledger-stax-crypto-wallet/]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Legendary Apple designer behind the first iPod and co-creator of the iPhone, designs new hardware wallet for Ledger…]]></title>
-        <id>https://twitter.com/defipulse/status/1600131180501688320</id>
-        <link href="https://twitter.com/defipulse/status/1600131180501688320"/>
-        <updated>2022-12-06T14:12:57.000Z</updated>
-        <summary type="html"><![CDATA[Legendary Apple designer behind the first iPod and co-creator of the iPhone, designs new hardware wallet for Ledger…]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
