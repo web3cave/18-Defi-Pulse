@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-12T23:19:49.722Z</id>
+    <id>urn:2022-12-13T01:40:59.715Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-12T23:19:49.722Z</updated>
+    <updated>2022-12-13T01:40:59.715Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1602451557295001600</id>
+        <link href="https://twitter.com/defipulse/status/1602451557295001600"/>
+        <updated>2022-12-12T23:53:18.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.coindesk.com/policy/2022/12/12/ftx-founder-sam-bankman-fried-arrested-bahamas-says/]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SBF has been arrested in the Bahamas…]]></title>
+        <id>https://twitter.com/defipulse/status/1602451282240962562</id>
+        <link href="https://twitter.com/defipulse/status/1602451282240962562"/>
+        <updated>2022-12-12T23:52:12.000Z</updated>
+        <summary type="html"><![CDATA[SBF has been arrested in the Bahamas…]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1602406604833492998</id>
@@ -84,8 +104,7 @@
         <updated>2022-12-09T13:11:03.000Z</updated>
         <summary type="html"><![CDATA[Re 
 SBF: 1) I still do not have access to much of my data -- professional or personal.  So there is a limit to what I will be able to say, and I won't be as helpful as I'd like.
-But as the committee still thinks it would be useful, I am willing to testify on the 13th.
- https://twitter.com/RepMaxineWaters/status/1599858166359068676]]></summary>
+But as the committee still thinks it would be useful, I am willing to testify on the 13th.]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
@@ -108,8 +127,7 @@ But as the committee still thinks it would be useful, I am willing to testify on
         <summary type="html"><![CDATA[.@renprotocol plans to wind down 1.0 version and calls for holders of Ren assets to bridge back to native chains ASAP.
 Ren: 1) Important notice ⚠️
 As announced previously, the Ren 1.0 network is shutting down due to the events surrounding Alameda
-As compatibility between Ren 1.0 and 2.0 cannot be guaranteed, holders of Ren assets should bridge back to native chains ASAP, or risk losing them!
- https://twitter.com/renprotocol/status/1594305211115663360]]></summary>
+As compatibility between Ren 1.0 and 2.0 cannot be guaranteed, holders of Ren assets should bridge back to native chains ASAP, or risk losing them!]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
@@ -191,26 +209,6 @@ Maxine Waters: Lies are circulating @CNBC that I am not willing to subpoena @S
         <link href="https://twitter.com/defipulse/status/1599830894855847936"/>
         <updated>2022-12-05T18:19:43.000Z</updated>
         <summary type="html"><![CDATA[Nexo announces departure from United States…]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1597270079926071296</id>
-        <link href="https://twitter.com/defipulse/status/1597270079926071296"/>
-        <updated>2022-11-28T16:43:57.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.coindesk.com/policy/2022/11/28/ftx-fallout-continues-as-crypto-lender-blockfi-declares-bankruptcy/]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto lender BlockFi files for bankruptcy…]]></title>
-        <id>https://twitter.com/defipulse/status/1597270077912780801</id>
-        <link href="https://twitter.com/defipulse/status/1597270077912780801"/>
-        <updated>2022-11-28T16:43:57.000Z</updated>
-        <summary type="html"><![CDATA[Crypto lender BlockFi files for bankruptcy…]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
