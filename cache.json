@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1602471457996562432",
+          "author": "DeFi Pulse",
+          "description": "Re  https://www.nytimes.com/2022/12/12/business/ftx-sam-bankman-fried-bahamas.html",
+          "link": "https://twitter.com/defipulse/status/1602471457996562432",
+          "publishedOn": "2022-12-13T01:12:22.000Z",
+          "wordCount": 470,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1602471200076316672",
+          "author": "DeFi Pulse",
+          "description": "SBF is charged with wire fraud, wire fraud conspiracy, securities fraud, securities fraud conspiracy and money laundering.",
+          "link": "https://twitter.com/defipulse/status/1602471200076316672",
+          "publishedOn": "2022-12-13T01:11:21.000Z",
+          "wordCount": 470,
+          "title": "SBF is charged with wire fraud, wire fraud conspiracy, securities fraud, securities fraud conspiracy and money laundering.",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1602451557295001600",
           "author": "DeFi Pulse",
           "description": "Re  https://www.coindesk.com/policy/2022/12/12/ftx-founder-sam-bankman-fried-arrested-bahamas-says/",
@@ -183,26 +203,6 @@
           "publishedOn": "2022-12-06T14:12:57.000Z",
           "wordCount": 470,
           "title": "Legendary Apple designer behind the first iPod and co-creator of the iPhone, designs new hardware wallet for Ledger…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1599830896831385601",
-          "author": "DeFi Pulse",
-          "description": "Re  https://nexo.io/blog/nexo-announces-gradual-departure-from-the-united-states",
-          "link": "https://twitter.com/defipulse/status/1599830896831385601",
-          "publishedOn": "2022-12-05T18:19:43.000Z",
-          "wordCount": 470,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1599830894855847936",
-          "author": "DeFi Pulse",
-          "description": "Nexo announces departure from United States…",
-          "link": "https://twitter.com/defipulse/status/1599830894855847936",
-          "publishedOn": "2022-12-05T18:19:43.000Z",
-          "wordCount": 470,
-          "title": "Nexo announces departure from United States…",
           "imageUrl": null
         }
       ]
