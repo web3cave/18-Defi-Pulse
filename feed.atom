@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-14T18:22:30.629Z</id>
+    <id>urn:2022-12-14T19:14:55.104Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-14T18:22:30.629Z</updated>
+    <updated>2022-12-14T19:14:55.104Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1603073021610172416</id>
+        <link href="https://twitter.com/defipulse/status/1603073021610172416"/>
+        <updated>2022-12-14T17:02:46.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.coincenter.org/the-digital-asset-anti-money-laundering-act-is-an-opportunistic-unconstitutional-assault-on-cryptocurrency-self-custody-developers-and-node-operators/]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Digital Asset Anti-Money Laundering Act is an opportunistic, unconstitutional assault on cryptocurrency self custody, developers, and node operato...]]></title>
+        <id>https://twitter.com/defipulse/status/1603073020079509505</id>
+        <link href="https://twitter.com/defipulse/status/1603073020079509505"/>
+        <updated>2022-12-14T17:02:46.000Z</updated>
+        <summary type="html"><![CDATA[The Digital Asset Anti-Money Laundering Act is an opportunistic, unconstitutional assault on cryptocurrency self custody, developers, and node operators...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1603064855107637248</id>
+        <link href="https://twitter.com/defipulse/status/1603064855107637248"/>
+        <updated>2022-12-14T16:30:19.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.coindesk.com/policy/2022/12/14/us-senators-warren-marshall-introduce-digital-assets-anti-money-laundering-bill/?utm_medium=social&utm_source=onecryptofeed&utm_campaign=headlines]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US Senators Warren, Marshall introduce Digital Assets Anti-Money Laundering Bill...]]></title>
+        <id>https://twitter.com/defipulse/status/1603064853568143365</id>
+        <link href="https://twitter.com/defipulse/status/1603064853568143365"/>
+        <updated>2022-12-14T16:30:19.000Z</updated>
+        <summary type="html"><![CDATA[US Senators Warren, Marshall introduce Digital Assets Anti-Money Laundering Bill...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SBF's leaked testimony he planned to give to Congress...]]></title>
         <id>https://twitter.com/defipulse/status/1602751408515653632</id>
@@ -155,48 +195,6 @@ Alameda to have an unfair advantage when transacting on the platform, including 
         <link href="https://twitter.com/defipulse/status/1602406604833492998"/>
         <updated>2022-12-12T20:54:40.000Z</updated>
         <summary type="html"><![CDATA[Re  https://www.coindesk.com/policy/2022/12/12/ftx-us-was-not-independent-of-parent-company-new-ftx-ceo-will-say-in-house-testimony/]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New FTX CEO to testify before the House Financial Services Committee that FTX U.S. ‘was not independent’ of parent company...]]></title>
-        <id>https://twitter.com/defipulse/status/1602406602648199168</id>
-        <link href="https://twitter.com/defipulse/status/1602406602648199168"/>
-        <updated>2022-12-12T20:54:40.000Z</updated>
-        <summary type="html"><![CDATA[New FTX CEO to testify before the House Financial Services Committee that FTX U.S. ‘was not independent’ of parent company...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Block CEO took 3 loans from Alameda in total: ▶️$12M & $15M loans used towards The Block ▶️$16M CEO used to buy personal real estate in Bahama...]]></title>
-        <id>https://twitter.com/defipulse/status/1601299226075758592</id>
-        <link href="https://twitter.com/defipulse/status/1601299226075758592"/>
-        <updated>2022-12-09T19:34:20.000Z</updated>
-        <summary type="html"><![CDATA[The Block CEO took 3 loans from Alameda in total:
-▶️$12M & $15M loans used towards The Block
-▶️$16M CEO used to buy personal real estate in Bahamas]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1601295947169816577</id>
-        <link href="https://twitter.com/defipulse/status/1601295947169816577"/>
-        <updated>2022-12-09T19:21:19.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.theblock.co/post/193753/the-block-ceo-resigns-after-failure-to-disclose-loans-from-bankman-frieds-alameda]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Block CEO resigns after failure to disclose loans from Alameda...]]></title>
-        <id>https://twitter.com/defipulse/status/1601295945118863360</id>
-        <link href="https://twitter.com/defipulse/status/1601295945118863360"/>
-        <updated>2022-12-09T19:21:18.000Z</updated>
-        <summary type="html"><![CDATA[The Block CEO resigns after failure to disclose loans from Alameda...]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
