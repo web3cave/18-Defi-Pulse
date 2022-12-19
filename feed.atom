@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-19T12:34:27.415Z</id>
+    <id>urn:2022-12-19T13:22:57.348Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-19T12:34:27.415Z</updated>
+    <updated>2022-12-19T13:22:57.348Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1604827923831083009</id>
+        <link href="https://twitter.com/defipulse/status/1604827923831083009"/>
+        <updated>2022-12-19T13:16:07.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.prnewswire.com/news-releases/voyager-announces-agreement-for-binanceus-to-acquire-its-assets-301706065.html]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binance to buy Voyager's assets in deal worth $1.022 billion…]]></title>
+        <id>https://twitter.com/defipulse/status/1604827519072493568</id>
+        <link href="https://twitter.com/defipulse/status/1604827519072493568"/>
+        <updated>2022-12-19T13:14:31.000Z</updated>
+        <summary type="html"><![CDATA[Binance to buy Voyager's assets in deal worth $1.022 billion…]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1603073021610172416</id>
@@ -175,26 +195,6 @@ Alameda to have an unfair advantage when transacting on the platform, including 
         <link href="https://twitter.com/defipulse/status/1602451557295001600"/>
         <updated>2022-12-12T23:53:18.000Z</updated>
         <summary type="html"><![CDATA[Re  https://www.coindesk.com/policy/2022/12/12/ftx-founder-sam-bankman-fried-arrested-bahamas-says/]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SBF has been arrested in the Bahamas…]]></title>
-        <id>https://twitter.com/defipulse/status/1602451282240962562</id>
-        <link href="https://twitter.com/defipulse/status/1602451282240962562"/>
-        <updated>2022-12-12T23:52:12.000Z</updated>
-        <summary type="html"><![CDATA[SBF has been arrested in the Bahamas…]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1602406604833492998</id>
-        <link href="https://twitter.com/defipulse/status/1602406604833492998"/>
-        <updated>2022-12-12T20:54:40.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.coindesk.com/policy/2022/12/12/ftx-us-was-not-independent-of-parent-company-new-ftx-ceo-will-say-in-house-testimony/]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
