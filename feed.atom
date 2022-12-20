@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-19T23:17:50.876Z</id>
+    <id>urn:2022-12-20T01:25:38.557Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-19T23:17:50.876Z</updated>
+    <updated>2022-12-20T01:25:38.557Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1604974331494178816</id>
+        <link href="https://twitter.com/defipulse/status/1604974331494178816"/>
+        <updated>2022-12-19T22:57:54.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.wsj.com/articles/sam-bankman-fried-appears-in-bahamas-court-amid-confusion-over-next-steps-11671467244]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SBF has agreed to be extradited to the U.S…]]></title>
+        <id>https://twitter.com/defipulse/status/1604974328575057923</id>
+        <link href="https://twitter.com/defipulse/status/1604974328575057923"/>
+        <updated>2022-12-19T22:57:53.000Z</updated>
+        <summary type="html"><![CDATA[SBF has agreed to be extradited to the U.S…]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1604827923831083009</id>
@@ -175,26 +195,6 @@ Alameda to have an unfair advantage when transacting on the platform, including 
         <link href="https://twitter.com/defipulse/status/1602471457996562432"/>
         <updated>2022-12-13T01:12:22.000Z</updated>
         <summary type="html"><![CDATA[Re  https://www.nytimes.com/2022/12/12/business/ftx-sam-bankman-fried-bahamas.html]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SBF is charged with wire fraud, wire fraud conspiracy, securities fraud, securities fraud conspiracy and money laundering.]]></title>
-        <id>https://twitter.com/defipulse/status/1602471200076316672</id>
-        <link href="https://twitter.com/defipulse/status/1602471200076316672"/>
-        <updated>2022-12-13T01:11:21.000Z</updated>
-        <summary type="html"><![CDATA[SBF is charged with wire fraud, wire fraud conspiracy, securities fraud, securities fraud conspiracy and money laundering.]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1602451557295001600</id>
-        <link href="https://twitter.com/defipulse/status/1602451557295001600"/>
-        <updated>2022-12-12T23:53:18.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.coindesk.com/policy/2022/12/12/ftx-founder-sam-bankman-fried-arrested-bahamas-says/]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>

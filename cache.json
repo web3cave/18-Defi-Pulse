@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1604974331494178816",
+          "author": "DeFi Pulse",
+          "description": "Re  https://www.wsj.com/articles/sam-bankman-fried-appears-in-bahamas-court-amid-confusion-over-next-steps-11671467244",
+          "link": "https://twitter.com/defipulse/status/1604974331494178816",
+          "publishedOn": "2022-12-19T22:57:54.000Z",
+          "wordCount": 470,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1604974328575057923",
+          "author": "DeFi Pulse",
+          "description": "SBF has agreed to be extradited to the U.S…",
+          "link": "https://twitter.com/defipulse/status/1604974328575057923",
+          "publishedOn": "2022-12-19T22:57:53.000Z",
+          "wordCount": 470,
+          "title": "SBF has agreed to be extradited to the U.S…",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1604827923831083009",
           "author": "DeFi Pulse",
           "description": "Re  https://www.prnewswire.com/news-releases/voyager-announces-agreement-for-binanceus-to-acquire-its-assets-301706065.html",
@@ -171,26 +191,6 @@
           "description": "Re  https://www.nytimes.com/2022/12/12/business/ftx-sam-bankman-fried-bahamas.html",
           "link": "https://twitter.com/defipulse/status/1602471457996562432",
           "publishedOn": "2022-12-13T01:12:22.000Z",
-          "wordCount": 470,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1602471200076316672",
-          "author": "DeFi Pulse",
-          "description": "SBF is charged with wire fraud, wire fraud conspiracy, securities fraud, securities fraud conspiracy and money laundering.",
-          "link": "https://twitter.com/defipulse/status/1602471200076316672",
-          "publishedOn": "2022-12-13T01:11:21.000Z",
-          "wordCount": 470,
-          "title": "SBF is charged with wire fraud, wire fraud conspiracy, securities fraud, securities fraud conspiracy and money laundering.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1602451557295001600",
-          "author": "DeFi Pulse",
-          "description": "Re  https://www.coindesk.com/policy/2022/12/12/ftx-founder-sam-bankman-fried-arrested-bahamas-says/",
-          "link": "https://twitter.com/defipulse/status/1602451557295001600",
-          "publishedOn": "2022-12-12T23:53:18.000Z",
           "wordCount": 470,
           "title": "Re",
           "imageUrl": null
