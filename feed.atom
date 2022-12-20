@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-20T03:19:01.409Z</id>
+    <id>urn:2022-12-20T04:21:38.784Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-20T03:19:01.409Z</updated>
+    <updated>2022-12-20T04:21:38.784Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[.@coinbase CEO @brian_armstrong shares his thoughts on crypto regulation…]]></title>
+        <id>https://twitter.com/defipulse/status/1605032153384894466</id>
+        <link href="https://twitter.com/defipulse/status/1605032153384894466"/>
+        <updated>2022-12-20T02:47:40.000Z</updated>
+        <summary type="html"><![CDATA[.@coinbase CEO @brian_armstrong shares his thoughts on crypto regulation…
+Brian Armstrong: 1/ I often get asked: “What does regulatory clarity actually look like for crypto?” So I outlined a realistic blueprint for this that regulates centralized actors, while preserving decentralized innovation.
+ https://www.coinbase.com/blog/regulating-crypto-how-we-move-forward-as-an-industry-from-here]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1604974331494178816</id>
@@ -185,16 +197,6 @@ Alameda to have an unfair advantage when transacting on the platform, including 
         <link href="https://twitter.com/defipulse/status/1602679582175412225"/>
         <updated>2022-12-13T14:59:23.000Z</updated>
         <summary type="html"><![CDATA[CFTC sues SBF, FTX Trading, http://FTX.com https://www.docdroid.net/EmmPXDR/cftc-vs-samuel-db-pdf]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1602471457996562432</id>
-        <link href="https://twitter.com/defipulse/status/1602471457996562432"/>
-        <updated>2022-12-13T01:12:22.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.nytimes.com/2022/12/12/business/ftx-sam-bankman-fried-bahamas.html]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
