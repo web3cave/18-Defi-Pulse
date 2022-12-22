@@ -6,6 +6,46 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1605752539638632449",
+          "author": "DeFi Pulse",
+          "description": "Re  https://www.coindesk.com/policy/2022/12/22/alameda-chief-caroline-ellison-ftxs-gary-wang-plead-guilty-to-fraud-charges/",
+          "link": "https://twitter.com/defipulse/status/1605752539638632449",
+          "publishedOn": "2022-12-22T02:30:13.000Z",
+          "wordCount": 470,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1605752536677289984",
+          "author": "DeFi Pulse",
+          "description": "Alameda Chief Caroline Ellison, FTX's Gary Wang plead guilty to 'Fraud' charges…",
+          "link": "https://twitter.com/defipulse/status/1605752536677289984",
+          "publishedOn": "2022-12-22T02:30:12.000Z",
+          "wordCount": 470,
+          "title": "Alameda Chief Caroline Ellison, FTX's Gary Wang plead guilty to 'Fraud' charges…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1605752167888846849",
+          "author": "DeFi Pulse",
+          "description": "Re  https://www.theblock.co/post/197342/bankman-fried-in-fbi-custody-ellison-wang-plead-guilty-and-are-cooperating",
+          "link": "https://twitter.com/defipulse/status/1605752167888846849",
+          "publishedOn": "2022-12-22T02:28:44.000Z",
+          "wordCount": 470,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1605752165246545921",
+          "author": "DeFi Pulse",
+          "description": "Caroline Ellison and Gary Wang have pleaded guilty to federal charges and are cooperating in the criminal case against SBF…",
+          "link": "https://twitter.com/defipulse/status/1605752165246545921",
+          "publishedOn": "2022-12-22T02:28:44.000Z",
+          "wordCount": 470,
+          "title": "Caroline Ellison and Gary Wang have pleaded guilty to federal charges and are cooperating in the criminal case against SBF…",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1605032153384894466",
           "author": "DeFi Pulse",
           "description": ".@coinbase CEO @brian_armstrong shares his thoughts on crypto regulation…\nBrian Armstrong: 1/ I often get asked: “What does regulatory clarity actually look like for crypto?” So I outlined a realistic blueprint for this that regulates centralized actors, while preserving decentralized innovation.\n https://www.coinbase.com/blog/regulating-crypto-how-we-move-forward-as-an-industry-from-here",
@@ -153,46 +193,6 @@
           "publishedOn": "2022-12-13T15:17:28.000Z",
           "wordCount": 470,
           "title": "WATCH NOW: FTX CEO John Ray III testifies before the House…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1602682378207600643",
-          "author": "DeFi Pulse",
-          "description": "Re “FTX Trading executives also created other exceptions… that allowed\nAlameda to have an unfair advantage when transacting on the platform, including quicker execution times and an exemption from the platform's distinctive auto-liquidation risk management process.”",
-          "link": "https://twitter.com/defipulse/status/1602682378207600643",
-          "publishedOn": "2022-12-13T15:10:30.000Z",
-          "wordCount": 470,
-          "title": "Re “FTX Trading executives also created other exceptions… that allowed Alameda to have an unfair advantage when transacting on the platform, includi...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1602681956960960518",
-          "author": "DeFi Pulse",
-          "description": "Re “At Bankman-Fried's direction, FTX executives created features in the underlying code for FTX that allowed Alameda to maintain an essentially unlimited line of credit on FTX.”",
-          "link": "https://twitter.com/defipulse/status/1602681956960960518",
-          "publishedOn": "2022-12-13T15:08:49.000Z",
-          "wordCount": 470,
-          "title": "Re “At Bankman-Fried's direction, FTX executives created features in the underlying code for FTX that allowed Alameda to maintain an essentially unli...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1602679615839174656",
-          "author": "DeFi Pulse",
-          "description": "U.S. vs. SBF indictment… https://www.documentcloud.org/documents/23450344-unsealed-indictment-in-us-v-bankman-fried-22-cr-673-abrams-as-sam-bankman-fried-of-ftx-heads-to-sdny-echoes-of-onecoin-and-un-bribery-cases https://twitter.com/i/web/status/1602679615839174656",
-          "link": "https://twitter.com/defipulse/status/1602679615839174656",
-          "publishedOn": "2022-12-13T14:59:31.000Z",
-          "wordCount": 470,
-          "title": "U.S. vs. SBF indictment…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1602679582175412225",
-          "author": "DeFi Pulse",
-          "description": "CFTC sues SBF, FTX Trading, http://FTX.com https://www.docdroid.net/EmmPXDR/cftc-vs-samuel-db-pdf",
-          "link": "https://twitter.com/defipulse/status/1602679582175412225",
-          "publishedOn": "2022-12-13T14:59:23.000Z",
-          "wordCount": 470,
-          "title": "CFTC sues SBF, FTX Trading,",
           "imageUrl": null
         }
       ]

@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-22T03:19:06.943Z</id>
+    <id>urn:2022-12-22T04:21:40.831Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-22T03:19:06.943Z</updated>
+    <updated>2022-12-22T04:21:40.831Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1605752539638632449</id>
+        <link href="https://twitter.com/defipulse/status/1605752539638632449"/>
+        <updated>2022-12-22T02:30:13.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.coindesk.com/policy/2022/12/22/alameda-chief-caroline-ellison-ftxs-gary-wang-plead-guilty-to-fraud-charges/]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alameda Chief Caroline Ellison, FTX's Gary Wang plead guilty to 'Fraud' charges…]]></title>
+        <id>https://twitter.com/defipulse/status/1605752536677289984</id>
+        <link href="https://twitter.com/defipulse/status/1605752536677289984"/>
+        <updated>2022-12-22T02:30:12.000Z</updated>
+        <summary type="html"><![CDATA[Alameda Chief Caroline Ellison, FTX's Gary Wang plead guilty to 'Fraud' charges…]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1605752167888846849</id>
+        <link href="https://twitter.com/defipulse/status/1605752167888846849"/>
+        <updated>2022-12-22T02:28:44.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.theblock.co/post/197342/bankman-fried-in-fbi-custody-ellison-wang-plead-guilty-and-are-cooperating]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Caroline Ellison and Gary Wang have pleaded guilty to federal charges and are cooperating in the criminal case against SBF…]]></title>
+        <id>https://twitter.com/defipulse/status/1605752165246545921</id>
+        <link href="https://twitter.com/defipulse/status/1605752165246545921"/>
+        <updated>2022-12-22T02:28:44.000Z</updated>
+        <summary type="html"><![CDATA[Caroline Ellison and Gary Wang have pleaded guilty to federal charges and are cooperating in the criminal case against SBF…]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[.@coinbase CEO @brian_armstrong shares his thoughts on crypto regulation…]]></title>
         <id>https://twitter.com/defipulse/status/1605032153384894466</id>
@@ -156,47 +196,6 @@ The loans givens to SBF was not just one loan but numerous loans. There is no de
         <link href="https://twitter.com/defipulse/status/1602684133691559936"/>
         <updated>2022-12-13T15:17:28.000Z</updated>
         <summary type="html"><![CDATA[WATCH NOW: FTX CEO John Ray III testifies before the House… https://twitter.com/i/broadcasts/1DXxyvMQjEZKM?t=12m16s]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re “FTX Trading executives also created other exceptions… that allowed Alameda to have an unfair advantage when transacting on the platform, includi...]]></title>
-        <id>https://twitter.com/defipulse/status/1602682378207600643</id>
-        <link href="https://twitter.com/defipulse/status/1602682378207600643"/>
-        <updated>2022-12-13T15:10:30.000Z</updated>
-        <summary type="html"><![CDATA[Re “FTX Trading executives also created other exceptions… that allowed
-Alameda to have an unfair advantage when transacting on the platform, including quicker execution times and an exemption from the platform's distinctive auto-liquidation risk management process.”]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re “At Bankman-Fried's direction, FTX executives created features in the underlying code for FTX that allowed Alameda to maintain an essentially unli...]]></title>
-        <id>https://twitter.com/defipulse/status/1602681956960960518</id>
-        <link href="https://twitter.com/defipulse/status/1602681956960960518"/>
-        <updated>2022-12-13T15:08:49.000Z</updated>
-        <summary type="html"><![CDATA[Re “At Bankman-Fried's direction, FTX executives created features in the underlying code for FTX that allowed Alameda to maintain an essentially unlimited line of credit on FTX.”]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. vs. SBF indictment…]]></title>
-        <id>https://twitter.com/defipulse/status/1602679615839174656</id>
-        <link href="https://twitter.com/defipulse/status/1602679615839174656"/>
-        <updated>2022-12-13T14:59:31.000Z</updated>
-        <summary type="html"><![CDATA[U.S. vs. SBF indictment… https://www.documentcloud.org/documents/23450344-unsealed-indictment-in-us-v-bankman-fried-22-cr-673-abrams-as-sam-bankman-fried-of-ftx-heads-to-sdny-echoes-of-onecoin-and-un-bribery-cases https://twitter.com/i/web/status/1602679615839174656]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CFTC sues SBF, FTX Trading,]]></title>
-        <id>https://twitter.com/defipulse/status/1602679582175412225</id>
-        <link href="https://twitter.com/defipulse/status/1602679582175412225"/>
-        <updated>2022-12-13T14:59:23.000Z</updated>
-        <summary type="html"><![CDATA[CFTC sues SBF, FTX Trading, http://FTX.com https://www.docdroid.net/EmmPXDR/cftc-vs-samuel-db-pdf]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
