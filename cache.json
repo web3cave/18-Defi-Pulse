@@ -6,26 +6,6 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
-          "id": "https://twitter.com/defipulse/status/1606002157529878528",
-          "author": "DeFi Pulse",
-          "description": "Re  https://www.coindesk.com/policy/2022/12/22/ex-ftx-chief-sam-bankman-fried-makes-appearance-in-us-court/",
-          "link": "https://twitter.com/defipulse/status/1606002157529878528",
-          "publishedOn": "2022-12-22T19:02:07.000Z",
-          "wordCount": 470,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1606001898129043456",
-          "author": "DeFi Pulse",
-          "description": "Sam Bankman-Fried released on $250M bail secured by his parents…",
-          "link": "https://twitter.com/defipulse/status/1606001898129043456",
-          "publishedOn": "2022-12-22T19:01:05.000Z",
-          "wordCount": 470,
-          "title": "Sam Bankman-Fried released on $250M bail secured by his parents…",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/defipulse/status/1605752539638632449",
           "author": "DeFi Pulse",
           "description": "Re  https://www.coindesk.com/policy/2022/12/22/alameda-chief-caroline-ellison-ftxs-gary-wang-plead-guilty-to-fraud-charges/",
@@ -193,6 +173,26 @@
           "publishedOn": "2022-12-13T15:33:02.000Z",
           "wordCount": 470,
           "title": "Re On the loans givens to SBF: The loans givens to SBF was not just one loan but numerous loans. There is no description of the purpose of the loan. I...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1602687433308528643",
+          "author": "DeFi Pulse",
+          "description": "Re \"...Bankman-Fried stated privately that he was pursuing an aggressive acquisition strategy during this time... in part to gain access to additional sources of capital that could be used to support his existing businesses and fill the hole in customer funds that had been created.\"",
+          "link": "https://twitter.com/defipulse/status/1602687433308528643",
+          "publishedOn": "2022-12-13T15:30:35.000Z",
+          "wordCount": 470,
+          "title": "Re \"...Bankman-Fried stated privately that he was pursuing an aggressive acquisition strategy during this time... in part to gain access to additional...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1602684133691559936",
+          "author": "DeFi Pulse",
+          "description": "WATCH NOW: FTX CEO John Ray III testifies before the House… https://twitter.com/i/broadcasts/1DXxyvMQjEZKM?t=12m16s",
+          "link": "https://twitter.com/defipulse/status/1602684133691559936",
+          "publishedOn": "2022-12-13T15:17:28.000Z",
+          "wordCount": 470,
+          "title": "WATCH NOW: FTX CEO John Ray III testifies before the House…",
           "imageUrl": null
         }
       ]

@@ -1,30 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-23T17:15:39.145Z</id>
+    <id>urn:2022-12-23T18:21:55.640Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-23T17:15:39.145Z</updated>
+    <updated>2022-12-23T18:21:55.640Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1606002157529878528</id>
-        <link href="https://twitter.com/defipulse/status/1606002157529878528"/>
-        <updated>2022-12-22T19:02:07.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.coindesk.com/policy/2022/12/22/ex-ftx-chief-sam-bankman-fried-makes-appearance-in-us-court/]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sam Bankman-Fried released on $250M bail secured by his parents…]]></title>
-        <id>https://twitter.com/defipulse/status/1606001898129043456</id>
-        <link href="https://twitter.com/defipulse/status/1606001898129043456"/>
-        <updated>2022-12-22T19:01:05.000Z</updated>
-        <summary type="html"><![CDATA[Sam Bankman-Fried released on $250M bail secured by his parents…]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1605752539638632449</id>
@@ -196,6 +176,26 @@ There is no record-keeping whatsoever. Employees would communicate invoices and 
         <updated>2022-12-13T15:33:02.000Z</updated>
         <summary type="html"><![CDATA[Re On the loans givens to SBF: 
 The loans givens to SBF was not just one loan but numerous loans. There is no description of the purpose of the loan. In one instance, he is signed both as issuer and recipient of the loan....]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re "...Bankman-Fried stated privately that he was pursuing an aggressive acquisition strategy during this time... in part to gain access to additional...]]></title>
+        <id>https://twitter.com/defipulse/status/1602687433308528643</id>
+        <link href="https://twitter.com/defipulse/status/1602687433308528643"/>
+        <updated>2022-12-13T15:30:35.000Z</updated>
+        <summary type="html"><![CDATA[Re "...Bankman-Fried stated privately that he was pursuing an aggressive acquisition strategy during this time... in part to gain access to additional sources of capital that could be used to support his existing businesses and fill the hole in customer funds that had been created."]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WATCH NOW: FTX CEO John Ray III testifies before the House…]]></title>
+        <id>https://twitter.com/defipulse/status/1602684133691559936</id>
+        <link href="https://twitter.com/defipulse/status/1602684133691559936"/>
+        <updated>2022-12-13T15:17:28.000Z</updated>
+        <summary type="html"><![CDATA[WATCH NOW: FTX CEO John Ray III testifies before the House… https://twitter.com/i/broadcasts/1DXxyvMQjEZKM?t=12m16s]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
