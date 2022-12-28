@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1608098107337674752",
+          "author": "DeFi Pulse",
+          "description": "Re  https://www.coindesk.com/business/2022/12/28/crypto-exchange-gemini-sued-by-investors-over-interest-earning-program/",
+          "link": "https://twitter.com/defipulse/status/1608098107337674752",
+          "publishedOn": "2022-12-28T13:50:40.000Z",
+          "wordCount": 470,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1608098105123115011",
+          "author": "DeFi Pulse",
+          "description": "Gemini sued by investors in class action lawsuit over Gemini Earn program being halted…",
+          "link": "https://twitter.com/defipulse/status/1608098105123115011",
+          "publishedOn": "2022-12-28T13:50:39.000Z",
+          "wordCount": 470,
+          "title": "Gemini sued by investors in class action lawsuit over Gemini Earn program being halted…",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1606002157529878528",
           "author": "DeFi Pulse",
           "description": "Re  https://www.coindesk.com/policy/2022/12/22/ex-ftx-chief-sam-bankman-fried-makes-appearance-in-us-court/",
@@ -173,26 +193,6 @@
           "publishedOn": "2022-12-13T15:47:22.000Z",
           "wordCount": 470,
           "title": "Re On FTX's Risk Management system: Absolutely false. There was no sophistication. There was an absence of risk management.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1602691371885805569",
-          "author": "DeFi Pulse",
-          "description": "Re John Ray on being worse than Enron:\nThere is no record-keeping whatsoever. Employees would communicate invoices and expenses on Slack. They use Quickbooks. A multi-billion dollar company. There is no independent board. That is highly unusual.",
-          "link": "https://twitter.com/defipulse/status/1602691371885805569",
-          "publishedOn": "2022-12-13T15:46:14.000Z",
-          "wordCount": 470,
-          "title": "Re John Ray on being worse than Enron: There is no record-keeping whatsoever. Employees would communicate invoices and expenses on Slack. They use Qui...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1602688049472839693",
-          "author": "DeFi Pulse",
-          "description": "Re On the loans givens to SBF: \nThe loans givens to SBF was not just one loan but numerous loans. There is no description of the purpose of the loan. In one instance, he is signed both as issuer and recipient of the loan....",
-          "link": "https://twitter.com/defipulse/status/1602688049472839693",
-          "publishedOn": "2022-12-13T15:33:02.000Z",
-          "wordCount": 470,
-          "title": "Re On the loans givens to SBF: The loans givens to SBF was not just one loan but numerous loans. There is no description of the purpose of the loan. I...",
           "imageUrl": null
         }
       ]
