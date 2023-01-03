@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1610339544418729984",
+          "author": "DeFi Pulse",
+          "description": "SBF has arrived...\nConnell McShane: Sam Bankman-Fried has arrived in court for his arraignment. We’re told he will plead not guilty to all the charges against him.",
+          "link": "https://twitter.com/defipulse/status/1610339544418729984",
+          "publishedOn": "2023-01-03T18:17:20.000Z",
+          "wordCount": 470,
+          "title": "SBF has arrived...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1608098107337674752",
           "author": "DeFi Pulse",
           "description": "Re  https://www.coindesk.com/business/2022/12/28/crypto-exchange-gemini-sued-by-investors-over-interest-earning-program/",
@@ -183,16 +193,6 @@
           "publishedOn": "2022-12-13T19:44:48.000Z",
           "wordCount": 470,
           "title": "SBF's leaked testimony he planned to give to Congress...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1602691657685680128",
-          "author": "DeFi Pulse",
-          "description": "Re On FTX's Risk Management system: \nAbsolutely false. There was no sophistication. There was an absence of risk management.",
-          "link": "https://twitter.com/defipulse/status/1602691657685680128",
-          "publishedOn": "2022-12-13T15:47:22.000Z",
-          "wordCount": 470,
-          "title": "Re On FTX's Risk Management system: Absolutely false. There was no sophistication. There was an absence of risk management.",
           "imageUrl": null
         }
       ]
