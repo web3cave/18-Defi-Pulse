@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-04T21:16:12.315Z</id>
+    <id>urn:2023-01-04T22:17:20.226Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-04T21:16:12.315Z</updated>
+    <updated>2023-01-04T22:17:20.226Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1610742853600149504</id>
+        <link href="https://twitter.com/defipulse/status/1610742853600149504"/>
+        <updated>2023-01-04T20:59:57.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://cases.stretto.com/public/x193/11753/PLEADINGS/1175301042380000000080.pdf]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SEC files limited objection to BinanceUS-Voyager deal...]]></title>
+        <id>https://twitter.com/defipulse/status/1610742852132143105</id>
+        <link href="https://twitter.com/defipulse/status/1610742852132143105"/>
+        <updated>2023-01-04T20:59:56.000Z</updated>
+        <summary type="html"><![CDATA[SEC files limited objection to BinanceUS-Voyager deal...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1610652428168314880</id>
@@ -182,18 +202,6 @@ Connell McShane: Sam Bankman-Fried has arrived in court for his arraignment. W
         <link href="https://twitter.com/defipulse/status/1605752165246545921"/>
         <updated>2022-12-22T02:28:44.000Z</updated>
         <summary type="html"><![CDATA[Caroline Ellison and Gary Wang have pleaded guilty to federal charges and are cooperating in the criminal case against SBF…]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[.@coinbase CEO @brian_armstrong shares his thoughts on crypto regulation…]]></title>
-        <id>https://twitter.com/defipulse/status/1605032153384894466</id>
-        <link href="https://twitter.com/defipulse/status/1605032153384894466"/>
-        <updated>2022-12-20T02:47:40.000Z</updated>
-        <summary type="html"><![CDATA[.@coinbase CEO @brian_armstrong shares his thoughts on crypto regulation…
-Brian Armstrong: 1/ I often get asked: “What does regulatory clarity actually look like for crypto?” So I outlined a realistic blueprint for this that regulates centralized actors, while preserving decentralized innovation.
- https://www.coinbase.com/blog/regulating-crypto-how-we-move-forward-as-an-industry-from-here]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>

@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1610742853600149504",
+          "author": "DeFi Pulse",
+          "description": "Re  https://cases.stretto.com/public/x193/11753/PLEADINGS/1175301042380000000080.pdf",
+          "link": "https://twitter.com/defipulse/status/1610742853600149504",
+          "publishedOn": "2023-01-04T20:59:57.000Z",
+          "wordCount": 470,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1610742852132143105",
+          "author": "DeFi Pulse",
+          "description": "SEC files limited objection to BinanceUS-Voyager deal...",
+          "link": "https://twitter.com/defipulse/status/1610742852132143105",
+          "publishedOn": "2023-01-04T20:59:56.000Z",
+          "wordCount": 470,
+          "title": "SEC files limited objection to BinanceUS-Voyager deal...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1610652428168314880",
           "author": "DeFi Pulse",
           "description": "Re  https://www.coindesk.com/business/2023/01/04/genesis-ceo-says-solution-requires-more-time/",
@@ -183,16 +203,6 @@
           "publishedOn": "2022-12-22T02:28:44.000Z",
           "wordCount": 470,
           "title": "Caroline Ellison and Gary Wang have pleaded guilty to federal charges and are cooperating in the criminal case against SBF…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1605032153384894466",
-          "author": "DeFi Pulse",
-          "description": ".@coinbase CEO @brian_armstrong shares his thoughts on crypto regulation…\nBrian Armstrong: 1/ I often get asked: “What does regulatory clarity actually look like for crypto?” So I outlined a realistic blueprint for this that regulates centralized actors, while preserving decentralized innovation.\n https://www.coinbase.com/blog/regulating-crypto-how-we-move-forward-as-an-industry-from-here",
-          "link": "https://twitter.com/defipulse/status/1605032153384894466",
-          "publishedOn": "2022-12-20T02:47:40.000Z",
-          "wordCount": 470,
-          "title": ".@coinbase CEO @brian_armstrong shares his thoughts on crypto regulation…",
           "imageUrl": null
         }
       ]
