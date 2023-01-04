@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-04T14:17:54.498Z</id>
+    <id>urn:2023-01-04T15:21:28.706Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-04T14:17:54.498Z</updated>
+    <updated>2023-01-04T15:21:28.706Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1610652428168314880</id>
+        <link href="https://twitter.com/defipulse/status/1610652428168314880"/>
+        <updated>2023-01-04T15:00:38.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.coindesk.com/business/2023/01/04/genesis-ceo-says-solution-requires-more-time/]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genesis CEO says solution requires more time…]]></title>
+        <id>https://twitter.com/defipulse/status/1610652426528296961</id>
+        <link href="https://twitter.com/defipulse/status/1610652426528296961"/>
+        <updated>2023-01-04T15:00:37.000Z</updated>
+        <summary type="html"><![CDATA[Genesis CEO says solution requires more time…]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re Judge imposed new bail condition — SBF cannot access FTX or Alameda assets...]]></title>
         <id>https://twitter.com/defipulse/status/1610361335086481409</id>
@@ -174,26 +194,6 @@ Connell McShane: Sam Bankman-Fried has arrived in court for his arraignment. W
         <summary type="html"><![CDATA[.@coinbase CEO @brian_armstrong shares his thoughts on crypto regulation…
 Brian Armstrong: 1/ I often get asked: “What does regulatory clarity actually look like for crypto?” So I outlined a realistic blueprint for this that regulates centralized actors, while preserving decentralized innovation.
  https://www.coinbase.com/blog/regulating-crypto-how-we-move-forward-as-an-industry-from-here]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1604974331494178816</id>
-        <link href="https://twitter.com/defipulse/status/1604974331494178816"/>
-        <updated>2022-12-19T22:57:54.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.wsj.com/articles/sam-bankman-fried-appears-in-bahamas-court-amid-confusion-over-next-steps-11671467244]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SBF has agreed to be extradited to the U.S…]]></title>
-        <id>https://twitter.com/defipulse/status/1604974328575057923</id>
-        <link href="https://twitter.com/defipulse/status/1604974328575057923"/>
-        <updated>2022-12-19T22:57:53.000Z</updated>
-        <summary type="html"><![CDATA[SBF has agreed to be extradited to the U.S…]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
