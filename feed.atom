@@ -1,10 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-05T17:16:14.364Z</id>
+    <id>urn:2023-01-05T18:22:38.321Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-05T17:16:14.364Z</updated>
+    <updated>2023-01-05T18:22:38.321Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[New York Attorney General suing former Celsius CEO for defrauding investors…]]></title>
+        <id>https://twitter.com/defipulse/status/1611053540067184655</id>
+        <link href="https://twitter.com/defipulse/status/1611053540067184655"/>
+        <updated>2023-01-05T17:34:30.000Z</updated>
+        <summary type="html"><![CDATA[New York Attorney General suing former Celsius CEO for defrauding investors…
+NY AG James: I'm suing the former CEO of cryptocurrency platform @CelsiusNetwork for defrauding investors out of billions of dollars.
+Alex Mashinsky lied to people about the risks of investing in Celsius, hid its deteriorating financial condition, and failed to register in New York.]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1611051637992296448</id>
+        <link href="https://twitter.com/defipulse/status/1611051637992296448"/>
+        <updated>2023-01-05T17:26:57.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.wsj.com/articles/crypto-lender-genesis-lays-off-30-of-staff-11672939434]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genesis lays off 30% of staff…]]></title>
+        <id>https://twitter.com/defipulse/status/1611051635303911427</id>
+        <link href="https://twitter.com/defipulse/status/1611051635303911427"/>
+        <updated>2023-01-05T17:26:56.000Z</updated>
+        <summary type="html"><![CDATA[Genesis lays off 30% of staff…]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1610742853600149504</id>
@@ -172,36 +204,6 @@ Connell McShane: Sam Bankman-Fried has arrived in court for his arraignment. W
         <link href="https://twitter.com/defipulse/status/1605752539638632449"/>
         <updated>2022-12-22T02:30:13.000Z</updated>
         <summary type="html"><![CDATA[Re  https://www.coindesk.com/policy/2022/12/22/alameda-chief-caroline-ellison-ftxs-gary-wang-plead-guilty-to-fraud-charges/]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alameda Chief Caroline Ellison, FTX's Gary Wang plead guilty to 'Fraud' charges…]]></title>
-        <id>https://twitter.com/defipulse/status/1605752536677289984</id>
-        <link href="https://twitter.com/defipulse/status/1605752536677289984"/>
-        <updated>2022-12-22T02:30:12.000Z</updated>
-        <summary type="html"><![CDATA[Alameda Chief Caroline Ellison, FTX's Gary Wang plead guilty to 'Fraud' charges…]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1605752167888846849</id>
-        <link href="https://twitter.com/defipulse/status/1605752167888846849"/>
-        <updated>2022-12-22T02:28:44.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.theblock.co/post/197342/bankman-fried-in-fbi-custody-ellison-wang-plead-guilty-and-are-cooperating]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Caroline Ellison and Gary Wang have pleaded guilty to federal charges and are cooperating in the criminal case against SBF…]]></title>
-        <id>https://twitter.com/defipulse/status/1605752165246545921</id>
-        <link href="https://twitter.com/defipulse/status/1605752165246545921"/>
-        <updated>2022-12-22T02:28:44.000Z</updated>
-        <summary type="html"><![CDATA[Caroline Ellison and Gary Wang have pleaded guilty to federal charges and are cooperating in the criminal case against SBF…]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>

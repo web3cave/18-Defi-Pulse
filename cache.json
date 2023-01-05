@@ -6,6 +6,36 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1611053540067184655",
+          "author": "DeFi Pulse",
+          "description": "New York Attorney General suing former Celsius CEO for defrauding investors…\nNY AG James: I'm suing the former CEO of cryptocurrency platform @CelsiusNetwork for defrauding investors out of billions of dollars.\nAlex Mashinsky lied to people about the risks of investing in Celsius, hid its deteriorating financial condition, and failed to register in New York.",
+          "link": "https://twitter.com/defipulse/status/1611053540067184655",
+          "publishedOn": "2023-01-05T17:34:30.000Z",
+          "wordCount": 470,
+          "title": "New York Attorney General suing former Celsius CEO for defrauding investors…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1611051637992296448",
+          "author": "DeFi Pulse",
+          "description": "Re  https://www.wsj.com/articles/crypto-lender-genesis-lays-off-30-of-staff-11672939434",
+          "link": "https://twitter.com/defipulse/status/1611051637992296448",
+          "publishedOn": "2023-01-05T17:26:57.000Z",
+          "wordCount": 470,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1611051635303911427",
+          "author": "DeFi Pulse",
+          "description": "Genesis lays off 30% of staff…",
+          "link": "https://twitter.com/defipulse/status/1611051635303911427",
+          "publishedOn": "2023-01-05T17:26:56.000Z",
+          "wordCount": 470,
+          "title": "Genesis lays off 30% of staff…",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1610742853600149504",
           "author": "DeFi Pulse",
           "description": "Re  https://cases.stretto.com/public/x193/11753/PLEADINGS/1175301042380000000080.pdf",
@@ -173,36 +203,6 @@
           "publishedOn": "2022-12-22T02:30:13.000Z",
           "wordCount": 470,
           "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1605752536677289984",
-          "author": "DeFi Pulse",
-          "description": "Alameda Chief Caroline Ellison, FTX's Gary Wang plead guilty to 'Fraud' charges…",
-          "link": "https://twitter.com/defipulse/status/1605752536677289984",
-          "publishedOn": "2022-12-22T02:30:12.000Z",
-          "wordCount": 470,
-          "title": "Alameda Chief Caroline Ellison, FTX's Gary Wang plead guilty to 'Fraud' charges…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1605752167888846849",
-          "author": "DeFi Pulse",
-          "description": "Re  https://www.theblock.co/post/197342/bankman-fried-in-fbi-custody-ellison-wang-plead-guilty-and-are-cooperating",
-          "link": "https://twitter.com/defipulse/status/1605752167888846849",
-          "publishedOn": "2022-12-22T02:28:44.000Z",
-          "wordCount": 470,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1605752165246545921",
-          "author": "DeFi Pulse",
-          "description": "Caroline Ellison and Gary Wang have pleaded guilty to federal charges and are cooperating in the criminal case against SBF…",
-          "link": "https://twitter.com/defipulse/status/1605752165246545921",
-          "publishedOn": "2022-12-22T02:28:44.000Z",
-          "wordCount": 470,
-          "title": "Caroline Ellison and Gary Wang have pleaded guilty to federal charges and are cooperating in the criminal case against SBF…",
           "imageUrl": null
         }
       ]
