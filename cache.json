@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1611139305359167493",
+          "author": "DeFi Pulse",
+          "description": "Re  https://www.theinformation.com/articles/genesis-parent-company-dcg-shutters-its-wealth-management-division",
+          "link": "https://twitter.com/defipulse/status/1611139305359167493",
+          "publishedOn": "2023-01-05T23:15:18.000Z",
+          "wordCount": 470,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1611139300548018176",
+          "author": "DeFi Pulse",
+          "description": "DCG shuts down it’s wealth management division…",
+          "link": "https://twitter.com/defipulse/status/1611139300548018176",
+          "publishedOn": "2023-01-05T23:15:17.000Z",
+          "wordCount": 470,
+          "title": "DCG shuts down it’s wealth management division…",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1611053540067184655",
           "author": "DeFi Pulse",
           "description": "New York Attorney General suing former Celsius CEO for defrauding investors…\nNY AG James: I'm suing the former CEO of cryptocurrency platform @CelsiusNetwork for defrauding investors out of billions of dollars.\nAlex Mashinsky lied to people about the risks of investing in Celsius, hid its deteriorating financial condition, and failed to register in New York.",
@@ -181,26 +201,6 @@
           "description": "Re  https://www.coindesk.com/policy/2022/12/22/ex-ftx-chief-sam-bankman-fried-makes-appearance-in-us-court/",
           "link": "https://twitter.com/defipulse/status/1606002157529878528",
           "publishedOn": "2022-12-22T19:02:07.000Z",
-          "wordCount": 470,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1606001898129043456",
-          "author": "DeFi Pulse",
-          "description": "Sam Bankman-Fried released on $250M bail secured by his parents…",
-          "link": "https://twitter.com/defipulse/status/1606001898129043456",
-          "publishedOn": "2022-12-22T19:01:05.000Z",
-          "wordCount": 470,
-          "title": "Sam Bankman-Fried released on $250M bail secured by his parents…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1605752539638632449",
-          "author": "DeFi Pulse",
-          "description": "Re  https://www.coindesk.com/policy/2022/12/22/alameda-chief-caroline-ellison-ftxs-gary-wang-plead-guilty-to-fraud-charges/",
-          "link": "https://twitter.com/defipulse/status/1605752539638632449",
-          "publishedOn": "2022-12-22T02:30:13.000Z",
           "wordCount": 470,
           "title": "Re",
           "imageUrl": null

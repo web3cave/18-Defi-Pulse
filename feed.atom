@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-05T23:19:31.800Z</id>
+    <id>urn:2023-01-06T01:36:35.865Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-05T23:19:31.800Z</updated>
+    <updated>2023-01-06T01:36:35.865Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1611139305359167493</id>
+        <link href="https://twitter.com/defipulse/status/1611139305359167493"/>
+        <updated>2023-01-05T23:15:18.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.theinformation.com/articles/genesis-parent-company-dcg-shutters-its-wealth-management-division]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DCG shuts down it’s wealth management division…]]></title>
+        <id>https://twitter.com/defipulse/status/1611139300548018176</id>
+        <link href="https://twitter.com/defipulse/status/1611139300548018176"/>
+        <updated>2023-01-05T23:15:17.000Z</updated>
+        <summary type="html"><![CDATA[DCG shuts down it’s wealth management division…]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New York Attorney General suing former Celsius CEO for defrauding investors…]]></title>
         <id>https://twitter.com/defipulse/status/1611053540067184655</id>
@@ -184,26 +204,6 @@ Connell McShane: Sam Bankman-Fried has arrived in court for his arraignment. W
         <link href="https://twitter.com/defipulse/status/1606002157529878528"/>
         <updated>2022-12-22T19:02:07.000Z</updated>
         <summary type="html"><![CDATA[Re  https://www.coindesk.com/policy/2022/12/22/ex-ftx-chief-sam-bankman-fried-makes-appearance-in-us-court/]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sam Bankman-Fried released on $250M bail secured by his parents…]]></title>
-        <id>https://twitter.com/defipulse/status/1606001898129043456</id>
-        <link href="https://twitter.com/defipulse/status/1606001898129043456"/>
-        <updated>2022-12-22T19:01:05.000Z</updated>
-        <summary type="html"><![CDATA[Sam Bankman-Fried released on $250M bail secured by his parents…]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1605752539638632449</id>
-        <link href="https://twitter.com/defipulse/status/1605752539638632449"/>
-        <updated>2022-12-22T02:30:13.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.coindesk.com/policy/2022/12/22/alameda-chief-caroline-ellison-ftxs-gary-wang-plead-guilty-to-fraud-charges/]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
