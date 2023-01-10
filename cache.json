@@ -6,6 +6,36 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1612894420193497089",
+          "author": "DeFi Pulse",
+          "description": "Barry issues a response to Cameron Winklevoss’s letter with no mention of Gemini…\n\nBarry Silbert: I’ve been reflecting quite a bit about the past year, the state of the industry and where things go from here.\nHere is an update to address those reflections, other developments and some speculation about @DCGco (1/10)\n https://dcgupdate.com/",
+          "link": "https://twitter.com/defipulse/status/1612894420193497089",
+          "publishedOn": "2023-01-10T19:29:30.000Z",
+          "wordCount": 470,
+          "title": "Barry issues a response to Cameron Winklevoss’s letter with no mention of Gemini…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1612875811673210880",
+          "author": "DeFi Pulse",
+          "description": "Re  https://www.coindesk.com/business/2023/01/10/gemini-terminates-its-crypto-yield-product-amping-up-battle-with-genesis/?utm_content=editorial&utm_source=twitter&utm_campaign=coindesk_main&utm_term=organic&utm_medium=social",
+          "link": "https://twitter.com/defipulse/status/1612875811673210880",
+          "publishedOn": "2023-01-10T18:15:33.000Z",
+          "wordCount": 470,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1612875809856929792",
+          "author": "DeFi Pulse",
+          "description": "Gemini ends its Earn Program, requiring Genesis to \"return all assets outstanding in the program\"...",
+          "link": "https://twitter.com/defipulse/status/1612875809856929792",
+          "publishedOn": "2023-01-10T18:15:33.000Z",
+          "wordCount": 470,
+          "title": "Gemini ends its Earn Program, requiring Genesis to \"return all assets outstanding in the program\"...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1612819635388272643",
           "author": "DeFi Pulse",
           "description": "In an open letter to the Board of @DCGco, Gemini CEO declares Barry is “unfit” to run the company and demands his removal…\n\nCameron Winklevoss: Earn Update: An Open Letter to the Board of @DCGco",
@@ -173,36 +203,6 @@
           "publishedOn": "2023-01-03T19:39:28.000Z",
           "wordCount": 470,
           "title": "Judge granted SBF's request not to publicize the names of two additional co-signers for the bond...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1610357869492277249",
-          "author": "DeFi Pulse",
-          "description": "Re  https://www.bloomberg.com/news/articles/2023-01-03/bankman-fried-s-not-guilty-plea-sets-up-path-to-fraud-trial#:~:text=US%20District%20Judge%20Lewis%20Kaplan,in%20the%20next%20four%20weeks",
-          "link": "https://twitter.com/defipulse/status/1610357869492277249",
-          "publishedOn": "2023-01-03T19:30:09.000Z",
-          "wordCount": 470,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1610357513001508870",
-          "author": "DeFi Pulse",
-          "description": "SBF trial set for October 2nd, 2023...",
-          "link": "https://twitter.com/defipulse/status/1610357513001508870",
-          "publishedOn": "2023-01-03T19:28:44.000Z",
-          "wordCount": 470,
-          "title": "SBF trial set for October 2nd, 2023...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1610354156711120901",
-          "author": "DeFi Pulse",
-          "description": "Re  https://www.coindesk.com/policy/2023/01/03/sam-bankman-fried-pleads-not-guilty-to-fraud-conspiracy-charges/?utm_medium=social&utm_content=editorial&utm_campaign=coindesk_main&utm_source=twitter&utm_term=organic",
-          "link": "https://twitter.com/defipulse/status/1610354156711120901",
-          "publishedOn": "2023-01-03T19:15:24.000Z",
-          "wordCount": 470,
-          "title": "Re",
           "imageUrl": null
         }
       ]
