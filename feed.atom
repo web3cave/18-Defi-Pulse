@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-10T12:36:04.298Z</id>
+    <id>urn:2023-01-10T13:25:38.947Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-10T12:36:04.298Z</updated>
+    <updated>2023-01-10T13:25:38.947Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1612800397265227777</id>
+        <link href="https://twitter.com/defipulse/status/1612800397265227777"/>
+        <updated>2023-01-10T13:15:53.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.theblock.co/post/200005/ethereum-developers-eye-february-public-testnet-for-shanghai-upgrade]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethereum developers eye February public testnet for Shanghai upgrade…]]></title>
+        <id>https://twitter.com/defipulse/status/1612800395461492737</id>
+        <link href="https://twitter.com/defipulse/status/1612800395461492737"/>
+        <updated>2023-01-10T13:15:53.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum developers eye February public testnet for Shanghai upgrade…]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1611139305359167493</id>
@@ -186,26 +206,6 @@ Connell McShane: Sam Bankman-Fried has arrived in court for his arraignment. W
         <link href="https://twitter.com/defipulse/status/1608098107337674752"/>
         <updated>2022-12-28T13:50:40.000Z</updated>
         <summary type="html"><![CDATA[Re  https://www.coindesk.com/business/2022/12/28/crypto-exchange-gemini-sued-by-investors-over-interest-earning-program/]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gemini sued by investors in class action lawsuit over Gemini Earn program being halted…]]></title>
-        <id>https://twitter.com/defipulse/status/1608098105123115011</id>
-        <link href="https://twitter.com/defipulse/status/1608098105123115011"/>
-        <updated>2022-12-28T13:50:39.000Z</updated>
-        <summary type="html"><![CDATA[Gemini sued by investors in class action lawsuit over Gemini Earn program being halted…]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1606002157529878528</id>
-        <link href="https://twitter.com/defipulse/status/1606002157529878528"/>
-        <updated>2022-12-22T19:02:07.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.coindesk.com/policy/2022/12/22/ex-ftx-chief-sam-bankman-fried-makes-appearance-in-us-court/]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>

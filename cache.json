@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1612800397265227777",
+          "author": "DeFi Pulse",
+          "description": "Re  https://www.theblock.co/post/200005/ethereum-developers-eye-february-public-testnet-for-shanghai-upgrade",
+          "link": "https://twitter.com/defipulse/status/1612800397265227777",
+          "publishedOn": "2023-01-10T13:15:53.000Z",
+          "wordCount": 470,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1612800395461492737",
+          "author": "DeFi Pulse",
+          "description": "Ethereum developers eye February public testnet for Shanghai upgrade…",
+          "link": "https://twitter.com/defipulse/status/1612800395461492737",
+          "publishedOn": "2023-01-10T13:15:53.000Z",
+          "wordCount": 470,
+          "title": "Ethereum developers eye February public testnet for Shanghai upgrade…",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1611139305359167493",
           "author": "DeFi Pulse",
           "description": "Re  https://www.theinformation.com/articles/genesis-parent-company-dcg-shutters-its-wealth-management-division",
@@ -181,26 +201,6 @@
           "description": "Re  https://www.coindesk.com/business/2022/12/28/crypto-exchange-gemini-sued-by-investors-over-interest-earning-program/",
           "link": "https://twitter.com/defipulse/status/1608098107337674752",
           "publishedOn": "2022-12-28T13:50:40.000Z",
-          "wordCount": 470,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1608098105123115011",
-          "author": "DeFi Pulse",
-          "description": "Gemini sued by investors in class action lawsuit over Gemini Earn program being halted…",
-          "link": "https://twitter.com/defipulse/status/1608098105123115011",
-          "publishedOn": "2022-12-28T13:50:39.000Z",
-          "wordCount": 470,
-          "title": "Gemini sued by investors in class action lawsuit over Gemini Earn program being halted…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1606002157529878528",
-          "author": "DeFi Pulse",
-          "description": "Re  https://www.coindesk.com/policy/2022/12/22/ex-ftx-chief-sam-bankman-fried-makes-appearance-in-us-court/",
-          "link": "https://twitter.com/defipulse/status/1606002157529878528",
-          "publishedOn": "2022-12-22T19:02:07.000Z",
           "wordCount": 470,
           "title": "Re",
           "imageUrl": null
