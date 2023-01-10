@@ -6,6 +6,36 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1612819635388272643",
+          "author": "DeFi Pulse",
+          "description": "In an open letter to the Board of @DCGco, Gemini CEO declares Barry is “unfit” to run the company and demands his removal…\n\nCameron Winklevoss: Earn Update: An Open Letter to the Board of @DCGco",
+          "link": "https://twitter.com/defipulse/status/1612819635388272643",
+          "publishedOn": "2023-01-10T14:32:20.000Z",
+          "wordCount": 470,
+          "title": "In an open letter to the Board of @DCGco, Gemini CEO declares Barry is “unfit” to run the company and demands his removal…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1612815113312141312",
+          "author": "DeFi Pulse",
+          "description": "Re  https://www.coindesk.com/business/2023/01/10/geminis-cameron-winklevoss-calls-for-barry-silberts-ouster-from-dcg/",
+          "link": "https://twitter.com/defipulse/status/1612815113312141312",
+          "publishedOn": "2023-01-10T14:14:22.000Z",
+          "wordCount": 470,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1612815110312960000",
+          "author": "DeFi Pulse",
+          "description": "Cameron Winklevoss calls for @DCGco CEO Barry Silbert to step down…",
+          "link": "https://twitter.com/defipulse/status/1612815110312960000",
+          "publishedOn": "2023-01-10T14:14:21.000Z",
+          "wordCount": 470,
+          "title": "Cameron Winklevoss calls for @DCGco CEO Barry Silbert to step down…",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1612800397265227777",
           "author": "DeFi Pulse",
           "description": "Re  https://www.theblock.co/post/200005/ethereum-developers-eye-february-public-testnet-for-shanghai-upgrade",
@@ -171,36 +201,6 @@
           "description": "Re  https://www.coindesk.com/policy/2023/01/03/sam-bankman-fried-pleads-not-guilty-to-fraud-conspiracy-charges/?utm_medium=social&utm_content=editorial&utm_campaign=coindesk_main&utm_source=twitter&utm_term=organic",
           "link": "https://twitter.com/defipulse/status/1610354156711120901",
           "publishedOn": "2023-01-03T19:15:24.000Z",
-          "wordCount": 470,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1610352292213174273",
-          "author": "DeFi Pulse",
-          "description": "SBF pleads not guilty to all counts...",
-          "link": "https://twitter.com/defipulse/status/1610352292213174273",
-          "publishedOn": "2023-01-03T19:08:00.000Z",
-          "wordCount": 470,
-          "title": "SBF pleads not guilty to all counts...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1610339544418729984",
-          "author": "DeFi Pulse",
-          "description": "SBF has arrived...\n\nConnell McShane: Sam Bankman-Fried has arrived in court for his arraignment. We’re told he will plead not guilty to all the charges against him.",
-          "link": "https://twitter.com/defipulse/status/1610339544418729984",
-          "publishedOn": "2023-01-03T18:17:20.000Z",
-          "wordCount": 470,
-          "title": "SBF has arrived...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1608098107337674752",
-          "author": "DeFi Pulse",
-          "description": "Re  https://www.coindesk.com/business/2022/12/28/crypto-exchange-gemini-sued-by-investors-over-interest-earning-program/",
-          "link": "https://twitter.com/defipulse/status/1608098107337674752",
-          "publishedOn": "2022-12-28T13:50:40.000Z",
           "wordCount": 470,
           "title": "Re",
           "imageUrl": null

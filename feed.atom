@@ -1,10 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-10T14:21:22.084Z</id>
+    <id>urn:2023-01-10T15:25:28.477Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-10T14:21:22.084Z</updated>
+    <updated>2023-01-10T15:25:28.477Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[In an open letter to the Board of @DCGco, Gemini CEO declares Barry is “unfit” to run the company and demands his removal…]]></title>
+        <id>https://twitter.com/defipulse/status/1612819635388272643</id>
+        <link href="https://twitter.com/defipulse/status/1612819635388272643"/>
+        <updated>2023-01-10T14:32:20.000Z</updated>
+        <summary type="html"><![CDATA[In an open letter to the Board of @DCGco, Gemini CEO declares Barry is “unfit” to run the company and demands his removal…
+
+Cameron Winklevoss: Earn Update: An Open Letter to the Board of @DCGco]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1612815113312141312</id>
+        <link href="https://twitter.com/defipulse/status/1612815113312141312"/>
+        <updated>2023-01-10T14:14:22.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.coindesk.com/business/2023/01/10/geminis-cameron-winklevoss-calls-for-barry-silberts-ouster-from-dcg/]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cameron Winklevoss calls for @DCGco CEO Barry Silbert to step down…]]></title>
+        <id>https://twitter.com/defipulse/status/1612815110312960000</id>
+        <link href="https://twitter.com/defipulse/status/1612815110312960000"/>
+        <updated>2023-01-10T14:14:21.000Z</updated>
+        <summary type="html"><![CDATA[Cameron Winklevoss calls for @DCGco CEO Barry Silbert to step down…]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1612800397265227777</id>
@@ -174,38 +206,6 @@ Alex Mashinsky lied to people about the risks of investing in Celsius, hid its d
         <link href="https://twitter.com/defipulse/status/1610354156711120901"/>
         <updated>2023-01-03T19:15:24.000Z</updated>
         <summary type="html"><![CDATA[Re  https://www.coindesk.com/policy/2023/01/03/sam-bankman-fried-pleads-not-guilty-to-fraud-conspiracy-charges/?utm_medium=social&utm_content=editorial&utm_campaign=coindesk_main&utm_source=twitter&utm_term=organic]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SBF pleads not guilty to all counts...]]></title>
-        <id>https://twitter.com/defipulse/status/1610352292213174273</id>
-        <link href="https://twitter.com/defipulse/status/1610352292213174273"/>
-        <updated>2023-01-03T19:08:00.000Z</updated>
-        <summary type="html"><![CDATA[SBF pleads not guilty to all counts...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SBF has arrived...]]></title>
-        <id>https://twitter.com/defipulse/status/1610339544418729984</id>
-        <link href="https://twitter.com/defipulse/status/1610339544418729984"/>
-        <updated>2023-01-03T18:17:20.000Z</updated>
-        <summary type="html"><![CDATA[SBF has arrived...
-
-Connell McShane: Sam Bankman-Fried has arrived in court for his arraignment. We’re told he will plead not guilty to all the charges against him.]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1608098107337674752</id>
-        <link href="https://twitter.com/defipulse/status/1608098107337674752"/>
-        <updated>2022-12-28T13:50:40.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.coindesk.com/business/2022/12/28/crypto-exchange-gemini-sued-by-investors-over-interest-earning-program/]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
