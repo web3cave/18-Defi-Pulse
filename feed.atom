@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-11T17:21:53.729Z</id>
+    <id>urn:2023-01-11T18:26:36.843Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-11T17:21:53.729Z</updated>
+    <updated>2023-01-11T18:26:36.843Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1613219353347952665</id>
+        <link href="https://twitter.com/defipulse/status/1613219353347952665"/>
+        <updated>2023-01-11T17:00:40.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.coindesk.com/policy/2023/01/11/ftx-creditor-names-can-remain-sealed-for-now-judge-rules/?utm_medium=social&utm_term=organic&utm_campaign=coindesk_main&utm_content=editorial&utm_source=twitter]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[List of 9 million FTX creditor names can remain sealed for another 3 months...]]></title>
+        <id>https://twitter.com/defipulse/status/1613219351888289792</id>
+        <link href="https://twitter.com/defipulse/status/1613219351888289792"/>
+        <updated>2023-01-11T17:00:40.000Z</updated>
+        <summary type="html"><![CDATA[List of 9 million FTX creditor names can remain sealed for another 3 months...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Barry issues a response to Cameron Winklevoss’s letter with no mention of Gemini…]]></title>
         <id>https://twitter.com/defipulse/status/1612894420193497089</id>
@@ -190,26 +210,6 @@ Alex Mashinsky lied to people about the risks of investing in Celsius, hid its d
         <link href="https://twitter.com/defipulse/status/1610361335086481409"/>
         <updated>2023-01-03T19:43:56.000Z</updated>
         <summary type="html"><![CDATA[Re Judge imposed new bail condition — SBF cannot access FTX or Alameda assets...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1610360281275957248</id>
-        <link href="https://twitter.com/defipulse/status/1610360281275957248"/>
-        <updated>2023-01-03T19:39:44.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.reuters.com/legal/bankman-fried-set-enter-not-guilty-plea-ftx-fraud-case-2023-01-03/]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Judge granted SBF's request not to publicize the names of two additional co-signers for the bond...]]></title>
-        <id>https://twitter.com/defipulse/status/1610360212837355522</id>
-        <link href="https://twitter.com/defipulse/status/1610360212837355522"/>
-        <updated>2023-01-03T19:39:28.000Z</updated>
-        <summary type="html"><![CDATA[Judge granted SBF's request not to publicize the names of two additional co-signers for the bond...]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
