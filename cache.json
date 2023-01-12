@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1613528009402880001",
+          "author": "DeFi Pulse",
+          "description": "Re  https://www.cnbc.com/2023/01/12/sam-bankman-fried-denies-stealing-user-crypto-funds-in-new-substack-post.html",
+          "link": "https://twitter.com/defipulse/status/1613528009402880001",
+          "publishedOn": "2023-01-12T13:27:09.000Z",
+          "wordCount": 470,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1613528007104249857",
+          "author": "DeFi Pulse",
+          "description": "SBF denies stealing user funds and repeats claims of solvency in a new Substack post he wrote Thursday morning…",
+          "link": "https://twitter.com/defipulse/status/1613528007104249857",
+          "publishedOn": "2023-01-12T13:27:09.000Z",
+          "wordCount": 470,
+          "title": "SBF denies stealing user funds and repeats claims of solvency in a new Substack post he wrote Thursday morning…",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1613245788309667840",
           "author": "DeFi Pulse",
           "description": "Re  https://techcrunch.com/2023/01/11/aws-partners-with-avalanche-to-scale-blockchain-solutions-for-enterprises-governments/",
@@ -181,26 +201,6 @@
           "description": "Re  https://cases.stretto.com/public/x193/11753/PLEADINGS/1175301042380000000080.pdf",
           "link": "https://twitter.com/defipulse/status/1610742853600149504",
           "publishedOn": "2023-01-04T20:59:57.000Z",
-          "wordCount": 470,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1610742852132143105",
-          "author": "DeFi Pulse",
-          "description": "SEC files limited objection to BinanceUS-Voyager deal...",
-          "link": "https://twitter.com/defipulse/status/1610742852132143105",
-          "publishedOn": "2023-01-04T20:59:56.000Z",
-          "wordCount": 470,
-          "title": "SEC files limited objection to BinanceUS-Voyager deal...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1610652428168314880",
-          "author": "DeFi Pulse",
-          "description": "Re  https://www.coindesk.com/business/2023/01/04/genesis-ceo-says-solution-requires-more-time/",
-          "link": "https://twitter.com/defipulse/status/1610652428168314880",
-          "publishedOn": "2023-01-04T15:00:38.000Z",
           "wordCount": 470,
           "title": "Re",
           "imageUrl": null
