@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1615371687926677511",
+          "author": "DeFi Pulse",
+          "description": "Re  https://www.coindesk.com/policy/2023/01/17/congress-ftx-problem-1-in-3-members-got-cash-from-crypto-exchanges-bosses/?utm_term=organic&utm_medium=social&utm_content=editorial&utm_campaign=coindesk_main&utm_source=twitter",
+          "link": "https://twitter.com/defipulse/status/1615371687926677511",
+          "publishedOn": "2023-01-17T15:33:17.000Z",
+          "wordCount": 470,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1615371686433390592",
+          "author": "DeFi Pulse",
+          "description": "1 in 3 members of Congress took contributions from SBF and other former FTX executives...",
+          "link": "https://twitter.com/defipulse/status/1615371686433390592",
+          "publishedOn": "2023-01-17T15:33:16.000Z",
+          "wordCount": 470,
+          "title": "1 in 3 members of Congress took contributions from SBF and other former FTX executives...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1613657932184576000",
           "author": "DeFi Pulse",
           "description": "Re  https://www.theblock.co/post/201805/sec-charges-gemini-and-genesis-for-unregistered-offering",
@@ -183,26 +203,6 @@
           "publishedOn": "2023-01-05T23:15:17.000Z",
           "wordCount": 470,
           "title": "DCG shuts down it’s wealth management division…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1611053540067184655",
-          "author": "DeFi Pulse",
-          "description": "New York Attorney General suing former Celsius CEO for defrauding investors…\n\nNY AG James: I'm suing the former CEO of cryptocurrency platform @CelsiusNetwork for defrauding investors out of billions of dollars.\nAlex Mashinsky lied to people about the risks of investing in Celsius, hid its deteriorating financial condition, and failed to register in New York.",
-          "link": "https://twitter.com/defipulse/status/1611053540067184655",
-          "publishedOn": "2023-01-05T17:34:30.000Z",
-          "wordCount": 470,
-          "title": "New York Attorney General suing former Celsius CEO for defrauding investors…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1611051637992296448",
-          "author": "DeFi Pulse",
-          "description": "Re  https://www.wsj.com/articles/crypto-lender-genesis-lays-off-30-of-staff-11672939434",
-          "link": "https://twitter.com/defipulse/status/1611051637992296448",
-          "publishedOn": "2023-01-05T17:26:57.000Z",
-          "wordCount": 470,
-          "title": "Re",
           "imageUrl": null
         }
       ]
