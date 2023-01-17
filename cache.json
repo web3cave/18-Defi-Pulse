@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1615449438448930816",
+          "author": "DeFi Pulse",
+          "description": "Re  https://www.theblock.co/post/203026/ftx-debtors-identify-5-5-billion-of-liquid-assets-in-herculean-effort?utm_source=telegram1&utm_medium=social",
+          "link": "https://twitter.com/defipulse/status/1615449438448930816",
+          "publishedOn": "2023-01-17T20:42:14.000Z",
+          "wordCount": 470,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1615449436112445452",
+          "author": "DeFi Pulse",
+          "description": "FTX has tracked down $5.5 billion in liquid assets...",
+          "link": "https://twitter.com/defipulse/status/1615449436112445452",
+          "publishedOn": "2023-01-17T20:42:13.000Z",
+          "wordCount": 470,
+          "title": "FTX has tracked down $5.5 billion in liquid assets...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1615371687926677511",
           "author": "DeFi Pulse",
           "description": "Re  https://www.coindesk.com/policy/2023/01/17/congress-ftx-problem-1-in-3-members-got-cash-from-crypto-exchanges-bosses/?utm_term=organic&utm_medium=social&utm_content=editorial&utm_campaign=coindesk_main&utm_source=twitter",
@@ -183,26 +203,6 @@
           "publishedOn": "2023-01-10T13:15:53.000Z",
           "wordCount": 470,
           "title": "Ethereum developers eye February public testnet for Shanghai upgrade…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1611139305359167493",
-          "author": "DeFi Pulse",
-          "description": "Re  https://www.theinformation.com/articles/genesis-parent-company-dcg-shutters-its-wealth-management-division",
-          "link": "https://twitter.com/defipulse/status/1611139305359167493",
-          "publishedOn": "2023-01-05T23:15:18.000Z",
-          "wordCount": 470,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1611139300548018176",
-          "author": "DeFi Pulse",
-          "description": "DCG shuts down it’s wealth management division…",
-          "link": "https://twitter.com/defipulse/status/1611139300548018176",
-          "publishedOn": "2023-01-05T23:15:17.000Z",
-          "wordCount": 470,
-          "title": "DCG shuts down it’s wealth management division…",
           "imageUrl": null
         }
       ]
