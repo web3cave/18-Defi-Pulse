@@ -6,6 +6,46 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1615746517985378304",
+          "author": "DeFi Pulse",
+          "description": "Re  https://www.coindesk.com/policy/2023/01/18/justice-department-to-announce-major-international-crypto-enforcement-action/",
+          "link": "https://twitter.com/defipulse/status/1615746517985378304",
+          "publishedOn": "2023-01-18T16:22:43.000Z",
+          "wordCount": 470,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1615746516093898755",
+          "author": "DeFi Pulse",
+          "description": "U.S. Justice Department to announce major international crypto enforcement action at noon ET...",
+          "link": "https://twitter.com/defipulse/status/1615746516093898755",
+          "publishedOn": "2023-01-18T16:22:43.000Z",
+          "wordCount": 470,
+          "title": "U.S. Justice Department to announce major international crypto enforcement action at noon ET...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1615745873660768256",
+          "author": "DeFi Pulse",
+          "description": "Re  https://www.theblock.co/post/203307/makerdao-voting-to-limit-dai-exposure-to-gemini-amid-insolvency-fears",
+          "link": "https://twitter.com/defipulse/status/1615745873660768256",
+          "publishedOn": "2023-01-18T16:20:10.000Z",
+          "wordCount": 470,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1615745871760752641",
+          "author": "DeFi Pulse",
+          "description": "MakerDAO voting to limit DAI exposure to Gemini...",
+          "link": "https://twitter.com/defipulse/status/1615745871760752641",
+          "publishedOn": "2023-01-18T16:20:09.000Z",
+          "wordCount": 470,
+          "title": "MakerDAO voting to limit DAI exposure to Gemini...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1615449438448930816",
           "author": "DeFi Pulse",
           "description": "Re  https://www.theblock.co/post/203026/ftx-debtors-identify-5-5-billion-of-liquid-assets-in-herculean-effort?utm_source=telegram1&utm_medium=social",
@@ -163,46 +203,6 @@
           "publishedOn": "2023-01-10T14:32:20.000Z",
           "wordCount": 470,
           "title": "In an open letter to the Board of @DCGco, Gemini CEO declares Barry is “unfit” to run the company and demands his removal…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1612815113312141312",
-          "author": "DeFi Pulse",
-          "description": "Re  https://www.coindesk.com/business/2023/01/10/geminis-cameron-winklevoss-calls-for-barry-silberts-ouster-from-dcg/",
-          "link": "https://twitter.com/defipulse/status/1612815113312141312",
-          "publishedOn": "2023-01-10T14:14:22.000Z",
-          "wordCount": 470,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1612815110312960000",
-          "author": "DeFi Pulse",
-          "description": "Cameron Winklevoss calls for @DCGco CEO Barry Silbert to step down…",
-          "link": "https://twitter.com/defipulse/status/1612815110312960000",
-          "publishedOn": "2023-01-10T14:14:21.000Z",
-          "wordCount": 470,
-          "title": "Cameron Winklevoss calls for @DCGco CEO Barry Silbert to step down…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1612800397265227777",
-          "author": "DeFi Pulse",
-          "description": "Re  https://www.theblock.co/post/200005/ethereum-developers-eye-february-public-testnet-for-shanghai-upgrade",
-          "link": "https://twitter.com/defipulse/status/1612800397265227777",
-          "publishedOn": "2023-01-10T13:15:53.000Z",
-          "wordCount": 470,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1612800395461492737",
-          "author": "DeFi Pulse",
-          "description": "Ethereum developers eye February public testnet for Shanghai upgrade…",
-          "link": "https://twitter.com/defipulse/status/1612800395461492737",
-          "publishedOn": "2023-01-10T13:15:53.000Z",
-          "wordCount": 470,
-          "title": "Ethereum developers eye February public testnet for Shanghai upgrade…",
           "imageUrl": null
         }
       ]
