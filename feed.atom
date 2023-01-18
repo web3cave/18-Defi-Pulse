@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-18T18:21:45.059Z</id>
+    <id>urn:2023-01-18T19:14:32.692Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-18T18:21:45.059Z</updated>
+    <updated>2023-01-18T19:14:32.692Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1615785126016729114</id>
+        <link href="https://twitter.com/defipulse/status/1615785126016729114"/>
+        <updated>2023-01-18T18:56:08.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.bloomberg.com/news/articles/2023-01-18/crypto-firm-genesis-said-to-prepare-bankruptcy-filing-as-soon-as-this-week?srnd=premium]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genesis is preparing to file for bankruptcy...]]></title>
+        <id>https://twitter.com/defipulse/status/1615785124490002434</id>
+        <link href="https://twitter.com/defipulse/status/1615785124490002434"/>
+        <updated>2023-01-18T18:56:08.000Z</updated>
+        <summary type="html"><![CDATA[Genesis is preparing to file for bankruptcy...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DOJ takes enforcement action against Russian exchange Bitzlato...]]></title>
+        <id>https://twitter.com/defipulse/status/1615756416534315027</id>
+        <link href="https://twitter.com/defipulse/status/1615756416534315027"/>
+        <updated>2023-01-18T17:02:03.000Z</updated>
+        <summary type="html"><![CDATA[DOJ takes enforcement action against Russian exchange Bitzlato...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1615746517985378304</id>
@@ -175,38 +205,6 @@
 Barry Silbert: I’ve been reflecting quite a bit about the past year, the state of the industry and where things go from here.
 Here is an update to address those reflections, other developments and some speculation about @DCGco (1/10)
  https://dcgupdate.com/]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1612875811673210880</id>
-        <link href="https://twitter.com/defipulse/status/1612875811673210880"/>
-        <updated>2023-01-10T18:15:33.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.coindesk.com/business/2023/01/10/gemini-terminates-its-crypto-yield-product-amping-up-battle-with-genesis/?utm_content=editorial&utm_source=twitter&utm_campaign=coindesk_main&utm_term=organic&utm_medium=social]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gemini ends its Earn Program, requiring Genesis to "return all assets outstanding in the program"...]]></title>
-        <id>https://twitter.com/defipulse/status/1612875809856929792</id>
-        <link href="https://twitter.com/defipulse/status/1612875809856929792"/>
-        <updated>2023-01-10T18:15:33.000Z</updated>
-        <summary type="html"><![CDATA[Gemini ends its Earn Program, requiring Genesis to "return all assets outstanding in the program"...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In an open letter to the Board of @DCGco, Gemini CEO declares Barry is “unfit” to run the company and demands his removal…]]></title>
-        <id>https://twitter.com/defipulse/status/1612819635388272643</id>
-        <link href="https://twitter.com/defipulse/status/1612819635388272643"/>
-        <updated>2023-01-10T14:32:20.000Z</updated>
-        <summary type="html"><![CDATA[In an open letter to the Board of @DCGco, Gemini CEO declares Barry is “unfit” to run the company and demands his removal…
-
-Cameron Winklevoss: Earn Update: An Open Letter to the Board of @DCGco]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
