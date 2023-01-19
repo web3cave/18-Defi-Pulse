@@ -1,40 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-19T16:25:52.746Z</id>
+    <id>urn:2023-01-19T17:19:08.728Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-19T16:25:52.746Z</updated>
+    <updated>2023-01-19T17:19:08.728Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1616103178885382150</id>
-        <link href="https://twitter.com/defipulse/status/1616103178885382150"/>
-        <updated>2023-01-19T15:59:58.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.wsj.com/articles/new-ftx-chief-says-crypto-exchange-could-restart-11674143168?mod=Searchresults_pos1&page=1]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re "Mr. Ray said he would look into whether reviving FTX’s international exchange would recover more value for the company’s customers than his team...]]></title>
-        <id>https://twitter.com/defipulse/status/1616103177228541954</id>
-        <link href="https://twitter.com/defipulse/status/1616103177228541954"/>
-        <updated>2023-01-19T15:59:57.000Z</updated>
-        <summary type="html"><![CDATA[Re "Mr. Ray said he would look into whether reviving FTX’s international exchange would recover more value for the company’s customers than his team could get from simply liquidating assets or selling the platform."]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New FTX Chief says crypto exchange could restart...]]></title>
-        <id>https://twitter.com/defipulse/status/1616103175542476806</id>
-        <link href="https://twitter.com/defipulse/status/1616103175542476806"/>
-        <updated>2023-01-19T15:59:57.000Z</updated>
-        <summary type="html"><![CDATA[New FTX Chief says crypto exchange could restart...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1615785126016729114</id>
@@ -201,6 +171,40 @@
         <link href="https://twitter.com/defipulse/status/1613245786862792704"/>
         <updated>2023-01-11T18:45:42.000Z</updated>
         <summary type="html"><![CDATA[AWS partners with Avalanche to scale blockchain solutions for enterprises, institutions, and governments...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1613219353347952665</id>
+        <link href="https://twitter.com/defipulse/status/1613219353347952665"/>
+        <updated>2023-01-11T17:00:40.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.coindesk.com/policy/2023/01/11/ftx-creditor-names-can-remain-sealed-for-now-judge-rules/?utm_medium=social&utm_term=organic&utm_campaign=coindesk_main&utm_content=editorial&utm_source=twitter]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[List of 9 million FTX creditor names can remain sealed for another 3 months...]]></title>
+        <id>https://twitter.com/defipulse/status/1613219351888289792</id>
+        <link href="https://twitter.com/defipulse/status/1613219351888289792"/>
+        <updated>2023-01-11T17:00:40.000Z</updated>
+        <summary type="html"><![CDATA[List of 9 million FTX creditor names can remain sealed for another 3 months...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Barry issues a response to Cameron Winklevoss’s letter with no mention of Gemini…]]></title>
+        <id>https://twitter.com/defipulse/status/1612894420193497089</id>
+        <link href="https://twitter.com/defipulse/status/1612894420193497089"/>
+        <updated>2023-01-10T19:29:30.000Z</updated>
+        <summary type="html"><![CDATA[Barry issues a response to Cameron Winklevoss’s letter with no mention of Gemini…
+
+Barry Silbert: I’ve been reflecting quite a bit about the past year, the state of the industry and where things go from here.
+Here is an update to address those reflections, other developments and some speculation about @DCGco (1/10)
+ https://dcgupdate.com/]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
