@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-20T04:22:34.037Z</id>
+    <id>urn:2023-01-20T05:16:47.873Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-20T04:22:34.037Z</updated>
+    <updated>2023-01-20T05:16:47.873Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1616297987642212353</id>
+        <link href="https://twitter.com/defipulse/status/1616297987642212353"/>
+        <updated>2023-01-20T04:54:04.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.theblock.co/post/190311/digital-currency-groups-genesis-global-files-for-bankruptcy-protection]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genesis files for Chapter 11 bankruptcy…]]></title>
+        <id>https://twitter.com/defipulse/status/1616297984538419200</id>
+        <link href="https://twitter.com/defipulse/status/1616297984538419200"/>
+        <updated>2023-01-20T04:54:03.000Z</updated>
+        <summary type="html"><![CDATA[Genesis files for Chapter 11 bankruptcy…]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1616103178885382150</id>
@@ -181,26 +201,6 @@
         <link href="https://twitter.com/defipulse/status/1613528007104249857"/>
         <updated>2023-01-12T13:27:09.000Z</updated>
         <summary type="html"><![CDATA[SBF denies stealing user funds and repeats claims of solvency in a new Substack post he wrote Thursday morning…]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1613245788309667840</id>
-        <link href="https://twitter.com/defipulse/status/1613245788309667840"/>
-        <updated>2023-01-11T18:45:43.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://techcrunch.com/2023/01/11/aws-partners-with-avalanche-to-scale-blockchain-solutions-for-enterprises-governments/]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS partners with Avalanche to scale blockchain solutions for enterprises, institutions, and governments...]]></title>
-        <id>https://twitter.com/defipulse/status/1613245786862792704</id>
-        <link href="https://twitter.com/defipulse/status/1613245786862792704"/>
-        <updated>2023-01-11T18:45:42.000Z</updated>
-        <summary type="html"><![CDATA[AWS partners with Avalanche to scale blockchain solutions for enterprises, institutions, and governments...]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>

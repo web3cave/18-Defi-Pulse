@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1616297987642212353",
+          "author": "DeFi Pulse",
+          "description": "Re  https://www.theblock.co/post/190311/digital-currency-groups-genesis-global-files-for-bankruptcy-protection",
+          "link": "https://twitter.com/defipulse/status/1616297987642212353",
+          "publishedOn": "2023-01-20T04:54:04.000Z",
+          "wordCount": 413,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1616297984538419200",
+          "author": "DeFi Pulse",
+          "description": "Genesis files for Chapter 11 bankruptcy…",
+          "link": "https://twitter.com/defipulse/status/1616297984538419200",
+          "publishedOn": "2023-01-20T04:54:03.000Z",
+          "wordCount": 413,
+          "title": "Genesis files for Chapter 11 bankruptcy…",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1616103178885382150",
           "author": "DeFi Pulse",
           "description": "Re  https://www.wsj.com/articles/new-ftx-chief-says-crypto-exchange-could-restart-11674143168?mod=Searchresults_pos1&page=1",
@@ -183,26 +203,6 @@
           "publishedOn": "2023-01-12T13:27:09.000Z",
           "wordCount": 413,
           "title": "SBF denies stealing user funds and repeats claims of solvency in a new Substack post he wrote Thursday morning…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1613245788309667840",
-          "author": "DeFi Pulse",
-          "description": "Re  https://techcrunch.com/2023/01/11/aws-partners-with-avalanche-to-scale-blockchain-solutions-for-enterprises-governments/",
-          "link": "https://twitter.com/defipulse/status/1613245788309667840",
-          "publishedOn": "2023-01-11T18:45:43.000Z",
-          "wordCount": 413,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1613245786862792704",
-          "author": "DeFi Pulse",
-          "description": "AWS partners with Avalanche to scale blockchain solutions for enterprises, institutions, and governments...",
-          "link": "https://twitter.com/defipulse/status/1613245786862792704",
-          "publishedOn": "2023-01-11T18:45:42.000Z",
-          "wordCount": 413,
-          "title": "AWS partners with Avalanche to scale blockchain solutions for enterprises, institutions, and governments...",
           "imageUrl": null
         }
       ]
