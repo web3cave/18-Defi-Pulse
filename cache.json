@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1617573601624096768",
+          "author": "DeFi Pulse",
+          "description": "Re  https://www.reuters.com/article/idUSL4N348242",
+          "link": "https://twitter.com/defipulse/status/1617573601624096768",
+          "publishedOn": "2023-01-23T17:22:54.000Z",
+          "wordCount": 504,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1617573599681953812",
+          "author": "DeFi Pulse",
+          "description": "Gemini is laying off 10% of its staff...",
+          "link": "https://twitter.com/defipulse/status/1617573599681953812",
+          "publishedOn": "2023-01-23T17:22:53.000Z",
+          "wordCount": 504,
+          "title": "Gemini is laying off 10% of its staff...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1616297987642212353",
           "author": "DeFi Pulse",
           "description": "Re  https://www.theblock.co/post/190311/digital-currency-groups-genesis-global-files-for-bankruptcy-protection",
@@ -183,26 +203,6 @@
           "publishedOn": "2023-01-12T22:03:25.000Z",
           "wordCount": 504,
           "title": "SEC sues Gemini and Genesis with unregistered securities offering…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1613528009402880001",
-          "author": "DeFi Pulse",
-          "description": "Re  https://www.cnbc.com/2023/01/12/sam-bankman-fried-denies-stealing-user-crypto-funds-in-new-substack-post.html",
-          "link": "https://twitter.com/defipulse/status/1613528009402880001",
-          "publishedOn": "2023-01-12T13:27:09.000Z",
-          "wordCount": 504,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1613528007104249857",
-          "author": "DeFi Pulse",
-          "description": "SBF denies stealing user funds and repeats claims of solvency in a new Substack post he wrote Thursday morning…",
-          "link": "https://twitter.com/defipulse/status/1613528007104249857",
-          "publishedOn": "2023-01-12T13:27:09.000Z",
-          "wordCount": 504,
-          "title": "SBF denies stealing user funds and repeats claims of solvency in a new Substack post he wrote Thursday morning…",
           "imageUrl": null
         }
       ]

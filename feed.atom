@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-23T18:21:04.829Z</id>
+    <id>urn:2023-01-23T19:14:13.410Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-23T18:21:04.829Z</updated>
+    <updated>2023-01-23T19:14:13.410Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1617573601624096768</id>
+        <link href="https://twitter.com/defipulse/status/1617573601624096768"/>
+        <updated>2023-01-23T17:22:54.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.reuters.com/article/idUSL4N348242]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini is laying off 10% of its staff...]]></title>
+        <id>https://twitter.com/defipulse/status/1617573599681953812</id>
+        <link href="https://twitter.com/defipulse/status/1617573599681953812"/>
+        <updated>2023-01-23T17:22:53.000Z</updated>
+        <summary type="html"><![CDATA[Gemini is laying off 10% of its staff...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1616297987642212353</id>
@@ -181,26 +201,6 @@
         <link href="https://twitter.com/defipulse/status/1613657930015940631"/>
         <updated>2023-01-12T22:03:25.000Z</updated>
         <summary type="html"><![CDATA[SEC sues Gemini and Genesis with unregistered securities offering…]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1613528009402880001</id>
-        <link href="https://twitter.com/defipulse/status/1613528009402880001"/>
-        <updated>2023-01-12T13:27:09.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.cnbc.com/2023/01/12/sam-bankman-fried-denies-stealing-user-crypto-funds-in-new-substack-post.html]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SBF denies stealing user funds and repeats claims of solvency in a new Substack post he wrote Thursday morning…]]></title>
-        <id>https://twitter.com/defipulse/status/1613528007104249857</id>
-        <link href="https://twitter.com/defipulse/status/1613528007104249857"/>
-        <updated>2023-01-12T13:27:09.000Z</updated>
-        <summary type="html"><![CDATA[SBF denies stealing user funds and repeats claims of solvency in a new Substack post he wrote Thursday morning…]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
