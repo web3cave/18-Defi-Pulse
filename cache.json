@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1620149821071032320",
+          "author": "DeFi Pulse",
+          "description": "Re  https://www.theblock.co/post/206661/layer-1-blockchain-canto-sees-surge-in-trading-activity",
+          "link": "https://twitter.com/defipulse/status/1620149821071032320",
+          "publishedOn": "2023-01-30T19:59:52.000Z",
+          "wordCount": 498,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1620149819431067649",
+          "author": "DeFi Pulse",
+          "description": "Layer 1 blockchain Canto sees surge in trading activity...",
+          "link": "https://twitter.com/defipulse/status/1620149819431067649",
+          "publishedOn": "2023-01-30T19:59:52.000Z",
+          "wordCount": 498,
+          "title": "Layer 1 blockchain Canto sees surge in trading activity...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1617573601624096768",
           "author": "DeFi Pulse",
           "description": "Re  https://www.reuters.com/article/idUSL4N348242",
@@ -183,26 +203,6 @@
           "publishedOn": "2023-01-17T15:33:16.000Z",
           "wordCount": 498,
           "title": "1 in 3 members of Congress took contributions from SBF and other former FTX executives...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1613657932184576000",
-          "author": "DeFi Pulse",
-          "description": "Re  https://www.theblock.co/post/201805/sec-charges-gemini-and-genesis-for-unregistered-offering",
-          "link": "https://twitter.com/defipulse/status/1613657932184576000",
-          "publishedOn": "2023-01-12T22:03:26.000Z",
-          "wordCount": 498,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1613657930015940631",
-          "author": "DeFi Pulse",
-          "description": "SEC sues Gemini and Genesis with unregistered securities offering…",
-          "link": "https://twitter.com/defipulse/status/1613657930015940631",
-          "publishedOn": "2023-01-12T22:03:25.000Z",
-          "wordCount": 498,
-          "title": "SEC sues Gemini and Genesis with unregistered securities offering…",
           "imageUrl": null
         }
       ]

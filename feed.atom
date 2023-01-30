@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-30T20:18:39.576Z</id>
+    <id>urn:2023-01-30T21:15:40.376Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-30T20:18:39.576Z</updated>
+    <updated>2023-01-30T21:15:40.376Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1620149821071032320</id>
+        <link href="https://twitter.com/defipulse/status/1620149821071032320"/>
+        <updated>2023-01-30T19:59:52.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.theblock.co/post/206661/layer-1-blockchain-canto-sees-surge-in-trading-activity]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Layer 1 blockchain Canto sees surge in trading activity...]]></title>
+        <id>https://twitter.com/defipulse/status/1620149819431067649</id>
+        <link href="https://twitter.com/defipulse/status/1620149819431067649"/>
+        <updated>2023-01-30T19:59:52.000Z</updated>
+        <summary type="html"><![CDATA[Layer 1 blockchain Canto sees surge in trading activity...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1617573601624096768</id>
@@ -181,26 +201,6 @@
         <link href="https://twitter.com/defipulse/status/1615371686433390592"/>
         <updated>2023-01-17T15:33:16.000Z</updated>
         <summary type="html"><![CDATA[1 in 3 members of Congress took contributions from SBF and other former FTX executives...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1613657932184576000</id>
-        <link href="https://twitter.com/defipulse/status/1613657932184576000"/>
-        <updated>2023-01-12T22:03:26.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.theblock.co/post/201805/sec-charges-gemini-and-genesis-for-unregistered-offering]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEC sues Gemini and Genesis with unregistered securities offering…]]></title>
-        <id>https://twitter.com/defipulse/status/1613657930015940631</id>
-        <link href="https://twitter.com/defipulse/status/1613657930015940631"/>
-        <updated>2023-01-12T22:03:25.000Z</updated>
-        <summary type="html"><![CDATA[SEC sues Gemini and Genesis with unregistered securities offering…]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
