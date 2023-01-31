@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-30T23:19:06.750Z</id>
+    <id>urn:2023-01-31T01:39:27.206Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-30T23:19:06.750Z</updated>
+    <updated>2023-01-31T01:39:27.206Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1620205979785887745</id>
+        <link href="https://twitter.com/defipulse/status/1620205979785887745"/>
+        <updated>2023-01-30T23:43:02.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.theblock.co/post/206907/ftx-linked-alameda-research-sues-voyager-digital-for-over-445m]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTX-linked Alameda Research sues Voyager Digital for over $445M…]]></title>
+        <id>https://twitter.com/defipulse/status/1620205977839747073</id>
+        <link href="https://twitter.com/defipulse/status/1620205977839747073"/>
+        <updated>2023-01-30T23:43:01.000Z</updated>
+        <summary type="html"><![CDATA[FTX-linked Alameda Research sues Voyager Digital for over $445M…]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1620149821071032320</id>
@@ -181,26 +201,6 @@
         <link href="https://twitter.com/defipulse/status/1615449436112445452"/>
         <updated>2023-01-17T20:42:13.000Z</updated>
         <summary type="html"><![CDATA[FTX has tracked down $5.5 billion in liquid assets...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1615371687926677511</id>
-        <link href="https://twitter.com/defipulse/status/1615371687926677511"/>
-        <updated>2023-01-17T15:33:17.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.coindesk.com/policy/2023/01/17/congress-ftx-problem-1-in-3-members-got-cash-from-crypto-exchanges-bosses/?utm_term=organic&utm_medium=social&utm_content=editorial&utm_campaign=coindesk_main&utm_source=twitter]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1 in 3 members of Congress took contributions from SBF and other former FTX executives...]]></title>
-        <id>https://twitter.com/defipulse/status/1615371686433390592</id>
-        <link href="https://twitter.com/defipulse/status/1615371686433390592"/>
-        <updated>2023-01-17T15:33:16.000Z</updated>
-        <summary type="html"><![CDATA[1 in 3 members of Congress took contributions from SBF and other former FTX executives...]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>

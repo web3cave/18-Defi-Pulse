@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1620205979785887745",
+          "author": "DeFi Pulse",
+          "description": "Re  https://www.theblock.co/post/206907/ftx-linked-alameda-research-sues-voyager-digital-for-over-445m",
+          "link": "https://twitter.com/defipulse/status/1620205979785887745",
+          "publishedOn": "2023-01-30T23:43:02.000Z",
+          "wordCount": 498,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1620205977839747073",
+          "author": "DeFi Pulse",
+          "description": "FTX-linked Alameda Research sues Voyager Digital for over $445M…",
+          "link": "https://twitter.com/defipulse/status/1620205977839747073",
+          "publishedOn": "2023-01-30T23:43:01.000Z",
+          "wordCount": 498,
+          "title": "FTX-linked Alameda Research sues Voyager Digital for over $445M…",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1620149821071032320",
           "author": "DeFi Pulse",
           "description": "Re  https://www.theblock.co/post/206661/layer-1-blockchain-canto-sees-surge-in-trading-activity",
@@ -183,26 +203,6 @@
           "publishedOn": "2023-01-17T20:42:13.000Z",
           "wordCount": 498,
           "title": "FTX has tracked down $5.5 billion in liquid assets...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1615371687926677511",
-          "author": "DeFi Pulse",
-          "description": "Re  https://www.coindesk.com/policy/2023/01/17/congress-ftx-problem-1-in-3-members-got-cash-from-crypto-exchanges-bosses/?utm_term=organic&utm_medium=social&utm_content=editorial&utm_campaign=coindesk_main&utm_source=twitter",
-          "link": "https://twitter.com/defipulse/status/1615371687926677511",
-          "publishedOn": "2023-01-17T15:33:17.000Z",
-          "wordCount": 498,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1615371686433390592",
-          "author": "DeFi Pulse",
-          "description": "1 in 3 members of Congress took contributions from SBF and other former FTX executives...",
-          "link": "https://twitter.com/defipulse/status/1615371686433390592",
-          "publishedOn": "2023-01-17T15:33:16.000Z",
-          "wordCount": 498,
-          "title": "1 in 3 members of Congress took contributions from SBF and other former FTX executives...",
           "imageUrl": null
         }
       ]
