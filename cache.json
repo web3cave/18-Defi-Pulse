@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1620250261553025026",
+          "author": "DeFi Pulse",
+          "description": "Re  https://www.coindesk.com/policy/2023/01/30/judge-rules-identities-of-2-parties-who-backed-sam-bankman-frieds-250b-bond-can-be-revealed/?utm_source=twitter&utm_content=editorial&utm_campaign=coindesk_main&utm_term=organic&utm_medium=social",
+          "link": "https://twitter.com/defipulse/status/1620250261553025026",
+          "publishedOn": "2023-01-31T02:38:59.000Z",
+          "wordCount": 498,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1620250259715932160",
+          "author": "DeFi Pulse",
+          "description": "Judge rules the identities of the 2 parties who backed SBF's bond can be revealed...",
+          "link": "https://twitter.com/defipulse/status/1620250259715932160",
+          "publishedOn": "2023-01-31T02:38:59.000Z",
+          "wordCount": 498,
+          "title": "Judge rules the identities of the 2 parties who backed SBF's bond can be revealed...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1620205979785887745",
           "author": "DeFi Pulse",
           "description": "Re  https://www.theblock.co/post/206907/ftx-linked-alameda-research-sues-voyager-digital-for-over-445m",
@@ -183,26 +203,6 @@
           "publishedOn": "2023-01-18T16:20:09.000Z",
           "wordCount": 498,
           "title": "MakerDAO voting to limit DAI exposure to Gemini...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1615449438448930816",
-          "author": "DeFi Pulse",
-          "description": "Re  https://www.theblock.co/post/203026/ftx-debtors-identify-5-5-billion-of-liquid-assets-in-herculean-effort?utm_source=telegram1&utm_medium=social",
-          "link": "https://twitter.com/defipulse/status/1615449438448930816",
-          "publishedOn": "2023-01-17T20:42:14.000Z",
-          "wordCount": 498,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1615449436112445452",
-          "author": "DeFi Pulse",
-          "description": "FTX has tracked down $5.5 billion in liquid assets...",
-          "link": "https://twitter.com/defipulse/status/1615449436112445452",
-          "publishedOn": "2023-01-17T20:42:13.000Z",
-          "wordCount": 498,
-          "title": "FTX has tracked down $5.5 billion in liquid assets...",
           "imageUrl": null
         }
       ]
