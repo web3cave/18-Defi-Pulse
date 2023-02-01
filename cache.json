@@ -6,26 +6,6 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
-          "id": "https://twitter.com/defipulse/status/1620811703863869442",
-          "author": "DeFi Pulse",
-          "description": "Re  https://www.coindesk.com/policy/2023/02/01/judge-bans-sam-bankman-fried-from-contacting-ftx-employees-and-using-signal/?utm_medium=social&utm_term=organic&utm_source=twitter&utm_content=editorial&utm_campaign=coindesk_main",
-          "link": "https://twitter.com/defipulse/status/1620811703863869442",
-          "publishedOn": "2023-02-01T15:49:58.000Z",
-          "wordCount": 498,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1620811702068707329",
-          "author": "DeFi Pulse",
-          "description": "Judge bans SBF from contacting other FTX employees and using apps like Signal...",
-          "link": "https://twitter.com/defipulse/status/1620811702068707329",
-          "publishedOn": "2023-02-01T15:49:57.000Z",
-          "wordCount": 498,
-          "title": "Judge bans SBF from contacting other FTX employees and using apps like Signal...",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/defipulse/status/1620250261553025026",
           "author": "DeFi Pulse",
           "description": "Re  https://www.coindesk.com/policy/2023/01/30/judge-rules-identities-of-2-parties-who-backed-sam-bankman-frieds-250b-bond-can-be-revealed/?utm_source=twitter&utm_content=editorial&utm_campaign=coindesk_main&utm_term=organic&utm_medium=social",
@@ -203,6 +183,26 @@
           "publishedOn": "2023-01-18T16:22:43.000Z",
           "wordCount": 498,
           "title": "U.S. Justice Department to announce major international crypto enforcement action at noon ET...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1615745873660768256",
+          "author": "DeFi Pulse",
+          "description": "Re  https://www.theblock.co/post/203307/makerdao-voting-to-limit-dai-exposure-to-gemini-amid-insolvency-fears",
+          "link": "https://twitter.com/defipulse/status/1615745873660768256",
+          "publishedOn": "2023-01-18T16:20:10.000Z",
+          "wordCount": 498,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1615745871760752641",
+          "author": "DeFi Pulse",
+          "description": "MakerDAO voting to limit DAI exposure to Gemini...",
+          "link": "https://twitter.com/defipulse/status/1615745871760752641",
+          "publishedOn": "2023-01-18T16:20:09.000Z",
+          "wordCount": 498,
+          "title": "MakerDAO voting to limit DAI exposure to Gemini...",
           "imageUrl": null
         }
       ]
