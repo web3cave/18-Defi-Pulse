@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1621169516821581824",
+          "author": "DeFi Pulse",
+          "description": "Re  https://www.theblock.co/post/208058/metamask-rolls-out-updates-to-privacy-settings-for-new-and-existing-users?utm_source=twitter&utm_medium=social",
+          "link": "https://twitter.com/defipulse/status/1621169516821581824",
+          "publishedOn": "2023-02-02T15:31:47.000Z",
+          "wordCount": 498,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1621169514816880642",
+          "author": "DeFi Pulse",
+          "description": "MetaMask updates privacy settings, including an easy way for users to change their RPC provider...",
+          "link": "https://twitter.com/defipulse/status/1621169514816880642",
+          "publishedOn": "2023-02-02T15:31:46.000Z",
+          "wordCount": 498,
+          "title": "MetaMask updates privacy settings, including an easy way for users to change their RPC provider...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1620811703863869442",
           "author": "DeFi Pulse",
           "description": "Re  https://www.coindesk.com/policy/2023/02/01/judge-bans-sam-bankman-fried-from-contacting-ftx-employees-and-using-signal/?utm_medium=social&utm_term=organic&utm_source=twitter&utm_content=editorial&utm_campaign=coindesk_main",
@@ -183,26 +203,6 @@
           "publishedOn": "2023-01-18T17:02:03.000Z",
           "wordCount": 498,
           "title": "DOJ takes enforcement action against Russian exchange Bitzlato...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1615746517985378304",
-          "author": "DeFi Pulse",
-          "description": "Re  https://www.coindesk.com/policy/2023/01/18/justice-department-to-announce-major-international-crypto-enforcement-action/",
-          "link": "https://twitter.com/defipulse/status/1615746517985378304",
-          "publishedOn": "2023-01-18T16:22:43.000Z",
-          "wordCount": 498,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1615746516093898755",
-          "author": "DeFi Pulse",
-          "description": "U.S. Justice Department to announce major international crypto enforcement action at noon ET...",
-          "link": "https://twitter.com/defipulse/status/1615746516093898755",
-          "publishedOn": "2023-01-18T16:22:43.000Z",
-          "wordCount": 498,
-          "title": "U.S. Justice Department to announce major international crypto enforcement action at noon ET...",
           "imageUrl": null
         }
       ]

@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-02T15:18:58.370Z</id>
+    <id>urn:2023-02-02T16:25:42.149Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-02T15:18:58.370Z</updated>
+    <updated>2023-02-02T16:25:42.149Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1621169516821581824</id>
+        <link href="https://twitter.com/defipulse/status/1621169516821581824"/>
+        <updated>2023-02-02T15:31:47.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.theblock.co/post/208058/metamask-rolls-out-updates-to-privacy-settings-for-new-and-existing-users?utm_source=twitter&utm_medium=social]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MetaMask updates privacy settings, including an easy way for users to change their RPC provider...]]></title>
+        <id>https://twitter.com/defipulse/status/1621169514816880642</id>
+        <link href="https://twitter.com/defipulse/status/1621169514816880642"/>
+        <updated>2023-02-02T15:31:46.000Z</updated>
+        <summary type="html"><![CDATA[MetaMask updates privacy settings, including an easy way for users to change their RPC provider...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1620811703863869442</id>
@@ -181,26 +201,6 @@
         <link href="https://twitter.com/defipulse/status/1615756416534315027"/>
         <updated>2023-01-18T17:02:03.000Z</updated>
         <summary type="html"><![CDATA[DOJ takes enforcement action against Russian exchange Bitzlato...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1615746517985378304</id>
-        <link href="https://twitter.com/defipulse/status/1615746517985378304"/>
-        <updated>2023-01-18T16:22:43.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.coindesk.com/policy/2023/01/18/justice-department-to-announce-major-international-crypto-enforcement-action/]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. Justice Department to announce major international crypto enforcement action at noon ET...]]></title>
-        <id>https://twitter.com/defipulse/status/1615746516093898755</id>
-        <link href="https://twitter.com/defipulse/status/1615746516093898755"/>
-        <updated>2023-01-18T16:22:43.000Z</updated>
-        <summary type="html"><![CDATA[U.S. Justice Department to announce major international crypto enforcement action at noon ET...]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
