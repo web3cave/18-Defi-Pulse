@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1621550955522134017",
+          "author": "DeFi Pulse",
+          "description": "Re  https://www.theblock.co/post/208470/ethereum-developers-to-open-testing-of-shanghai-capella-upgrade-on-feb-7",
+          "link": "https://twitter.com/defipulse/status/1621550955522134017",
+          "publishedOn": "2023-02-03T16:47:29.000Z",
+          "wordCount": 498,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1621550953840214023",
+          "author": "DeFi Pulse",
+          "description": "Ethereum devs to open public testing of Shanghai-Capella upgrade on Feb. 7...",
+          "link": "https://twitter.com/defipulse/status/1621550953840214023",
+          "publishedOn": "2023-02-03T16:47:29.000Z",
+          "wordCount": 498,
+          "title": "Ethereum devs to open public testing of Shanghai-Capella upgrade on Feb. 7...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1621265154536079363",
           "author": "DeFi Pulse",
           "description": "Re  https://www.bloomberg.com/news/articles/2023-02-02/silvergate-faces-doj-fraud-probe-over-ftx-and-alameda-dealings",
@@ -21,7 +41,7 @@
           "description": "Silvergate faces US fraud probe over FTX and Alameda dealings...",
           "link": "https://twitter.com/defipulse/status/1621265152694796288",
           "publishedOn": "2023-02-02T21:51:48.000Z",
-          "wordCount": 498,
+          "wordCount": null,
           "title": "Silvergate faces US fraud probe over FTX and Alameda dealings...",
           "imageUrl": null
         },
@@ -161,7 +181,7 @@
           "description": "Genesis files for Chapter 11 bankruptcy…",
           "link": "https://twitter.com/defipulse/status/1616297984538419200",
           "publishedOn": "2023-01-20T04:54:03.000Z",
-          "wordCount": 498,
+          "wordCount": null,
           "title": "Genesis files for Chapter 11 bankruptcy…",
           "imageUrl": null
         },
@@ -183,26 +203,6 @@
           "publishedOn": "2023-01-19T15:59:57.000Z",
           "wordCount": 498,
           "title": "Re \"Mr. Ray said he would look into whether reviving FTX’s international exchange would recover more value for the company’s customers than his team...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1616103175542476806",
-          "author": "DeFi Pulse",
-          "description": "New FTX Chief says crypto exchange could restart...",
-          "link": "https://twitter.com/defipulse/status/1616103175542476806",
-          "publishedOn": "2023-01-19T15:59:57.000Z",
-          "wordCount": 498,
-          "title": "New FTX Chief says crypto exchange could restart...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1615785126016729114",
-          "author": "DeFi Pulse",
-          "description": "Re  https://www.bloomberg.com/news/articles/2023-01-18/crypto-firm-genesis-said-to-prepare-bankruptcy-filing-as-soon-as-this-week?srnd=premium",
-          "link": "https://twitter.com/defipulse/status/1615785126016729114",
-          "publishedOn": "2023-01-18T18:56:08.000Z",
-          "wordCount": 498,
-          "title": "Re",
           "imageUrl": null
         }
       ]

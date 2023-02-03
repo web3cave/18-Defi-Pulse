@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-03T17:16:25.659Z</id>
+    <id>urn:2023-02-03T18:22:31.412Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-03T17:16:25.659Z</updated>
+    <updated>2023-02-03T18:22:31.412Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1621550955522134017</id>
+        <link href="https://twitter.com/defipulse/status/1621550955522134017"/>
+        <updated>2023-02-03T16:47:29.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.theblock.co/post/208470/ethereum-developers-to-open-testing-of-shanghai-capella-upgrade-on-feb-7]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethereum devs to open public testing of Shanghai-Capella upgrade on Feb. 7...]]></title>
+        <id>https://twitter.com/defipulse/status/1621550953840214023</id>
+        <link href="https://twitter.com/defipulse/status/1621550953840214023"/>
+        <updated>2023-02-03T16:47:29.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum devs to open public testing of Shanghai-Capella upgrade on Feb. 7...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1621265154536079363</id>
@@ -181,26 +201,6 @@
         <link href="https://twitter.com/defipulse/status/1616103177228541954"/>
         <updated>2023-01-19T15:59:57.000Z</updated>
         <summary type="html"><![CDATA[Re "Mr. Ray said he would look into whether reviving FTX’s international exchange would recover more value for the company’s customers than his team could get from simply liquidating assets or selling the platform."]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New FTX Chief says crypto exchange could restart...]]></title>
-        <id>https://twitter.com/defipulse/status/1616103175542476806</id>
-        <link href="https://twitter.com/defipulse/status/1616103175542476806"/>
-        <updated>2023-01-19T15:59:57.000Z</updated>
-        <summary type="html"><![CDATA[New FTX Chief says crypto exchange could restart...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1615785126016729114</id>
-        <link href="https://twitter.com/defipulse/status/1615785126016729114"/>
-        <updated>2023-01-18T18:56:08.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.bloomberg.com/news/articles/2023-01-18/crypto-firm-genesis-said-to-prepare-bankruptcy-filing-as-soon-as-this-week?srnd=premium]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
