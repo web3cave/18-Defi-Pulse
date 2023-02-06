@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-06T17:15:29.251Z</id>
+    <id>urn:2023-02-06T18:22:14.303Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-06T17:15:29.251Z</updated>
+    <updated>2023-02-06T18:22:14.303Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1622653064527114242</id>
+        <link href="https://twitter.com/defipulse/status/1622653064527114242"/>
+        <updated>2023-02-06T17:46:52.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.coindesk.com/business/2023/02/06/crypto-exchange-binance-to-suspend-us-dollar-deposits-this-week/]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binance to temporarily suspend US dollar bank transfers starting on Wednesday...]]></title>
+        <id>https://twitter.com/defipulse/status/1622653062077718551</id>
+        <link href="https://twitter.com/defipulse/status/1622653062077718551"/>
+        <updated>2023-02-06T17:46:52.000Z</updated>
+        <summary type="html"><![CDATA[Binance to temporarily suspend US dollar bank transfers starting on Wednesday...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1622652447616270361</id>
+        <link href="https://twitter.com/defipulse/status/1622652447616270361"/>
+        <updated>2023-02-06T17:44:25.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.coindesk.com/business/2023/02/06/bankrupt-lender-genesis-and-parent-dcg-reach-initial-agreement-with-main-creditors-source/]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genesis and parent DCG reach an initial agreement with main creditors...]]></title>
+        <id>https://twitter.com/defipulse/status/1622652445217128465</id>
+        <link href="https://twitter.com/defipulse/status/1622652445217128465"/>
+        <updated>2023-02-06T17:44:25.000Z</updated>
+        <summary type="html"><![CDATA[Genesis and parent DCG reach an initial agreement with main creditors...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1622624204234317825</id>
@@ -161,46 +201,6 @@
         <link href="https://twitter.com/defipulse/status/1620149819431067649"/>
         <updated>2023-01-30T19:59:52.000Z</updated>
         <summary type="html"><![CDATA[Layer 1 blockchain Canto sees surge in trading activity...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1617573601624096768</id>
-        <link href="https://twitter.com/defipulse/status/1617573601624096768"/>
-        <updated>2023-01-23T17:22:54.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.reuters.com/article/idUSL4N348242]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gemini is laying off 10% of its staff...]]></title>
-        <id>https://twitter.com/defipulse/status/1617573599681953812</id>
-        <link href="https://twitter.com/defipulse/status/1617573599681953812"/>
-        <updated>2023-01-23T17:22:53.000Z</updated>
-        <summary type="html"><![CDATA[Gemini is laying off 10% of its staff...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1616297987642212353</id>
-        <link href="https://twitter.com/defipulse/status/1616297987642212353"/>
-        <updated>2023-01-20T04:54:04.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.theblock.co/post/190311/digital-currency-groups-genesis-global-files-for-bankruptcy-protection]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Genesis files for Chapter 11 bankruptcy…]]></title>
-        <id>https://twitter.com/defipulse/status/1616297984538419200</id>
-        <link href="https://twitter.com/defipulse/status/1616297984538419200"/>
-        <updated>2023-01-20T04:54:03.000Z</updated>
-        <summary type="html"><![CDATA[Genesis files for Chapter 11 bankruptcy…]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>

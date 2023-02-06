@@ -6,6 +6,46 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1622653064527114242",
+          "author": "DeFi Pulse",
+          "description": "Re  https://www.coindesk.com/business/2023/02/06/crypto-exchange-binance-to-suspend-us-dollar-deposits-this-week/",
+          "link": "https://twitter.com/defipulse/status/1622653064527114242",
+          "publishedOn": "2023-02-06T17:46:52.000Z",
+          "wordCount": 498,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1622653062077718551",
+          "author": "DeFi Pulse",
+          "description": "Binance to temporarily suspend US dollar bank transfers starting on Wednesday...",
+          "link": "https://twitter.com/defipulse/status/1622653062077718551",
+          "publishedOn": "2023-02-06T17:46:52.000Z",
+          "wordCount": 498,
+          "title": "Binance to temporarily suspend US dollar bank transfers starting on Wednesday...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1622652447616270361",
+          "author": "DeFi Pulse",
+          "description": "Re  https://www.coindesk.com/business/2023/02/06/bankrupt-lender-genesis-and-parent-dcg-reach-initial-agreement-with-main-creditors-source/",
+          "link": "https://twitter.com/defipulse/status/1622652447616270361",
+          "publishedOn": "2023-02-06T17:44:25.000Z",
+          "wordCount": 498,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1622652445217128465",
+          "author": "DeFi Pulse",
+          "description": "Genesis and parent DCG reach an initial agreement with main creditors...",
+          "link": "https://twitter.com/defipulse/status/1622652445217128465",
+          "publishedOn": "2023-02-06T17:44:25.000Z",
+          "wordCount": 498,
+          "title": "Genesis and parent DCG reach an initial agreement with main creditors...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1622624204234317825",
           "author": "DeFi Pulse",
           "description": "Re  https://blockworks.co/news/visa-eyes-high-value-usdc-settlement-payments-on-ethereum",
@@ -163,46 +203,6 @@
           "publishedOn": "2023-01-30T19:59:52.000Z",
           "wordCount": 498,
           "title": "Layer 1 blockchain Canto sees surge in trading activity...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1617573601624096768",
-          "author": "DeFi Pulse",
-          "description": "Re  https://www.reuters.com/article/idUSL4N348242",
-          "link": "https://twitter.com/defipulse/status/1617573601624096768",
-          "publishedOn": "2023-01-23T17:22:54.000Z",
-          "wordCount": 498,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1617573599681953812",
-          "author": "DeFi Pulse",
-          "description": "Gemini is laying off 10% of its staff...",
-          "link": "https://twitter.com/defipulse/status/1617573599681953812",
-          "publishedOn": "2023-01-23T17:22:53.000Z",
-          "wordCount": 498,
-          "title": "Gemini is laying off 10% of its staff...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1616297987642212353",
-          "author": "DeFi Pulse",
-          "description": "Re  https://www.theblock.co/post/190311/digital-currency-groups-genesis-global-files-for-bankruptcy-protection",
-          "link": "https://twitter.com/defipulse/status/1616297987642212353",
-          "publishedOn": "2023-01-20T04:54:04.000Z",
-          "wordCount": 498,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1616297984538419200",
-          "author": "DeFi Pulse",
-          "description": "Genesis files for Chapter 11 bankruptcy…",
-          "link": "https://twitter.com/defipulse/status/1616297984538419200",
-          "publishedOn": "2023-01-20T04:54:03.000Z",
-          "wordCount": 498,
-          "title": "Genesis files for Chapter 11 bankruptcy…",
           "imageUrl": null
         }
       ]
