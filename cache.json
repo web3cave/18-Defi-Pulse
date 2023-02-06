@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1622624204234317825",
+          "author": "DeFi Pulse",
+          "description": "Re  https://blockworks.co/news/visa-eyes-high-value-usdc-settlement-payments-on-ethereum",
+          "link": "https://twitter.com/defipulse/status/1622624204234317825",
+          "publishedOn": "2023-02-06T15:52:11.000Z",
+          "wordCount": 498,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1622624202275553280",
+          "author": "DeFi Pulse",
+          "description": "Visa testing USDC settlement payments on Ethereum...",
+          "link": "https://twitter.com/defipulse/status/1622624202275553280",
+          "publishedOn": "2023-02-06T15:52:11.000Z",
+          "wordCount": 498,
+          "title": "Visa testing USDC settlement payments on Ethereum...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1621550955522134017",
           "author": "DeFi Pulse",
           "description": "Re  https://www.theblock.co/post/208470/ethereum-developers-to-open-testing-of-shanghai-capella-upgrade-on-feb-7",
@@ -183,26 +203,6 @@
           "publishedOn": "2023-01-20T04:54:03.000Z",
           "wordCount": 498,
           "title": "Genesis files for Chapter 11 bankruptcy…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1616103178885382150",
-          "author": "DeFi Pulse",
-          "description": "Re  https://www.wsj.com/articles/new-ftx-chief-says-crypto-exchange-could-restart-11674143168?mod=Searchresults_pos1&page=1",
-          "link": "https://twitter.com/defipulse/status/1616103178885382150",
-          "publishedOn": "2023-01-19T15:59:58.000Z",
-          "wordCount": 498,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1616103177228541954",
-          "author": "DeFi Pulse",
-          "description": "Re \"Mr. Ray said he would look into whether reviving FTX’s international exchange would recover more value for the company’s customers than his team could get from simply liquidating assets or selling the platform.\"",
-          "link": "https://twitter.com/defipulse/status/1616103177228541954",
-          "publishedOn": "2023-01-19T15:59:57.000Z",
-          "wordCount": 498,
-          "title": "Re \"Mr. Ray said he would look into whether reviving FTX’s international exchange would recover more value for the company’s customers than his team...",
           "imageUrl": null
         }
       ]

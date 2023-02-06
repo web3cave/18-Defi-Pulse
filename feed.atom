@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-06T15:18:52.658Z</id>
+    <id>urn:2023-02-06T16:24:51.793Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-06T15:18:52.658Z</updated>
+    <updated>2023-02-06T16:24:51.793Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1622624204234317825</id>
+        <link href="https://twitter.com/defipulse/status/1622624204234317825"/>
+        <updated>2023-02-06T15:52:11.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://blockworks.co/news/visa-eyes-high-value-usdc-settlement-payments-on-ethereum]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visa testing USDC settlement payments on Ethereum...]]></title>
+        <id>https://twitter.com/defipulse/status/1622624202275553280</id>
+        <link href="https://twitter.com/defipulse/status/1622624202275553280"/>
+        <updated>2023-02-06T15:52:11.000Z</updated>
+        <summary type="html"><![CDATA[Visa testing USDC settlement payments on Ethereum...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1621550955522134017</id>
@@ -181,26 +201,6 @@
         <link href="https://twitter.com/defipulse/status/1616297984538419200"/>
         <updated>2023-01-20T04:54:03.000Z</updated>
         <summary type="html"><![CDATA[Genesis files for Chapter 11 bankruptcy…]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1616103178885382150</id>
-        <link href="https://twitter.com/defipulse/status/1616103178885382150"/>
-        <updated>2023-01-19T15:59:58.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.wsj.com/articles/new-ftx-chief-says-crypto-exchange-could-restart-11674143168?mod=Searchresults_pos1&page=1]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re "Mr. Ray said he would look into whether reviving FTX’s international exchange would recover more value for the company’s customers than his team...]]></title>
-        <id>https://twitter.com/defipulse/status/1616103177228541954</id>
-        <link href="https://twitter.com/defipulse/status/1616103177228541954"/>
-        <updated>2023-01-19T15:59:57.000Z</updated>
-        <summary type="html"><![CDATA[Re "Mr. Ray said he would look into whether reviving FTX’s international exchange would recover more value for the company’s customers than his team could get from simply liquidating assets or selling the platform."]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
