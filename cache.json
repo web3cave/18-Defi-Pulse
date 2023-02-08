@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1623398052278026240",
+          "author": "DeFi Pulse",
+          "description": ".@SenatorHagerty defends crypto, decries using banking regulators to advance political agendas...\n\nSenator Bill Hagerty: Regulators singling out business activities should alarm all Americans. \nIt doesn’t matter if it’s cryptoassets, firearms, or any other lawful business, using banking regulators to advance political agendas should not be tolerated.\n https://blockworks.co/news/crypto-poses-key-risks-to-banks-but-carry-on",
+          "link": "https://twitter.com/defipulse/status/1623398052278026240",
+          "publishedOn": "2023-02-08T19:07:11.000Z",
+          "wordCount": 498,
+          "title": ".@SenatorHagerty defends crypto, decries using banking regulators to advance political agendas...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1622653064527114242",
           "author": "DeFi Pulse",
           "description": "Re  https://www.coindesk.com/business/2023/02/06/crypto-exchange-binance-to-suspend-us-dollar-deposits-this-week/",
@@ -193,16 +203,6 @@
           "publishedOn": "2023-01-30T19:59:52.000Z",
           "wordCount": 498,
           "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1620149819431067649",
-          "author": "DeFi Pulse",
-          "description": "Layer 1 blockchain Canto sees surge in trading activity...",
-          "link": "https://twitter.com/defipulse/status/1620149819431067649",
-          "publishedOn": "2023-01-30T19:59:52.000Z",
-          "wordCount": 498,
-          "title": "Layer 1 blockchain Canto sees surge in trading activity...",
           "imageUrl": null
         }
       ]
