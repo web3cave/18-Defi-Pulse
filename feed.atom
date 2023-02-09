@@ -1,10 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-09T22:18:22.396Z</id>
+    <id>urn:2023-02-09T23:20:11.748Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-09T22:18:22.396Z</updated>
+    <updated>2023-02-09T23:20:11.748Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re “Whether it’s through staking-as-a-service, lending, or other means, crypto intermediaries, when offering investment contracts in exchange for in...]]></title>
+        <id>https://twitter.com/defipulse/status/1623786312628150273</id>
+        <link href="https://twitter.com/defipulse/status/1623786312628150273"/>
+        <updated>2023-02-09T20:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Re “Whether it’s through staking-as-a-service, lending, or other means, crypto intermediaries, when offering investment contracts in exchange for investors’ tokens, need to provide the proper disclosures and safeguards required by our securities laws…”
+- SEC Chair Gary Gensler]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1623783846331183105</id>
+        <link href="https://twitter.com/defipulse/status/1623783846331183105"/>
+        <updated>2023-02-09T20:40:12.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://blog.kraken.com/post/17619/settlement/]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Kraken will continue to offer staking services for non-U.S. clients through a separate Kraken subsidiary.]]></title>
+        <id>https://twitter.com/defipulse/status/1623783842115887105</id>
+        <link href="https://twitter.com/defipulse/status/1623783842115887105"/>
+        <updated>2023-02-09T20:40:11.000Z</updated>
+        <summary type="html"><![CDATA[Re Kraken will continue to offer staking services for non-U.S. clients through a separate Kraken subsidiary.]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re All U.S. assets will be automatically unstaked except for Ether which will be unstaked after the Shanghai upgrade.]]></title>
+        <id>https://twitter.com/defipulse/status/1623783839087616001</id>
+        <link href="https://twitter.com/defipulse/status/1623783839087616001"/>
+        <updated>2023-02-09T20:40:10.000Z</updated>
+        <summary type="html"><![CDATA[Re All U.S. assets will be automatically unstaked except for Ether which will be unstaked after the Shanghai upgrade.]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kraken to end on-chain staking services for U.S. clients…]]></title>
+        <id>https://twitter.com/defipulse/status/1623783836126519296</id>
+        <link href="https://twitter.com/defipulse/status/1623783836126519296"/>
+        <updated>2023-02-09T20:40:09.000Z</updated>
+        <summary type="html"><![CDATA[Kraken to end on-chain staking services for U.S. clients…]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1623779071468400640</id>
+        <link href="https://twitter.com/defipulse/status/1623779071468400640"/>
+        <updated>2023-02-09T20:21:13.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.sec.gov/news/press-release/2023-25]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SEC issues press release on Kraken staking settlement...]]></title>
+        <id>https://twitter.com/defipulse/status/1623779069740343301</id>
+        <link href="https://twitter.com/defipulse/status/1623779069740343301"/>
+        <updated>2023-02-09T20:21:13.000Z</updated>
+        <summary type="html"><![CDATA[SEC issues press release on Kraken staking settlement...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1623765656066789387</id>
@@ -137,76 +208,6 @@ It doesn’t matter if it’s cryptoassets, firearms, or any other lawful busine
         <link href="https://twitter.com/defipulse/status/1621265154536079363"/>
         <updated>2023-02-02T21:51:49.000Z</updated>
         <summary type="html"><![CDATA[Re  https://www.bloomberg.com/news/articles/2023-02-02/silvergate-faces-doj-fraud-probe-over-ftx-and-alameda-dealings]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Silvergate faces US fraud probe over FTX and Alameda dealings...]]></title>
-        <id>https://twitter.com/defipulse/status/1621265152694796288</id>
-        <link href="https://twitter.com/defipulse/status/1621265152694796288"/>
-        <updated>2023-02-02T21:51:48.000Z</updated>
-        <summary type="html"><![CDATA[Silvergate faces US fraud probe over FTX and Alameda dealings...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1621169516821581824</id>
-        <link href="https://twitter.com/defipulse/status/1621169516821581824"/>
-        <updated>2023-02-02T15:31:47.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.theblock.co/post/208058/metamask-rolls-out-updates-to-privacy-settings-for-new-and-existing-users?utm_source=twitter&utm_medium=social]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MetaMask updates privacy settings, including an easy way for users to change their RPC provider...]]></title>
-        <id>https://twitter.com/defipulse/status/1621169514816880642</id>
-        <link href="https://twitter.com/defipulse/status/1621169514816880642"/>
-        <updated>2023-02-02T15:31:46.000Z</updated>
-        <summary type="html"><![CDATA[MetaMask updates privacy settings, including an easy way for users to change their RPC provider...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1620811703863869442</id>
-        <link href="https://twitter.com/defipulse/status/1620811703863869442"/>
-        <updated>2023-02-01T15:49:58.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.coindesk.com/policy/2023/02/01/judge-bans-sam-bankman-fried-from-contacting-ftx-employees-and-using-signal/?utm_medium=social&utm_term=organic&utm_source=twitter&utm_content=editorial&utm_campaign=coindesk_main]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Judge bans SBF from contacting other FTX employees and using apps like Signal...]]></title>
-        <id>https://twitter.com/defipulse/status/1620811702068707329</id>
-        <link href="https://twitter.com/defipulse/status/1620811702068707329"/>
-        <updated>2023-02-01T15:49:57.000Z</updated>
-        <summary type="html"><![CDATA[Judge bans SBF from contacting other FTX employees and using apps like Signal...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1620250261553025026</id>
-        <link href="https://twitter.com/defipulse/status/1620250261553025026"/>
-        <updated>2023-01-31T02:38:59.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.coindesk.com/policy/2023/01/30/judge-rules-identities-of-2-parties-who-backed-sam-bankman-frieds-250b-bond-can-be-revealed/?utm_source=twitter&utm_content=editorial&utm_campaign=coindesk_main&utm_term=organic&utm_medium=social]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Judge rules the identities of the 2 parties who backed SBF's bond can be revealed...]]></title>
-        <id>https://twitter.com/defipulse/status/1620250259715932160</id>
-        <link href="https://twitter.com/defipulse/status/1620250259715932160"/>
-        <updated>2023-01-31T02:38:59.000Z</updated>
-        <summary type="html"><![CDATA[Judge rules the identities of the 2 parties who backed SBF's bond can be revealed...]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>

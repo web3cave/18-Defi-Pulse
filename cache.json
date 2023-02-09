@@ -6,6 +6,76 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1623786312628150273",
+          "author": "DeFi Pulse",
+          "description": "Re “Whether it’s through staking-as-a-service, lending, or other means, crypto intermediaries, when offering investment contracts in exchange for investors’ tokens, need to provide the proper disclosures and safeguards required by our securities laws…”\n- SEC Chair Gary Gensler",
+          "link": "https://twitter.com/defipulse/status/1623786312628150273",
+          "publishedOn": "2023-02-09T20:50:00.000Z",
+          "wordCount": 498,
+          "title": "Re “Whether it’s through staking-as-a-service, lending, or other means, crypto intermediaries, when offering investment contracts in exchange for in...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1623783846331183105",
+          "author": "DeFi Pulse",
+          "description": "Re  https://blog.kraken.com/post/17619/settlement/",
+          "link": "https://twitter.com/defipulse/status/1623783846331183105",
+          "publishedOn": "2023-02-09T20:40:12.000Z",
+          "wordCount": 498,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1623783842115887105",
+          "author": "DeFi Pulse",
+          "description": "Re Kraken will continue to offer staking services for non-U.S. clients through a separate Kraken subsidiary.",
+          "link": "https://twitter.com/defipulse/status/1623783842115887105",
+          "publishedOn": "2023-02-09T20:40:11.000Z",
+          "wordCount": 498,
+          "title": "Re Kraken will continue to offer staking services for non-U.S. clients through a separate Kraken subsidiary.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1623783839087616001",
+          "author": "DeFi Pulse",
+          "description": "Re All U.S. assets will be automatically unstaked except for Ether which will be unstaked after the Shanghai upgrade.",
+          "link": "https://twitter.com/defipulse/status/1623783839087616001",
+          "publishedOn": "2023-02-09T20:40:10.000Z",
+          "wordCount": 498,
+          "title": "Re All U.S. assets will be automatically unstaked except for Ether which will be unstaked after the Shanghai upgrade.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1623783836126519296",
+          "author": "DeFi Pulse",
+          "description": "Kraken to end on-chain staking services for U.S. clients…",
+          "link": "https://twitter.com/defipulse/status/1623783836126519296",
+          "publishedOn": "2023-02-09T20:40:09.000Z",
+          "wordCount": 498,
+          "title": "Kraken to end on-chain staking services for U.S. clients…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1623779071468400640",
+          "author": "DeFi Pulse",
+          "description": "Re  https://www.sec.gov/news/press-release/2023-25",
+          "link": "https://twitter.com/defipulse/status/1623779071468400640",
+          "publishedOn": "2023-02-09T20:21:13.000Z",
+          "wordCount": 498,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1623779069740343301",
+          "author": "DeFi Pulse",
+          "description": "SEC issues press release on Kraken staking settlement...",
+          "link": "https://twitter.com/defipulse/status/1623779069740343301",
+          "publishedOn": "2023-02-09T20:21:13.000Z",
+          "wordCount": 498,
+          "title": "SEC issues press release on Kraken staking settlement...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1623765656066789387",
           "author": "DeFi Pulse",
           "description": "Re  https://www.coindesk.com/policy/2023/02/09/kraken-agreed-to-shutter-crypto-staking-operations-to-settle-sec-charges-source/?utm_content=editorial&utm_medium=social&utm_campaign=coindesk_main&utm_source=twitter&utm_term=organic",
@@ -133,76 +203,6 @@
           "publishedOn": "2023-02-02T21:51:49.000Z",
           "wordCount": 498,
           "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1621265152694796288",
-          "author": "DeFi Pulse",
-          "description": "Silvergate faces US fraud probe over FTX and Alameda dealings...",
-          "link": "https://twitter.com/defipulse/status/1621265152694796288",
-          "publishedOn": "2023-02-02T21:51:48.000Z",
-          "wordCount": 498,
-          "title": "Silvergate faces US fraud probe over FTX and Alameda dealings...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1621169516821581824",
-          "author": "DeFi Pulse",
-          "description": "Re  https://www.theblock.co/post/208058/metamask-rolls-out-updates-to-privacy-settings-for-new-and-existing-users?utm_source=twitter&utm_medium=social",
-          "link": "https://twitter.com/defipulse/status/1621169516821581824",
-          "publishedOn": "2023-02-02T15:31:47.000Z",
-          "wordCount": 498,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1621169514816880642",
-          "author": "DeFi Pulse",
-          "description": "MetaMask updates privacy settings, including an easy way for users to change their RPC provider...",
-          "link": "https://twitter.com/defipulse/status/1621169514816880642",
-          "publishedOn": "2023-02-02T15:31:46.000Z",
-          "wordCount": 498,
-          "title": "MetaMask updates privacy settings, including an easy way for users to change their RPC provider...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1620811703863869442",
-          "author": "DeFi Pulse",
-          "description": "Re  https://www.coindesk.com/policy/2023/02/01/judge-bans-sam-bankman-fried-from-contacting-ftx-employees-and-using-signal/?utm_medium=social&utm_term=organic&utm_source=twitter&utm_content=editorial&utm_campaign=coindesk_main",
-          "link": "https://twitter.com/defipulse/status/1620811703863869442",
-          "publishedOn": "2023-02-01T15:49:58.000Z",
-          "wordCount": 498,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1620811702068707329",
-          "author": "DeFi Pulse",
-          "description": "Judge bans SBF from contacting other FTX employees and using apps like Signal...",
-          "link": "https://twitter.com/defipulse/status/1620811702068707329",
-          "publishedOn": "2023-02-01T15:49:57.000Z",
-          "wordCount": 498,
-          "title": "Judge bans SBF from contacting other FTX employees and using apps like Signal...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1620250261553025026",
-          "author": "DeFi Pulse",
-          "description": "Re  https://www.coindesk.com/policy/2023/01/30/judge-rules-identities-of-2-parties-who-backed-sam-bankman-frieds-250b-bond-can-be-revealed/?utm_source=twitter&utm_content=editorial&utm_campaign=coindesk_main&utm_term=organic&utm_medium=social",
-          "link": "https://twitter.com/defipulse/status/1620250261553025026",
-          "publishedOn": "2023-01-31T02:38:59.000Z",
-          "wordCount": 498,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1620250259715932160",
-          "author": "DeFi Pulse",
-          "description": "Judge rules the identities of the 2 parties who backed SBF's bond can be revealed...",
-          "link": "https://twitter.com/defipulse/status/1620250259715932160",
-          "publishedOn": "2023-01-31T02:38:59.000Z",
-          "wordCount": 498,
-          "title": "Judge rules the identities of the 2 parties who backed SBF's bond can be revealed...",
           "imageUrl": null
         }
       ]
