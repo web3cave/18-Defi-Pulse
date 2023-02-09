@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1623460031361437699",
+          "author": "DeFi Pulse",
+          "description": "Coinbase CEO hearing rumors the SEC would like to get rid of staking for retail customers…\n\nBrian Armstrong: 1/ We're hearing rumors that the SEC would like to get rid of crypto staking in the U.S. for retail customers. I hope that's not the case as I believe it would be a terrible path for the U.S. if that was allowed to happen.",
+          "link": "https://twitter.com/defipulse/status/1623460031361437699",
+          "publishedOn": "2023-02-08T23:13:28.000Z",
+          "wordCount": 498,
+          "title": "Coinbase CEO hearing rumors the SEC would like to get rid of staking for retail customers…",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1623398052278026240",
           "author": "DeFi Pulse",
           "description": ".@SenatorHagerty defends crypto, decries using banking regulators to advance political agendas...\n\nSenator Bill Hagerty: Regulators singling out business activities should alarm all Americans. \nIt doesn’t matter if it’s cryptoassets, firearms, or any other lawful business, using banking regulators to advance political agendas should not be tolerated.\n https://blockworks.co/news/crypto-poses-key-risks-to-banks-but-carry-on",
@@ -193,16 +203,6 @@
           "publishedOn": "2023-01-30T23:43:01.000Z",
           "wordCount": 498,
           "title": "FTX-linked Alameda Research sues Voyager Digital for over $445M…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1620149821071032320",
-          "author": "DeFi Pulse",
-          "description": "Re  https://www.theblock.co/post/206661/layer-1-blockchain-canto-sees-surge-in-trading-activity",
-          "link": "https://twitter.com/defipulse/status/1620149821071032320",
-          "publishedOn": "2023-01-30T19:59:52.000Z",
-          "wordCount": 498,
-          "title": "Re",
           "imageUrl": null
         }
       ]

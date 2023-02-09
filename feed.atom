@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-08T23:18:21.168Z</id>
+    <id>urn:2023-02-09T01:38:17.400Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-08T23:18:21.168Z</updated>
+    <updated>2023-02-09T01:38:17.400Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Coinbase CEO hearing rumors the SEC would like to get rid of staking for retail customers…]]></title>
+        <id>https://twitter.com/defipulse/status/1623460031361437699</id>
+        <link href="https://twitter.com/defipulse/status/1623460031361437699"/>
+        <updated>2023-02-08T23:13:28.000Z</updated>
+        <summary type="html"><![CDATA[Coinbase CEO hearing rumors the SEC would like to get rid of staking for retail customers…
+
+Brian Armstrong: 1/ We're hearing rumors that the SEC would like to get rid of crypto staking in the U.S. for retail customers. I hope that's not the case as I believe it would be a terrible path for the U.S. if that was allowed to happen.]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[.@SenatorHagerty defends crypto, decries using banking regulators to advance political agendas...]]></title>
         <id>https://twitter.com/defipulse/status/1623398052278026240</id>
@@ -195,16 +207,6 @@ It doesn’t matter if it’s cryptoassets, firearms, or any other lawful busine
         <link href="https://twitter.com/defipulse/status/1620205977839747073"/>
         <updated>2023-01-30T23:43:01.000Z</updated>
         <summary type="html"><![CDATA[FTX-linked Alameda Research sues Voyager Digital for over $445M…]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1620149821071032320</id>
-        <link href="https://twitter.com/defipulse/status/1620149821071032320"/>
-        <updated>2023-01-30T19:59:52.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.theblock.co/post/206661/layer-1-blockchain-canto-sees-surge-in-trading-activity]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
