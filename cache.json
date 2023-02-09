@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1623765656066789387",
+          "author": "DeFi Pulse",
+          "description": "Re  https://www.coindesk.com/policy/2023/02/09/kraken-agreed-to-shutter-crypto-staking-operations-to-settle-sec-charges-source/?utm_content=editorial&utm_medium=social&utm_campaign=coindesk_main&utm_source=twitter&utm_term=organic",
+          "link": "https://twitter.com/defipulse/status/1623765656066789387",
+          "publishedOn": "2023-02-09T19:27:55.000Z",
+          "wordCount": 498,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1623765654154125314",
+          "author": "DeFi Pulse",
+          "description": "Kraken agrees to shut down crypto-staking operations to settle SEC charges...",
+          "link": "https://twitter.com/defipulse/status/1623765654154125314",
+          "publishedOn": "2023-02-09T19:27:54.000Z",
+          "wordCount": 498,
+          "title": "Kraken agrees to shut down crypto-staking operations to settle SEC charges...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1623460031361437699",
           "author": "DeFi Pulse",
           "description": "Coinbase CEO hearing rumors the SEC would like to get rid of staking for retail customers…\n\nBrian Armstrong: 1/ We're hearing rumors that the SEC would like to get rid of crypto staking in the U.S. for retail customers. I hope that's not the case as I believe it would be a terrible path for the U.S. if that was allowed to happen.",
@@ -183,26 +203,6 @@
           "publishedOn": "2023-01-31T02:38:59.000Z",
           "wordCount": 498,
           "title": "Judge rules the identities of the 2 parties who backed SBF's bond can be revealed...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1620205979785887745",
-          "author": "DeFi Pulse",
-          "description": "Re  https://www.theblock.co/post/206907/ftx-linked-alameda-research-sues-voyager-digital-for-over-445m",
-          "link": "https://twitter.com/defipulse/status/1620205979785887745",
-          "publishedOn": "2023-01-30T23:43:02.000Z",
-          "wordCount": 498,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1620205977839747073",
-          "author": "DeFi Pulse",
-          "description": "FTX-linked Alameda Research sues Voyager Digital for over $445M…",
-          "link": "https://twitter.com/defipulse/status/1620205977839747073",
-          "publishedOn": "2023-01-30T23:43:01.000Z",
-          "wordCount": 498,
-          "title": "FTX-linked Alameda Research sues Voyager Digital for over $445M…",
           "imageUrl": null
         }
       ]

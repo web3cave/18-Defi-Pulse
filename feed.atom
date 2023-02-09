@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-09T19:14:53.703Z</id>
+    <id>urn:2023-02-09T20:19:38.100Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-09T19:14:53.703Z</updated>
+    <updated>2023-02-09T20:19:38.100Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1623765656066789387</id>
+        <link href="https://twitter.com/defipulse/status/1623765656066789387"/>
+        <updated>2023-02-09T19:27:55.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.coindesk.com/policy/2023/02/09/kraken-agreed-to-shutter-crypto-staking-operations-to-settle-sec-charges-source/?utm_content=editorial&utm_medium=social&utm_campaign=coindesk_main&utm_source=twitter&utm_term=organic]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kraken agrees to shut down crypto-staking operations to settle SEC charges...]]></title>
+        <id>https://twitter.com/defipulse/status/1623765654154125314</id>
+        <link href="https://twitter.com/defipulse/status/1623765654154125314"/>
+        <updated>2023-02-09T19:27:54.000Z</updated>
+        <summary type="html"><![CDATA[Kraken agrees to shut down crypto-staking operations to settle SEC charges...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coinbase CEO hearing rumors the SEC would like to get rid of staking for retail customers…]]></title>
         <id>https://twitter.com/defipulse/status/1623460031361437699</id>
@@ -187,26 +207,6 @@ It doesn’t matter if it’s cryptoassets, firearms, or any other lawful busine
         <link href="https://twitter.com/defipulse/status/1620250259715932160"/>
         <updated>2023-01-31T02:38:59.000Z</updated>
         <summary type="html"><![CDATA[Judge rules the identities of the 2 parties who backed SBF's bond can be revealed...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1620205979785887745</id>
-        <link href="https://twitter.com/defipulse/status/1620205979785887745"/>
-        <updated>2023-01-30T23:43:02.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.theblock.co/post/206907/ftx-linked-alameda-research-sues-voyager-digital-for-over-445m]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTX-linked Alameda Research sues Voyager Digital for over $445M…]]></title>
-        <id>https://twitter.com/defipulse/status/1620205977839747073</id>
-        <link href="https://twitter.com/defipulse/status/1620205977839747073"/>
-        <updated>2023-01-30T23:43:01.000Z</updated>
-        <summary type="html"><![CDATA[FTX-linked Alameda Research sues Voyager Digital for over $445M…]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
