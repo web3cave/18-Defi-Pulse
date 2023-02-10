@@ -1,10 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-10T22:17:34.853Z</id>
+    <id>urn:2023-02-10T23:18:19.966Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-10T22:17:34.853Z</updated>
+    <updated>2023-02-10T23:18:19.966Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Republican congressmen call out Gary Gensler and request documents surrounding the SEC's interactions with SBF and FTX...]]></title>
+        <id>https://twitter.com/defipulse/status/1624151303617187840</id>
+        <link href="https://twitter.com/defipulse/status/1624151303617187840"/>
+        <updated>2023-02-10T21:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Republican congressmen call out Gary Gensler and request documents surrounding the SEC's interactions with SBF and FTX...
+
+Rep. Bill Huizenga: Since @garygensler won't abide by his own polices to "come in and talk”, the House GOP will hold him accountable. Today, as promised, our oversight of the @SECGov begins with a request for documents surrounding their interactions with @SBF_FTX, @FTX_Official, and @TheJusticeDept]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Full statement:]]></title>
+        <id>https://twitter.com/defipulse/status/1624141142554968064</id>
+        <link href="https://twitter.com/defipulse/status/1624141142554968064"/>
+        <updated>2023-02-10T20:19:58.000Z</updated>
+        <summary type="html"><![CDATA[Re Full statement: https://www.sec.gov/news/statement/peirce-statement-kraken-020923]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["A paternalistic and lazy regulator settles on a solution like the one in this settlement..." SEC Commissioner Hester Peirce criticizing the Kraken en...]]></title>
+        <id>https://twitter.com/defipulse/status/1624141141405798439</id>
+        <link href="https://twitter.com/defipulse/status/1624141141405798439"/>
+        <updated>2023-02-10T20:19:57.000Z</updated>
+        <summary type="html"><![CDATA["A paternalistic and lazy regulator settles on a solution like the one in this settlement..."
+SEC Commissioner Hester Peirce criticizing the Kraken enforcement action...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re “Whether it’s through staking-as-a-service, lending, or other means, crypto intermediaries, when offering investment contracts in exchange for in...]]></title>
         <id>https://twitter.com/defipulse/status/1623786312628150273</id>
@@ -178,36 +211,6 @@ It doesn’t matter if it’s cryptoassets, firearms, or any other lawful busine
         <link href="https://twitter.com/defipulse/status/1622624202275553280"/>
         <updated>2023-02-06T15:52:11.000Z</updated>
         <summary type="html"><![CDATA[Visa testing USDC settlement payments on Ethereum...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1621550955522134017</id>
-        <link href="https://twitter.com/defipulse/status/1621550955522134017"/>
-        <updated>2023-02-03T16:47:29.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.theblock.co/post/208470/ethereum-developers-to-open-testing-of-shanghai-capella-upgrade-on-feb-7]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum devs to open public testing of Shanghai-Capella upgrade on Feb. 7...]]></title>
-        <id>https://twitter.com/defipulse/status/1621550953840214023</id>
-        <link href="https://twitter.com/defipulse/status/1621550953840214023"/>
-        <updated>2023-02-03T16:47:29.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum devs to open public testing of Shanghai-Capella upgrade on Feb. 7...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1621265154536079363</id>
-        <link href="https://twitter.com/defipulse/status/1621265154536079363"/>
-        <updated>2023-02-02T21:51:49.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.bloomberg.com/news/articles/2023-02-02/silvergate-faces-doj-fraud-probe-over-ftx-and-alameda-dealings]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>

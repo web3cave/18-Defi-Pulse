@@ -6,6 +6,36 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1624151303617187840",
+          "author": "DeFi Pulse",
+          "description": "Republican congressmen call out Gary Gensler and request documents surrounding the SEC's interactions with SBF and FTX...\n\nRep. Bill Huizenga: Since @garygensler won't abide by his own polices to \"come in and talk”, the House GOP will hold him accountable. Today, as promised, our oversight of the @SECGov begins with a request for documents surrounding their interactions with @SBF_FTX, @FTX_Official, and @TheJusticeDept",
+          "link": "https://twitter.com/defipulse/status/1624151303617187840",
+          "publishedOn": "2023-02-10T21:00:20.000Z",
+          "wordCount": 498,
+          "title": "Republican congressmen call out Gary Gensler and request documents surrounding the SEC's interactions with SBF and FTX...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1624141142554968064",
+          "author": "DeFi Pulse",
+          "description": "Re Full statement: https://www.sec.gov/news/statement/peirce-statement-kraken-020923",
+          "link": "https://twitter.com/defipulse/status/1624141142554968064",
+          "publishedOn": "2023-02-10T20:19:58.000Z",
+          "wordCount": 498,
+          "title": "Re Full statement:",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1624141141405798439",
+          "author": "DeFi Pulse",
+          "description": "\"A paternalistic and lazy regulator settles on a solution like the one in this settlement...\"\nSEC Commissioner Hester Peirce criticizing the Kraken enforcement action...",
+          "link": "https://twitter.com/defipulse/status/1624141141405798439",
+          "publishedOn": "2023-02-10T20:19:57.000Z",
+          "wordCount": 498,
+          "title": "\"A paternalistic and lazy regulator settles on a solution like the one in this settlement...\" SEC Commissioner Hester Peirce criticizing the Kraken en...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1623786312628150273",
           "author": "DeFi Pulse",
           "description": "Re “Whether it’s through staking-as-a-service, lending, or other means, crypto intermediaries, when offering investment contracts in exchange for investors’ tokens, need to provide the proper disclosures and safeguards required by our securities laws…”\n- SEC Chair Gary Gensler",
@@ -173,36 +203,6 @@
           "publishedOn": "2023-02-06T15:52:11.000Z",
           "wordCount": 498,
           "title": "Visa testing USDC settlement payments on Ethereum...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1621550955522134017",
-          "author": "DeFi Pulse",
-          "description": "Re  https://www.theblock.co/post/208470/ethereum-developers-to-open-testing-of-shanghai-capella-upgrade-on-feb-7",
-          "link": "https://twitter.com/defipulse/status/1621550955522134017",
-          "publishedOn": "2023-02-03T16:47:29.000Z",
-          "wordCount": 498,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1621550953840214023",
-          "author": "DeFi Pulse",
-          "description": "Ethereum devs to open public testing of Shanghai-Capella upgrade on Feb. 7...",
-          "link": "https://twitter.com/defipulse/status/1621550953840214023",
-          "publishedOn": "2023-02-03T16:47:29.000Z",
-          "wordCount": 498,
-          "title": "Ethereum devs to open public testing of Shanghai-Capella upgrade on Feb. 7...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1621265154536079363",
-          "author": "DeFi Pulse",
-          "description": "Re  https://www.bloomberg.com/news/articles/2023-02-02/silvergate-faces-doj-fraud-probe-over-ftx-and-alameda-dealings",
-          "link": "https://twitter.com/defipulse/status/1621265154536079363",
-          "publishedOn": "2023-02-02T21:51:49.000Z",
-          "wordCount": 498,
-          "title": "Re",
           "imageUrl": null
         }
       ]
