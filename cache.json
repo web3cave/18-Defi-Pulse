@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1625159441132793858",
+          "author": "DeFi Pulse",
+          "description": "Re  https://www.coindesk.com/business/2023/02/13/paxos-to-stop-minting-stablecoin-busd-following-regulatory-action/",
+          "link": "https://twitter.com/defipulse/status/1625159441132793858",
+          "publishedOn": "2023-02-13T15:46:19.000Z",
+          "wordCount": 498,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1625159439438192640",
+          "author": "DeFi Pulse",
+          "description": "Paxos to stop minting BUSD following regulatory action from the SEC...",
+          "link": "https://twitter.com/defipulse/status/1625159439438192640",
+          "publishedOn": "2023-02-13T15:46:19.000Z",
+          "wordCount": 498,
+          "title": "Paxos to stop minting BUSD following regulatory action from the SEC...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1624151303617187840",
           "author": "DeFi Pulse",
           "description": "Republican congressmen call out Gary Gensler and request documents surrounding the SEC's interactions with SBF and FTX...\n\nRep. Bill Huizenga: Since @garygensler won't abide by his own polices to \"come in and talk”, the House GOP will hold him accountable. Today, as promised, our oversight of the @SECGov begins with a request for documents surrounding their interactions with @SBF_FTX, @FTX_Official, and @TheJusticeDept",
@@ -183,26 +203,6 @@
           "publishedOn": "2023-02-06T17:44:25.000Z",
           "wordCount": 498,
           "title": "Genesis and parent DCG reach an initial agreement with main creditors...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1622624204234317825",
-          "author": "DeFi Pulse",
-          "description": "Re  https://blockworks.co/news/visa-eyes-high-value-usdc-settlement-payments-on-ethereum",
-          "link": "https://twitter.com/defipulse/status/1622624204234317825",
-          "publishedOn": "2023-02-06T15:52:11.000Z",
-          "wordCount": 498,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1622624202275553280",
-          "author": "DeFi Pulse",
-          "description": "Visa testing USDC settlement payments on Ethereum...",
-          "link": "https://twitter.com/defipulse/status/1622624202275553280",
-          "publishedOn": "2023-02-06T15:52:11.000Z",
-          "wordCount": 498,
-          "title": "Visa testing USDC settlement payments on Ethereum...",
           "imageUrl": null
         }
       ]
