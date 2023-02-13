@@ -6,6 +6,46 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1625241895239577613",
+          "author": "DeFi Pulse",
+          "description": "Re  https://www.prnewswire.com/news-releases/paxos-issues-statement-301745616.html",
+          "link": "https://twitter.com/defipulse/status/1625241895239577613",
+          "publishedOn": "2023-02-13T21:13:58.000Z",
+          "wordCount": 498,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1625241893704462339",
+          "author": "DeFi Pulse",
+          "description": "Paxos disagrees with SEC's stance and is prepared to \"vigorously litigate if necessary.\"",
+          "link": "https://twitter.com/defipulse/status/1625241893704462339",
+          "publishedOn": "2023-02-13T21:13:57.000Z",
+          "wordCount": 498,
+          "title": "Paxos disagrees with SEC's stance and is prepared to \"vigorously litigate if necessary.\"",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1625239095105445888",
+          "author": "DeFi Pulse",
+          "description": "Re  https://www.bloomberg.com/news/articles/2023-02-13/circle-usdc-alerted-new-york-over-binance-peg-busd-issues?srnd=all",
+          "link": "https://twitter.com/defipulse/status/1625239095105445888",
+          "publishedOn": "2023-02-13T21:02:50.000Z",
+          "wordCount": 498,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1625239093129932806",
+          "author": "DeFi Pulse",
+          "description": "Circle alerted the New York State Department of Financial Services about Binance's BUSD. \nThey claimed, \"Binance did not store enough crypto in reserve to support tokens it had issued...\"",
+          "link": "https://twitter.com/defipulse/status/1625239093129932806",
+          "publishedOn": "2023-02-13T21:02:49.000Z",
+          "wordCount": 498,
+          "title": "Circle alerted the New York State Department of Financial Services about Binance's BUSD. They claimed, \"Binance did not store enough crypto in reserve...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1625159441132793858",
           "author": "DeFi Pulse",
           "description": "Re  https://www.coindesk.com/business/2023/02/13/paxos-to-stop-minting-stablecoin-busd-following-regulatory-action/",
@@ -163,46 +203,6 @@
           "publishedOn": "2023-02-08T19:07:11.000Z",
           "wordCount": 498,
           "title": ".@SenatorHagerty defends crypto, decries using banking regulators to advance political agendas...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1622653064527114242",
-          "author": "DeFi Pulse",
-          "description": "Re  https://www.coindesk.com/business/2023/02/06/crypto-exchange-binance-to-suspend-us-dollar-deposits-this-week/",
-          "link": "https://twitter.com/defipulse/status/1622653064527114242",
-          "publishedOn": "2023-02-06T17:46:52.000Z",
-          "wordCount": 498,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1622653062077718551",
-          "author": "DeFi Pulse",
-          "description": "Binance to temporarily suspend US dollar bank transfers starting on Wednesday...",
-          "link": "https://twitter.com/defipulse/status/1622653062077718551",
-          "publishedOn": "2023-02-06T17:46:52.000Z",
-          "wordCount": 498,
-          "title": "Binance to temporarily suspend US dollar bank transfers starting on Wednesday...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1622652447616270361",
-          "author": "DeFi Pulse",
-          "description": "Re  https://www.coindesk.com/business/2023/02/06/bankrupt-lender-genesis-and-parent-dcg-reach-initial-agreement-with-main-creditors-source/",
-          "link": "https://twitter.com/defipulse/status/1622652447616270361",
-          "publishedOn": "2023-02-06T17:44:25.000Z",
-          "wordCount": 498,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1622652445217128465",
-          "author": "DeFi Pulse",
-          "description": "Genesis and parent DCG reach an initial agreement with main creditors...",
-          "link": "https://twitter.com/defipulse/status/1622652445217128465",
-          "publishedOn": "2023-02-06T17:44:25.000Z",
-          "wordCount": 498,
-          "title": "Genesis and parent DCG reach an initial agreement with main creditors...",
           "imageUrl": null
         }
       ]
