@@ -1,10 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-14T17:17:24.572Z</id>
+    <id>urn:2023-02-14T18:23:18.212Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-14T17:17:24.572Z</updated>
+    <updated>2023-02-14T18:23:18.212Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @ProfYYadav1 @SenatorHagerty .@SenatorHagerty: "...There have only been 2 minor rule-making activities by the SEC and the CFTC while there have bee...]]></title>
+        <id>https://twitter.com/defipulse/status/1625544644615368704</id>
+        <link href="https://twitter.com/defipulse/status/1625544644615368704"/>
+        <updated>2023-02-14T17:16:59.000Z</updated>
+        <summary type="html"><![CDATA[Re @ProfYYadav1 @SenatorHagerty .@SenatorHagerty: "...There have only been 2 minor rule-making activities by the SEC and the CFTC while there have been 30 of these retroactive litigation cases at the SEC and 18 at the CFTC. 
+That is not the way to run things in a hindward looking, piecemeal basis..."]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @ProfYYadav1 .@SenatorHagerty: "...there has been a coordinated chorus of regulators talking about severing crypto from our financial system...This...]]></title>
+        <id>https://twitter.com/defipulse/status/1625543252593070082</id>
+        <link href="https://twitter.com/defipulse/status/1625543252593070082"/>
+        <updated>2023-02-14T17:11:27.000Z</updated>
+        <summary type="html"><![CDATA[Re @ProfYYadav1 .@SenatorHagerty:  "...there has been a coordinated chorus of regulators talking about severing crypto from our financial system...This feels reminiscent of Operation Choke Point..."]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re On proof of reserves: @ProfYYadav1: "...It's not just proof of reserves; it is proof of solvency...Making sure that we have not just the disclosure...]]></title>
+        <id>https://twitter.com/defipulse/status/1625540535984263170</id>
+        <link href="https://twitter.com/defipulse/status/1625540535984263170"/>
+        <updated>2023-02-14T17:00:39.000Z</updated>
+        <summary type="html"><![CDATA[Re On proof of reserves:
+@ProfYYadav1: "...It's not just proof of reserves; it is proof of solvency...Making sure that we have not just the disclosure of the reserves...but also the assets being held are liquid and tradable..."]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re .@LindaJeng1: "It is extremely important that we have open, interoperable standards. That is the spirit of blockchain technology... Why we need to ...]]></title>
+        <id>https://twitter.com/defipulse/status/1625534030732005376</id>
+        <link href="https://twitter.com/defipulse/status/1625534030732005376"/>
+        <updated>2023-02-14T16:34:48.000Z</updated>
+        <summary type="html"><![CDATA[Re .@LindaJeng1: "It is extremely important that we have open, interoperable standards. That is the spirit of blockchain technology... Why we need to push for open, interoperable standards is to prevent monopolies of the future..."]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.@SenatorTimScott calls out Gary Gensler for not being at the hearing testifying this morning…]]></title>
+        <id>https://twitter.com/defipulse/status/1625528818755682305</id>
+        <link href="https://twitter.com/defipulse/status/1625528818755682305"/>
+        <updated>2023-02-14T16:14:05.000Z</updated>
+        <summary type="html"><![CDATA[.@SenatorTimScott calls out Gary Gensler for not being at the hearing testifying this morning…]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1625527033307570178</id>
+        <link href="https://twitter.com/defipulse/status/1625527033307570178"/>
+        <updated>2023-02-14T16:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.coindesk.com/tech/2023/02/14/polygon-sets-march-date-for-zkevm-mainnet-beta-to-go-live/?utm_source=twitter&utm_medium=social&utm_term=organic&utm_content=editorial&utm_campaign=coindesk_main]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Polygon announces March 27th for zkEVM mainnet beta launch...]]></title>
+        <id>https://twitter.com/defipulse/status/1625527032208564226</id>
+        <link href="https://twitter.com/defipulse/status/1625527032208564226"/>
+        <updated>2023-02-14T16:06:59.000Z</updated>
+        <summary type="html"><![CDATA[Polygon announces March 27th for zkEVM mainnet beta launch...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1625526225203593217</id>
+        <link href="https://twitter.com/defipulse/status/1625526225203593217"/>
+        <updated>2023-02-14T16:03:47.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.coindesk.com/policy/2023/02/14/sec-to-make-it-harder-for-hedge-funds-to-work-with-crypto-firms-bloomberg/?utm_term=organic&utm_source=twitter&utm_medium=social&utm_campaign=coindesk_main&utm_content=editorial]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SEC to hinder hedge funds from working with crypto firms...]]></title>
+        <id>https://twitter.com/defipulse/status/1625526215384629248</id>
+        <link href="https://twitter.com/defipulse/status/1625526215384629248"/>
+        <updated>2023-02-14T16:03:45.000Z</updated>
+        <summary type="html"><![CDATA[SEC to hinder hedge funds from working with crypto firms...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Watch live:]]></title>
+        <id>https://twitter.com/defipulse/status/1625525030544109569</id>
+        <link href="https://twitter.com/defipulse/status/1625525030544109569"/>
+        <updated>2023-02-14T15:59:02.000Z</updated>
+        <summary type="html"><![CDATA[Re Watch live: https://www.banking.senate.gov/hearings/watch?hearingid=CBFCEC3D-F41A-85C0-5503-577EAA212017]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The @SenateBanking hearing is getting underway. The topic being discussed... Crypto Crash: Why Financial System Safeguards are Needed for Digital Asse...]]></title>
+        <id>https://twitter.com/defipulse/status/1625525028853805057</id>
+        <link href="https://twitter.com/defipulse/status/1625525028853805057"/>
+        <updated>2023-02-14T15:59:02.000Z</updated>
+        <summary type="html"><![CDATA[The @SenateBanking hearing is getting underway. The topic being discussed... 
+Crypto Crash: Why Financial System Safeguards are Needed for Digital Assets]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1625241895239577613</id>
@@ -95,123 +208,6 @@ Rep. Bill Huizenga: Since @garygensler won't abide by his own polices to "come
         <updated>2023-02-10T20:19:57.000Z</updated>
         <summary type="html"><![CDATA["A paternalistic and lazy regulator settles on a solution like the one in this settlement..."
 SEC Commissioner Hester Peirce criticizing the Kraken enforcement action...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re “Whether it’s through staking-as-a-service, lending, or other means, crypto intermediaries, when offering investment contracts in exchange for in...]]></title>
-        <id>https://twitter.com/defipulse/status/1623786312628150273</id>
-        <link href="https://twitter.com/defipulse/status/1623786312628150273"/>
-        <updated>2023-02-09T20:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Re “Whether it’s through staking-as-a-service, lending, or other means, crypto intermediaries, when offering investment contracts in exchange for investors’ tokens, need to provide the proper disclosures and safeguards required by our securities laws…”
-- SEC Chair Gary Gensler]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1623783846331183105</id>
-        <link href="https://twitter.com/defipulse/status/1623783846331183105"/>
-        <updated>2023-02-09T20:40:12.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://blog.kraken.com/post/17619/settlement/]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Kraken will continue to offer staking services for non-U.S. clients through a separate Kraken subsidiary.]]></title>
-        <id>https://twitter.com/defipulse/status/1623783842115887105</id>
-        <link href="https://twitter.com/defipulse/status/1623783842115887105"/>
-        <updated>2023-02-09T20:40:11.000Z</updated>
-        <summary type="html"><![CDATA[Re Kraken will continue to offer staking services for non-U.S. clients through a separate Kraken subsidiary.]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re All U.S. assets will be automatically unstaked except for Ether which will be unstaked after the Shanghai upgrade.]]></title>
-        <id>https://twitter.com/defipulse/status/1623783839087616001</id>
-        <link href="https://twitter.com/defipulse/status/1623783839087616001"/>
-        <updated>2023-02-09T20:40:10.000Z</updated>
-        <summary type="html"><![CDATA[Re All U.S. assets will be automatically unstaked except for Ether which will be unstaked after the Shanghai upgrade.]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kraken to end on-chain staking services for U.S. clients…]]></title>
-        <id>https://twitter.com/defipulse/status/1623783836126519296</id>
-        <link href="https://twitter.com/defipulse/status/1623783836126519296"/>
-        <updated>2023-02-09T20:40:09.000Z</updated>
-        <summary type="html"><![CDATA[Kraken to end on-chain staking services for U.S. clients…]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1623779071468400640</id>
-        <link href="https://twitter.com/defipulse/status/1623779071468400640"/>
-        <updated>2023-02-09T20:21:13.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.sec.gov/news/press-release/2023-25]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEC issues press release on Kraken staking settlement...]]></title>
-        <id>https://twitter.com/defipulse/status/1623779069740343301</id>
-        <link href="https://twitter.com/defipulse/status/1623779069740343301"/>
-        <updated>2023-02-09T20:21:13.000Z</updated>
-        <summary type="html"><![CDATA[SEC issues press release on Kraken staking settlement...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1623765656066789387</id>
-        <link href="https://twitter.com/defipulse/status/1623765656066789387"/>
-        <updated>2023-02-09T19:27:55.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.coindesk.com/policy/2023/02/09/kraken-agreed-to-shutter-crypto-staking-operations-to-settle-sec-charges-source/?utm_content=editorial&utm_medium=social&utm_campaign=coindesk_main&utm_source=twitter&utm_term=organic]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kraken agrees to shut down crypto-staking operations to settle SEC charges...]]></title>
-        <id>https://twitter.com/defipulse/status/1623765654154125314</id>
-        <link href="https://twitter.com/defipulse/status/1623765654154125314"/>
-        <updated>2023-02-09T19:27:54.000Z</updated>
-        <summary type="html"><![CDATA[Kraken agrees to shut down crypto-staking operations to settle SEC charges...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase CEO hearing rumors the SEC would like to get rid of staking for retail customers…]]></title>
-        <id>https://twitter.com/defipulse/status/1623460031361437699</id>
-        <link href="https://twitter.com/defipulse/status/1623460031361437699"/>
-        <updated>2023-02-08T23:13:28.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase CEO hearing rumors the SEC would like to get rid of staking for retail customers…
-
-Brian Armstrong: 1/ We're hearing rumors that the SEC would like to get rid of crypto staking in the U.S. for retail customers. I hope that's not the case as I believe it would be a terrible path for the U.S. if that was allowed to happen.]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[.@SenatorHagerty defends crypto, decries using banking regulators to advance political agendas...]]></title>
-        <id>https://twitter.com/defipulse/status/1623398052278026240</id>
-        <link href="https://twitter.com/defipulse/status/1623398052278026240"/>
-        <updated>2023-02-08T19:07:11.000Z</updated>
-        <summary type="html"><![CDATA[.@SenatorHagerty defends crypto, decries using banking regulators to advance political agendas...
-
-Senator Bill Hagerty: Regulators singling out business activities should alarm all Americans. 
-It doesn’t matter if it’s cryptoassets, firearms, or any other lawful business, using banking regulators to advance political agendas should not be tolerated.
- https://blockworks.co/news/crypto-poses-key-risks-to-banks-but-carry-on]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
