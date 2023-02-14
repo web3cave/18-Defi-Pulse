@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-14T22:17:43.175Z</id>
+    <id>urn:2023-02-14T23:18:31.409Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-14T22:17:43.175Z</updated>
+    <updated>2023-02-14T23:18:31.409Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A Wells notice has NOT been received by Circle according to their Chief Strategy Officer…]]></title>
+        <id>https://twitter.com/defipulse/status/1625614451415064606</id>
+        <link href="https://twitter.com/defipulse/status/1625614451415064606"/>
+        <updated>2023-02-14T21:54:22.000Z</updated>
+        <summary type="html"><![CDATA[A Wells notice has NOT been received by Circle according to their Chief Strategy Officer…
+
+Dante Disparte: .@circle has not received a Wells notice.]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @ProfYYadav1 @SenatorHagerty .@SenatorHagerty: "...There have only been 2 minor rule-making activities by the SEC and the CFTC while there have bee...]]></title>
         <id>https://twitter.com/defipulse/status/1625544644615368704</id>
@@ -197,17 +209,6 @@ Rep. Bill Huizenga: Since @garygensler won't abide by his own polices to "come
         <link href="https://twitter.com/defipulse/status/1624141142554968064"/>
         <updated>2023-02-10T20:19:58.000Z</updated>
         <summary type="html"><![CDATA[Re Full statement: https://www.sec.gov/news/statement/peirce-statement-kraken-020923]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["A paternalistic and lazy regulator settles on a solution like the one in this settlement..." SEC Commissioner Hester Peirce criticizing the Kraken en...]]></title>
-        <id>https://twitter.com/defipulse/status/1624141141405798439</id>
-        <link href="https://twitter.com/defipulse/status/1624141141405798439"/>
-        <updated>2023-02-10T20:19:57.000Z</updated>
-        <summary type="html"><![CDATA["A paternalistic and lazy regulator settles on a solution like the one in this settlement..."
-SEC Commissioner Hester Peirce criticizing the Kraken enforcement action...]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
