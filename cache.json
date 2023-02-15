@@ -6,9 +6,29 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1625934168185049108",
+          "author": "DeFi Pulse",
+          "description": "Re  https://www.coindesk.com/policy/2023/02/15/us-judge-orders-bankman-frieds-lawyers-to-reveal-bond-signer-names/?utm_medium=social&utm_source=twitter&utm_content=editorial&utm_term=organic&utm_campaign=coindesk_main",
+          "link": "https://twitter.com/defipulse/status/1625934168185049108",
+          "publishedOn": "2023-02-15T19:04:48.000Z",
+          "wordCount": 498,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1625934166406664192",
+          "author": "DeFi Pulse",
+          "description": "SBF's two additional bond co-signers have been revealed...\nFormer dean of Stanford Law School Larry Kramer &  Stanford research scientist Andreas Paepcke",
+          "link": "https://twitter.com/defipulse/status/1625934166406664192",
+          "publishedOn": "2023-02-15T19:04:48.000Z",
+          "wordCount": 498,
+          "title": "SBF's two additional bond co-signers have been revealed... Former dean of Stanford Law School Larry Kramer & Stanford research scientist Andreas Paepc...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1625614451415064606",
           "author": "DeFi Pulse",
-          "description": "A Wells notice has NOT been received by Circle according to their Chief Strategy Officer…\n\nDante Disparte: .@circle has not received a Wells notice.",
+          "description": "A Wells notice has NOT been received by Circle according to their Chief Strategy Officer…\n\nDante Disparte: .@circle has not received a Wells notice.\n https://twitter.com/EleanorTerrett/status/1625601817395531779",
           "link": "https://twitter.com/defipulse/status/1625614451415064606",
           "publishedOn": "2023-02-14T21:54:22.000Z",
           "wordCount": 498,
@@ -183,26 +203,6 @@
           "publishedOn": "2023-02-13T15:46:19.000Z",
           "wordCount": 498,
           "title": "Paxos to stop minting BUSD following regulatory action from the SEC...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1624151303617187840",
-          "author": "DeFi Pulse",
-          "description": "Republican congressmen call out Gary Gensler and request documents surrounding the SEC's interactions with SBF and FTX...\n\nRep. Bill Huizenga: Since @garygensler won't abide by his own polices to \"come in and talk”, the House GOP will hold him accountable. Today, as promised, our oversight of the @SECGov begins with a request for documents surrounding their interactions with @SBF_FTX, @FTX_Official, and @TheJusticeDept",
-          "link": "https://twitter.com/defipulse/status/1624151303617187840",
-          "publishedOn": "2023-02-10T21:00:20.000Z",
-          "wordCount": 498,
-          "title": "Republican congressmen call out Gary Gensler and request documents surrounding the SEC's interactions with SBF and FTX...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1624141142554968064",
-          "author": "DeFi Pulse",
-          "description": "Re Full statement: https://www.sec.gov/news/statement/peirce-statement-kraken-020923",
-          "link": "https://twitter.com/defipulse/status/1624141142554968064",
-          "publishedOn": "2023-02-10T20:19:58.000Z",
-          "wordCount": 498,
-          "title": "Re Full statement:",
           "imageUrl": null
         }
       ]

@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-15T19:15:18.747Z</id>
+    <id>urn:2023-02-15T20:19:58.343Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-15T19:15:18.747Z</updated>
+    <updated>2023-02-15T20:19:58.343Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1625934168185049108</id>
+        <link href="https://twitter.com/defipulse/status/1625934168185049108"/>
+        <updated>2023-02-15T19:04:48.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.coindesk.com/policy/2023/02/15/us-judge-orders-bankman-frieds-lawyers-to-reveal-bond-signer-names/?utm_medium=social&utm_source=twitter&utm_content=editorial&utm_term=organic&utm_campaign=coindesk_main]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SBF's two additional bond co-signers have been revealed... Former dean of Stanford Law School Larry Kramer & Stanford research scientist Andreas Paepc...]]></title>
+        <id>https://twitter.com/defipulse/status/1625934166406664192</id>
+        <link href="https://twitter.com/defipulse/status/1625934166406664192"/>
+        <updated>2023-02-15T19:04:48.000Z</updated>
+        <summary type="html"><![CDATA[SBF's two additional bond co-signers have been revealed...
+Former dean of Stanford Law School Larry Kramer &  Stanford research scientist Andreas Paepcke]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Wells notice has NOT been received by Circle according to their Chief Strategy Officer…]]></title>
         <id>https://twitter.com/defipulse/status/1625614451415064606</id>
@@ -12,7 +33,8 @@
         <updated>2023-02-14T21:54:22.000Z</updated>
         <summary type="html"><![CDATA[A Wells notice has NOT been received by Circle according to their Chief Strategy Officer…
 
-Dante Disparte: .@circle has not received a Wells notice.]]></summary>
+Dante Disparte: .@circle has not received a Wells notice.
+ https://twitter.com/EleanorTerrett/status/1625601817395531779]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
@@ -187,28 +209,6 @@ They claimed, "Binance did not store enough crypto in reserve to support tokens 
         <link href="https://twitter.com/defipulse/status/1625159439438192640"/>
         <updated>2023-02-13T15:46:19.000Z</updated>
         <summary type="html"><![CDATA[Paxos to stop minting BUSD following regulatory action from the SEC...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Republican congressmen call out Gary Gensler and request documents surrounding the SEC's interactions with SBF and FTX...]]></title>
-        <id>https://twitter.com/defipulse/status/1624151303617187840</id>
-        <link href="https://twitter.com/defipulse/status/1624151303617187840"/>
-        <updated>2023-02-10T21:00:20.000Z</updated>
-        <summary type="html"><![CDATA[Republican congressmen call out Gary Gensler and request documents surrounding the SEC's interactions with SBF and FTX...
-
-Rep. Bill Huizenga: Since @garygensler won't abide by his own polices to "come in and talk”, the House GOP will hold him accountable. Today, as promised, our oversight of the @SECGov begins with a request for documents surrounding their interactions with @SBF_FTX, @FTX_Official, and @TheJusticeDept]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Full statement:]]></title>
-        <id>https://twitter.com/defipulse/status/1624141142554968064</id>
-        <link href="https://twitter.com/defipulse/status/1624141142554968064"/>
-        <updated>2023-02-10T20:19:58.000Z</updated>
-        <summary type="html"><![CDATA[Re Full statement: https://www.sec.gov/news/statement/peirce-statement-kraken-020923]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
