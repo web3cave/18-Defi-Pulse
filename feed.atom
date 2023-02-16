@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-16T07:16:47.774Z</id>
+    <id>urn:2023-02-16T08:23:59.987Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-16T07:16:47.774Z</updated>
+    <updated>2023-02-16T08:23:59.987Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -33,7 +33,8 @@ Former dean of Stanford Law School Larry Kramer &  Stanford research scientist A
         <updated>2023-02-14T21:54:22.000Z</updated>
         <summary type="html"><![CDATA[A Wells notice has NOT been received by Circle according to their Chief Strategy Officer…
 
-Dante Disparte: .@circle has not received a Wells notice.]]></summary>
+Dante Disparte: .@circle has not received a Wells notice.
+ https://twitter.com/EleanorTerrett/status/1625601817395531779]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
