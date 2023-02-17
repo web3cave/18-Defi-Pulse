@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-17T17:16:21.751Z</id>
+    <id>urn:2023-02-17T18:22:53.464Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-17T17:16:21.751Z</updated>
+    <updated>2023-02-17T18:22:53.464Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CZ says rumors around de-listing US-based cryptocurrencies are "false"]]></title>
+        <id>https://twitter.com/defipulse/status/1626620784658481158</id>
+        <link href="https://twitter.com/defipulse/status/1626620784658481158"/>
+        <updated>2023-02-17T16:33:10.000Z</updated>
+        <summary type="html"><![CDATA[CZ says rumors around de-listing US-based cryptocurrencies are "false"
+
+CZ 🔶 Binance: 4. False.
+ https://twitter.com/watcherguru/status/1626609958535004160]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re Binance will consider de-listing tokens from any US-based projects, including Circle’s stablecoin USD Coin...]]></title>
         <id>https://twitter.com/defipulse/status/1626611530530693122</id>
@@ -198,16 +211,6 @@ Crypto Crash: Why Financial System Safeguards are Needed for Digital Assets]]></
         <link href="https://twitter.com/defipulse/status/1625241893704462339"/>
         <updated>2023-02-13T21:13:57.000Z</updated>
         <summary type="html"><![CDATA[Paxos disagrees with SEC's stance and is prepared to "vigorously litigate if necessary."]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1625239095105445888</id>
-        <link href="https://twitter.com/defipulse/status/1625239095105445888"/>
-        <updated>2023-02-13T21:02:50.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.bloomberg.com/news/articles/2023-02-13/circle-usdc-alerted-new-york-over-binance-peg-busd-issues?srnd=all]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
