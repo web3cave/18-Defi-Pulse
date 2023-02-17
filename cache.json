@@ -6,6 +6,36 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1626611530530693122",
+          "author": "DeFi Pulse",
+          "description": "Re Binance will consider de-listing tokens from any US-based projects, including Circle’s stablecoin USD Coin...",
+          "link": "https://twitter.com/defipulse/status/1626611530530693122",
+          "publishedOn": "2023-02-17T15:56:24.000Z",
+          "wordCount": 498,
+          "title": "Re Binance will consider de-listing tokens from any US-based projects, including Circle’s stablecoin USD Coin...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1626610480692310018",
+          "author": "DeFi Pulse",
+          "description": "Re  https://www.bloomberg.com/news/articles/2023-02-17/binance-holdings-explores-retreat-from-the-us-as-crypto-crackdown-escalates",
+          "link": "https://twitter.com/defipulse/status/1626610480692310018",
+          "publishedOn": "2023-02-17T15:52:14.000Z",
+          "wordCount": 498,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1626610475445125121",
+          "author": "DeFi Pulse",
+          "description": "Binance may ditch US partners as crypto crackdown intensifies...",
+          "link": "https://twitter.com/defipulse/status/1626610475445125121",
+          "publishedOn": "2023-02-17T15:52:12.000Z",
+          "wordCount": 498,
+          "title": "Binance may ditch US partners as crypto crackdown intensifies...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1625934168185049108",
           "author": "DeFi Pulse",
           "description": "Re  https://www.coindesk.com/policy/2023/02/15/us-judge-orders-bankman-frieds-lawyers-to-reveal-bond-signer-names/?utm_medium=social&utm_source=twitter&utm_content=editorial&utm_term=organic&utm_campaign=coindesk_main",
@@ -28,7 +58,7 @@
         {
           "id": "https://twitter.com/defipulse/status/1625614451415064606",
           "author": "DeFi Pulse",
-          "description": "A Wells notice has NOT been received by Circle according to their Chief Strategy Officer…\n\nDante Disparte: .@circle has not received a Wells notice.",
+          "description": "A Wells notice has NOT been received by Circle according to their Chief Strategy Officer…\n\nDante Disparte: .@circle has not received a Wells notice.\n https://twitter.com/EleanorTerrett/status/1625601817395531779",
           "link": "https://twitter.com/defipulse/status/1625614451415064606",
           "publishedOn": "2023-02-14T21:54:22.000Z",
           "wordCount": 498,
@@ -173,36 +203,6 @@
           "publishedOn": "2023-02-13T21:02:50.000Z",
           "wordCount": 498,
           "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1625239093129932806",
-          "author": "DeFi Pulse",
-          "description": "Circle alerted the New York State Department of Financial Services about Binance's BUSD. \nThey claimed, \"Binance did not store enough crypto in reserve to support tokens it had issued...\"",
-          "link": "https://twitter.com/defipulse/status/1625239093129932806",
-          "publishedOn": "2023-02-13T21:02:49.000Z",
-          "wordCount": 498,
-          "title": "Circle alerted the New York State Department of Financial Services about Binance's BUSD. They claimed, \"Binance did not store enough crypto in reserve...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1625159441132793858",
-          "author": "DeFi Pulse",
-          "description": "Re  https://www.coindesk.com/business/2023/02/13/paxos-to-stop-minting-stablecoin-busd-following-regulatory-action/",
-          "link": "https://twitter.com/defipulse/status/1625159441132793858",
-          "publishedOn": "2023-02-13T15:46:19.000Z",
-          "wordCount": 498,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1625159439438192640",
-          "author": "DeFi Pulse",
-          "description": "Paxos to stop minting BUSD following regulatory action from the SEC...",
-          "link": "https://twitter.com/defipulse/status/1625159439438192640",
-          "publishedOn": "2023-02-13T15:46:19.000Z",
-          "wordCount": 498,
-          "title": "Paxos to stop minting BUSD following regulatory action from the SEC...",
           "imageUrl": null
         }
       ]

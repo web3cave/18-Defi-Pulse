@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-17T15:19:11.890Z</id>
+    <id>urn:2023-02-17T16:25:13.694Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-17T15:19:11.890Z</updated>
+    <updated>2023-02-17T16:25:13.694Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re Binance will consider de-listing tokens from any US-based projects, including Circle’s stablecoin USD Coin...]]></title>
+        <id>https://twitter.com/defipulse/status/1626611530530693122</id>
+        <link href="https://twitter.com/defipulse/status/1626611530530693122"/>
+        <updated>2023-02-17T15:56:24.000Z</updated>
+        <summary type="html"><![CDATA[Re Binance will consider de-listing tokens from any US-based projects, including Circle’s stablecoin USD Coin...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1626610480692310018</id>
+        <link href="https://twitter.com/defipulse/status/1626610480692310018"/>
+        <updated>2023-02-17T15:52:14.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.bloomberg.com/news/articles/2023-02-17/binance-holdings-explores-retreat-from-the-us-as-crypto-crackdown-escalates]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binance may ditch US partners as crypto crackdown intensifies...]]></title>
+        <id>https://twitter.com/defipulse/status/1626610475445125121</id>
+        <link href="https://twitter.com/defipulse/status/1626610475445125121"/>
+        <updated>2023-02-17T15:52:12.000Z</updated>
+        <summary type="html"><![CDATA[Binance may ditch US partners as crypto crackdown intensifies...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/defipulse/status/1625934168185049108</id>
@@ -33,7 +63,8 @@ Former dean of Stanford Law School Larry Kramer &  Stanford research scientist A
         <updated>2023-02-14T21:54:22.000Z</updated>
         <summary type="html"><![CDATA[A Wells notice has NOT been received by Circle according to their Chief Strategy Officer…
 
-Dante Disparte: .@circle has not received a Wells notice.]]></summary>
+Dante Disparte: .@circle has not received a Wells notice.
+ https://twitter.com/EleanorTerrett/status/1625601817395531779]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
@@ -177,37 +208,6 @@ Crypto Crash: Why Financial System Safeguards are Needed for Digital Assets]]></
         <link href="https://twitter.com/defipulse/status/1625239095105445888"/>
         <updated>2023-02-13T21:02:50.000Z</updated>
         <summary type="html"><![CDATA[Re  https://www.bloomberg.com/news/articles/2023-02-13/circle-usdc-alerted-new-york-over-binance-peg-busd-issues?srnd=all]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Circle alerted the New York State Department of Financial Services about Binance's BUSD. They claimed, "Binance did not store enough crypto in reserve...]]></title>
-        <id>https://twitter.com/defipulse/status/1625239093129932806</id>
-        <link href="https://twitter.com/defipulse/status/1625239093129932806"/>
-        <updated>2023-02-13T21:02:49.000Z</updated>
-        <summary type="html"><![CDATA[Circle alerted the New York State Department of Financial Services about Binance's BUSD. 
-They claimed, "Binance did not store enough crypto in reserve to support tokens it had issued..."]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1625159441132793858</id>
-        <link href="https://twitter.com/defipulse/status/1625159441132793858"/>
-        <updated>2023-02-13T15:46:19.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.coindesk.com/business/2023/02/13/paxos-to-stop-minting-stablecoin-busd-following-regulatory-action/]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paxos to stop minting BUSD following regulatory action from the SEC...]]></title>
-        <id>https://twitter.com/defipulse/status/1625159439438192640</id>
-        <link href="https://twitter.com/defipulse/status/1625159439438192640"/>
-        <updated>2023-02-13T15:46:19.000Z</updated>
-        <summary type="html"><![CDATA[Paxos to stop minting BUSD following regulatory action from the SEC...]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
