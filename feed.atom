@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-22T20:19:50.493Z</id>
+    <id>urn:2023-02-22T21:16:32.440Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-22T20:19:50.493Z</updated>
+    <updated>2023-02-22T21:16:32.440Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defipulse/status/1628464295674617861</id>
+        <link href="https://twitter.com/defipulse/status/1628464295674617861"/>
+        <updated>2023-02-22T18:38:38.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.theblock.co/post/214100/dapper-labs-nba-top-shot-moments-nfts-are-securities-federal-judge-rules]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Federal judge rules NBA Top Shot Moments NFTs are securities…]]></title>
+        <id>https://twitter.com/defipulse/status/1628464293309042688</id>
+        <link href="https://twitter.com/defipulse/status/1628464293309042688"/>
+        <updated>2023-02-22T18:38:37.000Z</updated>
+        <summary type="html"><![CDATA[Federal judge rules NBA Top Shot Moments NFTs are securities…]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CZ says rumors around de-listing US-based cryptocurrencies are "false"]]></title>
         <id>https://twitter.com/defipulse/status/1626620784658481158</id>
@@ -12,7 +32,8 @@
         <updated>2023-02-17T16:33:10.000Z</updated>
         <summary type="html"><![CDATA[CZ says rumors around de-listing US-based cryptocurrencies are "false"
 
-CZ 🔶 Binance: 4. False.]]></summary>
+CZ 🔶 Binance: 4. False.
+ https://twitter.com/WatcherGuru/status/1626609958535004160]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
@@ -75,7 +96,8 @@ Former dean of Stanford Law School Larry Kramer &  Stanford research scientist A
         <updated>2023-02-14T21:54:22.000Z</updated>
         <summary type="html"><![CDATA[A Wells notice has NOT been received by Circle according to their Chief Strategy Officer…
 
-Dante Disparte: .@circle has not received a Wells notice.]]></summary>
+Dante Disparte: .@circle has not received a Wells notice.
+ https://twitter.com/EleanorTerrett/status/1625601817395531779]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
@@ -189,26 +211,6 @@ That is not the way to run things in a hindward looking, piecemeal basis..."]]><
         <updated>2023-02-14T15:59:02.000Z</updated>
         <summary type="html"><![CDATA[The @SenateBanking hearing is getting underway. The topic being discussed... 
 Crypto Crash: Why Financial System Safeguards are Needed for Digital Assets]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/defipulse/status/1625241895239577613</id>
-        <link href="https://twitter.com/defipulse/status/1625241895239577613"/>
-        <updated>2023-02-13T21:13:58.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.prnewswire.com/news-releases/paxos-issues-statement-301745616.html]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paxos disagrees with SEC's stance and is prepared to "vigorously litigate if necessary."]]></title>
-        <id>https://twitter.com/defipulse/status/1625241893704462339</id>
-        <link href="https://twitter.com/defipulse/status/1625241893704462339"/>
-        <updated>2023-02-13T21:13:57.000Z</updated>
-        <summary type="html"><![CDATA[Paxos disagrees with SEC's stance and is prepared to "vigorously litigate if necessary."]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
