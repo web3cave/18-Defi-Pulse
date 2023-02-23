@@ -6,6 +6,46 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1628763227571060736",
+          "author": "DeFi Pulse",
+          "description": "Re https://optimism.mirror.xyz/2jk3D1Y8-hid8YOCUUa6yXmsyzNCYYyFJP0Nhaey9x0",
+          "link": "https://twitter.com/defipulse/status/1628763227571060736",
+          "publishedOn": "2023-02-23T14:26:29.000Z",
+          "wordCount": 498,
+          "title": "Re https://optimism.mirror.xyz/2jk3D1Y8-hid8YOCUUa6yXmsyzNCYYyFJP0Nhaey9x0",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1628763225087959042",
+          "author": "DeFi Pulse",
+          "description": "Base will commit a portion of transaction fee revenue back to an Optimism Collective treasury…",
+          "link": "https://twitter.com/defipulse/status/1628763225087959042",
+          "publishedOn": "2023-02-23T14:26:28.000Z",
+          "wordCount": 498,
+          "title": "Base will commit a portion of transaction fee revenue back to an Optimism Collective treasury…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1628758370952835073",
+          "author": "DeFi Pulse",
+          "description": "Re https://www.coindesk.com/tech/2023/02/23/coinbase-launches-layer-2-blockchain-base-to-provide-onramp-for-ethereum-solana-and-others/",
+          "link": "https://twitter.com/defipulse/status/1628758370952835073",
+          "publishedOn": "2023-02-23T14:07:11.000Z",
+          "wordCount": 498,
+          "title": "Re https://www.coindesk.com/tech/2023/02/23/coinbase-launches-layer-2-blockchain-base-to-provide-onramp-for-ethereum-solana-and-others/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1628758368734089216",
+          "author": "DeFi Pulse",
+          "description": "Coinbase launched Base, a layer 2 network built using Optimism's OP Stack. \nTestnet launched Thursday. \nCurrently there are no plans to issue a new network token.",
+          "link": "https://twitter.com/defipulse/status/1628758368734089216",
+          "publishedOn": "2023-02-23T14:07:10.000Z",
+          "wordCount": 498,
+          "title": "Coinbase launched Base, a layer 2 network built using Optimism's OP Stack. Testnet launched Thursday. Currently there are no plans to issue a new netw...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1628607585476661248",
           "author": "DeFi Pulse",
           "description": "Re https://www.coindesk.com/web3/2023/02/23/spotify-is-testing-token-enabled-music-playlists/",
@@ -163,46 +203,6 @@
           "publishedOn": "2023-02-14T16:14:05.000Z",
           "wordCount": 498,
           "title": ".@SenatorTimScott calls out Gary Gensler for not being at the hearing testifying this morning… https://t.co/aXxBlbefDN",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1625527033307570178",
-          "author": "DeFi Pulse",
-          "description": "Re https://www.coindesk.com/tech/2023/02/14/polygon-sets-march-date-for-zkevm-mainnet-beta-to-go-live/?utm_source=twitter&utm_medium=social&utm_term=organic&utm_content=editorial&utm_campaign=coindesk_main",
-          "link": "https://twitter.com/defipulse/status/1625527033307570178",
-          "publishedOn": "2023-02-14T16:07:00.000Z",
-          "wordCount": 498,
-          "title": "Re https://www.coindesk.com/tech/2023/02/14/polygon-sets-march-date-for-zkevm-mainnet-beta-to-go-live/?utm_source=twitter&utm_medium=social&utm_term=o...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1625527032208564226",
-          "author": "DeFi Pulse",
-          "description": "Polygon announces March 27th for zkEVM mainnet beta launch...",
-          "link": "https://twitter.com/defipulse/status/1625527032208564226",
-          "publishedOn": "2023-02-14T16:06:59.000Z",
-          "wordCount": 498,
-          "title": "Polygon announces March 27th for zkEVM mainnet beta launch...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1625526225203593217",
-          "author": "DeFi Pulse",
-          "description": "Re https://www.coindesk.com/policy/2023/02/14/sec-to-make-it-harder-for-hedge-funds-to-work-with-crypto-firms-bloomberg/?utm_term=organic&utm_source=twitter&utm_medium=social&utm_campaign=coindesk_main&utm_content=editorial",
-          "link": "https://twitter.com/defipulse/status/1625526225203593217",
-          "publishedOn": "2023-02-14T16:03:47.000Z",
-          "wordCount": 498,
-          "title": "Re https://www.coindesk.com/policy/2023/02/14/sec-to-make-it-harder-for-hedge-funds-to-work-with-crypto-firms-bloomberg/?utm_term=organic&utm_source=t...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1625526215384629248",
-          "author": "DeFi Pulse",
-          "description": "SEC to hinder hedge funds from working with crypto firms...",
-          "link": "https://twitter.com/defipulse/status/1625526215384629248",
-          "publishedOn": "2023-02-14T16:03:45.000Z",
-          "wordCount": 498,
-          "title": "SEC to hinder hedge funds from working with crypto firms...",
           "imageUrl": null
         }
       ]

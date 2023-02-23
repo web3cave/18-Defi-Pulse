@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-23T14:18:23.708Z</id>
+    <id>urn:2023-02-23T15:19:41.344Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-23T14:18:23.708Z</updated>
+    <updated>2023-02-23T15:19:41.344Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re https://optimism.mirror.xyz/2jk3D1Y8-hid8YOCUUa6yXmsyzNCYYyFJP0Nhaey9x0]]></title>
+        <id>https://twitter.com/defipulse/status/1628763227571060736</id>
+        <link href="https://twitter.com/defipulse/status/1628763227571060736"/>
+        <updated>2023-02-23T14:26:29.000Z</updated>
+        <summary type="html"><![CDATA[Re https://optimism.mirror.xyz/2jk3D1Y8-hid8YOCUUa6yXmsyzNCYYyFJP0Nhaey9x0]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Base will commit a portion of transaction fee revenue back to an Optimism Collective treasury…]]></title>
+        <id>https://twitter.com/defipulse/status/1628763225087959042</id>
+        <link href="https://twitter.com/defipulse/status/1628763225087959042"/>
+        <updated>2023-02-23T14:26:28.000Z</updated>
+        <summary type="html"><![CDATA[Base will commit a portion of transaction fee revenue back to an Optimism Collective treasury…]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re https://www.coindesk.com/tech/2023/02/23/coinbase-launches-layer-2-blockchain-base-to-provide-onramp-for-ethereum-solana-and-others/]]></title>
+        <id>https://twitter.com/defipulse/status/1628758370952835073</id>
+        <link href="https://twitter.com/defipulse/status/1628758370952835073"/>
+        <updated>2023-02-23T14:07:11.000Z</updated>
+        <summary type="html"><![CDATA[Re https://www.coindesk.com/tech/2023/02/23/coinbase-launches-layer-2-blockchain-base-to-provide-onramp-for-ethereum-solana-and-others/]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coinbase launched Base, a layer 2 network built using Optimism's OP Stack. Testnet launched Thursday. Currently there are no plans to issue a new netw...]]></title>
+        <id>https://twitter.com/defipulse/status/1628758368734089216</id>
+        <link href="https://twitter.com/defipulse/status/1628758368734089216"/>
+        <updated>2023-02-23T14:07:10.000Z</updated>
+        <summary type="html"><![CDATA[Coinbase launched Base, a layer 2 network built using Optimism's OP Stack. 
+Testnet launched Thursday. 
+Currently there are no plans to issue a new network token.]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re https://www.coindesk.com/web3/2023/02/23/spotify-is-testing-token-enabled-music-playlists/]]></title>
         <id>https://twitter.com/defipulse/status/1628607585476661248</id>
@@ -169,46 +211,6 @@ That is not the way to run things in a hindward looking, piecemeal basis..."]]><
         <updated>2023-02-14T16:14:05.000Z</updated>
         <summary type="html"><![CDATA[.@SenatorTimScott calls out Gary Gensler for not being at the hearing testifying this morning…
  https://t.co/aXxBlbefDN]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://www.coindesk.com/tech/2023/02/14/polygon-sets-march-date-for-zkevm-mainnet-beta-to-go-live/?utm_source=twitter&utm_medium=social&utm_term=o...]]></title>
-        <id>https://twitter.com/defipulse/status/1625527033307570178</id>
-        <link href="https://twitter.com/defipulse/status/1625527033307570178"/>
-        <updated>2023-02-14T16:07:00.000Z</updated>
-        <summary type="html"><![CDATA[Re https://www.coindesk.com/tech/2023/02/14/polygon-sets-march-date-for-zkevm-mainnet-beta-to-go-live/?utm_source=twitter&utm_medium=social&utm_term=organic&utm_content=editorial&utm_campaign=coindesk_main]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polygon announces March 27th for zkEVM mainnet beta launch...]]></title>
-        <id>https://twitter.com/defipulse/status/1625527032208564226</id>
-        <link href="https://twitter.com/defipulse/status/1625527032208564226"/>
-        <updated>2023-02-14T16:06:59.000Z</updated>
-        <summary type="html"><![CDATA[Polygon announces March 27th for zkEVM mainnet beta launch...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://www.coindesk.com/policy/2023/02/14/sec-to-make-it-harder-for-hedge-funds-to-work-with-crypto-firms-bloomberg/?utm_term=organic&utm_source=t...]]></title>
-        <id>https://twitter.com/defipulse/status/1625526225203593217</id>
-        <link href="https://twitter.com/defipulse/status/1625526225203593217"/>
-        <updated>2023-02-14T16:03:47.000Z</updated>
-        <summary type="html"><![CDATA[Re https://www.coindesk.com/policy/2023/02/14/sec-to-make-it-harder-for-hedge-funds-to-work-with-crypto-firms-bloomberg/?utm_term=organic&utm_source=twitter&utm_medium=social&utm_campaign=coindesk_main&utm_content=editorial]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEC to hinder hedge funds from working with crypto firms...]]></title>
-        <id>https://twitter.com/defipulse/status/1625526215384629248</id>
-        <link href="https://twitter.com/defipulse/status/1625526215384629248"/>
-        <updated>2023-02-14T16:03:45.000Z</updated>
-        <summary type="html"><![CDATA[SEC to hinder hedge funds from working with crypto firms...]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
