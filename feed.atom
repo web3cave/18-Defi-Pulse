@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-23T05:17:23.645Z</id>
+    <id>urn:2023-02-23T06:23:40.058Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-23T05:17:23.645Z</updated>
+    <updated>2023-02-23T06:23:40.058Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re https://www.coindesk.com/web3/2023/02/23/spotify-is-testing-token-enabled-music-playlists/]]></title>
+        <id>https://twitter.com/defipulse/status/1628607585476661248</id>
+        <link href="https://twitter.com/defipulse/status/1628607585476661248"/>
+        <updated>2023-02-23T04:08:01.000Z</updated>
+        <summary type="html"><![CDATA[Re https://www.coindesk.com/web3/2023/02/23/spotify-is-testing-token-enabled-music-playlists/]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spotify testing token enabled music playlists…]]></title>
+        <id>https://twitter.com/defipulse/status/1628607582351904768</id>
+        <link href="https://twitter.com/defipulse/status/1628607582351904768"/>
+        <updated>2023-02-23T04:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Spotify testing token enabled music playlists…]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re https://www.theblock.co/post/214100/dapper-labs-nba-top-shot-moments-nfts-are-securities-federal-judge-rules]]></title>
         <id>https://twitter.com/defipulse/status/1628464295674617861</id>
@@ -189,27 +209,6 @@ That is not the way to run things in a hindward looking, piecemeal basis..."]]><
         <link href="https://twitter.com/defipulse/status/1625526215384629248"/>
         <updated>2023-02-14T16:03:45.000Z</updated>
         <summary type="html"><![CDATA[SEC to hinder hedge funds from working with crypto firms...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Watch live: https://www.banking.senate.gov/hearings/watch?hearingid=CBFCEC3D-F41A-85C0-5503-577EAA212017]]></title>
-        <id>https://twitter.com/defipulse/status/1625525030544109569</id>
-        <link href="https://twitter.com/defipulse/status/1625525030544109569"/>
-        <updated>2023-02-14T15:59:02.000Z</updated>
-        <summary type="html"><![CDATA[Re Watch live: https://www.banking.senate.gov/hearings/watch?hearingid=CBFCEC3D-F41A-85C0-5503-577EAA212017]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The @SenateBanking hearing is getting underway. The topic being discussed... Crypto Crash: Why Financial System Safeguards are Needed for Digital Asse...]]></title>
-        <id>https://twitter.com/defipulse/status/1625525028853805057</id>
-        <link href="https://twitter.com/defipulse/status/1625525028853805057"/>
-        <updated>2023-02-14T15:59:02.000Z</updated>
-        <summary type="html"><![CDATA[The @SenateBanking hearing is getting underway. The topic being discussed... 
-Crypto Crash: Why Financial System Safeguards are Needed for Digital Assets]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>

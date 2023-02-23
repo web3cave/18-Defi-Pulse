@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1628607585476661248",
+          "author": "DeFi Pulse",
+          "description": "Re https://www.coindesk.com/web3/2023/02/23/spotify-is-testing-token-enabled-music-playlists/",
+          "link": "https://twitter.com/defipulse/status/1628607585476661248",
+          "publishedOn": "2023-02-23T04:08:01.000Z",
+          "wordCount": 498,
+          "title": "Re https://www.coindesk.com/web3/2023/02/23/spotify-is-testing-token-enabled-music-playlists/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1628607582351904768",
+          "author": "DeFi Pulse",
+          "description": "Spotify testing token enabled music playlists…",
+          "link": "https://twitter.com/defipulse/status/1628607582351904768",
+          "publishedOn": "2023-02-23T04:08:00.000Z",
+          "wordCount": 498,
+          "title": "Spotify testing token enabled music playlists…",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1628464295674617861",
           "author": "DeFi Pulse",
           "description": "Re https://www.theblock.co/post/214100/dapper-labs-nba-top-shot-moments-nfts-are-securities-federal-judge-rules",
@@ -183,26 +203,6 @@
           "publishedOn": "2023-02-14T16:03:45.000Z",
           "wordCount": 498,
           "title": "SEC to hinder hedge funds from working with crypto firms...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1625525030544109569",
-          "author": "DeFi Pulse",
-          "description": "Re Watch live: https://www.banking.senate.gov/hearings/watch?hearingid=CBFCEC3D-F41A-85C0-5503-577EAA212017",
-          "link": "https://twitter.com/defipulse/status/1625525030544109569",
-          "publishedOn": "2023-02-14T15:59:02.000Z",
-          "wordCount": 498,
-          "title": "Re Watch live: https://www.banking.senate.gov/hearings/watch?hearingid=CBFCEC3D-F41A-85C0-5503-577EAA212017",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1625525028853805057",
-          "author": "DeFi Pulse",
-          "description": "The @SenateBanking hearing is getting underway. The topic being discussed... \nCrypto Crash: Why Financial System Safeguards are Needed for Digital Assets",
-          "link": "https://twitter.com/defipulse/status/1625525028853805057",
-          "publishedOn": "2023-02-14T15:59:02.000Z",
-          "wordCount": 498,
-          "title": "The @SenateBanking hearing is getting underway. The topic being discussed... Crypto Crash: Why Financial System Safeguards are Needed for Digital Asse...",
           "imageUrl": null
         }
       ]
