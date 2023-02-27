@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-27T16:27:18.636Z</id>
+    <id>urn:2023-02-27T17:17:46.069Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-27T16:27:18.636Z</updated>
+    <updated>2023-02-27T17:17:46.069Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/CoinbaseAssets/status/1630236377622228994]]></title>
+        <id>https://twitter.com/defipulse/status/1630243730379898880</id>
+        <link href="https://twitter.com/defipulse/status/1630243730379898880"/>
+        <updated>2023-02-27T16:29:28.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/CoinbaseAssets/status/1630236377622228994
+
+Coinbase Assets: We regularly monitor the assets on our exchange to ensure they meet our listing standards. Based on our most recent reviews, Coinbase will suspend trading for Binance USD (BUSD) on March 13, 2023, on or around 12pm ET.]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coinbase to suspend trading for Binance USD (BUSD) pairs on March 13th...]]></title>
+        <id>https://twitter.com/defipulse/status/1630243728484081664</id>
+        <link href="https://twitter.com/defipulse/status/1630243728484081664"/>
+        <updated>2023-02-27T16:29:27.000Z</updated>
+        <summary type="html"><![CDATA[Coinbase to suspend trading for Binance USD (BUSD) pairs on March 13th...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re Bankman-Fried Charged With 4 New Counts in FTX Criminal Case https://www.bloomberg.com/news/articles/2023-02-23/new-charges-to-be-unsealed-in-bankm...]]></title>
         <id>https://twitter.com/defipulse/status/1628788290504609793</id>
@@ -108,13 +130,13 @@ Currently there are no plans to issue a new network token.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CZ says rumors around de-listing US-based cryptocurrencies are "false"]]></title>
+        <title type="html"><![CDATA[CZ says rumors around de-listing US-based cryptocurrencies are "false" https://twitter.com/cz_binance/status/1626617772019965952]]></title>
         <id>https://twitter.com/defipulse/status/1626620784658481158</id>
         <link href="https://twitter.com/defipulse/status/1626620784658481158"/>
         <updated>2023-02-17T16:33:10.000Z</updated>
-        <summary type="html"><![CDATA[CZ says rumors around de-listing US-based cryptocurrencies are "false"
+        <summary type="html"><![CDATA[CZ says rumors around de-listing US-based cryptocurrencies are "false" https://twitter.com/cz_binance/status/1626617772019965952
 
-CZ 🔶 Binance: 4. False.]]></summary>
+CZ 🔶 Binance: 4. False. https://twitter.com/WatcherGuru/status/1626609958535004160]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
@@ -171,13 +193,13 @@ Former dean of Stanford Law School Larry Kramer &  Stanford research scientist A
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Wells notice has NOT been received by Circle according to their Chief Strategy Officer…]]></title>
+        <title type="html"><![CDATA[A Wells notice has NOT been received by Circle according to their Chief Strategy Officer… https://twitter.com/ddisparte/status/1625612567144964123]]></title>
         <id>https://twitter.com/defipulse/status/1625614451415064606</id>
         <link href="https://twitter.com/defipulse/status/1625614451415064606"/>
         <updated>2023-02-14T21:54:22.000Z</updated>
-        <summary type="html"><![CDATA[A Wells notice has NOT been received by Circle according to their Chief Strategy Officer…
+        <summary type="html"><![CDATA[A Wells notice has NOT been received by Circle according to their Chief Strategy Officer… https://twitter.com/ddisparte/status/1625612567144964123
 
-Dante Disparte: .@circle has not received a Wells notice.]]></summary>
+Dante Disparte: .@circle has not received a Wells notice. https://twitter.com/EleanorTerrett/status/1625601817395531779]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
@@ -189,27 +211,6 @@ Dante Disparte: .@circle has not received a Wells notice.]]></summary>
         <updated>2023-02-14T17:16:59.000Z</updated>
         <summary type="html"><![CDATA[Re @ProfYYadav1 @SenatorHagerty .@SenatorHagerty: "...There have only been 2 minor rule-making activities by the SEC and the CFTC while there have been 30 of these retroactive litigation cases at the SEC and 18 at the CFTC. 
 That is not the way to run things in a hindward looking, piecemeal basis..."]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @ProfYYadav1 .@SenatorHagerty: "...there has been a coordinated chorus of regulators talking about severing crypto from our financial system...This...]]></title>
-        <id>https://twitter.com/defipulse/status/1625543252593070082</id>
-        <link href="https://twitter.com/defipulse/status/1625543252593070082"/>
-        <updated>2023-02-14T17:11:27.000Z</updated>
-        <summary type="html"><![CDATA[Re @ProfYYadav1 .@SenatorHagerty:  "...there has been a coordinated chorus of regulators talking about severing crypto from our financial system...This feels reminiscent of Operation Choke Point..."]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re On proof of reserves: @ProfYYadav1: "...It's not just proof of reserves; it is proof of solvency...Making sure that we have not just the disclosure...]]></title>
-        <id>https://twitter.com/defipulse/status/1625540535984263170</id>
-        <link href="https://twitter.com/defipulse/status/1625540535984263170"/>
-        <updated>2023-02-14T17:00:39.000Z</updated>
-        <summary type="html"><![CDATA[Re On proof of reserves:
-@ProfYYadav1: "...It's not just proof of reserves; it is proof of solvency...Making sure that we have not just the disclosure of the reserves...but also the assets being held are liquid and tradable..."]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
