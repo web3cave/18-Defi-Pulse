@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-02T15:20:10.501Z</id>
+    <id>urn:2023-03-02T16:27:05.750Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-02T15:20:10.501Z</updated>
+    <updated>2023-03-02T16:27:05.750Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re https://www.coindesk.com/business/2023/03/02/coinbase-switches-to-signature-bank-from-silvergate-for-prime-customers/]]></title>
+        <id>https://twitter.com/defipulse/status/1631284721543008256</id>
+        <link href="https://twitter.com/defipulse/status/1631284721543008256"/>
+        <updated>2023-03-02T13:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Re https://www.coindesk.com/business/2023/03/02/coinbase-switches-to-signature-bank-from-silvergate-for-prime-customers/]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coinbase switches to Signature Bank from Silvergate for Prime customers…]]></title>
+        <id>https://twitter.com/defipulse/status/1631284719882059777</id>
+        <link href="https://twitter.com/defipulse/status/1631284719882059777"/>
+        <updated>2023-03-02T13:25:59.000Z</updated>
+        <summary type="html"><![CDATA[Coinbase switches to Signature Bank from Silvergate for Prime customers…]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re https://twitter.com/CoinbaseAssets/status/1630236377622228994]]></title>
         <id>https://twitter.com/defipulse/status/1630243730379898880</id>
@@ -188,29 +208,6 @@ CZ 🔶 Binance: 4. False. https://twitter.com/WatcherGuru/status/162660995853
         <updated>2023-02-15T19:04:48.000Z</updated>
         <summary type="html"><![CDATA[SBF's two additional bond co-signers have been revealed...
 Former dean of Stanford Law School Larry Kramer &  Stanford research scientist Andreas Paepcke]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Wells notice has NOT been received by Circle according to their Chief Strategy Officer… https://twitter.com/ddisparte/status/1625612567144964123]]></title>
-        <id>https://twitter.com/defipulse/status/1625614451415064606</id>
-        <link href="https://twitter.com/defipulse/status/1625614451415064606"/>
-        <updated>2023-02-14T21:54:22.000Z</updated>
-        <summary type="html"><![CDATA[A Wells notice has NOT been received by Circle according to their Chief Strategy Officer… https://twitter.com/ddisparte/status/1625612567144964123
-
-Dante Disparte: .@circle has not received a Wells notice. https://twitter.com/EleanorTerrett/status/1625601817395531779]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @ProfYYadav1 @SenatorHagerty .@SenatorHagerty: "...There have only been 2 minor rule-making activities by the SEC and the CFTC while there have bee...]]></title>
-        <id>https://twitter.com/defipulse/status/1625544644615368704</id>
-        <link href="https://twitter.com/defipulse/status/1625544644615368704"/>
-        <updated>2023-02-14T17:16:59.000Z</updated>
-        <summary type="html"><![CDATA[Re @ProfYYadav1 @SenatorHagerty .@SenatorHagerty: "...There have only been 2 minor rule-making activities by the SEC and the CFTC while there have been 30 of these retroactive litigation cases at the SEC and 18 at the CFTC. 
-That is not the way to run things in a hindward looking, piecemeal basis..."]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
