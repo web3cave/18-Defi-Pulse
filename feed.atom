@@ -1,10 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-02T17:17:35.879Z</id>
+    <id>urn:2023-03-02T18:27:36.186Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-02T17:17:35.879Z</updated>
+    <updated>2023-03-02T18:27:36.186Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/gemini/status/1631346061942857728?s=46&t=XDxQ2Jjh1zaQqZy3mviojw]]></title>
+        <id>https://twitter.com/defipulse/status/1631347035881316369</id>
+        <link href="https://twitter.com/defipulse/status/1631347035881316369"/>
+        <updated>2023-03-02T17:33:36.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/gemini/status/1631346061942857728?s=46&t=XDxQ2Jjh1zaQqZy3mviojw
+
+Gemini: 1/ We are actively monitoring the situation with Silvergate Bank. We currently have zero customer funds and zero GUSD funds held at Silvergate.]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini has stopped accepting customer deposits/ processing withdrawals through Silvergate to the Gemini Exchange. They have zero customer funds and gU...]]></title>
+        <id>https://twitter.com/defipulse/status/1631346817819369472</id>
+        <link href="https://twitter.com/defipulse/status/1631346817819369472"/>
+        <updated>2023-03-02T17:32:44.000Z</updated>
+        <summary type="html"><![CDATA[Gemini has stopped accepting customer deposits/ processing withdrawals through Silvergate to the Gemini Exchange. 
+They have zero customer funds and gUSD funds at Silvergate… https://twitter.com/gemini/status/1631345672745099267]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Circle to unwind certain Silvergate services… https://twitter.com/circle/status/1631338087212101633]]></title>
+        <id>https://twitter.com/defipulse/status/1631339093622759431</id>
+        <link href="https://twitter.com/defipulse/status/1631339093622759431"/>
+        <updated>2023-03-02T17:02:03.000Z</updated>
+        <summary type="html"><![CDATA[Circle to unwind certain Silvergate services… https://twitter.com/circle/status/1631338087212101633
+
+Circle: 1/ We maintain relationships with several banking partners. We are sensitive to the concerns around Silvergate and are in the process of unwinding certain services with them and notifying customers. Otherwise, all Circle services, including USDC are operating as normal.]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re https://www.coindesk.com/business/2023/03/02/coinbase-switches-to-signature-bank-from-silvergate-for-prime-customers/]]></title>
         <id>https://twitter.com/defipulse/status/1631284721543008256</id>
@@ -177,37 +212,6 @@ CZ 🔶 Binance: 4. False. https://twitter.com/WatcherGuru/status/162660995853
         <link href="https://twitter.com/defipulse/status/1626610480692310018"/>
         <updated>2023-02-17T15:52:14.000Z</updated>
         <summary type="html"><![CDATA[Re https://www.bloomberg.com/news/articles/2023-02-17/binance-holdings-explores-retreat-from-the-us-as-crypto-crackdown-escalates]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance may ditch US partners as crypto crackdown intensifies...]]></title>
-        <id>https://twitter.com/defipulse/status/1626610475445125121</id>
-        <link href="https://twitter.com/defipulse/status/1626610475445125121"/>
-        <updated>2023-02-17T15:52:12.000Z</updated>
-        <summary type="html"><![CDATA[Binance may ditch US partners as crypto crackdown intensifies...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://www.coindesk.com/policy/2023/02/15/us-judge-orders-bankman-frieds-lawyers-to-reveal-bond-signer-names/?utm_medium=social&utm_source=twitter...]]></title>
-        <id>https://twitter.com/defipulse/status/1625934168185049108</id>
-        <link href="https://twitter.com/defipulse/status/1625934168185049108"/>
-        <updated>2023-02-15T19:04:48.000Z</updated>
-        <summary type="html"><![CDATA[Re https://www.coindesk.com/policy/2023/02/15/us-judge-orders-bankman-frieds-lawyers-to-reveal-bond-signer-names/?utm_medium=social&utm_source=twitter&utm_content=editorial&utm_term=organic&utm_campaign=coindesk_main]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SBF's two additional bond co-signers have been revealed... Former dean of Stanford Law School Larry Kramer & Stanford research scientist Andreas Paepc...]]></title>
-        <id>https://twitter.com/defipulse/status/1625934166406664192</id>
-        <link href="https://twitter.com/defipulse/status/1625934166406664192"/>
-        <updated>2023-02-15T19:04:48.000Z</updated>
-        <summary type="html"><![CDATA[SBF's two additional bond co-signers have been revealed...
-Former dean of Stanford Law School Larry Kramer &  Stanford research scientist Andreas Paepcke]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
