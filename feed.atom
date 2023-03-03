@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-03T13:25:04.749Z</id>
+    <id>urn:2023-03-03T14:17:04.862Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-03T13:25:04.749Z</updated>
+    <updated>2023-03-03T14:17:04.862Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -29,11 +29,11 @@ They have zero customer funds and gUSD funds at Silvergate… https://twitter.co
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Circle to unwind certain Silvergate services…]]></title>
+        <title type="html"><![CDATA[Circle to unwind certain Silvergate services… https://twitter.com/circle/status/1631338087212101633]]></title>
         <id>https://twitter.com/defipulse/status/1631339093622759431</id>
         <link href="https://twitter.com/defipulse/status/1631339093622759431"/>
         <updated>2023-03-02T17:02:03.000Z</updated>
-        <summary type="html"><![CDATA[Circle to unwind certain Silvergate services…
+        <summary type="html"><![CDATA[Circle to unwind certain Silvergate services… https://twitter.com/circle/status/1631338087212101633
 
 Circle: 1/ We maintain relationships with several banking partners. We are sensitive to the concerns around Silvergate and are in the process of unwinding certain services with them and notifying customers. Otherwise, all Circle services, including USDC are operating as normal.]]></summary>
         <author>
@@ -185,13 +185,13 @@ Currently there are no plans to issue a new network token.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CZ says rumors around de-listing US-based cryptocurrencies are "false"]]></title>
+        <title type="html"><![CDATA[CZ says rumors around de-listing US-based cryptocurrencies are "false" https://twitter.com/cz_binance/status/1626617772019965952]]></title>
         <id>https://twitter.com/defipulse/status/1626620784658481158</id>
         <link href="https://twitter.com/defipulse/status/1626620784658481158"/>
         <updated>2023-02-17T16:33:10.000Z</updated>
-        <summary type="html"><![CDATA[CZ says rumors around de-listing US-based cryptocurrencies are "false"
+        <summary type="html"><![CDATA[CZ says rumors around de-listing US-based cryptocurrencies are "false" https://twitter.com/cz_binance/status/1626617772019965952
 
-CZ 🔶 Binance: 4. False.]]></summary>
+CZ 🔶 Binance: 4. False. https://twitter.com/WatcherGuru/status/1626609958535004160]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
