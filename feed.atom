@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-03T15:19:26.830Z</id>
+    <id>urn:2023-03-03T16:25:25.093Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-03T15:19:26.830Z</updated>
+    <updated>2023-03-03T16:25:25.093Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re https://www.bloomberg.com/news/articles/2023-03-03/coinbase-buys-digital-asset-company-one-river-digital-in-move-to-increase-growth]]></title>
+        <id>https://twitter.com/defipulse/status/1631671840379641857</id>
+        <link href="https://twitter.com/defipulse/status/1631671840379641857"/>
+        <updated>2023-03-03T15:04:16.000Z</updated>
+        <summary type="html"><![CDATA[Re https://www.bloomberg.com/news/articles/2023-03-03/coinbase-buys-digital-asset-company-one-river-digital-in-move-to-increase-growth]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coinbase buys crypto asset manager One River in bet on institutional demand…]]></title>
+        <id>https://twitter.com/defipulse/status/1631671838290968588</id>
+        <link href="https://twitter.com/defipulse/status/1631671838290968588"/>
+        <updated>2023-03-03T15:04:15.000Z</updated>
+        <summary type="html"><![CDATA[Coinbase buys crypto asset manager One River in bet on institutional demand…]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re https://twitter.com/gemini/status/1631346061942857728?s=46&t=XDxQ2Jjh1zaQqZy3mviojw]]></title>
         <id>https://twitter.com/defipulse/status/1631347035881316369</id>
@@ -192,26 +212,6 @@ Currently there are no plans to issue a new network token.]]></summary>
         <summary type="html"><![CDATA[CZ says rumors around de-listing US-based cryptocurrencies are "false" https://twitter.com/cz_binance/status/1626617772019965952
 
 CZ 🔶 Binance: 4. False. https://twitter.com/WatcherGuru/status/1626609958535004160]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Binance will consider de-listing tokens from any US-based projects, including Circle’s stablecoin USD Coin...]]></title>
-        <id>https://twitter.com/defipulse/status/1626611530530693122</id>
-        <link href="https://twitter.com/defipulse/status/1626611530530693122"/>
-        <updated>2023-02-17T15:56:24.000Z</updated>
-        <summary type="html"><![CDATA[Re Binance will consider de-listing tokens from any US-based projects, including Circle’s stablecoin USD Coin...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://www.bloomberg.com/news/articles/2023-02-17/binance-holdings-explores-retreat-from-the-us-as-crypto-crackdown-escalates]]></title>
-        <id>https://twitter.com/defipulse/status/1626610480692310018</id>
-        <link href="https://twitter.com/defipulse/status/1626610480692310018"/>
-        <updated>2023-02-17T15:52:14.000Z</updated>
-        <summary type="html"><![CDATA[Re https://www.bloomberg.com/news/articles/2023-02-17/binance-holdings-explores-retreat-from-the-us-as-crypto-crackdown-escalates]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
