@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-03T17:17:26.177Z</id>
+    <id>urn:2023-03-03T18:24:04.812Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-03T17:17:26.177Z</updated>
+    <updated>2023-03-03T18:24:04.812Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Lack of support from Apple limits launch of @Uniswap’s new mobile wallet…]]></title>
+        <id>https://twitter.com/defipulse/status/1631717721057501186</id>
+        <link href="https://twitter.com/defipulse/status/1631717721057501186"/>
+        <updated>2023-03-03T18:06:35.000Z</updated>
+        <summary type="html"><![CDATA[Lack of support from Apple limits launch of @Uniswap’s new mobile wallet…
+
+Uniswap Labs 🦄: 7/ So why a limited early release from a team committed to access for anyone? Simply put, Apple won’t green-light our launch, & we don’t know why.
+We submitted our mobile app months ago—and even though we are 100% compliant with their specifications, we’re still stuck in limbo🤡 https://t.co/oAr90NrkPd]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re https://www.bloomberg.com/news/articles/2023-03-03/coinbase-buys-digital-asset-company-one-river-digital-in-move-to-increase-growth]]></title>
         <id>https://twitter.com/defipulse/status/1631671840379641857</id>
@@ -49,11 +62,11 @@ They have zero customer funds and gUSD funds at Silvergate… https://twitter.co
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Circle to unwind certain Silvergate services… https://twitter.com/circle/status/1631338087212101633]]></title>
+        <title type="html"><![CDATA[Circle to unwind certain Silvergate services…]]></title>
         <id>https://twitter.com/defipulse/status/1631339093622759431</id>
         <link href="https://twitter.com/defipulse/status/1631339093622759431"/>
         <updated>2023-03-02T17:02:03.000Z</updated>
-        <summary type="html"><![CDATA[Circle to unwind certain Silvergate services… https://twitter.com/circle/status/1631338087212101633
+        <summary type="html"><![CDATA[Circle to unwind certain Silvergate services…
 
 Circle: 1/ We maintain relationships with several banking partners. We are sensitive to the concerns around Silvergate and are in the process of unwinding certain services with them and notifying customers. Otherwise, all Circle services, including USDC are operating as normal.]]></summary>
         <author>
@@ -200,18 +213,6 @@ Currently there are no plans to issue a new network token.]]></summary>
         <link href="https://twitter.com/defipulse/status/1628464293309042688"/>
         <updated>2023-02-22T18:38:37.000Z</updated>
         <summary type="html"><![CDATA[Federal judge rules NBA Top Shot Moments NFTs are securities…]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CZ says rumors around de-listing US-based cryptocurrencies are "false" https://twitter.com/cz_binance/status/1626617772019965952]]></title>
-        <id>https://twitter.com/defipulse/status/1626620784658481158</id>
-        <link href="https://twitter.com/defipulse/status/1626620784658481158"/>
-        <updated>2023-02-17T16:33:10.000Z</updated>
-        <summary type="html"><![CDATA[CZ says rumors around de-listing US-based cryptocurrencies are "false" https://twitter.com/cz_binance/status/1626617772019965952
-
-CZ 🔶 Binance: 4. False. https://twitter.com/WatcherGuru/status/1626609958535004160]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>

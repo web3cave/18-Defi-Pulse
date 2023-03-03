@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1631717721057501186",
+          "author": "DeFi Pulse",
+          "description": "Lack of support from Apple limits launch of @Uniswap’s new mobile wallet…\n\nUniswap Labs 🦄: 7/ So why a limited early release from a team committed to access for anyone? Simply put, Apple won’t green-light our launch, & we don’t know why.\nWe submitted our mobile app months ago—and even though we are 100% compliant with their specifications, we’re still stuck in limbo🤡 https://t.co/oAr90NrkPd",
+          "link": "https://twitter.com/defipulse/status/1631717721057501186",
+          "publishedOn": "2023-03-03T18:06:35.000Z",
+          "wordCount": 529,
+          "title": "Lack of support from Apple limits launch of @Uniswap’s new mobile wallet…",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1631671840379641857",
           "author": "DeFi Pulse",
           "description": "Re https://www.bloomberg.com/news/articles/2023-03-03/coinbase-buys-digital-asset-company-one-river-digital-in-move-to-increase-growth",
@@ -48,11 +58,11 @@
         {
           "id": "https://twitter.com/defipulse/status/1631339093622759431",
           "author": "DeFi Pulse",
-          "description": "Circle to unwind certain Silvergate services… https://twitter.com/circle/status/1631338087212101633\n\nCircle: 1/ We maintain relationships with several banking partners. We are sensitive to the concerns around Silvergate and are in the process of unwinding certain services with them and notifying customers. Otherwise, all Circle services, including USDC are operating as normal.",
+          "description": "Circle to unwind certain Silvergate services…\n\nCircle: 1/ We maintain relationships with several banking partners. We are sensitive to the concerns around Silvergate and are in the process of unwinding certain services with them and notifying customers. Otherwise, all Circle services, including USDC are operating as normal.",
           "link": "https://twitter.com/defipulse/status/1631339093622759431",
           "publishedOn": "2023-03-02T17:02:03.000Z",
           "wordCount": 529,
-          "title": "Circle to unwind certain Silvergate services… https://twitter.com/circle/status/1631338087212101633",
+          "title": "Circle to unwind certain Silvergate services…",
           "imageUrl": null
         },
         {
@@ -91,7 +101,7 @@
           "description": "Coinbase to suspend trading for Binance USD (BUSD) pairs on March 13th...",
           "link": "https://twitter.com/defipulse/status/1630243728484081664",
           "publishedOn": "2023-02-27T16:29:27.000Z",
-          "wordCount": 529,
+          "wordCount": 492,
           "title": "Coinbase to suspend trading for Binance USD (BUSD) pairs on March 13th...",
           "imageUrl": null
         },
@@ -161,7 +171,7 @@
           "description": "Re https://www.coindesk.com/web3/2023/02/23/spotify-is-testing-token-enabled-music-playlists/",
           "link": "https://twitter.com/defipulse/status/1628607585476661248",
           "publishedOn": "2023-02-23T04:08:01.000Z",
-          "wordCount": 529,
+          "wordCount": 492,
           "title": "Re https://www.coindesk.com/web3/2023/02/23/spotify-is-testing-token-enabled-music-playlists/",
           "imageUrl": null
         },
@@ -193,16 +203,6 @@
           "publishedOn": "2023-02-22T18:38:37.000Z",
           "wordCount": 529,
           "title": "Federal judge rules NBA Top Shot Moments NFTs are securities…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1626620784658481158",
-          "author": "DeFi Pulse",
-          "description": "CZ says rumors around de-listing US-based cryptocurrencies are \"false\" https://twitter.com/cz_binance/status/1626617772019965952\n\nCZ 🔶 Binance: 4. False. https://twitter.com/WatcherGuru/status/1626609958535004160",
-          "link": "https://twitter.com/defipulse/status/1626620784658481158",
-          "publishedOn": "2023-02-17T16:33:10.000Z",
-          "wordCount": 529,
-          "title": "CZ says rumors around de-listing US-based cryptocurrencies are \"false\" https://twitter.com/cz_binance/status/1626617772019965952",
           "imageUrl": null
         }
       ]
