@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-09T15:20:49.024Z</id>
+    <id>urn:2023-03-09T16:27:11.044Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-09T15:20:49.024Z</updated>
+    <updated>2023-03-09T16:27:11.044Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Lack of support from Apple limits launch of @Uniswap’s new mobile wallet… https://twitter.com/Uniswap/status/1631691337845075968]]></title>
+        <title type="html"><![CDATA[Lack of support from Apple limits launch of @Uniswap’s new mobile wallet…]]></title>
         <id>https://twitter.com/defipulse/status/1631717721057501186</id>
         <link href="https://twitter.com/defipulse/status/1631717721057501186"/>
         <updated>2023-03-03T18:06:35.000Z</updated>
-        <summary type="html"><![CDATA[Lack of support from Apple limits launch of @Uniswap’s new mobile wallet… https://twitter.com/Uniswap/status/1631691337845075968
+        <summary type="html"><![CDATA[Lack of support from Apple limits launch of @Uniswap’s new mobile wallet…
 
 Uniswap Labs 🦄: 7/ So why a limited early release from a team committed to access for anyone? Simply put, Apple won’t green-light our launch, & we don’t know why.
 We submitted our mobile app months ago—and even though we are 100% compliant with their specifications, we’re still stuck in limbo🤡 https://t.co/oAr90NrkPd]]></summary>
@@ -62,11 +62,11 @@ They have zero customer funds and gUSD funds at Silvergate… https://twitter.co
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Circle to unwind certain Silvergate services… https://twitter.com/circle/status/1631338087212101633]]></title>
+        <title type="html"><![CDATA[Circle to unwind certain Silvergate services…]]></title>
         <id>https://twitter.com/defipulse/status/1631339093622759431</id>
         <link href="https://twitter.com/defipulse/status/1631339093622759431"/>
         <updated>2023-03-02T17:02:03.000Z</updated>
-        <summary type="html"><![CDATA[Circle to unwind certain Silvergate services… https://twitter.com/circle/status/1631338087212101633
+        <summary type="html"><![CDATA[Circle to unwind certain Silvergate services…
 
 Circle: 1/ We maintain relationships with several banking partners. We are sensitive to the concerns around Silvergate and are in the process of unwinding certain services with them and notifying customers. Otherwise, all Circle services, including USDC are operating as normal.]]></summary>
         <author>
