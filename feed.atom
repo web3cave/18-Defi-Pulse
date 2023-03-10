@@ -1,16 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-10T17:16:29.193Z</id>
+    <id>urn:2023-03-10T18:21:42.635Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-10T17:16:29.193Z</updated>
+    <updated>2023-03-10T18:21:42.635Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Lack of support from Apple limits launch of @Uniswap’s new mobile wallet… https://twitter.com/Uniswap/status/1631691337845075968]]></title>
+        <title type="html"><![CDATA[Re Silicon Valley Bank is the first FDIC-insured institution to fail this year.]]></title>
+        <id>https://twitter.com/defipulse/status/1634234712406253569</id>
+        <link href="https://twitter.com/defipulse/status/1634234712406253569"/>
+        <updated>2023-03-10T16:48:12.000Z</updated>
+        <summary type="html"><![CDATA[Re Silicon Valley Bank is the first FDIC-insured institution to fail this year.]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Banking activities will resume no later than Monday, March 13, including on-line banking and other services.]]></title>
+        <id>https://twitter.com/defipulse/status/1634234492134014978</id>
+        <link href="https://twitter.com/defipulse/status/1634234492134014978"/>
+        <updated>2023-03-10T16:47:20.000Z</updated>
+        <summary type="html"><![CDATA[Re Banking activities will resume no later than Monday, March 13, including on-line banking and other services.]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re The main office and all branches of Silicon Valley Bank will reopen on Monday, March 13, 2023.]]></title>
+        <id>https://twitter.com/defipulse/status/1634234437603868674</id>
+        <link href="https://twitter.com/defipulse/status/1634234437603868674"/>
+        <updated>2023-03-10T16:47:07.000Z</updated>
+        <summary type="html"><![CDATA[Re The main office and all branches of Silicon Valley Bank will reopen on Monday, March 13, 2023.]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re https://www.fdic.gov/news/press-releases/2023/pr23016.html]]></title>
+        <id>https://twitter.com/defipulse/status/1634233917988372480</id>
+        <link href="https://twitter.com/defipulse/status/1634233917988372480"/>
+        <updated>2023-03-10T16:45:03.000Z</updated>
+        <summary type="html"><![CDATA[Re https://www.fdic.gov/news/press-releases/2023/pr23016.html]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Silicon Valley Bank closed today by California Department of Financial Protection and Innovation, which appointed the Federal Deposit Insurance Corpor...]]></title>
+        <id>https://twitter.com/defipulse/status/1634233915706621960</id>
+        <link href="https://twitter.com/defipulse/status/1634233915706621960"/>
+        <updated>2023-03-10T16:45:02.000Z</updated>
+        <summary type="html"><![CDATA[Silicon Valley Bank closed today by California Department of Financial Protection and Innovation, which appointed the Federal Deposit Insurance Corporation (FDIC) as receiver.]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lack of support from Apple limits launch of @Uniswap’s new mobile wallet…]]></title>
         <id>https://twitter.com/defipulse/status/1631717721057501186</id>
         <link href="https://twitter.com/defipulse/status/1631717721057501186"/>
         <updated>2023-03-03T18:06:35.000Z</updated>
-        <summary type="html"><![CDATA[Lack of support from Apple limits launch of @Uniswap’s new mobile wallet… https://twitter.com/Uniswap/status/1631691337845075968
+        <summary type="html"><![CDATA[Lack of support from Apple limits launch of @Uniswap’s new mobile wallet…
 
 Uniswap Labs 🦄: 7/ So why a limited early release from a team committed to access for anyone? Simply put, Apple won’t green-light our launch, & we don’t know why.
 We submitted our mobile app months ago—and even though we are 100% compliant with their specifications, we’re still stuck in limbo🤡 https://t.co/oAr90NrkPd]]></summary>
@@ -62,11 +112,11 @@ They have zero customer funds and gUSD funds at Silvergate… https://twitter.co
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Circle to unwind certain Silvergate services… https://twitter.com/circle/status/1631338087212101633]]></title>
+        <title type="html"><![CDATA[Circle to unwind certain Silvergate services…]]></title>
         <id>https://twitter.com/defipulse/status/1631339093622759431</id>
         <link href="https://twitter.com/defipulse/status/1631339093622759431"/>
         <updated>2023-03-02T17:02:03.000Z</updated>
-        <summary type="html"><![CDATA[Circle to unwind certain Silvergate services… https://twitter.com/circle/status/1631338087212101633
+        <summary type="html"><![CDATA[Circle to unwind certain Silvergate services…
 
 Circle: 1/ We maintain relationships with several banking partners. We are sensitive to the concerns around Silvergate and are in the process of unwinding certain services with them and notifying customers. Otherwise, all Circle services, including USDC are operating as normal.]]></summary>
         <author>
@@ -161,58 +211,6 @@ Coinbase Assets: We regularly monitor the assets on our exchange to ensure the
         <link href="https://twitter.com/defipulse/status/1628758370952835073"/>
         <updated>2023-02-23T14:07:11.000Z</updated>
         <summary type="html"><![CDATA[Re https://www.coindesk.com/tech/2023/02/23/coinbase-launches-layer-2-blockchain-base-to-provide-onramp-for-ethereum-solana-and-others/]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase launched Base, a layer 2 network built using Optimism's OP Stack. Testnet launched Thursday. Currently there are no plans to issue a new netw...]]></title>
-        <id>https://twitter.com/defipulse/status/1628758368734089216</id>
-        <link href="https://twitter.com/defipulse/status/1628758368734089216"/>
-        <updated>2023-02-23T14:07:10.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase launched Base, a layer 2 network built using Optimism's OP Stack. 
-Testnet launched Thursday. 
-Currently there are no plans to issue a new network token.]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://www.coindesk.com/web3/2023/02/23/spotify-is-testing-token-enabled-music-playlists/]]></title>
-        <id>https://twitter.com/defipulse/status/1628607585476661248</id>
-        <link href="https://twitter.com/defipulse/status/1628607585476661248"/>
-        <updated>2023-02-23T04:08:01.000Z</updated>
-        <summary type="html"><![CDATA[Re https://www.coindesk.com/web3/2023/02/23/spotify-is-testing-token-enabled-music-playlists/]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spotify testing token enabled music playlists…]]></title>
-        <id>https://twitter.com/defipulse/status/1628607582351904768</id>
-        <link href="https://twitter.com/defipulse/status/1628607582351904768"/>
-        <updated>2023-02-23T04:08:00.000Z</updated>
-        <summary type="html"><![CDATA[Spotify testing token enabled music playlists…]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://www.theblock.co/post/214100/dapper-labs-nba-top-shot-moments-nfts-are-securities-federal-judge-rules]]></title>
-        <id>https://twitter.com/defipulse/status/1628464295674617861</id>
-        <link href="https://twitter.com/defipulse/status/1628464295674617861"/>
-        <updated>2023-02-22T18:38:38.000Z</updated>
-        <summary type="html"><![CDATA[Re https://www.theblock.co/post/214100/dapper-labs-nba-top-shot-moments-nfts-are-securities-federal-judge-rules]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Federal judge rules NBA Top Shot Moments NFTs are securities…]]></title>
-        <id>https://twitter.com/defipulse/status/1628464293309042688</id>
-        <link href="https://twitter.com/defipulse/status/1628464293309042688"/>
-        <updated>2023-02-22T18:38:37.000Z</updated>
-        <summary type="html"><![CDATA[Federal judge rules NBA Top Shot Moments NFTs are securities…]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
