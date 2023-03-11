@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-11T03:18:24.405Z</id>
+    <id>urn:2023-03-11T04:21:27.789Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-11T03:18:24.405Z</updated>
+    <updated>2023-03-11T04:21:27.789Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Coinbase temporarily pausing USDC:USD conversions over the weekend…]]></title>
+        <id>https://twitter.com/defipulse/status/1634399660302368768</id>
+        <link href="https://twitter.com/defipulse/status/1634399660302368768"/>
+        <updated>2023-03-11T03:43:39.000Z</updated>
+        <summary type="html"><![CDATA[Coinbase temporarily pausing USDC:USD conversions over the weekend…
+
+Coinbase: We are temporarily pausing USDC:USD conversions over the weekend while banks are closed. During periods of heightened activity, conversions rely on USD transfers from the banks that clear during normal banking hours. When banks open on Monday, we plan to re-commence conversions.]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re Silicon Valley Bank is the first FDIC-insured institution to fail this year.]]></title>
         <id>https://twitter.com/defipulse/status/1634234712406253569</id>
@@ -201,16 +213,6 @@ Coinbase Assets: We regularly monitor the assets on our exchange to ensure the
         <link href="https://twitter.com/defipulse/status/1628763225087959042"/>
         <updated>2023-02-23T14:26:28.000Z</updated>
         <summary type="html"><![CDATA[Base will commit a portion of transaction fee revenue back to an Optimism Collective treasury…]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://www.coindesk.com/tech/2023/02/23/coinbase-launches-layer-2-blockchain-base-to-provide-onramp-for-ethereum-solana-and-others/]]></title>
-        <id>https://twitter.com/defipulse/status/1628758370952835073</id>
-        <link href="https://twitter.com/defipulse/status/1628758370952835073"/>
-        <updated>2023-02-23T14:07:11.000Z</updated>
-        <summary type="html"><![CDATA[Re https://www.coindesk.com/tech/2023/02/23/coinbase-launches-layer-2-blockchain-base-to-provide-onramp-for-ethereum-solana-and-others/]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
