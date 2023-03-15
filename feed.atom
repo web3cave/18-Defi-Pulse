@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-15T19:14:49.035Z</id>
+    <id>urn:2023-03-15T20:19:26.734Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-15T19:14:49.035Z</updated>
+    <updated>2023-03-15T20:19:26.734Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Gensler suggests proof-of-stake tokens are securities... https://www.theblock.co/post/220297/gensler-suggests-proof-of-stake-tokens-are-securities]]></title>
+        <id>https://twitter.com/defipulse/status/1636094376513339394</id>
+        <link href="https://twitter.com/defipulse/status/1636094376513339394"/>
+        <updated>2023-03-15T19:57:51.000Z</updated>
+        <summary type="html"><![CDATA[Gensler suggests proof-of-stake tokens are securities...
+https://www.theblock.co/post/220297/gensler-suggests-proof-of-stake-tokens-are-securities]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coinbase temporarily pausing USDC:USD conversions over the weekend… https://twitter.com/coinbase/status/1634399032767307776]]></title>
         <id>https://twitter.com/defipulse/status/1634399660302368768</id>
@@ -203,16 +214,6 @@ Coinbase Assets: We regularly monitor the assets on our exchange to ensure the
         <link href="https://twitter.com/defipulse/status/1628763227571060736"/>
         <updated>2023-02-23T14:26:29.000Z</updated>
         <summary type="html"><![CDATA[Re https://optimism.mirror.xyz/2jk3D1Y8-hid8YOCUUa6yXmsyzNCYYyFJP0Nhaey9x0]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Base will commit a portion of transaction fee revenue back to an Optimism Collective treasury…]]></title>
-        <id>https://twitter.com/defipulse/status/1628763225087959042</id>
-        <link href="https://twitter.com/defipulse/status/1628763225087959042"/>
-        <updated>2023-02-23T14:26:28.000Z</updated>
-        <summary type="html"><![CDATA[Base will commit a portion of transaction fee revenue back to an Optimism Collective treasury…]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
