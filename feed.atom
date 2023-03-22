@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-22T19:13:33.067Z</id>
+    <id>urn:2023-03-22T20:17:07.335Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-22T19:13:33.067Z</updated>
+    <updated>2023-03-22T20:17:07.335Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re https://www.coindesk.com/policy/2023/03/22/tron-founder-justin-sun-sued-by-us-sec-on-securities-market-manipulation-charges/]]></title>
+        <id>https://twitter.com/defipulse/status/1638626164523831297</id>
+        <link href="https://twitter.com/defipulse/status/1638626164523831297"/>
+        <updated>2023-03-22T19:38:16.000Z</updated>
+        <summary type="html"><![CDATA[Re https://www.coindesk.com/policy/2023/03/22/tron-founder-justin-sun-sued-by-us-sec-on-securities-market-manipulation-charges/]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tron founder Justin Sun sued by SEC on Securities, Market Manipulation Charges...]]></title>
+        <id>https://twitter.com/defipulse/status/1638626162581856256</id>
+        <link href="https://twitter.com/defipulse/status/1638626162581856256"/>
+        <updated>2023-03-22T19:38:16.000Z</updated>
+        <summary type="html"><![CDATA[Tron founder Justin Sun sued by SEC on Securities, Market Manipulation Charges...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re https://www.coindesk.com/policy/2023/03/21/sushi-dao-key-contributor-served-with-sec-subpoena/]]></title>
         <id>https://twitter.com/defipulse/status/1638238259070337024</id>
@@ -48,11 +68,11 @@ https://www.theblock.co/post/220297/gensler-suggests-proof-of-stake-tokens-are-s
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Coinbase temporarily pausing USDC:USD conversions over the weekend…]]></title>
+        <title type="html"><![CDATA[Coinbase temporarily pausing USDC:USD conversions over the weekend… https://twitter.com/coinbase/status/1634399032767307776]]></title>
         <id>https://twitter.com/defipulse/status/1634399660302368768</id>
         <link href="https://twitter.com/defipulse/status/1634399660302368768"/>
         <updated>2023-03-11T03:43:39.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase temporarily pausing USDC:USD conversions over the weekend…
+        <summary type="html"><![CDATA[Coinbase temporarily pausing USDC:USD conversions over the weekend… https://twitter.com/coinbase/status/1634399032767307776
 
 Coinbase: We are temporarily pausing USDC:USD conversions over the weekend while banks are closed. During periods of heightened activity, conversions rely on USD transfers from the banks that clear during normal banking hours. When banks open on Monday, we plan to re-commence conversions.]]></summary>
         <author>
@@ -110,11 +130,11 @@ Coinbase: We are temporarily pausing USDC:USD conversions over the weekend whi
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lack of support from Apple limits launch of @Uniswap’s new mobile wallet…]]></title>
+        <title type="html"><![CDATA[Lack of support from Apple limits launch of @Uniswap’s new mobile wallet… https://twitter.com/Uniswap/status/1631691337845075968]]></title>
         <id>https://twitter.com/defipulse/status/1631717721057501186</id>
         <link href="https://twitter.com/defipulse/status/1631717721057501186"/>
         <updated>2023-03-03T18:06:35.000Z</updated>
-        <summary type="html"><![CDATA[Lack of support from Apple limits launch of @Uniswap’s new mobile wallet…
+        <summary type="html"><![CDATA[Lack of support from Apple limits launch of @Uniswap’s new mobile wallet… https://twitter.com/Uniswap/status/1631691337845075968
 
 Uniswap Labs 🦄: 7/ So why a limited early release from a team committed to access for anyone? Simply put, Apple won’t green-light our launch, & we don’t know why.
 We submitted our mobile app months ago—and even though we are 100% compliant with their specifications, we’re still stuck in limbo🤡 https://t.co/oAr90NrkPd]]></summary>
@@ -166,11 +186,11 @@ They have zero customer funds and gUSD funds at Silvergate… https://twitter.co
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Circle to unwind certain Silvergate services…]]></title>
+        <title type="html"><![CDATA[Circle to unwind certain Silvergate services… https://twitter.com/circle/status/1631338087212101633]]></title>
         <id>https://twitter.com/defipulse/status/1631339093622759431</id>
         <link href="https://twitter.com/defipulse/status/1631339093622759431"/>
         <updated>2023-03-02T17:02:03.000Z</updated>
-        <summary type="html"><![CDATA[Circle to unwind certain Silvergate services…
+        <summary type="html"><![CDATA[Circle to unwind certain Silvergate services… https://twitter.com/circle/status/1631338087212101633
 
 Circle: 1/ We maintain relationships with several banking partners. We are sensitive to the concerns around Silvergate and are in the process of unwinding certain services with them and notifying customers. Otherwise, all Circle services, including USDC are operating as normal.]]></summary>
         <author>
@@ -193,28 +213,6 @@ Circle: 1/ We maintain relationships with several banking partners. We are sen
         <link href="https://twitter.com/defipulse/status/1631284719882059777"/>
         <updated>2023-03-02T13:25:59.000Z</updated>
         <summary type="html"><![CDATA[Coinbase switches to Signature Bank from Silvergate for Prime customers…]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://twitter.com/CoinbaseAssets/status/1630236377622228994]]></title>
-        <id>https://twitter.com/defipulse/status/1630243730379898880</id>
-        <link href="https://twitter.com/defipulse/status/1630243730379898880"/>
-        <updated>2023-02-27T16:29:28.000Z</updated>
-        <summary type="html"><![CDATA[Re https://twitter.com/CoinbaseAssets/status/1630236377622228994
-
-Coinbase Assets: We regularly monitor the assets on our exchange to ensure they meet our listing standards. Based on our most recent reviews, Coinbase will suspend trading for Binance USD (BUSD) on March 13, 2023, on or around 12pm ET.]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase to suspend trading for Binance USD (BUSD) pairs on March 13th...]]></title>
-        <id>https://twitter.com/defipulse/status/1630243728484081664</id>
-        <link href="https://twitter.com/defipulse/status/1630243728484081664"/>
-        <updated>2023-02-27T16:29:27.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase to suspend trading for Binance USD (BUSD) pairs on March 13th...]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
