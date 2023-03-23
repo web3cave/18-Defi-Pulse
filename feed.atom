@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-23T13:27:07.789Z</id>
+    <id>urn:2023-03-23T14:16:41.040Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-23T13:27:07.789Z</updated>
+    <updated>2023-03-23T14:16:41.040Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re https://www.theblock.co/post/222205/arbitrum-airdrop-token-claim-live]]></title>
+        <id>https://twitter.com/defipulse/status/1638892294072938498</id>
+        <link href="https://twitter.com/defipulse/status/1638892294072938498"/>
+        <updated>2023-03-23T13:15:46.000Z</updated>
+        <summary type="html"><![CDATA[Re https://www.theblock.co/post/222205/arbitrum-airdrop-token-claim-live]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.@arbitrum airdrop token claim goes live…]]></title>
+        <id>https://twitter.com/defipulse/status/1638892292982308864</id>
+        <link href="https://twitter.com/defipulse/status/1638892292982308864"/>
+        <updated>2023-03-23T13:15:46.000Z</updated>
+        <summary type="html"><![CDATA[.@arbitrum airdrop token claim goes live…]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re https://www.coindesk.com/policy/2023/03/22/tron-founder-justin-sun-sued-by-us-sec-on-securities-market-manipulation-charges/]]></title>
         <id>https://twitter.com/defipulse/status/1638626164523831297</id>
@@ -68,11 +88,11 @@ https://www.theblock.co/post/220297/gensler-suggests-proof-of-stake-tokens-are-s
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Coinbase temporarily pausing USDC:USD conversions over the weekend…]]></title>
+        <title type="html"><![CDATA[Coinbase temporarily pausing USDC:USD conversions over the weekend… https://twitter.com/coinbase/status/1634399032767307776]]></title>
         <id>https://twitter.com/defipulse/status/1634399660302368768</id>
         <link href="https://twitter.com/defipulse/status/1634399660302368768"/>
         <updated>2023-03-11T03:43:39.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase temporarily pausing USDC:USD conversions over the weekend…
+        <summary type="html"><![CDATA[Coinbase temporarily pausing USDC:USD conversions over the weekend… https://twitter.com/coinbase/status/1634399032767307776
 
 Coinbase: We are temporarily pausing USDC:USD conversions over the weekend while banks are closed. During periods of heightened activity, conversions rely on USD transfers from the banks that clear during normal banking hours. When banks open on Monday, we plan to re-commence conversions.]]></summary>
         <author>
@@ -130,11 +150,11 @@ Coinbase: We are temporarily pausing USDC:USD conversions over the weekend whi
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lack of support from Apple limits launch of @Uniswap’s new mobile wallet…]]></title>
+        <title type="html"><![CDATA[Lack of support from Apple limits launch of @Uniswap’s new mobile wallet… https://twitter.com/Uniswap/status/1631691337845075968]]></title>
         <id>https://twitter.com/defipulse/status/1631717721057501186</id>
         <link href="https://twitter.com/defipulse/status/1631717721057501186"/>
         <updated>2023-03-03T18:06:35.000Z</updated>
-        <summary type="html"><![CDATA[Lack of support from Apple limits launch of @Uniswap’s new mobile wallet…
+        <summary type="html"><![CDATA[Lack of support from Apple limits launch of @Uniswap’s new mobile wallet… https://twitter.com/Uniswap/status/1631691337845075968
 
 Uniswap Labs 🦄: 7/ So why a limited early release from a team committed to access for anyone? Simply put, Apple won’t green-light our launch, & we don’t know why.
 We submitted our mobile app months ago—and even though we are 100% compliant with their specifications, we’re still stuck in limbo🤡 https://t.co/oAr90NrkPd]]></summary>
@@ -186,33 +206,13 @@ They have zero customer funds and gUSD funds at Silvergate… https://twitter.co
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Circle to unwind certain Silvergate services…]]></title>
+        <title type="html"><![CDATA[Circle to unwind certain Silvergate services… https://twitter.com/circle/status/1631338087212101633]]></title>
         <id>https://twitter.com/defipulse/status/1631339093622759431</id>
         <link href="https://twitter.com/defipulse/status/1631339093622759431"/>
         <updated>2023-03-02T17:02:03.000Z</updated>
-        <summary type="html"><![CDATA[Circle to unwind certain Silvergate services…
+        <summary type="html"><![CDATA[Circle to unwind certain Silvergate services… https://twitter.com/circle/status/1631338087212101633
 
 Circle: 1/ We maintain relationships with several banking partners. We are sensitive to the concerns around Silvergate and are in the process of unwinding certain services with them and notifying customers. Otherwise, all Circle services, including USDC are operating as normal.]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://www.coindesk.com/business/2023/03/02/coinbase-switches-to-signature-bank-from-silvergate-for-prime-customers/]]></title>
-        <id>https://twitter.com/defipulse/status/1631284721543008256</id>
-        <link href="https://twitter.com/defipulse/status/1631284721543008256"/>
-        <updated>2023-03-02T13:26:00.000Z</updated>
-        <summary type="html"><![CDATA[Re https://www.coindesk.com/business/2023/03/02/coinbase-switches-to-signature-bank-from-silvergate-for-prime-customers/]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase switches to Signature Bank from Silvergate for Prime customers…]]></title>
-        <id>https://twitter.com/defipulse/status/1631284719882059777</id>
-        <link href="https://twitter.com/defipulse/status/1631284719882059777"/>
-        <updated>2023-03-02T13:25:59.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase switches to Signature Bank from Silvergate for Prime customers…]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>

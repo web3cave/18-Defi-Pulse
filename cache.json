@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1638892294072938498",
+          "author": "DeFi Pulse",
+          "description": "Re https://www.theblock.co/post/222205/arbitrum-airdrop-token-claim-live",
+          "link": "https://twitter.com/defipulse/status/1638892294072938498",
+          "publishedOn": "2023-03-23T13:15:46.000Z",
+          "wordCount": 509,
+          "title": "Re https://www.theblock.co/post/222205/arbitrum-airdrop-token-claim-live",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1638892292982308864",
+          "author": "DeFi Pulse",
+          "description": ".@arbitrum airdrop token claim goes live…",
+          "link": "https://twitter.com/defipulse/status/1638892292982308864",
+          "publishedOn": "2023-03-23T13:15:46.000Z",
+          "wordCount": 509,
+          "title": ".@arbitrum airdrop token claim goes live…",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1638626164523831297",
           "author": "DeFi Pulse",
           "description": "Re https://www.coindesk.com/policy/2023/03/22/tron-founder-justin-sun-sued-by-us-sec-on-securities-market-manipulation-charges/",
@@ -68,11 +88,11 @@
         {
           "id": "https://twitter.com/defipulse/status/1634399660302368768",
           "author": "DeFi Pulse",
-          "description": "Coinbase temporarily pausing USDC:USD conversions over the weekend…\n\nCoinbase: We are temporarily pausing USDC:USD conversions over the weekend while banks are closed. During periods of heightened activity, conversions rely on USD transfers from the banks that clear during normal banking hours. When banks open on Monday, we plan to re-commence conversions.",
+          "description": "Coinbase temporarily pausing USDC:USD conversions over the weekend… https://twitter.com/coinbase/status/1634399032767307776\n\nCoinbase: We are temporarily pausing USDC:USD conversions over the weekend while banks are closed. During periods of heightened activity, conversions rely on USD transfers from the banks that clear during normal banking hours. When banks open on Monday, we plan to re-commence conversions.",
           "link": "https://twitter.com/defipulse/status/1634399660302368768",
           "publishedOn": "2023-03-11T03:43:39.000Z",
           "wordCount": 509,
-          "title": "Coinbase temporarily pausing USDC:USD conversions over the weekend…",
+          "title": "Coinbase temporarily pausing USDC:USD conversions over the weekend… https://twitter.com/coinbase/status/1634399032767307776",
           "imageUrl": null
         },
         {
@@ -128,11 +148,11 @@
         {
           "id": "https://twitter.com/defipulse/status/1631717721057501186",
           "author": "DeFi Pulse",
-          "description": "Lack of support from Apple limits launch of @Uniswap’s new mobile wallet…\n\nUniswap Labs 🦄: 7/ So why a limited early release from a team committed to access for anyone? Simply put, Apple won’t green-light our launch, & we don’t know why.\nWe submitted our mobile app months ago—and even though we are 100% compliant with their specifications, we’re still stuck in limbo🤡 https://t.co/oAr90NrkPd",
+          "description": "Lack of support from Apple limits launch of @Uniswap’s new mobile wallet… https://twitter.com/Uniswap/status/1631691337845075968\n\nUniswap Labs 🦄: 7/ So why a limited early release from a team committed to access for anyone? Simply put, Apple won’t green-light our launch, & we don’t know why.\nWe submitted our mobile app months ago—and even though we are 100% compliant with their specifications, we’re still stuck in limbo🤡 https://t.co/oAr90NrkPd",
           "link": "https://twitter.com/defipulse/status/1631717721057501186",
           "publishedOn": "2023-03-03T18:06:35.000Z",
           "wordCount": 509,
-          "title": "Lack of support from Apple limits launch of @Uniswap’s new mobile wallet…",
+          "title": "Lack of support from Apple limits launch of @Uniswap’s new mobile wallet… https://twitter.com/Uniswap/status/1631691337845075968",
           "imageUrl": null
         },
         {
@@ -161,7 +181,7 @@
           "description": "Re https://twitter.com/gemini/status/1631346061942857728?s=46&t=XDxQ2Jjh1zaQqZy3mviojw\n\nGemini: 1/ We are actively monitoring the situation with Silvergate Bank. We currently have zero customer funds and zero GUSD funds held at Silvergate.",
           "link": "https://twitter.com/defipulse/status/1631347035881316369",
           "publishedOn": "2023-03-02T17:33:36.000Z",
-          "wordCount": 513,
+          "wordCount": 509,
           "title": "Re https://twitter.com/gemini/status/1631346061942857728?s=46&t=XDxQ2Jjh1zaQqZy3mviojw",
           "imageUrl": null
         },
@@ -178,31 +198,11 @@
         {
           "id": "https://twitter.com/defipulse/status/1631339093622759431",
           "author": "DeFi Pulse",
-          "description": "Circle to unwind certain Silvergate services…\n\nCircle: 1/ We maintain relationships with several banking partners. We are sensitive to the concerns around Silvergate and are in the process of unwinding certain services with them and notifying customers. Otherwise, all Circle services, including USDC are operating as normal.",
+          "description": "Circle to unwind certain Silvergate services… https://twitter.com/circle/status/1631338087212101633\n\nCircle: 1/ We maintain relationships with several banking partners. We are sensitive to the concerns around Silvergate and are in the process of unwinding certain services with them and notifying customers. Otherwise, all Circle services, including USDC are operating as normal.",
           "link": "https://twitter.com/defipulse/status/1631339093622759431",
           "publishedOn": "2023-03-02T17:02:03.000Z",
           "wordCount": 509,
-          "title": "Circle to unwind certain Silvergate services…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1631284721543008256",
-          "author": "DeFi Pulse",
-          "description": "Re https://www.coindesk.com/business/2023/03/02/coinbase-switches-to-signature-bank-from-silvergate-for-prime-customers/",
-          "link": "https://twitter.com/defipulse/status/1631284721543008256",
-          "publishedOn": "2023-03-02T13:26:00.000Z",
-          "wordCount": 509,
-          "title": "Re https://www.coindesk.com/business/2023/03/02/coinbase-switches-to-signature-bank-from-silvergate-for-prime-customers/",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1631284719882059777",
-          "author": "DeFi Pulse",
-          "description": "Coinbase switches to Signature Bank from Silvergate for Prime customers…",
-          "link": "https://twitter.com/defipulse/status/1631284719882059777",
-          "publishedOn": "2023-03-02T13:25:59.000Z",
-          "wordCount": 509,
-          "title": "Coinbase switches to Signature Bank from Silvergate for Prime customers…",
+          "title": "Circle to unwind certain Silvergate services… https://twitter.com/circle/status/1631338087212101633",
           "imageUrl": null
         }
       ]
