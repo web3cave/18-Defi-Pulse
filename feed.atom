@@ -1,10 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-24T14:16:03.947Z</id>
+    <id>urn:2023-03-24T15:18:41.160Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-24T14:16:03.947Z</updated>
+    <updated>2023-03-24T15:18:41.160Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/zksync/status/1639251197898129408?s=20]]></title>
+        <id>https://twitter.com/defipulse/status/1639285121504124929</id>
+        <link href="https://twitter.com/defipulse/status/1639285121504124929"/>
+        <updated>2023-03-24T15:16:44.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/zksync/status/1639251197898129408?s=20
+
+zkSync ∎: gm zkEVM! 👋🏻
+zkSync Era Mainnet Alpha is now open to all users.
+Developers, projects, and users can now experience the power of zkEVM.
+Read more: https://blog.matter-labs.io/gm-zkevm-171b12a26b36
+1/11 https://t.co/oS6dwmXzeB]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[zkSync Era Mainnet Alpha is now open to all users...]]></title>
+        <id>https://twitter.com/defipulse/status/1639285119130169345</id>
+        <link href="https://twitter.com/defipulse/status/1639285119130169345"/>
+        <updated>2023-03-24T15:16:43.000Z</updated>
+        <summary type="html"><![CDATA[zkSync Era Mainnet Alpha is now open to all users...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binance breaks: Spot Market out for two hours thanks to trailing stop bug... https://www.coindesk.com/business/2023/03/24/binance-temporarily-suspends...]]></title>
+        <id>https://twitter.com/defipulse/status/1639279658016337921</id>
+        <link href="https://twitter.com/defipulse/status/1639279658016337921"/>
+        <updated>2023-03-24T14:55:01.000Z</updated>
+        <summary type="html"><![CDATA[Binance breaks: Spot Market out for two hours thanks to trailing stop bug... 
+https://www.coindesk.com/business/2023/03/24/binance-temporarily-suspends-spot-trading/]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re https://www.coindesk.com/policy/2023/03/24/do-kwon-charged-due-in-montenegro-court-for-extradition-hearing-afp/?utm_campaign=coindesk_main&utm_term...]]></title>
+        <id>https://twitter.com/defipulse/status/1639278385917489152</id>
+        <link href="https://twitter.com/defipulse/status/1639278385917489152"/>
+        <updated>2023-03-24T14:49:58.000Z</updated>
+        <summary type="html"><![CDATA[Re https://www.coindesk.com/policy/2023/03/24/do-kwon-charged-due-in-montenegro-court-for-extradition-hearing-afp/?utm_campaign=coindesk_main&utm_term=organic&utm_source=twitter&utm_medium=social&utm_content=editorial]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kwon faces charges, heading to Montenegro Court for extradition hearing...]]></title>
+        <id>https://twitter.com/defipulse/status/1639278384550236164</id>
+        <link href="https://twitter.com/defipulse/status/1639278384550236164"/>
+        <updated>2023-03-24T14:49:57.000Z</updated>
+        <summary type="html"><![CDATA[Kwon faces charges, heading to Montenegro Court for extradition hearing...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re https://www.theblock.co/post/222205/arbitrum-airdrop-token-claim-live]]></title>
         <id>https://twitter.com/defipulse/status/1638892294072938498</id>
@@ -88,11 +145,11 @@ https://www.theblock.co/post/220297/gensler-suggests-proof-of-stake-tokens-are-s
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Coinbase temporarily pausing USDC:USD conversions over the weekend… https://twitter.com/coinbase/status/1634399032767307776]]></title>
+        <title type="html"><![CDATA[Coinbase temporarily pausing USDC:USD conversions over the weekend…]]></title>
         <id>https://twitter.com/defipulse/status/1634399660302368768</id>
         <link href="https://twitter.com/defipulse/status/1634399660302368768"/>
         <updated>2023-03-11T03:43:39.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase temporarily pausing USDC:USD conversions over the weekend… https://twitter.com/coinbase/status/1634399032767307776
+        <summary type="html"><![CDATA[Coinbase temporarily pausing USDC:USD conversions over the weekend…
 
 Coinbase: We are temporarily pausing USDC:USD conversions over the weekend while banks are closed. During periods of heightened activity, conversions rely on USD transfers from the banks that clear during normal banking hours. When banks open on Monday, we plan to re-commence conversions.]]></summary>
         <author>
@@ -150,69 +207,14 @@ Coinbase: We are temporarily pausing USDC:USD conversions over the weekend whi
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lack of support from Apple limits launch of @Uniswap’s new mobile wallet… https://twitter.com/Uniswap/status/1631691337845075968]]></title>
+        <title type="html"><![CDATA[Lack of support from Apple limits launch of @Uniswap’s new mobile wallet…]]></title>
         <id>https://twitter.com/defipulse/status/1631717721057501186</id>
         <link href="https://twitter.com/defipulse/status/1631717721057501186"/>
         <updated>2023-03-03T18:06:35.000Z</updated>
-        <summary type="html"><![CDATA[Lack of support from Apple limits launch of @Uniswap’s new mobile wallet… https://twitter.com/Uniswap/status/1631691337845075968
+        <summary type="html"><![CDATA[Lack of support from Apple limits launch of @Uniswap’s new mobile wallet…
 
 Uniswap Labs 🦄: 7/ So why a limited early release from a team committed to access for anyone? Simply put, Apple won’t green-light our launch, & we don’t know why.
 We submitted our mobile app months ago—and even though we are 100% compliant with their specifications, we’re still stuck in limbo🤡 https://t.co/oAr90NrkPd]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://www.bloomberg.com/news/articles/2023-03-03/coinbase-buys-digital-asset-company-one-river-digital-in-move-to-increase-growth]]></title>
-        <id>https://twitter.com/defipulse/status/1631671840379641857</id>
-        <link href="https://twitter.com/defipulse/status/1631671840379641857"/>
-        <updated>2023-03-03T15:04:16.000Z</updated>
-        <summary type="html"><![CDATA[Re https://www.bloomberg.com/news/articles/2023-03-03/coinbase-buys-digital-asset-company-one-river-digital-in-move-to-increase-growth]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase buys crypto asset manager One River in bet on institutional demand…]]></title>
-        <id>https://twitter.com/defipulse/status/1631671838290968588</id>
-        <link href="https://twitter.com/defipulse/status/1631671838290968588"/>
-        <updated>2023-03-03T15:04:15.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase buys crypto asset manager One River in bet on institutional demand…]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://twitter.com/gemini/status/1631346061942857728?s=46&t=XDxQ2Jjh1zaQqZy3mviojw]]></title>
-        <id>https://twitter.com/defipulse/status/1631347035881316369</id>
-        <link href="https://twitter.com/defipulse/status/1631347035881316369"/>
-        <updated>2023-03-02T17:33:36.000Z</updated>
-        <summary type="html"><![CDATA[Re https://twitter.com/gemini/status/1631346061942857728?s=46&t=XDxQ2Jjh1zaQqZy3mviojw
-
-Gemini: 1/ We are actively monitoring the situation with Silvergate Bank. We currently have zero customer funds and zero GUSD funds held at Silvergate.]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gemini has stopped accepting customer deposits/ processing withdrawals through Silvergate to the Gemini Exchange. They have zero customer funds and gU...]]></title>
-        <id>https://twitter.com/defipulse/status/1631346817819369472</id>
-        <link href="https://twitter.com/defipulse/status/1631346817819369472"/>
-        <updated>2023-03-02T17:32:44.000Z</updated>
-        <summary type="html"><![CDATA[Gemini has stopped accepting customer deposits/ processing withdrawals through Silvergate to the Gemini Exchange. 
-They have zero customer funds and gUSD funds at Silvergate… https://twitter.com/gemini/status/1631345672745099267]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Circle to unwind certain Silvergate services… https://twitter.com/circle/status/1631338087212101633]]></title>
-        <id>https://twitter.com/defipulse/status/1631339093622759431</id>
-        <link href="https://twitter.com/defipulse/status/1631339093622759431"/>
-        <updated>2023-03-02T17:02:03.000Z</updated>
-        <summary type="html"><![CDATA[Circle to unwind certain Silvergate services… https://twitter.com/circle/status/1631338087212101633
-
-Circle: 1/ We maintain relationships with several banking partners. We are sensitive to the concerns around Silvergate and are in the process of unwinding certain services with them and notifying customers. Otherwise, all Circle services, including USDC are operating as normal.]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>

@@ -6,12 +6,62 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1639285121504124929",
+          "author": "DeFi Pulse",
+          "description": "Re https://twitter.com/zksync/status/1639251197898129408?s=20\n\nzkSync ∎: gm zkEVM! 👋🏻\nzkSync Era Mainnet Alpha is now open to all users.\nDevelopers, projects, and users can now experience the power of zkEVM.\nRead more: https://blog.matter-labs.io/gm-zkevm-171b12a26b36\n1/11 https://t.co/oS6dwmXzeB",
+          "link": "https://twitter.com/defipulse/status/1639285121504124929",
+          "publishedOn": "2023-03-24T15:16:44.000Z",
+          "wordCount": 476,
+          "title": "Re https://twitter.com/zksync/status/1639251197898129408?s=20",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1639285119130169345",
+          "author": "DeFi Pulse",
+          "description": "zkSync Era Mainnet Alpha is now open to all users...",
+          "link": "https://twitter.com/defipulse/status/1639285119130169345",
+          "publishedOn": "2023-03-24T15:16:43.000Z",
+          "wordCount": 476,
+          "title": "zkSync Era Mainnet Alpha is now open to all users...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1639279658016337921",
+          "author": "DeFi Pulse",
+          "description": "Binance breaks: Spot Market out for two hours thanks to trailing stop bug... \nhttps://www.coindesk.com/business/2023/03/24/binance-temporarily-suspends-spot-trading/",
+          "link": "https://twitter.com/defipulse/status/1639279658016337921",
+          "publishedOn": "2023-03-24T14:55:01.000Z",
+          "wordCount": 476,
+          "title": "Binance breaks: Spot Market out for two hours thanks to trailing stop bug... https://www.coindesk.com/business/2023/03/24/binance-temporarily-suspends...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1639278385917489152",
+          "author": "DeFi Pulse",
+          "description": "Re https://www.coindesk.com/policy/2023/03/24/do-kwon-charged-due-in-montenegro-court-for-extradition-hearing-afp/?utm_campaign=coindesk_main&utm_term=organic&utm_source=twitter&utm_medium=social&utm_content=editorial",
+          "link": "https://twitter.com/defipulse/status/1639278385917489152",
+          "publishedOn": "2023-03-24T14:49:58.000Z",
+          "wordCount": 476,
+          "title": "Re https://www.coindesk.com/policy/2023/03/24/do-kwon-charged-due-in-montenegro-court-for-extradition-hearing-afp/?utm_campaign=coindesk_main&utm_term...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1639278384550236164",
+          "author": "DeFi Pulse",
+          "description": "Kwon faces charges, heading to Montenegro Court for extradition hearing...",
+          "link": "https://twitter.com/defipulse/status/1639278384550236164",
+          "publishedOn": "2023-03-24T14:49:57.000Z",
+          "wordCount": 476,
+          "title": "Kwon faces charges, heading to Montenegro Court for extradition hearing...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1638892294072938498",
           "author": "DeFi Pulse",
           "description": "Re https://www.theblock.co/post/222205/arbitrum-airdrop-token-claim-live",
           "link": "https://twitter.com/defipulse/status/1638892294072938498",
           "publishedOn": "2023-03-23T13:15:46.000Z",
-          "wordCount": 480,
+          "wordCount": 476,
           "title": "Re https://www.theblock.co/post/222205/arbitrum-airdrop-token-claim-live",
           "imageUrl": null
         },
@@ -21,7 +71,7 @@
           "description": ".@arbitrum airdrop token claim goes live…",
           "link": "https://twitter.com/defipulse/status/1638892292982308864",
           "publishedOn": "2023-03-23T13:15:46.000Z",
-          "wordCount": 480,
+          "wordCount": 476,
           "title": ".@arbitrum airdrop token claim goes live…",
           "imageUrl": null
         },
@@ -31,7 +81,7 @@
           "description": "Re https://www.coindesk.com/policy/2023/03/22/tron-founder-justin-sun-sued-by-us-sec-on-securities-market-manipulation-charges/",
           "link": "https://twitter.com/defipulse/status/1638626164523831297",
           "publishedOn": "2023-03-22T19:38:16.000Z",
-          "wordCount": 480,
+          "wordCount": 476,
           "title": "Re https://www.coindesk.com/policy/2023/03/22/tron-founder-justin-sun-sued-by-us-sec-on-securities-market-manipulation-charges/",
           "imageUrl": null
         },
@@ -51,7 +101,7 @@
           "description": "Re https://www.coindesk.com/policy/2023/03/21/sushi-dao-key-contributor-served-with-sec-subpoena/",
           "link": "https://twitter.com/defipulse/status/1638238259070337024",
           "publishedOn": "2023-03-21T17:56:52.000Z",
-          "wordCount": 480,
+          "wordCount": 476,
           "title": "Re https://www.coindesk.com/policy/2023/03/21/sushi-dao-key-contributor-served-with-sec-subpoena/",
           "imageUrl": null
         },
@@ -61,7 +111,7 @@
           "description": "SEC goes after Sushi DAO Head Chef...",
           "link": "https://twitter.com/defipulse/status/1638238257128304664",
           "publishedOn": "2023-03-21T17:56:52.000Z",
-          "wordCount": 480,
+          "wordCount": 476,
           "title": "SEC goes after Sushi DAO Head Chef...",
           "imageUrl": null
         },
@@ -81,18 +131,18 @@
           "description": "Gensler suggests proof-of-stake tokens are securities...\nhttps://www.theblock.co/post/220297/gensler-suggests-proof-of-stake-tokens-are-securities",
           "link": "https://twitter.com/defipulse/status/1636094376513339394",
           "publishedOn": "2023-03-15T19:57:51.000Z",
-          "wordCount": 480,
+          "wordCount": 476,
           "title": "Gensler suggests proof-of-stake tokens are securities... https://www.theblock.co/post/220297/gensler-suggests-proof-of-stake-tokens-are-securities",
           "imageUrl": null
         },
         {
           "id": "https://twitter.com/defipulse/status/1634399660302368768",
           "author": "DeFi Pulse",
-          "description": "Coinbase temporarily pausing USDC:USD conversions over the weekend… https://twitter.com/coinbase/status/1634399032767307776\n\nCoinbase: We are temporarily pausing USDC:USD conversions over the weekend while banks are closed. During periods of heightened activity, conversions rely on USD transfers from the banks that clear during normal banking hours. When banks open on Monday, we plan to re-commence conversions.",
+          "description": "Coinbase temporarily pausing USDC:USD conversions over the weekend…\n\nCoinbase: We are temporarily pausing USDC:USD conversions over the weekend while banks are closed. During periods of heightened activity, conversions rely on USD transfers from the banks that clear during normal banking hours. When banks open on Monday, we plan to re-commence conversions.",
           "link": "https://twitter.com/defipulse/status/1634399660302368768",
           "publishedOn": "2023-03-11T03:43:39.000Z",
-          "wordCount": 480,
-          "title": "Coinbase temporarily pausing USDC:USD conversions over the weekend… https://twitter.com/coinbase/status/1634399032767307776",
+          "wordCount": 476,
+          "title": "Coinbase temporarily pausing USDC:USD conversions over the weekend…",
           "imageUrl": null
         },
         {
@@ -101,7 +151,7 @@
           "description": "Re Silicon Valley Bank is the first FDIC-insured institution to fail this year.",
           "link": "https://twitter.com/defipulse/status/1634234712406253569",
           "publishedOn": "2023-03-10T16:48:12.000Z",
-          "wordCount": 480,
+          "wordCount": 476,
           "title": "Re Silicon Valley Bank is the first FDIC-insured institution to fail this year.",
           "imageUrl": null
         },
@@ -121,7 +171,7 @@
           "description": "Re The main office and all branches of Silicon Valley Bank will reopen on Monday, March 13, 2023.",
           "link": "https://twitter.com/defipulse/status/1634234437603868674",
           "publishedOn": "2023-03-10T16:47:07.000Z",
-          "wordCount": 480,
+          "wordCount": 476,
           "title": "Re The main office and all branches of Silicon Valley Bank will reopen on Monday, March 13, 2023.",
           "imageUrl": null
         },
@@ -131,7 +181,7 @@
           "description": "Re https://www.fdic.gov/news/press-releases/2023/pr23016.html",
           "link": "https://twitter.com/defipulse/status/1634233917988372480",
           "publishedOn": "2023-03-10T16:45:03.000Z",
-          "wordCount": 480,
+          "wordCount": 476,
           "title": "Re https://www.fdic.gov/news/press-releases/2023/pr23016.html",
           "imageUrl": null
         },
@@ -141,68 +191,18 @@
           "description": "Silicon Valley Bank closed today by California Department of Financial Protection and Innovation, which appointed the Federal Deposit Insurance Corporation (FDIC) as receiver.",
           "link": "https://twitter.com/defipulse/status/1634233915706621960",
           "publishedOn": "2023-03-10T16:45:02.000Z",
-          "wordCount": 480,
+          "wordCount": 476,
           "title": "Silicon Valley Bank closed today by California Department of Financial Protection and Innovation, which appointed the Federal Deposit Insurance Corpor...",
           "imageUrl": null
         },
         {
           "id": "https://twitter.com/defipulse/status/1631717721057501186",
           "author": "DeFi Pulse",
-          "description": "Lack of support from Apple limits launch of @Uniswap’s new mobile wallet… https://twitter.com/Uniswap/status/1631691337845075968\n\nUniswap Labs 🦄: 7/ So why a limited early release from a team committed to access for anyone? Simply put, Apple won’t green-light our launch, & we don’t know why.\nWe submitted our mobile app months ago—and even though we are 100% compliant with their specifications, we’re still stuck in limbo🤡 https://t.co/oAr90NrkPd",
+          "description": "Lack of support from Apple limits launch of @Uniswap’s new mobile wallet…\n\nUniswap Labs 🦄: 7/ So why a limited early release from a team committed to access for anyone? Simply put, Apple won’t green-light our launch, & we don’t know why.\nWe submitted our mobile app months ago—and even though we are 100% compliant with their specifications, we’re still stuck in limbo🤡 https://t.co/oAr90NrkPd",
           "link": "https://twitter.com/defipulse/status/1631717721057501186",
           "publishedOn": "2023-03-03T18:06:35.000Z",
-          "wordCount": 480,
-          "title": "Lack of support from Apple limits launch of @Uniswap’s new mobile wallet… https://twitter.com/Uniswap/status/1631691337845075968",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1631671840379641857",
-          "author": "DeFi Pulse",
-          "description": "Re https://www.bloomberg.com/news/articles/2023-03-03/coinbase-buys-digital-asset-company-one-river-digital-in-move-to-increase-growth",
-          "link": "https://twitter.com/defipulse/status/1631671840379641857",
-          "publishedOn": "2023-03-03T15:04:16.000Z",
-          "wordCount": 480,
-          "title": "Re https://www.bloomberg.com/news/articles/2023-03-03/coinbase-buys-digital-asset-company-one-river-digital-in-move-to-increase-growth",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1631671838290968588",
-          "author": "DeFi Pulse",
-          "description": "Coinbase buys crypto asset manager One River in bet on institutional demand…",
-          "link": "https://twitter.com/defipulse/status/1631671838290968588",
-          "publishedOn": "2023-03-03T15:04:15.000Z",
-          "wordCount": 480,
-          "title": "Coinbase buys crypto asset manager One River in bet on institutional demand…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1631347035881316369",
-          "author": "DeFi Pulse",
-          "description": "Re https://twitter.com/gemini/status/1631346061942857728?s=46&t=XDxQ2Jjh1zaQqZy3mviojw\n\nGemini: 1/ We are actively monitoring the situation with Silvergate Bank. We currently have zero customer funds and zero GUSD funds held at Silvergate.",
-          "link": "https://twitter.com/defipulse/status/1631347035881316369",
-          "publishedOn": "2023-03-02T17:33:36.000Z",
-          "wordCount": 480,
-          "title": "Re https://twitter.com/gemini/status/1631346061942857728?s=46&t=XDxQ2Jjh1zaQqZy3mviojw",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1631346817819369472",
-          "author": "DeFi Pulse",
-          "description": "Gemini has stopped accepting customer deposits/ processing withdrawals through Silvergate to the Gemini Exchange. \nThey have zero customer funds and gUSD funds at Silvergate… https://twitter.com/gemini/status/1631345672745099267",
-          "link": "https://twitter.com/defipulse/status/1631346817819369472",
-          "publishedOn": "2023-03-02T17:32:44.000Z",
-          "wordCount": 480,
-          "title": "Gemini has stopped accepting customer deposits/ processing withdrawals through Silvergate to the Gemini Exchange. They have zero customer funds and gU...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1631339093622759431",
-          "author": "DeFi Pulse",
-          "description": "Circle to unwind certain Silvergate services… https://twitter.com/circle/status/1631338087212101633\n\nCircle: 1/ We maintain relationships with several banking partners. We are sensitive to the concerns around Silvergate and are in the process of unwinding certain services with them and notifying customers. Otherwise, all Circle services, including USDC are operating as normal.",
-          "link": "https://twitter.com/defipulse/status/1631339093622759431",
-          "publishedOn": "2023-03-02T17:02:03.000Z",
-          "wordCount": 480,
-          "title": "Circle to unwind certain Silvergate services… https://twitter.com/circle/status/1631338087212101633",
+          "wordCount": 476,
+          "title": "Lack of support from Apple limits launch of @Uniswap’s new mobile wallet…",
           "imageUrl": null
         }
       ]
