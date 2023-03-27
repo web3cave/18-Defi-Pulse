@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1640369795769020417",
+          "author": "DeFi Pulse",
+          "description": "Re https://www.bloomberg.com/news/articles/2023-03-27/crypto-exchange-binance-sued-by-us-cftc-for-alleged-derivatives-rule-lapses?utm_source=twitter&utm_content=crypto&utm_medium=social&utm_campaign=socialflow-organic",
+          "link": "https://twitter.com/defipulse/status/1640369795769020417",
+          "publishedOn": "2023-03-27T15:06:50.000Z",
+          "wordCount": 509,
+          "title": "Re https://www.bloomberg.com/news/articles/2023-03-27/crypto-exchange-binance-sued-by-us-cftc-for-alleged-derivatives-rule-lapses?utm_source=twitter&u...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1640369793931853825",
+          "author": "DeFi Pulse",
+          "description": "Binance sued by CFTC for allegedly breaking trading and derivatives rules...",
+          "link": "https://twitter.com/defipulse/status/1640369793931853825",
+          "publishedOn": "2023-03-27T15:06:50.000Z",
+          "wordCount": 509,
+          "title": "Binance sued by CFTC for allegedly breaking trading and derivatives rules...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1639285121504124929",
           "author": "DeFi Pulse",
           "description": "Re https://twitter.com/zksync/status/1639251197898129408?s=20\n\nzkSync ∎: gm zkEVM! 👋🏻\nzkSync Era Mainnet Alpha is now open to all users.\nDevelopers, projects, and users can now experience the power of zkEVM.\nRead more: https://blog.matter-labs.io/gm-zkevm-171b12a26b36\n1/11 https://t.co/oS6dwmXzeB",
@@ -183,26 +203,6 @@
           "publishedOn": "2023-03-10T16:45:03.000Z",
           "wordCount": 509,
           "title": "Re https://www.fdic.gov/news/press-releases/2023/pr23016.html",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1634233915706621960",
-          "author": "DeFi Pulse",
-          "description": "Silicon Valley Bank closed today by California Department of Financial Protection and Innovation, which appointed the Federal Deposit Insurance Corporation (FDIC) as receiver.",
-          "link": "https://twitter.com/defipulse/status/1634233915706621960",
-          "publishedOn": "2023-03-10T16:45:02.000Z",
-          "wordCount": 509,
-          "title": "Silicon Valley Bank closed today by California Department of Financial Protection and Innovation, which appointed the Federal Deposit Insurance Corpor...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1631717721057501186",
-          "author": "DeFi Pulse",
-          "description": "Lack of support from Apple limits launch of @Uniswap’s new mobile wallet…\n\nUniswap Labs 🦄: 7/ So why a limited early release from a team committed to access for anyone? Simply put, Apple won’t green-light our launch, & we don’t know why.\nWe submitted our mobile app months ago—and even though we are 100% compliant with their specifications, we’re still stuck in limbo🤡 https://t.co/oAr90NrkPd",
-          "link": "https://twitter.com/defipulse/status/1631717721057501186",
-          "publishedOn": "2023-03-03T18:06:35.000Z",
-          "wordCount": 509,
-          "title": "Lack of support from Apple limits launch of @Uniswap’s new mobile wallet…",
           "imageUrl": null
         }
       ]
