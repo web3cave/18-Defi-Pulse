@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-28T14:17:32.965Z</id>
+    <id>urn:2023-03-28T15:18:58.991Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-28T14:17:32.965Z</updated>
+    <updated>2023-03-28T15:18:58.991Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re https://www.coindesk.com/policy/2023/03/28/sam-bankman-fried-faces-new-us-indictment-over-chinese-bribery/]]></title>
+        <id>https://twitter.com/defipulse/status/1640712046215069703</id>
+        <link href="https://twitter.com/defipulse/status/1640712046215069703"/>
+        <updated>2023-03-28T13:46:49.000Z</updated>
+        <summary type="html"><![CDATA[Re https://www.coindesk.com/policy/2023/03/28/sam-bankman-fried-faces-new-us-indictment-over-chinese-bribery/]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SBF faces new U.S. indictment over Chinese bribery...]]></title>
+        <id>https://twitter.com/defipulse/status/1640712043983454208</id>
+        <link href="https://twitter.com/defipulse/status/1640712043983454208"/>
+        <updated>2023-03-28T13:46:48.000Z</updated>
+        <summary type="html"><![CDATA[SBF faces new U.S. indictment over Chinese bribery...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re https://www.bloomberg.com/news/articles/2023-03-27/crypto-exchange-binance-sued-by-us-cftc-for-alleged-derivatives-rule-lapses?utm_source=twitter&u...]]></title>
         <id>https://twitter.com/defipulse/status/1640369795769020417</id>
@@ -192,26 +212,6 @@ Coinbase: We are temporarily pausing USDC:USD conversions over the weekend whi
         <link href="https://twitter.com/defipulse/status/1634234492134014978"/>
         <updated>2023-03-10T16:47:20.000Z</updated>
         <summary type="html"><![CDATA[Re Banking activities will resume no later than Monday, March 13, including on-line banking and other services.]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re The main office and all branches of Silicon Valley Bank will reopen on Monday, March 13, 2023.]]></title>
-        <id>https://twitter.com/defipulse/status/1634234437603868674</id>
-        <link href="https://twitter.com/defipulse/status/1634234437603868674"/>
-        <updated>2023-03-10T16:47:07.000Z</updated>
-        <summary type="html"><![CDATA[Re The main office and all branches of Silicon Valley Bank will reopen on Monday, March 13, 2023.]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://www.fdic.gov/news/press-releases/2023/pr23016.html]]></title>
-        <id>https://twitter.com/defipulse/status/1634233917988372480</id>
-        <link href="https://twitter.com/defipulse/status/1634233917988372480"/>
-        <updated>2023-03-10T16:45:03.000Z</updated>
-        <summary type="html"><![CDATA[Re https://www.fdic.gov/news/press-releases/2023/pr23016.html]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
