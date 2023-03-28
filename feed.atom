@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-28T17:16:28.745Z</id>
+    <id>urn:2023-03-28T18:22:13.018Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-28T17:16:28.745Z</updated>
+    <updated>2023-03-28T18:22:13.018Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Withdrawals are coming! The Shapella network upgrade will activate on the Ethereum network on April 12th... https://blog.ethereum.org/2023/03/28/shape...]]></title>
+        <id>https://twitter.com/defipulse/status/1640767745288536072</id>
+        <link href="https://twitter.com/defipulse/status/1640767745288536072"/>
+        <updated>2023-03-28T17:28:09.000Z</updated>
+        <summary type="html"><![CDATA[Withdrawals are coming! 
+The Shapella network upgrade will activate on the Ethereum network on April 12th...
+https://blog.ethereum.org/2023/03/28/shapella-mainnet-announcement]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re https://www.coindesk.com/policy/2023/03/28/sam-bankman-fried-faces-new-us-indictment-over-chinese-bribery/]]></title>
         <id>https://twitter.com/defipulse/status/1640712046215069703</id>
@@ -185,11 +197,11 @@ https://www.theblock.co/post/220297/gensler-suggests-proof-of-stake-tokens-are-s
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Coinbase temporarily pausing USDC:USD conversions over the weekend… https://twitter.com/coinbase/status/1634399032767307776]]></title>
+        <title type="html"><![CDATA[Coinbase temporarily pausing USDC:USD conversions over the weekend…]]></title>
         <id>https://twitter.com/defipulse/status/1634399660302368768</id>
         <link href="https://twitter.com/defipulse/status/1634399660302368768"/>
         <updated>2023-03-11T03:43:39.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase temporarily pausing USDC:USD conversions over the weekend… https://twitter.com/coinbase/status/1634399032767307776
+        <summary type="html"><![CDATA[Coinbase temporarily pausing USDC:USD conversions over the weekend…
 
 Coinbase: We are temporarily pausing USDC:USD conversions over the weekend while banks are closed. During periods of heightened activity, conversions rely on USD transfers from the banks that clear during normal banking hours. When banks open on Monday, we plan to re-commence conversions.]]></summary>
         <author>
@@ -202,16 +214,6 @@ Coinbase: We are temporarily pausing USDC:USD conversions over the weekend whi
         <link href="https://twitter.com/defipulse/status/1634234712406253569"/>
         <updated>2023-03-10T16:48:12.000Z</updated>
         <summary type="html"><![CDATA[Re Silicon Valley Bank is the first FDIC-insured institution to fail this year.]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Banking activities will resume no later than Monday, March 13, including on-line banking and other services.]]></title>
-        <id>https://twitter.com/defipulse/status/1634234492134014978</id>
-        <link href="https://twitter.com/defipulse/status/1634234492134014978"/>
-        <updated>2023-03-10T16:47:20.000Z</updated>
-        <summary type="html"><![CDATA[Re Banking activities will resume no later than Monday, March 13, including on-line banking and other services.]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
