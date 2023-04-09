@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-09T15:15:14.246Z</id>
+    <id>urn:2023-04-09T16:19:58.983Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-09T15:15:14.246Z</updated>
+    <updated>2023-04-09T16:19:58.983Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -192,18 +192,6 @@ https://www.coindesk.com/policy/2023/03/20/no-crypto-banking-port-has-really-ope
         <updated>2023-03-15T19:57:51.000Z</updated>
         <summary type="html"><![CDATA[Gensler suggests proof-of-stake tokens are securities...
 https://www.theblock.co/post/220297/gensler-suggests-proof-of-stake-tokens-are-securities]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase temporarily pausing USDC:USD conversions over the weekend…]]></title>
-        <id>https://twitter.com/defipulse/status/1634399660302368768</id>
-        <link href="https://twitter.com/defipulse/status/1634399660302368768"/>
-        <updated>2023-03-11T03:43:39.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase temporarily pausing USDC:USD conversions over the weekend…
-
-Coinbase: We are temporarily pausing USDC:USD conversions over the weekend while banks are closed. During periods of heightened activity, conversions rely on USD transfers from the banks that clear during normal banking hours. When banks open on Monday, we plan to re-commence conversions.]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
