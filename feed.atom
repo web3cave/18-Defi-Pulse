@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-10T13:19:14.178Z</id>
+    <id>urn:2023-04-10T14:14:37.469Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-10T13:19:14.178Z</updated>
+    <updated>2023-04-10T14:14:37.469Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SBF declared Alameda ‘unauditable’ and claimed they would ‘sometimes find $50m of assets lying around that we lost track of; such is life.’… http...]]></title>
+        <id>https://twitter.com/defipulse/status/1645421196844867584</id>
+        <link href="https://twitter.com/defipulse/status/1645421196844867584"/>
+        <updated>2023-04-10T13:39:18.000Z</updated>
+        <summary type="html"><![CDATA[SBF declared Alameda ‘unauditable’ and claimed they would ‘sometimes find $50m of assets lying around that we lost track of; such is life.’…
+https://www.theblock.co/post/225497/sam-bankman-fried-alameda-report]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Withdrawals are coming! The Shapella network upgrade will activate on the Ethereum network on April 12th... https://blog.ethereum.org/2023/03/28/shape...]]></title>
         <id>https://twitter.com/defipulse/status/1640767745288536072</id>
