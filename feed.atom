@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-12T20:17:20.259Z</id>
+    <id>urn:2023-04-12T21:14:01.483Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-12T20:17:20.259Z</updated>
+    <updated>2023-04-12T21:14:01.483Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[✨The wait is almost over for Ethereum's Shanghai upgrade (aka Shapella), which is expected to take place at approximately 6:30 p.m. ET (22:30 UTC). G...]]></title>
+        <id>https://twitter.com/defipulse/status/1646230453307973634</id>
+        <link href="https://twitter.com/defipulse/status/1646230453307973634"/>
+        <updated>2023-04-12T19:15:00.000Z</updated>
+        <summary type="html"><![CDATA[✨The wait is almost over for Ethereum's Shanghai upgrade (aka Shapella), which is expected to take place at approximately 6:30 p.m. ET (22:30 UTC).
+Get in on the excitement:
+▶️Countdown: https://wenmerge.com/
+▶️Watch Party: https://www.youtube.com/watch?v=BVq1pz3FrDo]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Euler Finance users can reclaim funds stolen in $200M theft... https://www.coindesk.com/business/2023/04/12/euler-finance-lets-users-redeem-recovered-...]]></title>
         <id>https://twitter.com/defipulse/status/1646175839644524546</id>
@@ -203,17 +216,6 @@ https://www.coindesk.com/business/2023/03/24/binance-temporarily-suspends-spot-t
         <link href="https://twitter.com/defipulse/status/1638238257128304664"/>
         <updated>2023-03-21T17:56:52.000Z</updated>
         <summary type="html"><![CDATA[SEC goes after Sushi DAO Head Chef...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto banking? No port in this U.S. storm... https://www.coindesk.com/policy/2023/03/20/no-crypto-banking-port-has-really-opened-up-in-this-us-storm/...]]></title>
-        <id>https://twitter.com/defipulse/status/1637837421516578816</id>
-        <link href="https://twitter.com/defipulse/status/1637837421516578816"/>
-        <updated>2023-03-20T15:24:05.000Z</updated>
-        <summary type="html"><![CDATA[Crypto banking? No port in this U.S. storm... 
-https://www.coindesk.com/policy/2023/03/20/no-crypto-banking-port-has-really-opened-up-in-this-us-storm/?utm_term=organic&utm_medium=social&utm_source=twitter&utm_content=editorial&utm_campaign=coindesk_main]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
