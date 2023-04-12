@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-12T15:17:24.406Z</id>
+    <id>urn:2023-04-12T16:22:09.323Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-12T15:17:24.406Z</updated>
+    <updated>2023-04-12T16:22:09.323Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Euler Finance users can reclaim funds stolen in $200M theft... https://www.coindesk.com/business/2023/04/12/euler-finance-lets-users-redeem-recovered-...]]></title>
+        <id>https://twitter.com/defipulse/status/1646175839644524546</id>
+        <link href="https://twitter.com/defipulse/status/1646175839644524546"/>
+        <updated>2023-04-12T15:37:59.000Z</updated>
+        <summary type="html"><![CDATA[Euler Finance users can reclaim funds stolen in $200M theft...
+https://www.coindesk.com/business/2023/04/12/euler-finance-lets-users-redeem-recovered-funds-following-200m-theft/]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Everything you need to know about the Ethereum Shapella upgrade happening on Wednesday… https://www.theblock.co/post/225655/ethereum-shapella]]></title>
         <id>https://twitter.com/defipulse/status/1645784619017486339</id>
@@ -203,17 +214,6 @@ https://www.coindesk.com/business/2023/03/24/binance-temporarily-suspends-spot-t
         <updated>2023-03-20T15:24:05.000Z</updated>
         <summary type="html"><![CDATA[Crypto banking? No port in this U.S. storm... 
 https://www.coindesk.com/policy/2023/03/20/no-crypto-banking-port-has-really-opened-up-in-this-us-storm/?utm_term=organic&utm_medium=social&utm_source=twitter&utm_content=editorial&utm_campaign=coindesk_main]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gensler suggests proof-of-stake tokens are securities... https://www.theblock.co/post/220297/gensler-suggests-proof-of-stake-tokens-are-securities]]></title>
-        <id>https://twitter.com/defipulse/status/1636094376513339394</id>
-        <link href="https://twitter.com/defipulse/status/1636094376513339394"/>
-        <updated>2023-03-15T19:57:51.000Z</updated>
-        <summary type="html"><![CDATA[Gensler suggests proof-of-stake tokens are securities...
-https://www.theblock.co/post/220297/gensler-suggests-proof-of-stake-tokens-are-securities]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
