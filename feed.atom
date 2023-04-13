@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-13T14:15:26.817Z</id>
+    <id>urn:2023-04-13T15:17:15.954Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-13T14:15:26.817Z</updated>
+    <updated>2023-04-13T15:17:15.954Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Uniswap launches Uniswap mobile wallet to early access TestFlight users… https://www.coindesk.com/business/2023/04/13/defi-exchange-uniswap-launches-...]]></title>
+        <id>https://twitter.com/defipulse/status/1646526138322411520</id>
+        <link href="https://twitter.com/defipulse/status/1646526138322411520"/>
+        <updated>2023-04-13T14:49:57.000Z</updated>
+        <summary type="html"><![CDATA[Uniswap launches Uniswap mobile wallet to early access TestFlight users…
+https://www.coindesk.com/business/2023/04/13/defi-exchange-uniswap-launches-uniswap-mobile-wallet/]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[✨The wait is almost over for Ethereum's Shanghai upgrade (aka Shapella), which is expected to take place at approximately 6:30 p.m. ET (22:30 UTC). G...]]></title>
         <id>https://twitter.com/defipulse/status/1646230453307973634</id>
@@ -206,16 +217,6 @@ https://www.coindesk.com/business/2023/03/24/binance-temporarily-suspends-spot-t
         <link href="https://twitter.com/defipulse/status/1638238259070337024"/>
         <updated>2023-03-21T17:56:52.000Z</updated>
         <summary type="html"><![CDATA[Re https://www.coindesk.com/policy/2023/03/21/sushi-dao-key-contributor-served-with-sec-subpoena/]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEC goes after Sushi DAO Head Chef...]]></title>
-        <id>https://twitter.com/defipulse/status/1638238257128304664</id>
-        <link href="https://twitter.com/defipulse/status/1638238257128304664"/>
-        <updated>2023-03-21T17:56:52.000Z</updated>
-        <summary type="html"><![CDATA[SEC goes after Sushi DAO Head Chef...]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
