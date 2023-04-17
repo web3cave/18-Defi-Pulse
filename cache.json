@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1647979959346921472",
+          "author": "DeFi Pulse",
+          "description": "Re https://www.msn.com/en-ca/money/topstories/us-sec-charges-bittrex-with-operating-an-unregistered-securities-exchange/ar-AA19XUjG",
+          "link": "https://twitter.com/defipulse/status/1647979959346921472",
+          "publishedOn": "2023-04-17T15:06:54.000Z",
+          "wordCount": 509,
+          "title": "Re https://www.msn.com/en-ca/money/topstories/us-sec-charges-bittrex-with-operating-an-unregistered-securities-exchange/ar-AA19XUjG",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defipulse/status/1647979957895790592",
+          "author": "DeFi Pulse",
+          "description": "SEC charges Bittrex with operating an unregistered securities exchange...",
+          "link": "https://twitter.com/defipulse/status/1647979957895790592",
+          "publishedOn": "2023-04-17T15:06:54.000Z",
+          "wordCount": 509,
+          "title": "SEC charges Bittrex with operating an unregistered securities exchange...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1646526138322411520",
           "author": "DeFi Pulse",
           "description": "Uniswap launches Uniswap mobile wallet to early access TestFlight users…\nhttps://www.coindesk.com/business/2023/04/13/defi-exchange-uniswap-launches-uniswap-mobile-wallet/",
@@ -183,26 +203,6 @@
           "publishedOn": "2023-03-22T19:38:16.000Z",
           "wordCount": 509,
           "title": "Re https://www.coindesk.com/policy/2023/03/22/tron-founder-justin-sun-sued-by-us-sec-on-securities-market-manipulation-charges/",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1638626162581856256",
-          "author": "DeFi Pulse",
-          "description": "Tron founder Justin Sun sued by SEC on Securities, Market Manipulation Charges...",
-          "link": "https://twitter.com/defipulse/status/1638626162581856256",
-          "publishedOn": "2023-03-22T19:38:16.000Z",
-          "wordCount": 509,
-          "title": "Tron founder Justin Sun sued by SEC on Securities, Market Manipulation Charges...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1638238259070337024",
-          "author": "DeFi Pulse",
-          "description": "Re https://www.coindesk.com/policy/2023/03/21/sushi-dao-key-contributor-served-with-sec-subpoena/",
-          "link": "https://twitter.com/defipulse/status/1638238259070337024",
-          "publishedOn": "2023-03-21T17:56:52.000Z",
-          "wordCount": 509,
-          "title": "Re https://www.coindesk.com/policy/2023/03/21/sushi-dao-key-contributor-served-with-sec-subpoena/",
           "imageUrl": null
         }
       ]

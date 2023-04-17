@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-17T15:17:48.378Z</id>
+    <id>urn:2023-04-17T16:22:23.717Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-17T15:17:48.378Z</updated>
+    <updated>2023-04-17T16:22:23.717Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re https://www.msn.com/en-ca/money/topstories/us-sec-charges-bittrex-with-operating-an-unregistered-securities-exchange/ar-AA19XUjG]]></title>
+        <id>https://twitter.com/defipulse/status/1647979959346921472</id>
+        <link href="https://twitter.com/defipulse/status/1647979959346921472"/>
+        <updated>2023-04-17T15:06:54.000Z</updated>
+        <summary type="html"><![CDATA[Re https://www.msn.com/en-ca/money/topstories/us-sec-charges-bittrex-with-operating-an-unregistered-securities-exchange/ar-AA19XUjG]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SEC charges Bittrex with operating an unregistered securities exchange...]]></title>
+        <id>https://twitter.com/defipulse/status/1647979957895790592</id>
+        <link href="https://twitter.com/defipulse/status/1647979957895790592"/>
+        <updated>2023-04-17T15:06:54.000Z</updated>
+        <summary type="html"><![CDATA[SEC charges Bittrex with operating an unregistered securities exchange...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Uniswap launches Uniswap mobile wallet to early access TestFlight users… https://www.coindesk.com/business/2023/04/13/defi-exchange-uniswap-launches-...]]></title>
         <id>https://twitter.com/defipulse/status/1646526138322411520</id>
@@ -197,26 +217,6 @@ https://www.coindesk.com/business/2023/03/24/binance-temporarily-suspends-spot-t
         <link href="https://twitter.com/defipulse/status/1638626164523831297"/>
         <updated>2023-03-22T19:38:16.000Z</updated>
         <summary type="html"><![CDATA[Re https://www.coindesk.com/policy/2023/03/22/tron-founder-justin-sun-sued-by-us-sec-on-securities-market-manipulation-charges/]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tron founder Justin Sun sued by SEC on Securities, Market Manipulation Charges...]]></title>
-        <id>https://twitter.com/defipulse/status/1638626162581856256</id>
-        <link href="https://twitter.com/defipulse/status/1638626162581856256"/>
-        <updated>2023-03-22T19:38:16.000Z</updated>
-        <summary type="html"><![CDATA[Tron founder Justin Sun sued by SEC on Securities, Market Manipulation Charges...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://www.coindesk.com/policy/2023/03/21/sushi-dao-key-contributor-served-with-sec-subpoena/]]></title>
-        <id>https://twitter.com/defipulse/status/1638238259070337024</id>
-        <link href="https://twitter.com/defipulse/status/1638238259070337024"/>
-        <updated>2023-03-21T17:56:52.000Z</updated>
-        <summary type="html"><![CDATA[Re https://www.coindesk.com/policy/2023/03/21/sushi-dao-key-contributor-served-with-sec-subpoena/]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
