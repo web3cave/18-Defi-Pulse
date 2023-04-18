@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-18T13:20:44.135Z</id>
+    <id>urn:2023-04-18T14:19:34.598Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-18T13:20:44.135Z</updated>
+    <updated>2023-04-18T14:19:34.598Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[LIVE: Gary Gensler testifies before Congress... https://youtu.be/DmipafFCli0]]></title>
+        <id>https://twitter.com/defipulse/status/1648328895979036675</id>
+        <link href="https://twitter.com/defipulse/status/1648328895979036675"/>
+        <updated>2023-04-18T14:13:27.000Z</updated>
+        <summary type="html"><![CDATA[LIVE: Gary Gensler testifies before Congress...
+https://youtu.be/DmipafFCli0]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re https://www.msn.com/en-ca/money/topstories/us-sec-charges-bittrex-with-operating-an-unregistered-securities-exchange/ar-AA19XUjG]]></title>
         <id>https://twitter.com/defipulse/status/1647979959346921472</id>
@@ -207,16 +218,6 @@ https://www.coindesk.com/business/2023/03/24/binance-temporarily-suspends-spot-t
         <link href="https://twitter.com/defipulse/status/1638892292982308864"/>
         <updated>2023-03-23T13:15:46.000Z</updated>
         <summary type="html"><![CDATA[.@arbitrum airdrop token claim goes live…]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://www.coindesk.com/policy/2023/03/22/tron-founder-justin-sun-sued-by-us-sec-on-securities-market-manipulation-charges/]]></title>
-        <id>https://twitter.com/defipulse/status/1638626164523831297</id>
-        <link href="https://twitter.com/defipulse/status/1638626164523831297"/>
-        <updated>2023-03-22T19:38:16.000Z</updated>
-        <summary type="html"><![CDATA[Re https://www.coindesk.com/policy/2023/03/22/tron-founder-justin-sun-sued-by-us-sec-on-securities-market-manipulation-charges/]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>

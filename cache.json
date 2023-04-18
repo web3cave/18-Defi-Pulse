@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defipulse",
       "articles": [
         {
+          "id": "https://twitter.com/defipulse/status/1648328895979036675",
+          "author": "DeFi Pulse",
+          "description": "LIVE: Gary Gensler testifies before Congress...\nhttps://youtu.be/DmipafFCli0",
+          "link": "https://twitter.com/defipulse/status/1648328895979036675",
+          "publishedOn": "2023-04-18T14:13:27.000Z",
+          "wordCount": 509,
+          "title": "LIVE: Gary Gensler testifies before Congress... https://youtu.be/DmipafFCli0",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defipulse/status/1647979959346921472",
           "author": "DeFi Pulse",
           "description": "Re https://www.msn.com/en-ca/money/topstories/us-sec-charges-bittrex-with-operating-an-unregistered-securities-exchange/ar-AA19XUjG",
@@ -193,16 +203,6 @@
           "publishedOn": "2023-03-23T13:15:46.000Z",
           "wordCount": 509,
           "title": ".@arbitrum airdrop token claim goes live…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defipulse/status/1638626164523831297",
-          "author": "DeFi Pulse",
-          "description": "Re https://www.coindesk.com/policy/2023/03/22/tron-founder-justin-sun-sued-by-us-sec-on-securities-market-manipulation-charges/",
-          "link": "https://twitter.com/defipulse/status/1638626164523831297",
-          "publishedOn": "2023-03-22T19:38:16.000Z",
-          "wordCount": 509,
-          "title": "Re https://www.coindesk.com/policy/2023/03/22/tron-founder-justin-sun-sued-by-us-sec-on-securities-market-manipulation-charges/",
           "imageUrl": null
         }
       ]
