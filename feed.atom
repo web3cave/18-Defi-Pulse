@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-23T02:39:27.626Z</id>
+    <id>urn:2023-04-23T03:17:24.910Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-23T02:39:27.626Z</updated>
+    <updated>2023-04-23T03:17:24.910Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -141,63 +141,6 @@ https://blog.ethereum.org/2023/03/28/shapella-mainnet-announcement]]></summary>
         <link href="https://twitter.com/defipulse/status/1640369793931853825"/>
         <updated>2023-03-27T15:06:50.000Z</updated>
         <summary type="html"><![CDATA[Binance sued by CFTC for allegedly breaking trading and derivatives rules...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://twitter.com/zksync/status/1639251197898129408?s=20]]></title>
-        <id>https://twitter.com/defipulse/status/1639285121504124929</id>
-        <link href="https://twitter.com/defipulse/status/1639285121504124929"/>
-        <updated>2023-03-24T15:16:44.000Z</updated>
-        <summary type="html"><![CDATA[Re https://twitter.com/zksync/status/1639251197898129408?s=20
-
-zkSync ∎: gm zkEVM! 👋🏻
-zkSync Era Mainnet Alpha is now open to all users.
-Developers, projects, and users can now experience the power of zkEVM.
-Read more: https://blog.matter-labs.io/gm-zkevm-171b12a26b36
-1/11 https://t.co/oS6dwmXzeB]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[zkSync Era Mainnet Alpha is now open to all users...]]></title>
-        <id>https://twitter.com/defipulse/status/1639285119130169345</id>
-        <link href="https://twitter.com/defipulse/status/1639285119130169345"/>
-        <updated>2023-03-24T15:16:43.000Z</updated>
-        <summary type="html"><![CDATA[zkSync Era Mainnet Alpha is now open to all users...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance breaks: Spot Market out for two hours thanks to trailing stop bug... https://www.coindesk.com/business/2023/03/24/binance-temporarily-suspends...]]></title>
-        <id>https://twitter.com/defipulse/status/1639279658016337921</id>
-        <link href="https://twitter.com/defipulse/status/1639279658016337921"/>
-        <updated>2023-03-24T14:55:01.000Z</updated>
-        <summary type="html"><![CDATA[Binance breaks: Spot Market out for two hours thanks to trailing stop bug... 
-https://www.coindesk.com/business/2023/03/24/binance-temporarily-suspends-spot-trading/]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://www.coindesk.com/policy/2023/03/24/do-kwon-charged-due-in-montenegro-court-for-extradition-hearing-afp/?utm_campaign=coindesk_main&utm_term...]]></title>
-        <id>https://twitter.com/defipulse/status/1639278385917489152</id>
-        <link href="https://twitter.com/defipulse/status/1639278385917489152"/>
-        <updated>2023-03-24T14:49:58.000Z</updated>
-        <summary type="html"><![CDATA[Re https://www.coindesk.com/policy/2023/03/24/do-kwon-charged-due-in-montenegro-court-for-extradition-hearing-afp/?utm_campaign=coindesk_main&utm_term=organic&utm_source=twitter&utm_medium=social&utm_content=editorial]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kwon faces charges, heading to Montenegro Court for extradition hearing...]]></title>
-        <id>https://twitter.com/defipulse/status/1639278384550236164</id>
-        <link href="https://twitter.com/defipulse/status/1639278384550236164"/>
-        <updated>2023-03-24T14:49:57.000Z</updated>
-        <summary type="html"><![CDATA[Kwon faces charges, heading to Montenegro Court for extradition hearing...]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
