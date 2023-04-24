@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-24T15:17:37.440Z</id>
+    <id>urn:2023-04-24T16:22:02.339Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-24T15:17:37.440Z</updated>
+    <updated>2023-04-24T16:22:02.339Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[.@binance launches liquid staking token... https://www.binance.com/en/support/announcement/binance-introduces-wrapped-beacon-eth-wbeth-on-eth-staking-...]]></title>
+        <id>https://twitter.com/defipulse/status/1650512991895396356</id>
+        <link href="https://twitter.com/defipulse/status/1650512991895396356"/>
+        <updated>2023-04-24T14:52:16.000Z</updated>
+        <summary type="html"><![CDATA[.@binance launches liquid staking token... 
+https://www.binance.com/en/support/announcement/binance-introduces-wrapped-beacon-eth-wbeth-on-eth-staking-a1197f34d832445db41654ad01f56b4d]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LIVE: Gary Gensler testifies before Congress... https://youtu.be/DmipafFCli0]]></title>
         <id>https://twitter.com/defipulse/status/1648328895979036675</id>
