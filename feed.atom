@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-26T02:33:39.796Z</id>
+    <id>urn:2023-04-26T03:17:39.554Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-26T02:33:39.796Z</updated>
+    <updated>2023-04-26T03:17:39.554Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -143,26 +143,6 @@ https://blog.ethereum.org/2023/03/28/shapella-mainnet-announcement]]></summary>
         <link href="https://twitter.com/defipulse/status/1640712043983454208"/>
         <updated>2023-03-28T13:46:48.000Z</updated>
         <summary type="html"><![CDATA[SBF faces new U.S. indictment over Chinese bribery...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://www.bloomberg.com/news/articles/2023-03-27/crypto-exchange-binance-sued-by-us-cftc-for-alleged-derivatives-rule-lapses?utm_source=twitter&u...]]></title>
-        <id>https://twitter.com/defipulse/status/1640369795769020417</id>
-        <link href="https://twitter.com/defipulse/status/1640369795769020417"/>
-        <updated>2023-03-27T15:06:50.000Z</updated>
-        <summary type="html"><![CDATA[Re https://www.bloomberg.com/news/articles/2023-03-27/crypto-exchange-binance-sued-by-us-cftc-for-alleged-derivatives-rule-lapses?utm_source=twitter&utm_content=crypto&utm_medium=social&utm_campaign=socialflow-organic]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance sued by CFTC for allegedly breaking trading and derivatives rules...]]></title>
-        <id>https://twitter.com/defipulse/status/1640369793931853825</id>
-        <link href="https://twitter.com/defipulse/status/1640369793931853825"/>
-        <updated>2023-03-27T15:06:50.000Z</updated>
-        <summary type="html"><![CDATA[Binance sued by CFTC for allegedly breaking trading and derivatives rules...]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
