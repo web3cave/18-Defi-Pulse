@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-28T15:16:50.227Z</id>
+    <id>urn:2023-04-28T16:20:17.418Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-28T15:16:50.227Z</updated>
+    <updated>2023-04-28T16:20:17.418Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[PayPal extending crypto transfers to more than 60 million Venmo customers... https://www.theblock.co/post/228824/paypal-extending-crypto-transfers-to-...]]></title>
+        <id>https://twitter.com/defipulse/status/1651980980029194240</id>
+        <link href="https://twitter.com/defipulse/status/1651980980029194240"/>
+        <updated>2023-04-28T16:05:32.000Z</updated>
+        <summary type="html"><![CDATA[PayPal extending crypto transfers to more than 60 million Venmo customers...
+https://www.theblock.co/post/228824/paypal-extending-crypto-transfers-to-more-than-60-million-venmo-customers]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alex Pertsev, Tornado Cash developer, tweets for the first time after being released from prison... https://twitter.com/alex_pertsev/status/1651961639...]]></title>
+        <id>https://twitter.com/defipulse/status/1651978143727599616</id>
+        <link href="https://twitter.com/defipulse/status/1651978143727599616"/>
+        <updated>2023-04-28T15:54:16.000Z</updated>
+        <summary type="html"><![CDATA[Alex Pertsev, Tornado Cash developer, tweets for the first time after being released from prison...
+https://twitter.com/alex_pertsev/status/1651961639388815363
+
+Alexey Pertsev: Sorry I was afk for a while, what did I miss? 👀]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coinbase sues the SEC for answer on rule specific to digital assets… https://www.theblock.co/post/228047/coinbase-sues-the-sec-for-answer-on-rule-spe...]]></title>
         <id>https://twitter.com/defipulse/status/1650652770364424193</id>
