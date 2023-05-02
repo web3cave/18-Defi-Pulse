@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-02T16:21:27.425Z</id>
+    <id>urn:2023-05-02T17:14:40.960Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-02T16:21:27.425Z</updated>
+    <updated>2023-05-02T17:14:40.960Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Gemini launches the Gemini Foundation, an offshore derivatives platform... https://www.gemini.com/blog/gemini-foundation-a-non-us-derivatives-platform...]]></title>
+        <id>https://twitter.com/defipulse/status/1653434310978928640</id>
+        <link href="https://twitter.com/defipulse/status/1653434310978928640"/>
+        <updated>2023-05-02T16:20:33.000Z</updated>
+        <summary type="html"><![CDATA[Gemini launches the Gemini Foundation, an offshore derivatives platform...
+https://www.gemini.com/blog/gemini-foundation-a-non-us-derivatives-platform-is-now-live]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coinbase opens offshore derivatives exchange... https://www.coindesk.com/business/2023/05/02/coinbase-opens-offshore-crypto-derivatives-exchange/]]></title>
+        <id>https://twitter.com/defipulse/status/1653433105292591115</id>
+        <link href="https://twitter.com/defipulse/status/1653433105292591115"/>
+        <updated>2023-05-02T16:15:46.000Z</updated>
+        <summary type="html"><![CDATA[Coinbase opens offshore derivatives exchange...
+https://www.coindesk.com/business/2023/05/02/coinbase-opens-offshore-crypto-derivatives-exchange/]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PayPal extending crypto transfers to more than 60 million Venmo customers... https://www.theblock.co/post/228824/paypal-extending-crypto-transfers-to-...]]></title>
         <id>https://twitter.com/defipulse/status/1651980980029194240</id>
