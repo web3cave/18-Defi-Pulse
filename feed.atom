@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-09T14:15:51.024Z</id>
+    <id>urn:2023-05-09T15:17:36.281Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-09T14:15:51.024Z</updated>
+    <updated>2023-05-09T15:17:36.281Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re https://www.coindesk.com/policy/2023/05/09/dcg-looks-to-refinance-outstanding-genesis-obligations-raise-growth-capital/]]></title>
+        <id>https://twitter.com/defipulse/status/1655927424486371338</id>
+        <link href="https://twitter.com/defipulse/status/1655927424486371338"/>
+        <updated>2023-05-09T13:27:18.000Z</updated>
+        <summary type="html"><![CDATA[Re https://www.coindesk.com/policy/2023/05/09/dcg-looks-to-refinance-outstanding-genesis-obligations-raise-growth-capital/]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DCG looks to refinance outstanding Genesis obligations and raise capital growth...]]></title>
+        <id>https://twitter.com/defipulse/status/1655927423202885632</id>
+        <link href="https://twitter.com/defipulse/status/1655927423202885632"/>
+        <updated>2023-05-09T13:27:17.000Z</updated>
+        <summary type="html"><![CDATA[DCG looks to refinance outstanding Genesis obligations and raise capital growth...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re https://www.coindesk.com/policy/2023/05/09/ftxs-sam-bankman-fried-moves-to-dismiss-most-criminal-charges-against-him/]]></title>
+        <id>https://twitter.com/defipulse/status/1655926920842825729</id>
+        <link href="https://twitter.com/defipulse/status/1655926920842825729"/>
+        <updated>2023-05-09T13:25:18.000Z</updated>
+        <summary type="html"><![CDATA[Re https://www.coindesk.com/policy/2023/05/09/ftxs-sam-bankman-fried-moves-to-dismiss-most-criminal-charges-against-him/]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SBF seeks to dismiss most criminal charges brought against him...]]></title>
+        <id>https://twitter.com/defipulse/status/1655926919529938945</id>
+        <link href="https://twitter.com/defipulse/status/1655926919529938945"/>
+        <updated>2023-05-09T13:25:17.000Z</updated>
+        <summary type="html"><![CDATA[SBF seeks to dismiss most criminal charges brought against him...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gemini launches the Gemini Foundation, an offshore derivatives platform... https://www.gemini.com/blog/gemini-foundation-a-non-us-derivatives-platform...]]></title>
         <id>https://twitter.com/defipulse/status/1653434310978928640</id>
