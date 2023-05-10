@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-10T01:20:08.530Z</id>
+    <id>urn:2023-05-10T02:32:10.213Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-10T01:20:08.530Z</updated>
+    <updated>2023-05-10T02:32:10.213Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -186,17 +186,6 @@ https://www.coindesk.com/business/2023/04/12/euler-finance-lets-users-redeem-rec
         <updated>2023-04-11T13:43:25.000Z</updated>
         <summary type="html"><![CDATA[Everything you need to know about the Ethereum Shapella upgrade happening on Wednesday…
 https://www.theblock.co/post/225655/ethereum-shapella]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SBF declared Alameda ‘unauditable’ and claimed they would ‘sometimes find $50m of assets lying around that we lost track of; such is life.’… http...]]></title>
-        <id>https://twitter.com/defipulse/status/1645421196844867584</id>
-        <link href="https://twitter.com/defipulse/status/1645421196844867584"/>
-        <updated>2023-04-10T13:39:18.000Z</updated>
-        <summary type="html"><![CDATA[SBF declared Alameda ‘unauditable’ and claimed they would ‘sometimes find $50m of assets lying around that we lost track of; such is life.’…
-https://www.theblock.co/post/225497/sam-bankman-fried-alameda-report]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
