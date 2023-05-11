@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-11T01:21:24.484Z</id>
+    <id>urn:2023-05-11T02:32:30.804Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-11T01:21:24.484Z</updated>
+    <updated>2023-05-11T02:32:30.804Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -175,17 +175,6 @@ Get in on the excitement:
         <updated>2023-04-12T15:37:59.000Z</updated>
         <summary type="html"><![CDATA[Euler Finance users can reclaim funds stolen in $200M theft...
 https://www.coindesk.com/business/2023/04/12/euler-finance-lets-users-redeem-recovered-funds-following-200m-theft/]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything you need to know about the Ethereum Shapella upgrade happening on Wednesday… https://www.theblock.co/post/225655/ethereum-shapella]]></title>
-        <id>https://twitter.com/defipulse/status/1645784619017486339</id>
-        <link href="https://twitter.com/defipulse/status/1645784619017486339"/>
-        <updated>2023-04-11T13:43:25.000Z</updated>
-        <summary type="html"><![CDATA[Everything you need to know about the Ethereum Shapella upgrade happening on Wednesday…
-https://www.theblock.co/post/225655/ethereum-shapella]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
