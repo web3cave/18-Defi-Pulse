@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-12T20:16:49.512Z</id>
+    <id>urn:2023-05-12T21:13:37.185Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-12T20:16:49.512Z</updated>
+    <updated>2023-05-12T21:13:37.185Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethereum resumes finalizing blocks after second hiccup in 24 Hours... https://www.coindesk.com/tech/2023/05/12/ethereum-resumes-finalizing-blocks-afte...]]></title>
+        <id>https://twitter.com/defipulse/status/1657110475207856162</id>
+        <link href="https://twitter.com/defipulse/status/1657110475207856162"/>
+        <updated>2023-05-12T19:48:19.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum resumes finalizing blocks after second hiccup in 24 Hours...
+https://www.coindesk.com/tech/2023/05/12/ethereum-resumes-finalizing-blocks-after-second-performance-hiccup-in-24-hours/]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MakerDAO founder proposes plan for upgraded versions of DAI... https://www.coindesk.com/business/2023/05/12/makerdao-founder-proposes-plan-for-upgrade...]]></title>
+        <id>https://twitter.com/defipulse/status/1657110042909241344</id>
+        <link href="https://twitter.com/defipulse/status/1657110042909241344"/>
+        <updated>2023-05-12T19:46:36.000Z</updated>
+        <summary type="html"><![CDATA[MakerDAO founder proposes plan for upgraded versions of DAI...
+https://www.coindesk.com/business/2023/05/12/makerdao-founder-proposes-plan-for-upgraded-versions-of-dai-stablecoin-governance-token/?utm_term=organic&utm_content=editorial&utm_medium=social&utm_campaign=coindesk_main&utm_source=twitter]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re https://www.coindesk.com/policy/2023/05/09/dcg-looks-to-refinance-outstanding-genesis-obligations-raise-growth-capital/]]></title>
         <id>https://twitter.com/defipulse/status/1655927424486371338</id>
