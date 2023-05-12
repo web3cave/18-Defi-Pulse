@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-12T03:17:13.563Z</id>
+    <id>urn:2023-05-12T04:19:06.650Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-12T03:17:13.563Z</updated>
+    <updated>2023-05-12T04:19:06.651Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -164,17 +164,6 @@ https://www.coindesk.com/business/2023/04/13/defi-exchange-uniswap-launches-unis
 Get in on the excitement:
 ▶️Countdown: https://wenmerge.com/
 ▶️Watch Party: https://www.youtube.com/watch?v=BVq1pz3FrDo]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Euler Finance users can reclaim funds stolen in $200M theft... https://www.coindesk.com/business/2023/04/12/euler-finance-lets-users-redeem-recovered-...]]></title>
-        <id>https://twitter.com/defipulse/status/1646175839644524546</id>
-        <link href="https://twitter.com/defipulse/status/1646175839644524546"/>
-        <updated>2023-04-12T15:37:59.000Z</updated>
-        <summary type="html"><![CDATA[Euler Finance users can reclaim funds stolen in $200M theft...
-https://www.coindesk.com/business/2023/04/12/euler-finance-lets-users-redeem-recovered-funds-following-200m-theft/]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
