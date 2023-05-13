@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-13T02:30:42.934Z</id>
+    <id>urn:2023-05-13T03:16:34.816Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-13T02:30:42.934Z</updated>
+    <updated>2023-05-13T03:16:34.816Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -162,17 +162,6 @@ https://youtu.be/DmipafFCli0]]></summary>
         <link href="https://twitter.com/defipulse/status/1647979957895790592"/>
         <updated>2023-04-17T15:06:54.000Z</updated>
         <summary type="html"><![CDATA[SEC charges Bittrex with operating an unregistered securities exchange...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uniswap launches Uniswap mobile wallet to early access TestFlight users… https://www.coindesk.com/business/2023/04/13/defi-exchange-uniswap-launches-...]]></title>
-        <id>https://twitter.com/defipulse/status/1646526138322411520</id>
-        <link href="https://twitter.com/defipulse/status/1646526138322411520"/>
-        <updated>2023-04-13T14:49:57.000Z</updated>
-        <summary type="html"><![CDATA[Uniswap launches Uniswap mobile wallet to early access TestFlight users…
-https://www.coindesk.com/business/2023/04/13/defi-exchange-uniswap-launches-uniswap-mobile-wallet/]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
