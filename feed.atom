@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-15T15:17:11.820Z</id>
+    <id>urn:2023-05-15T16:21:01.554Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-15T15:17:11.820Z</updated>
+    <updated>2023-05-15T16:21:01.554Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[.@ribbonfinance ‘s decentralized exchange Aevo unveils altcoin options trading… https://www.coindesk.com/markets/2023/05/15/ribbon-finances-aevo-dex...]]></title>
+        <id>https://twitter.com/defipulse/status/1658100114672476161</id>
+        <link href="https://twitter.com/defipulse/status/1658100114672476161"/>
+        <updated>2023-05-15T13:20:48.000Z</updated>
+        <summary type="html"><![CDATA[.@ribbonfinance ‘s decentralized exchange Aevo unveils altcoin options trading…
+https://www.coindesk.com/markets/2023/05/15/ribbon-finances-aevo-dex-unveils-altcoin-options-trading/]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum resumes finalizing blocks after second hiccup in 24 Hours... https://www.coindesk.com/tech/2023/05/12/ethereum-resumes-finalizing-blocks-afte...]]></title>
         <id>https://twitter.com/defipulse/status/1657110475207856162</id>
