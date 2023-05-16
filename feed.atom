@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-16T17:14:16.961Z</id>
+    <id>urn:2023-05-16T18:19:51.233Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-16T17:14:16.961Z</updated>
+    <updated>2023-05-16T18:19:51.233Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ledger's new recovery tool raises concerns among customers... https://www.theblock.co/post/230992/ledger-defends-crypto-wallet-recovery-tool]]></title>
+        <id>https://twitter.com/defipulse/status/1658511056480751617</id>
+        <link href="https://twitter.com/defipulse/status/1658511056480751617"/>
+        <updated>2023-05-16T16:33:44.000Z</updated>
+        <summary type="html"><![CDATA[Ledger's new recovery tool raises concerns among customers...
+https://www.theblock.co/post/230992/ledger-defends-crypto-wallet-recovery-tool]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[.@ribbonfinance ‘s decentralized exchange Aevo unveils altcoin options trading… https://www.coindesk.com/markets/2023/05/15/ribbon-finances-aevo-dex...]]></title>
         <id>https://twitter.com/defipulse/status/1658100114672476161</id>
