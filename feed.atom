@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-17T02:34:09.588Z</id>
+    <id>urn:2023-05-17T03:17:07.888Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-17T02:34:09.588Z</updated>
+    <updated>2023-05-17T03:17:07.888Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -164,26 +164,6 @@ https://www.binance.com/en/support/announcement/binance-introduces-wrapped-beaco
         <updated>2023-04-18T14:13:27.000Z</updated>
         <summary type="html"><![CDATA[LIVE: Gary Gensler testifies before Congress...
 https://youtu.be/DmipafFCli0]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://www.msn.com/en-ca/money/topstories/us-sec-charges-bittrex-with-operating-an-unregistered-securities-exchange/ar-AA19XUjG]]></title>
-        <id>https://twitter.com/defipulse/status/1647979959346921472</id>
-        <link href="https://twitter.com/defipulse/status/1647979959346921472"/>
-        <updated>2023-04-17T15:06:54.000Z</updated>
-        <summary type="html"><![CDATA[Re https://www.msn.com/en-ca/money/topstories/us-sec-charges-bittrex-with-operating-an-unregistered-securities-exchange/ar-AA19XUjG]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEC charges Bittrex with operating an unregistered securities exchange...]]></title>
-        <id>https://twitter.com/defipulse/status/1647979957895790592</id>
-        <link href="https://twitter.com/defipulse/status/1647979957895790592"/>
-        <updated>2023-04-17T15:06:54.000Z</updated>
-        <summary type="html"><![CDATA[SEC charges Bittrex with operating an unregistered securities exchange...]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
