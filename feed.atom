@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-24T11:13:15.410Z</id>
+    <id>urn:2023-05-24T12:32:17.666Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-24T11:13:15.410Z</updated>
+    <updated>2023-05-24T12:32:17.666Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -142,17 +142,6 @@ https://www.theblock.co/post/228824/paypal-extending-crypto-transfers-to-more-th
 https://twitter.com/alex_pertsev/status/1651961639388815363
 
 Alexey Pertsev: Sorry I was afk for a while, what did I miss? 👀]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase sues the SEC for answer on rule specific to digital assets… https://www.theblock.co/post/228047/coinbase-sues-the-sec-for-answer-on-rule-spe...]]></title>
-        <id>https://twitter.com/defipulse/status/1650652770364424193</id>
-        <link href="https://twitter.com/defipulse/status/1650652770364424193"/>
-        <updated>2023-04-25T00:07:42.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase sues the SEC for answer on rule specific to digital assets…
-https://www.theblock.co/post/228047/coinbase-sues-the-sec-for-answer-on-rule-specific-to-digital-assets]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
