@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-05T14:14:48.067Z</id>
+    <id>urn:2023-06-05T15:16:39.024Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-05T14:14:48.067Z</updated>
+    <updated>2023-06-05T15:16:39.024Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re https://www.bloomberg.com/news/articles/2023-06-05/sec-sues-binance-and-ceo-zhao-for-breaking-us-securities-rules]]></title>
+        <id>https://twitter.com/defipulse/status/1665738418788106241</id>
+        <link href="https://twitter.com/defipulse/status/1665738418788106241"/>
+        <updated>2023-06-05T15:12:41.000Z</updated>
+        <summary type="html"><![CDATA[Re https://www.bloomberg.com/news/articles/2023-06-05/sec-sues-binance-and-ceo-zhao-for-breaking-us-securities-rules]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SEC Sues Binance and CEO Zhao for Breaking US Securities Rules...]]></title>
+        <id>https://twitter.com/defipulse/status/1665738417408188416</id>
+        <link href="https://twitter.com/defipulse/status/1665738417408188416"/>
+        <updated>2023-06-05T15:12:41.000Z</updated>
+        <summary type="html"><![CDATA[SEC Sues Binance and CEO Zhao for Breaking US Securities Rules...]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Circle launching USDC natively on Arbitrum... https://www.theblock.co/post/232867/circle-says-its-launching-usdc-natively-on-arbitrum]]></title>
         <id>https://twitter.com/defipulse/status/1664270965134737411</id>
