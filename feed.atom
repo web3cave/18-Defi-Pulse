@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-07T23:16:49.623Z</id>
+    <id>urn:2023-06-08T01:45:46.531Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-07T23:16:49.623Z</updated>
+    <updated>2023-06-08T01:45:46.531Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -107,46 +107,6 @@ https://www.coindesk.com/tech/2023/05/12/ethereum-resumes-finalizing-blocks-afte
         <updated>2023-05-12T19:46:36.000Z</updated>
         <summary type="html"><![CDATA[MakerDAO founder proposes plan for upgraded versions of DAI...
 https://www.coindesk.com/business/2023/05/12/makerdao-founder-proposes-plan-for-upgraded-versions-of-dai-stablecoin-governance-token/?utm_term=organic&utm_content=editorial&utm_medium=social&utm_campaign=coindesk_main&utm_source=twitter]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://www.coindesk.com/policy/2023/05/09/dcg-looks-to-refinance-outstanding-genesis-obligations-raise-growth-capital/]]></title>
-        <id>https://twitter.com/defipulse/status/1655927424486371338</id>
-        <link href="https://twitter.com/defipulse/status/1655927424486371338"/>
-        <updated>2023-05-09T13:27:18.000Z</updated>
-        <summary type="html"><![CDATA[Re https://www.coindesk.com/policy/2023/05/09/dcg-looks-to-refinance-outstanding-genesis-obligations-raise-growth-capital/]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DCG looks to refinance outstanding Genesis obligations and raise capital growth...]]></title>
-        <id>https://twitter.com/defipulse/status/1655927423202885632</id>
-        <link href="https://twitter.com/defipulse/status/1655927423202885632"/>
-        <updated>2023-05-09T13:27:17.000Z</updated>
-        <summary type="html"><![CDATA[DCG looks to refinance outstanding Genesis obligations and raise capital growth...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://www.coindesk.com/policy/2023/05/09/ftxs-sam-bankman-fried-moves-to-dismiss-most-criminal-charges-against-him/]]></title>
-        <id>https://twitter.com/defipulse/status/1655926920842825729</id>
-        <link href="https://twitter.com/defipulse/status/1655926920842825729"/>
-        <updated>2023-05-09T13:25:18.000Z</updated>
-        <summary type="html"><![CDATA[Re https://www.coindesk.com/policy/2023/05/09/ftxs-sam-bankman-fried-moves-to-dismiss-most-criminal-charges-against-him/]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SBF seeks to dismiss most criminal charges brought against him...]]></title>
-        <id>https://twitter.com/defipulse/status/1655926919529938945</id>
-        <link href="https://twitter.com/defipulse/status/1655926919529938945"/>
-        <updated>2023-05-09T13:25:17.000Z</updated>
-        <summary type="html"><![CDATA[SBF seeks to dismiss most criminal charges brought against him...]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
