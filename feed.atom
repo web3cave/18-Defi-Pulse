@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-11T07:13:58.609Z</id>
+    <id>urn:2023-06-11T08:18:53.585Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-11T07:13:58.609Z</updated>
+    <updated>2023-06-11T08:18:53.585Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -117,28 +117,6 @@ https://www.theblock.co/post/230992/ledger-defends-crypto-wallet-recovery-tool]]
         <updated>2023-05-15T13:20:48.000Z</updated>
         <summary type="html"><![CDATA[.@ribbonfinance ‘s decentralized exchange Aevo unveils altcoin options trading…
 https://www.coindesk.com/markets/2023/05/15/ribbon-finances-aevo-dex-unveils-altcoin-options-trading/]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum resumes finalizing blocks after second hiccup in 24 Hours... https://www.coindesk.com/tech/2023/05/12/ethereum-resumes-finalizing-blocks-afte...]]></title>
-        <id>https://twitter.com/defipulse/status/1657110475207856162</id>
-        <link href="https://twitter.com/defipulse/status/1657110475207856162"/>
-        <updated>2023-05-12T19:48:19.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum resumes finalizing blocks after second hiccup in 24 Hours...
-https://www.coindesk.com/tech/2023/05/12/ethereum-resumes-finalizing-blocks-after-second-performance-hiccup-in-24-hours/]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MakerDAO founder proposes plan for upgraded versions of DAI... https://www.coindesk.com/business/2023/05/12/makerdao-founder-proposes-plan-for-upgrade...]]></title>
-        <id>https://twitter.com/defipulse/status/1657110042909241344</id>
-        <link href="https://twitter.com/defipulse/status/1657110042909241344"/>
-        <updated>2023-05-12T19:46:36.000Z</updated>
-        <summary type="html"><![CDATA[MakerDAO founder proposes plan for upgraded versions of DAI...
-https://www.coindesk.com/business/2023/05/12/makerdao-founder-proposes-plan-for-upgraded-versions-of-dai-stablecoin-governance-token/?utm_term=organic&utm_content=editorial&utm_medium=social&utm_campaign=coindesk_main&utm_source=twitter]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
