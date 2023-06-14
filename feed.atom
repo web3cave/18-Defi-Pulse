@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-13T23:14:43.642Z</id>
+    <id>urn:2023-06-14T01:38:52.891Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-13T23:14:43.642Z</updated>
+    <updated>2023-06-14T01:38:52.891Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -26,11 +26,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[.@BinanceUS suspends USD deposits and alerts customers that banking partners will pause fiat withdrawals as early as June 13th…]]></title>
+        <title type="html"><![CDATA[.@BinanceUS suspends USD deposits and alerts customers that banking partners will pause fiat withdrawals as early as June 13th… https://twitter.com/b...]]></title>
         <id>https://twitter.com/defipulse/status/1667006966911074307</id>
         <link href="https://twitter.com/defipulse/status/1667006966911074307"/>
         <updated>2023-06-09T03:13:27.000Z</updated>
-        <summary type="html"><![CDATA[.@BinanceUS suspends USD deposits and alerts customers that banking partners will pause fiat withdrawals as early as June 13th…
+        <summary type="html"><![CDATA[.@BinanceUS suspends USD deposits and alerts customers that banking partners will pause fiat withdrawals as early as June 13th… https://twitter.com/binanceus/status/1666996908651323393
 
 Binance.US 🇺🇸: The SEC has taken to using extremely aggressive and intimidating tactics in its pursuit of an ideological campaign against the American digital asset industry. http://Binance.US and our business partners have not been spared in the use of these tactics, which has created… https://twitter.com/i/web/status/1666996908651323393 https://t.co/rlIe6swIoY]]></summary>
         <author>
@@ -126,17 +126,6 @@ https://www.theblock.co/post/231317/osmosis-axelar-and-akash-fund-mesh-security-
         <updated>2023-05-16T16:33:44.000Z</updated>
         <summary type="html"><![CDATA[Ledger's new recovery tool raises concerns among customers...
 https://www.theblock.co/post/230992/ledger-defends-crypto-wallet-recovery-tool]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[.@ribbonfinance ‘s decentralized exchange Aevo unveils altcoin options trading… https://www.coindesk.com/markets/2023/05/15/ribbon-finances-aevo-dex...]]></title>
-        <id>https://twitter.com/defipulse/status/1658100114672476161</id>
-        <link href="https://twitter.com/defipulse/status/1658100114672476161"/>
-        <updated>2023-05-15T13:20:48.000Z</updated>
-        <summary type="html"><![CDATA[.@ribbonfinance ‘s decentralized exchange Aevo unveils altcoin options trading…
-https://www.coindesk.com/markets/2023/05/15/ribbon-finances-aevo-dex-unveils-altcoin-options-trading/]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
