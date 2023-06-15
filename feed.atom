@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-15T20:16:51.150Z</id>
+    <id>urn:2023-06-15T21:14:21.432Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-15T20:16:51.150Z</updated>
+    <updated>2023-06-15T21:14:21.432Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re https://www.coindesk.com/business/2023/06/15/blackrocks-ishares-files-paperwork-for-spot-bitcoin-etf/]]></title>
+        <id>https://twitter.com/defipulse/status/1669452663103057921</id>
+        <link href="https://twitter.com/defipulse/status/1669452663103057921"/>
+        <updated>2023-06-15T21:11:46.000Z</updated>
+        <summary type="html"><![CDATA[Re https://www.coindesk.com/business/2023/06/15/blackrocks-ishares-files-paperwork-for-spot-bitcoin-etf/]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BlackRock's iShares Files Paperwork for Spot Bitcoin ETF…]]></title>
+        <id>https://twitter.com/defipulse/status/1669452661106647042</id>
+        <link href="https://twitter.com/defipulse/status/1669452661106647042"/>
+        <updated>2023-06-15T21:11:45.000Z</updated>
+        <summary type="html"><![CDATA[BlackRock's iShares Files Paperwork for Spot Bitcoin ETF…]]></summary>
+        <author>
+            <name>DeFi Pulse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re https://www.theblock.co/post/234261/uniswap-labs-releases-draft-code-for-entirely-new-version-of-protocol]]></title>
         <id>https://twitter.com/defipulse/status/1668622926629998595</id>
