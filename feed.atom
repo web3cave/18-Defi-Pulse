@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-01T01:55:55.019Z</id>
+    <id>urn:2023-07-01T03:08:37.354Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-01T01:55:55.019Z</updated>
+    <updated>2023-07-01T03:08:37.354Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -173,17 +173,6 @@ Binance.US 🇺🇸: The SEC has taken to using extremely aggressive and intim
         <link href="https://twitter.com/defipulse/status/1665738417408188416"/>
         <updated>2023-06-05T15:12:41.000Z</updated>
         <summary type="html"><![CDATA[SEC Sues Binance and CEO Zhao for Breaking US Securities Rules...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Circle launching USDC natively on Arbitrum... https://www.theblock.co/post/232867/circle-says-its-launching-usdc-natively-on-arbitrum]]></title>
-        <id>https://twitter.com/defipulse/status/1664270965134737411</id>
-        <link href="https://twitter.com/defipulse/status/1664270965134737411"/>
-        <updated>2023-06-01T14:01:33.000Z</updated>
-        <summary type="html"><![CDATA[Circle launching USDC natively on Arbitrum...
-https://www.theblock.co/post/232867/circle-says-its-launching-usdc-natively-on-arbitrum]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
