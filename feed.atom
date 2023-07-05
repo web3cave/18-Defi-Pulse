@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-05T03:00:20.634Z</id>
+    <id>urn:2023-07-05T03:32:54.359Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-05T03:00:20.634Z</updated>
+    <updated>2023-07-05T03:32:54.359Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -153,26 +153,6 @@ Binance.US 🇺🇸: The SEC has taken to using extremely aggressive and intim
         <link href="https://twitter.com/defipulse/status/1666061499331117057"/>
         <updated>2023-06-06T12:36:30.000Z</updated>
         <summary type="html"><![CDATA[Coinbase sued by SEC one day after regulator sues Binance…]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://www.bloomberg.com/news/articles/2023-06-05/sec-sues-binance-and-ceo-zhao-for-breaking-us-securities-rules]]></title>
-        <id>https://twitter.com/defipulse/status/1665738418788106241</id>
-        <link href="https://twitter.com/defipulse/status/1665738418788106241"/>
-        <updated>2023-06-05T15:12:41.000Z</updated>
-        <summary type="html"><![CDATA[Re https://www.bloomberg.com/news/articles/2023-06-05/sec-sues-binance-and-ceo-zhao-for-breaking-us-securities-rules]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEC Sues Binance and CEO Zhao for Breaking US Securities Rules...]]></title>
-        <id>https://twitter.com/defipulse/status/1665738417408188416</id>
-        <link href="https://twitter.com/defipulse/status/1665738417408188416"/>
-        <updated>2023-06-05T15:12:41.000Z</updated>
-        <summary type="html"><![CDATA[SEC Sues Binance and CEO Zhao for Breaking US Securities Rules...]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
