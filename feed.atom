@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-07T23:17:41.314Z</id>
+    <id>urn:2023-07-08T01:48:31.082Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-07T23:17:41.314Z</updated>
+    <updated>2023-07-08T01:48:31.082Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -113,26 +113,6 @@
         <summary type="html"><![CDATA[.@BinanceUS suspends USD deposits and alerts customers that banking partners will pause fiat withdrawals as early as June 13th… https://twitter.com/BinanceUS/status/1666996908651323393
 
 Binance.US 🇺🇸: The SEC has taken to using extremely aggressive and intimidating tactics in its pursuit of an ideological campaign against the American digital asset industry. http://Binance.US and our business partners have not been spared in the use of these tactics, which has created… https://twitter.com/i/web/status/1666996908651323393 https://t.co/rlIe6swIoY]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://www.cnbc.com/2023/06/07/binance-lawyers-say-sec-chair-gensler-offered-to-be-advisor-in-2019.html]]></title>
-        <id>https://twitter.com/defipulse/status/1666800054760243201</id>
-        <link href="https://twitter.com/defipulse/status/1666800054760243201"/>
-        <updated>2023-06-08T13:31:15.000Z</updated>
-        <summary type="html"><![CDATA[Re https://www.cnbc.com/2023/06/07/binance-lawyers-say-sec-chair-gensler-offered-to-be-advisor-in-2019.html]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance lawyers allege SEC Chair Gensler offered to serve as advisor to crypto company in 2019...]]></title>
-        <id>https://twitter.com/defipulse/status/1666800053493678081</id>
-        <link href="https://twitter.com/defipulse/status/1666800053493678081"/>
-        <updated>2023-06-08T13:31:15.000Z</updated>
-        <summary type="html"><![CDATA[Binance lawyers allege SEC Chair Gensler offered to serve as advisor to crypto company in 2019...]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
