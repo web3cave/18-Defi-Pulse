@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-13T01:52:42.207Z</id>
+    <id>urn:2023-07-13T03:01:21.866Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-13T01:52:42.208Z</updated>
+    <updated>2023-07-13T03:01:21.866Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -81,26 +81,6 @@
         <link href="https://twitter.com/defipulse/status/1669452661106647042"/>
         <updated>2023-06-15T21:11:45.000Z</updated>
         <summary type="html"><![CDATA[BlackRock's iShares Files Paperwork for Spot Bitcoin ETF…]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://www.theblock.co/post/234261/uniswap-labs-releases-draft-code-for-entirely-new-version-of-protocol]]></title>
-        <id>https://twitter.com/defipulse/status/1668622926629998595</id>
-        <link href="https://twitter.com/defipulse/status/1668622926629998595"/>
-        <updated>2023-06-13T14:14:41.000Z</updated>
-        <summary type="html"><![CDATA[Re https://www.theblock.co/post/234261/uniswap-labs-releases-draft-code-for-entirely-new-version-of-protocol]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uniswap Labs releases draft code for 'entirely new' version of Uniswap…]]></title>
-        <id>https://twitter.com/defipulse/status/1668622922100146187</id>
-        <link href="https://twitter.com/defipulse/status/1668622922100146187"/>
-        <updated>2023-06-13T14:14:40.000Z</updated>
-        <summary type="html"><![CDATA[Uniswap Labs releases draft code for 'entirely new' version of Uniswap…]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
