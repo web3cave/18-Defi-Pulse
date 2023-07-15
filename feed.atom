@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-15T08:21:19.547Z</id>
+    <id>urn:2023-07-15T09:16:24.240Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-15T08:21:19.547Z</updated>
+    <updated>2023-07-15T09:16:24.240Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -61,26 +61,6 @@
         <link href="https://twitter.com/defipulse/status/1672261312980873217"/>
         <updated>2023-06-23T15:12:20.000Z</updated>
         <summary type="html"><![CDATA[US Supreme Court rules in favor of Coinbase in arbitration dispute...]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://www.coindesk.com/business/2023/06/15/blackrocks-ishares-files-paperwork-for-spot-bitcoin-etf/]]></title>
-        <id>https://twitter.com/defipulse/status/1669452663103057921</id>
-        <link href="https://twitter.com/defipulse/status/1669452663103057921"/>
-        <updated>2023-06-15T21:11:46.000Z</updated>
-        <summary type="html"><![CDATA[Re https://www.coindesk.com/business/2023/06/15/blackrocks-ishares-files-paperwork-for-spot-bitcoin-etf/]]></summary>
-        <author>
-            <name>DeFi Pulse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BlackRock's iShares Files Paperwork for Spot Bitcoin ETF…]]></title>
-        <id>https://twitter.com/defipulse/status/1669452661106647042</id>
-        <link href="https://twitter.com/defipulse/status/1669452661106647042"/>
-        <updated>2023-06-15T21:11:45.000Z</updated>
-        <summary type="html"><![CDATA[BlackRock's iShares Files Paperwork for Spot Bitcoin ETF…]]></summary>
         <author>
             <name>DeFi Pulse</name>
         </author>
